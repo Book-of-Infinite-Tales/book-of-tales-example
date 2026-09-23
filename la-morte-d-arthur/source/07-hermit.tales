@@ -28,6 +28,11 @@ You lean down from your saddle. "What share?" you ask. Cadoc beams. "A third," h
 [d:L | tr:1 | rn:Villainy+2 | rn:Divinity-1]
 -- You travel with Brother Cadoc for a week. In the fifth village, you throw away your crutch with such enthusiasm that it hits the reeve on the head. The reeve is not in a forgiving mood. He has Brother Cadoc and you put in the stocks, and the villagers throw rotten turnips until sundown.
 [sk:Cunning | st:+Imprisoned | rn:Villainy+1]
+?? preach beside him with learned words | Wisdom | 4
+++ You stand beside Brother Cadoc on his bucket and speak to the crowd of Saint Petroc's life and miracles, with dates and places and a good deal of Latin. You know a great deal about Saint Petroc, it turns out. The crowd is deeply impressed. The pennies pour in. At the end of a fortnight, Cadoc divides the money fairly and weeps a little. "You could have been a bishop," he says.
+[d:L | tr:1 | rn:Villainy+2 | rn:Divinity-1]
+-- You stand beside Brother Cadoc and preach of Saint Petroc, and a real monk in the crowd asks you which Petroc, since there were three. You do not know. The crowd turns ugly. You and Cadoc leave town in a hurry.
+[sk:Wisdom | st:+Scorned | rn:Villainy+1]
 
 === 1602
 You come upon a river, wide and fast, with no bridge and no boat. On the near bank stands a hut of reeds, and a lean old man with a staff comes out of it, bent almost double. "You wish to cross?" he says. "I carry travellers on my back. It is my penance. I am Julian." He looks at the water with a kind of weary love. "But today my back is broken. I cannot carry you, and I cannot carry him." He points.
@@ -76,6 +81,11 @@ You kneel on the cold stones beneath the window. Mother Elen waits. You can hear
 [d:L | sk:Wilderness | rn:Divinity+1]
 -- You spend two days in the wood below the hill, cutting timber, and on the second day, the axe-head flies off the handle and cuts your foot. You limp back to the cell with half a load. Mother Elen thanks you kindly, but you know you have done her little good.
 [sk:Endure Hardship | st:+Wounded]
+?? find the wood and herbs that will see her through the winter | Nature Lore | 4
+++ You do not cut green wood. You find a fallen ash, dry and seasoned, and split it, and you gather feverfew and coltsfoot and elder from the hedges, the herbs for a winter cough. You tie them in bundles and hang them by her window. Mother Elen puts her hand out and touches them. "Nobody ever thinks of the herbs," she says. That winter she is the only soul in the parish who does not have a cough.
+[d:L | sk:Wilderness | rn:Divinity+1]
+-- You gather herbs from the hedges and hang them by her window. One of them, it turns out, is foxglove. Mother Elen, who knows her herbs better than you, thanks you very politely and throws it away when you are gone.
+[sk:Nature Lore]
 
 === 1604
 You come upon a hermit standing in the middle of a meadow in his nightshirt, holding a candle, looking very cross. There is a square of bare earth at his feet, as though a small building has recently been lifted off it.
@@ -94,6 +104,11 @@ From somewhere in the long grass, you hear a high giggle.
 [d:3 | sk:Spiritual | rn:Divinity+1]
 -- You persuade the hermit to leave out a bowl of milk and a honeycake, with a note. In the morning, the milk has been drunk, and the cake eaten, and there is a second note in the bowl in a tiny, spiky hand. It says *Not good enough*. The cell is on the roof of the village inn. So is your horse.
 [sk:Magic | st:+Accursed]
+?? leave the fair folk a gift from the wild woods | Nature Lore | 4
+++ You go into the wood and bring back the things the fair folk love: honey from a wild comb, a crown of meadowsweet, a hazel twig with nine nuts on it. You leave them on the square of bare earth with the hermit's apology. In the morning, the cell is back in its place, and on its doorstep there is a small bunch of primroses, though it is autumn. Brother Fychan sleeps well after that, and says the dancing is really quite beautiful.
+[d:3 | sk:Wilderness | rn:Divinity+1]
+-- You go into the wood and bring back honey and meadowsweet and a hazel twig. Unfortunately, the honey is from a hive the fair folk keep themselves. In the morning, the cell is on the roof of the village inn.
+[sk:Nature Lore | st:+Accursed]
 
 === e04b
 You grin. "There is an old trick," you say. "The fair folk cannot bear the smell of iron."
@@ -118,6 +133,11 @@ He sees you watching and blushes to the roots of his tonsure. "I am Brother Hugh
 [d:3 | sk:Courtly | rn:Romance+2]
 -- You pack the letters into a barrel labelled *Pickled Herring* and roll it into the nunnery cellar. When the bishop comes, he is hungry, and asks for herring. They open the wrong barrel. Brother Hugh is sent to a monastery in the north. The abbess, you hear, weeps for a month.
 [sk:Cunning | st:+Despairing]
+?? hide the letters among the abbey's beehives | Nature Lore | 4
+++ You pack thirty years of letters into three old skeps and set them among the abbess's beehives, where the bees soon move in on top. When the bishop comes, he searches both hut and nunnery from top to bottom, and nobody searches a beehive. He leaves with a sting on his nose. The next Wednesday, you see a wooden bowl floating downstream with a letter in it.
+[d:3 | sk:Wilderness | rn:Romance+2]
+-- You pack the letters into old skeps among the beehives. The bees object. The whole nunnery hears the screaming, including the bishop, who comes to see what is the matter and finds you surrounded by bees and love letters.
+[sk:Nature Lore | st:+Wounded]
 
 === e05b
 "Thirty years is long enough," you say. "Let me speak to the bishop." Brother Hugh goes white. "You would tell him?" "I would ask him," you say.
@@ -126,6 +146,11 @@ He sees you watching and blushes to the roots of his tonsure. "I am Brother Hugh
 [d:5 | sk:Courtly | rn:Divinity+1 | rn:Romance+2]
 -- The bishop is a brisk, hard-faced man who does not like knights. You meet him on the road and try to talk to him about mercy. He listens for a quarter of an hour and then says, "So it is true." On Saturday, Brother Hugh is sent north, and the abbess is sent south. You do not see the wooden bowl again.
 [sk:Diplomacy | st:+Scorned]
+?? remind the bishop that God is merciful to old lovers | Piety | 6
+++ You ride beside the bishop for two days and speak of vows made by children, against their will, and of what the Lord said about the Sabbath being made for man. On the second evening, the bishop sighs. "I was betrothed once," he says. On Saturday he releases Brother Hugh and the Abbess Gwenfrewi from their vows, and on Sunday he marries them himself, by the river.
+[d:5 | sk:Spiritual | rn:Divinity+1 | rn:Romance+2]
+-- You speak to the bishop of mercy and the Sabbath. He quotes Saint Paul back at you for an hour, and knows more of him than you do. On Saturday, Brother Hugh is sent north.
+[sk:Piety | st:+Scorned]
 
 === 1607
 You come upon a ragged monk standing on a hill in a strong wind, preaching at the top of his voice to a field full of crows. The crows are listening. Every one of them faces him.
@@ -231,6 +256,11 @@ When Father Emyr comes back with the bread, you are standing in the doorway with
 [d:3 | sk:Martial | rn:Any+1 | tr:1]
 -- He goes for a knife hidden in the bread. You are faster, but he is stronger, and in the struggle he gets a hand on the bell-rope and gives it one long pull. You hear the bell ring up on the hillside. You flee through the back of the chapel just as twenty men come down from the pass with torches. They keep your horse.
 [sk:Sword & Shield | st:+Unhorsed | st:+Pursued]
+?? trap him with questions about his own hermitage | Wisdom | 5
+++ When he comes back with the bread, you ask him, pleasantly, which saint his chapel is dedicated to, and when its feast day falls, and which psalms he sings at Terce. He does not know. He is still thinking of an answer when you take the bread-knife out of his loaf. By then he knows that you know. He sits down on his own doorstep and laughs. You take him to the reeve in the next town, who pays a bounty for Emyr the Knife.
+[d:3 | sk:Spiritual | rn:Any+1 | tr:1]
+-- You ask him which saint his chapel is dedicated to. "Saint Emyr," he says at once, without blinking, and tells you all about him. You are almost convinced. That night, the bell rings, and you only just get away.
+[sk:Wisdom | st:+Pursued]
 
 === e13b
 You say nothing, and eat his bread, and thank him. That night, when he thinks you are asleep, you hear him slip out of the chapel. You follow.
@@ -287,6 +317,11 @@ You get down from your horse and roll up your sleeves. Father Mabon looks at you
 [d:5 | sk:Wilderness | rn:Divinity+2 | st:+Blessed]
 -- You stay a week. You do everything Father Mabon tells you. But on the fifth day, you wake up shivering, and by the seventh, you are lying in the straw among the others. You live. Many do not. When you ride away, you are weak and thin, and you carry the sickness with you for a long time.
 [sk:Nature Lore | st:+Plague-Ridden]
+?? pray over the sick through the long nights | Piety | 5
+++ You kneel in the barn every night with Father Mabon, moving from pallet to pallet, praying over each of the sick by name. Some of them ask you to hold their hands. You do. On the tenth night, the fever breaks in the youngest child, and then in her mother, and then, one by one, in almost all of them. Father Mabon sits down in the straw and weeps. "I thought I was the only one still praying," he says.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You kneel in the barn every night and pray. On the fifth night, you feel the fever start in your own blood. You pray on, shivering, until you are lying among the others.
+[sk:Piety | st:+Plague-Ridden]
 
 === e20b
 "I will fetch a physician," you say. Father Mabon nods. "The nearest is the Abbey of Saint Asaph," he says. "Three days' ride. Two, if you do not sleep."

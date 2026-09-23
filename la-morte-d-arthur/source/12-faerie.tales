@@ -44,6 +44,11 @@ You get down from your horse and kneel on the other side of the stream. "Tell me
 [d:3 | sk:Spiritual | rn:Divinity+1 | st:+Determined]
 -- "Soon," she says, and goes on washing. You cannot make her say more. You ride away with the red water in your mind, and it does not leave you for many days.
 [sk:Piety | st:+Doomed]
+?? ask the washer the one question she must answer truly | Wisdom | 5
+++ You remember what the old stories say: the washer at the ford must answer one question truly, and only one. You do not ask when you will die. You ask whose armour she will wash next. She looks up, surprised, and tells you: a knight you know, who is riding to a joust tomorrow on a lame horse. You ride through the night to warn him. He does not joust. You never see the washer again.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+-- You ask her whose armour she will wash next. She holds up your own helm again. "The same," she says. "The same, and the same." You ride away with her answer in your ears.
+[sk:Wisdom | st:+Doomed]
 
 === y02b
 You wade into the stream and snatch your helm out of her hands. "My armour," you say, "is not yours to wash."
@@ -78,6 +83,11 @@ You go into the church and speak to the priest, a stern old man called Father Rh
 [d:3 | sk:Courtly | rn:Divinity+2]
 -- You remind him that the Lord preached on hillsides. Father Rhodri reminds you that the Lord also cast out devils, and closes the church door.
 [sk:Diplomacy]
+?? give her leave by the old rite of the threshold | Magic | 5
+++ You remember that the fair folk may cross any threshold where they are invited three times, with bread and salt. You fetch bread and salt from the priest's own kitchen, and stand in the doorway and invite Eirlys in, three times, by name. On the third, she steps over the threshold as lightly as a leaf. She sits in the last pew through the whole Mass. The priest glares, and then, at the end, gives her a piece of blessed bread.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+-- You stand in the doorway and invite her in three times with bread and salt. On the third, she steps forward, and screams, and falls back onto the path. The salt was the priest's holy salt. She goes back to the wood and does not come to listen again.
+[sk:Magic | st:+Despairing]
 
 === 2104
 You come upon a bower in a wood, hung with honeysuckle and roses, where a lady of unearthly beauty lies on a bed of moss, stroking the long grey ears of a man with the head of a donkey. She is crowned with starlight. He is wearing a weaver's apron and looks bewildered.
@@ -94,6 +104,11 @@ You wait until the Queen of the Fay has fallen asleep in her bower, with the wea
 [d:5 | sk:Spiritual | rn:Divinity+1 | rn:Any+1 | tr:1]
 -- You find a sprig of purple flower in her crown, and pluck it, and crush it, and try to rub the juice on her eyes. She wakes before you can. She looks at you, and her eyes are full of the juice's glamour, and she falls deeply in love with you. It is a very bad week. When the spell wears off, she does not forgive you.
 [sk:Magic | st:+Ensorcelled | st:+Accursed]
+?? find the flower that undoes the love-spell | Nature Lore | 5
+++ Every love-spell has its antidote, the old women say, and it grows near the flower that made it. You search the wood round the bower until you find it: a small white flower, growing beside the purple one. You crush it and rub it on the Queen's eyelids as she sleeps, and on the weaver's long ears. The Queen wakes, looks at the weaver and screams. His head is his own again. His wife hauls him out of the wood by the ear.
+[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You search the wood for the antidote and find a small white flower, and rub it on the Queen's eyelids. It is the wrong flower. She sneezes, wakes and has you thrown out of the wood by a great many very small guards.
+[sk:Nature Lore | st:+Accursed]
 
 === y04b
 You step into the bower and bow to the Fay Queen. "Your majesty," you say, "a fine creature. But does he sing?" Titania smiles dreamily. "Like a nightingale," she says. The weaver brays.
@@ -144,6 +159,11 @@ You kneel at the edge of the toadstools and wait for Huw to dance past. The musi
 [d:4 | sk:Wilderness | rn:Divinity+2]
 -- Huw whirls past, and you plunge your arm into the ring and seize his smock. He does not want to come. He fights you, laughing, and the pale dancers take his other arm, and pull, and the music roars, and you let go. When the music stops at dawn, you are sitting outside the ring with his sister, and your feet are bleeding, though you do not remember dancing.
 [sk:Endure Hardship | st:+Mad]
+?? break the ring with cold iron | Magic | 5
+++ You draw your dagger, which is iron, and drive it into the ground at the edge of the ring, where the toadstools meet. The music screams and stops. The pale dancers stumble and cry out and are gone, like mist, and in the middle of the empty ring, Huw falls to his knees. He is a year older and his feet are in ribbons, but he is himself. His sister falls on him weeping. "Was it only an hour?" he keeps asking.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You drive your dagger into the ring's edge, and the music stops, and the pale dancers turn and look at you. They take Huw with them when they go. Your dagger is lying in the grass, bent into a knot.
+[sk:Magic | st:+Accursed]
 
 === y07b
 You step over the toadstools. The music takes you like a wave, and you are dancing, and it is the most wonderful thing you have ever felt.
@@ -168,6 +188,11 @@ At dusk, you go to the stump of the hawthorn and call, courteously, on the King 
 [d:5 | sk:Courtly | rn:Divinity+2]
 -- You apologise on the farmer's behalf, and then you make the mistake of pointing out that the tree was on the farmer's land. Oberon's face goes cold. "The land," he says, "was ours before your kind came. And now so is your luck." He vanishes. The next morning, your horse is lame.
 [sk:Diplomacy | st:+Accursed]
+?? answer the Fay King's riddle of the thorn | Wisdom | 6
+++ Oberon looks at you. "Tell me," he says, "what a thorn is for." You think a long time. "To keep things out," you say, "and to keep things safe." Oberon smiles, very slightly. "Your farmer cut a door in my wall," he says. "Let him build me another." The farmer plants a hedge of hawthorn round the whole field. The children stop coughing. The cattle, being dead, stay dead.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- Oberon asks you what a thorn is for. "For firewood," you say, without thinking, and remember whom you are talking to. The next morning, your horse is lame.
+[sk:Wisdom | st:+Accursed]
 
 === y10b
 "We will plant a new thorn," you say. "Where the old one stood." The farmer looks at you doubtfully. "Will that be enough?"
@@ -214,6 +239,11 @@ You sit down on a barrel opposite him. "Let us bargain," you say. Dewi's eyes gl
 [d:4 | sk:Courtly | rn:Any+1 | tr:1]
 -- He offers you three wishes for your horse. You agree too quickly. He grants them, too literally. You wish for gold, and it rains gold coins on your head until you are bruised. You wish for it to stop, and it does, and all the gold vanishes with it. You wish you had never met him, and you wake up on the road outside the monastery with no idea why you are so sore.
 [sk:Cunning | st:+Wounded]
+?? outdrink the clurichaun | Endure Hardship | 6
+++ "A drinking match," you say. "If I am standing at dawn, you leave." Dewi hoots with delight. You drink from thimbles, which is not as easy as it sounds, because he keeps refilling them. At dawn, you are standing, just, holding onto a barrel. Dewi is asleep inside another one, snoring. You roll the barrel out of the cellar and down the hill into the river. The monks give you a bottle of the good wine.
+[d:4 | sk:Wilderness | rn:Any+2]
+-- You drink with him from thimbles all night. At midnight, you are under the table. At dawn, the monks find you asleep in their communion wine. Dewi is sitting on your chest, singing.
+[sk:Endure Hardship | st:+Scorned]
 
 === y13b
 "The wine belongs to the monks," you say. "And so does the cellar." Dewi laughs. "Try," he says.
@@ -222,6 +252,11 @@ You sit down on a barrel opposite him. "Let us bargain," you say. Dewi's eyes gl
 [d:3 | sk:Spiritual | rn:Divinity+1]
 -- You lay bread, salt and an iron horseshoe on the bottom stair. Dewi picks up the horseshoe and throws it at you. It hits you on the head. When you wake, he is still on his barrel, and he has drunk the monks' communion wine as well.
 [sk:Magic | st:+Wounded]
+?? trap him in an empty cask | Hunting | 4
+++ You leave a cask with its bung out in the middle of the cellar, with a thimble of the monks' best wine at the very bottom, and hide behind the stair. At midnight, Dewi comes sniffing, and climbs in after the wine. You slam the bung in and roll the cask up the stair and down to the river, where it floats away toward Ireland, singing. The monks are overjoyed.
+[d:3 | sk:Wilderness | rn:Any+1]
+-- You leave a cask with its bung out and a thimble of wine at the bottom, and hide. Dewi comes, and looks at the cask, and at the stair, and at you behind it. He drinks the wine from the outside, somehow, and laughs at you all night.
+[sk:Hunting]
 
 === 2115
 You come upon a woman sitting on the step of a cottage with a baby in her arms. The baby is thin and wizened and has a face like an old man. It is screaming. The woman is staring at it with dry, hollow eyes.
@@ -240,6 +275,11 @@ The baby stops screaming and looks at you. It winks.
 [d:5 | sk:Spiritual | rn:Divinity+2]
 -- At midnight, the fay fort on the hill stands open, and you walk in, and there is a feast, and you sit down at it. You mean only to taste one thing. When you walk out, it is a week later, and the changeling is still in the cradle.
 [sk:Magic | st:+Ensorcelled | st:+Lost]
+?? win the child back with a guest's perfect courtesy | Honor | 6
+++ At midnight you walk into the fay fort as a guest, and eat nothing, and drink nothing, and praise the queen's feast and her music and her baby, without once asking for him. The fay queen is enchanted. At dawn, she says, "What gift would you like?" You ask for the baby. She sighs. "That was clever," she says, and lets you carry him out. When you get home, the changeling is gone and the mother is weeping over her own son.
+[d:5 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+-- You walk into the fort and praise everything and eat nothing. At dawn, the fay queen asks what gift you would like, and you ask for the baby too eagerly. She laughs. "No," she says, "not that." You walk home empty-handed.
+[sk:Honor | st:+Despairing]
 
 === y15b
 You sit down beside the woman. "Bring me a dozen eggs," you say, "and a pot of water, and put it on the fire where the child can see." She looks at you strangely, but she does it.
@@ -266,6 +306,11 @@ You look at the miller. "Open the cage," you say. The miller laughs and takes up
 [d:4 | sk:Martial | rn:Divinity+1 | rn:Romance+1 | st:+Blessed]
 -- You knock the miller into his millpond and take your sword to the lock. It will not break. You hack at it until your sword is notched and your arms ache, and at sunset, the fay girl fades away entirely, leaving nothing in the cage but a smell of apple blossom. The miller climbs out of the pond, cursing you for his lost fortune.
 [sk:Sword & Shield | st:+Despairing | st:+Accursed]
+?? open the lock with a charm while she still breathes | Magic | 4
+++ You do not fight the miller. You lay your hand on the iron lock and speak the words for opening, and the lock clicks, and the door swings wide while the miller is still shouting. You lift her out. She is as light as a breath. At the edge of the wood, she steps out of your arms and grows solid again. "The hill will remember," she says, and kisses your forehead. The miller's flour, you hear, never rises again.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1 | st:+Blessed]
+-- You lay your hand on the lock and speak the words for opening. Iron does not listen to charms. At sunset, the fay girl fades away in the cage, leaving a smell of apple blossom.
+[sk:Magic | st:+Despairing]
 
 === y20b
 "The fair folk will pay more than any lord," you say. "Let me carry your terms to the hill." The miller grins. "A sensible knight," he says. "A third for you."

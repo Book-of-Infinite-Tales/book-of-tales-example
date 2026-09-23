@@ -23,6 +23,11 @@ You bow to the king and go out into the courtyard. There must be a marvel somewh
 [d:L | sk:Wilderness | rn:Romance+1 | rn:Any+1]
 -- You ride out into the forest and search all afternoon, and find nothing but a very cross badger. When you get back, a damsel has already brought a marvel, and the swans are eaten.
 [sk:Hunting | st:+Scorned]
+?? conjure a small marvel from the old craft | Magic | 5
+++ You go out into the courtyard and gather what you need: a bowl of water from the well, a feather, the king's own candle. You come back into the hall and set the bowl before the young king and speak over it, and the water clouds, and clears, and shows the king his own hall as it will be in ten years, with every seat at the table full. The court gasps. Merlin, at the king's elbow, raises an eyebrow. The king eats. So does Sir Kay.
+[d:4 | sk:Spiritual | rn:Romance+1 | rn:Any+1]
+-- You set a bowl of water before the young king and speak over it. It shows the king a very clear picture of Sir Kay eating the swan in the kitchen. The court laughs. It is not quite a marvel.
+[sk:Magic | st:+Scorned]
 
 === 2312
 You are a guest at a feast given by Queen Guinevere in London in the Grail year, to show that the court still stands while so many knights are away on the quest. It is a fine feast. At its height, a young knight, Sir Patrise of Ireland, takes an apple from the queen's own dish, bites it, and falls down dead.
@@ -39,6 +44,11 @@ You rise from your place. "I will fight for the queen," you say. The hall goes s
 [d:5 | sk:Martial | rn:Romance+2 | st:+Esteemed | tr:1]
 -- Sir Mador is a great knight, and he unhorses you on the third course. The queen is condemned. She is saved at the last moment by another champion, who rides in unannounced in plain armour. You watch from the side of the lists, bruised and ashamed.
 [sk:Mounted | st:+Unhorsed | st:+Scorned]
+?? fight Sir Mador on foot when the lances break | Sword & Shield | 6
+++ Your lances shatter on the first course, and his horse is lamed, and you both come down into the sand. You fight on foot for an hour before the whole court. He is fighting for his dead cousin, and you are fighting for the queen, and at the end, you beat down his sword, and he yields, and swears the queen is innocent. She sends for you afterwards, and gives you her own ring, and says very quietly, "I will not forget who stood up."
+[d:5 | sk:Martial | rn:Romance+2 | st:+Esteemed | tr:1]
+-- Your lances shatter and you fight on foot, and Sir Mador is the better swordsman. The queen is condemned, and saved at the last moment by a champion in plain armour.
+[sk:Sword & Shield | st:+Wounded | st:+Scorned]
 
 === m212b
 You slip away from the uproar and go to the kitchens, where the apples came from.
@@ -47,6 +57,11 @@ You slip away from the uproar and go to the kitchens, where the apples came from
 [d:5 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
 -- You go to the kitchens, but the cook is terrified and will not talk. By the time you find anything, Sir Pinel has fled. The queen goes to trial with no champion and no proof.
 [sk:Wisdom | st:+Despairing]
+?? find the poison's name in the apple itself | Nature Lore | 5
+++ You take the bitten apple from the table before anyone thinks to throw it away, and cut it open. There is a grey powder packed into a hole bored by the stalk. You smell it: wolfsbane, ground fine. Only one knight at the feast keeps wolfsbane, for the wolves on his lands in the north: Sir Pinel le Savage. You find him packing his saddlebags in a hurry. The queen is cleared. Sir Mador asks her pardon on his knees.
+[d:5 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+-- You cut the apple open and find a grey powder, and do not know what it is. By the time a physician tells you, the knight who keeps wolfsbane has fled.
+[sk:Nature Lore | st:+Despairing]
 
 === 2412
 You ride into London and find Mordred holding a great feast in the old king's hall, to celebrate his crowning. The guests are Mordred's lords, and three Saxon kings in gold torcs, and a great many wolfhounds. At the head of the table, Mordred sits in his father's chair, smiling, pouring wine for the Saxon kings with his own hand. There is an empty chair beside him. "For the queen," he says, "when she comes out of her tower."
@@ -63,6 +78,11 @@ You keep your head down and pour wine and listen.
 [d:5 | sk:Courtly | rn:Romance+1 | rn:Any+1]
 -- You pour wine for the Saxon kings, and one of them, a sharp-eyed old man, looks at your hands. "Those are not a servant's hands," he says. You flee, and are chased through the streets of London all night.
 [sk:Cunning | st:+Pursued]
+?? loosen the Saxon kings' tongues with talk and wine | Diplomacy | 5
+++ You pour for the oldest Saxon king and stay by him, as a good servant does, and ask him in your broken Saxon about his sons, and his ships, and his opinion of British wine. He is lonely at this feast, and he talks. By midnight, you know how many men each king has brought, where they will land, and what Mordred has promised them. You slip out and ride for the coast.
+[d:5 | sk:Courtly | rn:Romance+1 | rn:Any+1]
+-- You talk to the oldest Saxon king in your broken Saxon, and he answers you in perfect British. "Where did you learn our tongue," he asks, "serving wine?"
+[sk:Diplomacy | st:+Pursued]
 
 === m312b
 You look at Mordred in his father's chair, and at the empty chair beside him, and you cannot bear it.
@@ -87,6 +107,11 @@ You walk through the arch. The music rises round you. A lady with silver hair ta
 [d:4 | sk:Spiritual | rn:Romance+1 | tr:1]
 -- You eat and drink and dance, and when you come back through the arch, the leaves have turned. It has been three months. Your horse is gone.
 [sk:Magic | st:+Lost | st:+Unhorsed]
+?? trade jests with the fair folk and win your leave | Diplomacy | 5
+++ You laugh at their jokes, which are very old and very strange, and then you tell one of your own, about a bishop and a goat. The fair folk have never heard it. The silver-haired lady laughs until she weeps. At dawn, she leads you back to the arch. "You made us laugh," she says, "so you may leave." It is the same morning you went in. In your pocket is a silver apple that never rots.
+[d:4 | sk:Courtly | rn:Romance+1 | tr:1]
+-- You tell them the joke about the bishop and the goat. They have heard it. They told it to the bishop. You come back through the arch three months later.
+[sk:Diplomacy | st:+Lost]
 
 === m124b
 You walk through the arch. A lady with silver hair offers you a golden cup. You bow and decline.
@@ -119,6 +144,11 @@ You do not sit. You take off your sword and roll up your sleeves, and carry the 
 [d:L | sk:Wilderness | rn:Divinity+2]
 -- You serve all day, and by evening, you are so tired you drop a basket of fish in the mud. The hermit only laughs and picks them up. But you go away feeling you have been clumsy with something holy.
 [sk:Endure Hardship]
+?? keep the long line of the hungry in good order | Diplomacy | 4
+++ The line of the hungry is pushing and shoving and near a riot, because every one of them is sure the bread will run out. You walk up and down it and talk to each of them, calmly, and put the children and the lepers at the front, and the strong men at the back, and tell them there is enough. There is. By sunset, the last of them is fed. The hermit gives you a piece of bread, and it is the best bread you have ever tasted.
+[d:3 | sk:Courtly | rn:Divinity+2]
+-- You try to put the line in order, and the strong men at the back do not want to be at the back. There is a fight. The hermit breaks it up, not you.
+[sk:Diplomacy]
 
 === 2424
 As you ride through a forest in dim sunlight, you come to a stone arch standing alone in a clearing. Through it, you see a feast, but it is a sad one. The fair folk are sitting at their golden tables in silence, with their heads bowed. The music is a lament.
@@ -135,6 +165,11 @@ You walk through the arch and sit down at the golden table. A fay lady pours you
 [d:4 | sk:Courtly | rn:Romance+1 | rn:Divinity+1 | st:+Blessed]
 -- You drink with them, but you cannot find the words to thank them. They leave at dawn, without a word to you. The arch is gone.
 [sk:Honor]
+?? sing the fair folk's lament with them | Magic | 4
+++ You do not only drink. When the lament begins again, you sing it with them, in their own tongue, which you did not know you knew until you open your mouth. They turn and look at you. At the end, the fay lady at the head of the table rises and kisses your forehead. "Now a mortal knows our song," she says. "It will not be lost." When you walk back through the arch, it is dawn, and there is dew on the grass in the shape of a hand.
+[d:4 | sk:Spiritual | rn:Romance+1 | rn:Divinity+1 | st:+Blessed]
+-- You try to sing their lament with them, and your mortal voice cracks on the high notes. They stop, and look at you, politely. They do not sing again while you are there.
+[sk:Magic]
 
 === m324b
 You stand in the arch. "Stay," you say. "The old king needs every friend he has."
@@ -169,6 +204,11 @@ You sit down with the shepherds and take a leg of mutton. The High King winks at
 [d:5 | sk:Martial | rn:Romance+2]
 -- You and the young king go down the mountain, and find the Orkney men, and fight. The young king is wounded, only a little, but he is wounded, and the feast is over.
 [sk:Sword & Shield | st:+Wounded]
+?? lead the assassins astray on the dark mountain | Nature Lore | 4
+++ You do not fight them. You go down alone and let them see you in the moonlight, and then you lead them off across the mountainside, over scree and through bog, farther and farther from the fire, until they are lost among the rocks. By the time they find their way down, it is dawn, and the young king is walking home with the shepherds, singing. He never knows. You tell him the next year.
+[d:4 | sk:Wilderness | rn:Romance+1 | rn:Any+1]
+-- You lead the assassins off across the mountainside, and you lose your own way too. At dawn, you are all in the same bog, looking at one another.
+[sk:Nature Lore | st:+Lost]
 
 === 2336
 You climb to a monastery on the top of a mountain on Easter morning in the Grail year, and find the monks sitting down to their first meal after the Lenten fast. It is a very plain feast: bread, eggs, a little cheese. But they are laughing and singing, and they make room for you at once.
@@ -217,6 +257,11 @@ You sit down among the veterans and raise your cup. They cheer.
 [d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
 -- You lead them down the back of the mountain, but the path is steep and dark, and two of the old men fall. The rest reach the bottom, but Sir Brian will not speak to you.
 [sk:Nature Lore | st:+Despairing]
+?? persuade the old captain that his garrison is worth more alive | Diplomacy | 5
+++ You sit down by Sir Brian and talk, not of shame, but of the old king. He will need forty veterans at the last battle more than he needs one mountain fort. Sir Brian listens with his one eye on the fire. "Forty," he says at last, "is a good number to bring to a king." In the small hours, you lead them down the back of the mountain. At dawn, the Saxons find the fort empty and the barrel dry.
+[d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+-- You talk to Sir Brian about the old king. He listens, and then pours you another cup. "The old king," he says, "would stay." In the morning, you stand with them on the wall.
+[sk:Diplomacy | st:+Wounded]
 
 === 2248
 You come upon a great fair on a wide plain on Midsummer Day, with a feast laid out on trestles under the sky, and jugglers and wrestlers and a maypole, and a hundred villages gathered. In the middle of it, on a platform, is a greasy pole with a ham on top, and a ring of young men trying and failing to climb it.
@@ -233,6 +278,11 @@ You take off your armour and your boots and spit on your hands.
 [d:3 | sk:Wilderness | rn:Romance+1 | rn:Any+1]
 -- You climb, and slide, and climb, and slide, and on the fifth try, you slide all the way down onto the drunk lord in the green hat. The crowd loves it. You do not get the ham.
 [sk:Endure Hardship | st:+Scorned]
+?? climb the pole with a sailor's knack of rope and knee | Hunting | 4
+++ You watch the young men slide, and see what they do wrong. You borrow a rope, loop it round the pole and round your back, and walk up the pole like a man climbing a mast, one knee-hitch at a time. The crowd roars. At the top, you take the ham, and slide down with it. The Midsummer Queen kisses you on the cheek. You share the ham with the whole fair.
+[d:3 | sk:Wilderness | rn:Romance+1 | rn:Any+1]
+-- You loop a rope round the pole and walk up it like a mast, and the rope, which is also greased, slides down with you. The crowd loves it.
+[sk:Hunting | st:+Scorned]
 
 === m148b
 "Who is your best wrestler?" you ask. The crowd parts, and a young woman built like an ox steps forward. "Megan the Miller," says the lord, delighted.
@@ -241,6 +291,11 @@ You take off your armour and your boots and spit on your hands.
 [d:3 | sk:Martial | rn:Romance+1 | rn:Any+1]
 -- Megan the Miller throws you six times in a row. The crowd is weeping with laughter. Megan helps you up, very kindly, and gives you a sack of flour anyway. "For the bruises," she says.
 [sk:Sword & Shield | st:+Wounded]
+?? charm the champion into a friendly draw | Honor | 4
+++ You bow to Megan the Miller as if she were a duchess, and tell her you have heard of her from three counties away, and would count it an honour to be thrown by her. She laughs so hard she has to sit down on the grass. You wrestle anyway, and she throws you once, gently, and you throw her once, and then she calls it a draw before the whole fair and kisses you on the mouth. She gives you a sack of flour.
+[d:3 | sk:Courtly | rn:Romance+1]
+-- You bow to Megan the Miller as if she were a duchess. She suspects mockery. She throws you six times in a row.
+[sk:Honor | st:+Wounded]
 
 === 2348
 You come upon a village on a wide plain in the wasted land, where there has been no harvest since the Grail left Camelot. The fields are dust. But the villagers are setting out a harvest feast anyway, on bare tables, with empty bowls and empty cups, and they are singing the old harvest songs.
@@ -281,6 +336,11 @@ You take a cup and sit down among them. They wait.
 [d:3 | sk:Courtly | rn:Romance+1 | rn:Divinity+1]
 -- You try to tell them about someone you lost, but you cannot get the words out. You sit there with your cup. The sergeant pats you on the shoulder. "Next time," he says.
 [sk:Honor]
+?? sing the soldiers' own song for the dead | Magic | 4
+++ You do not tell a story. You ask the old sergeant what song they sang in his village for the dead, and he tells you, and you sing it, and the whole wake joins in, low and rough, and the young soldier by the grave turns round to listen. It is an old song, older than the Church, and there is something in it that the fires answer. When it ends, the young soldier comes and sits down beside you and begins to talk about his brother.
+[d:3 | sk:Spiritual | rn:Romance+1 | rn:Divinity+1]
+-- You ask for their village song for the dead and sing it, and sing it wrong, and the old sergeant, very gently, takes over.
+[sk:Magic]
 
 === m348b
 You go and sit down by the young soldier, and say nothing.
@@ -355,6 +415,11 @@ You raise your cup. "To King Mordred," you say. The marsh-lord beams.
 [d:5 | sk:Courtly | rn:Romance+1 | rn:Villainy+1]
 -- You drink all night, and by midnight, you are too drunk to remember anything. You wake up in the marsh-lord's stable, with a headache and a very bad feeling.
 [sk:Cunning | st:+Scorned]
+?? steal the marsh-lords' letters while they drink | Hunting | 5
+++ You drink the toast, and then you drink very little. When the marsh-lord and his guests are singing, you slip up to his solar and find the letters from Mordred in a chest under the bed, with the list of every lord's men and where each will stand. You copy it by one candle and put it back. By dawn, you are riding for the old king's camp.
+[d:5 | sk:Wilderness | rn:Romance+1 | rn:Villainy+1]
+-- You slip up to the marsh-lord's solar and find the chest under the bed. So does his hound, which is sleeping on it.
+[sk:Hunting | st:+Wounded]
 
 === m360b
 You set down your cup. "I do not drink to traitors," you say. The hall goes silent.
@@ -363,6 +428,11 @@ You set down your cup. "I do not drink to traitors," you say. The hall goes sile
 [d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1 | st:+Pursued]
 -- You speak to them of oaths. The marsh-lord laughs and has you thrown in his cellar. You escape three days later, through a drain.
 [sk:Honor | st:+Imprisoned]
+?? challenge the marsh-lord to defend his toast with steel | Sword & Shield | 5
+++ You set down your cup. "I do not drink to traitors," you say, "and I will prove it on any man here who says Mordred is king." The marsh-lord, who is fat, looks round for a champion. His guests look at their cups. Nobody stands. At last, two of the youngest lords get up and leave the hall, and take their men to the old king. The marsh-lord has you thrown out. But two is two.
+[d:4 | sk:Martial | rn:Romance+1 | rn:Divinity+1 | st:+Pursued]
+-- You challenge any man there to fight you. The marsh-lord's nephew accepts, and he is very large and very sober. You are thrown out of the hall.
+[sk:Sword & Shield | st:+Wounded]
 
 === 2272
 You are sailing across the Irish Sea when you come upon a great ship decked with flowers and banners, and hear music and laughter across the water. It is a wedding feast. The King of Ireland's daughter, the sailors tell you, is called Ethne, and she is sailing to marry the King of Man.
@@ -387,6 +457,11 @@ You go aboard the wedding ship. The feast is splendid. The princess is young and
 [d:4 | sk:Martial | rn:Romance+2 | st:+Pursued]
 -- At midnight, the princess climbs down a rope into your boat, but the rope breaks, and she falls into the sea, and the whole wedding party wakes up. You are arrested for piracy. It takes a week to explain.
 [sk:Warfare | st:+Imprisoned]
+?? sail her away by night through the reefs | Nature Lore | 4
+++ You take her down the rope into your own small boat at midnight and do not run for open water, where the wedding ship could chase you. You slip in among the reefs off the Irish coast, reading the white water by moonlight, where the big ship cannot follow. At dawn, you land her at Dublin, where she has an aunt who does not like the King of Man either. She kisses you on both cheeks.
+[d:4 | sk:Wilderness | rn:Romance+2]
+-- You take her in among the reefs by moonlight, and the moon goes behind a cloud. You spend the rest of the night on a rock, with the princess, waiting for the tide. She is not pleased.
+[sk:Nature Lore | st:+Pursued]
 
 === 2372
 You are sailing west in the Grail year when you come to an island that is one great garden, where the fruit on the trees is gold and the grass is soft as silk. On the shore, a feast is laid on a white cloth: fruits, honey, bread, wine. Nobody is there.
@@ -403,6 +478,11 @@ You seize the nearest sailor and haul him toward the boat. He struggles, laughin
 [d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
 -- You drag the first two sailors back to the boat, and then you sit down to rest for a moment on the soft grass. You wake a month later, when another ship finds you.
 [sk:Endure Hardship | st:+Lost]
+?? break the island's spell over your crew | Magic | 5
+++ You bite your own hand until it bleeds, to keep your head, and walk among your sleeping sailors speaking the old words that break a glamour of the senses, and dash sea-water in each face. One by one, they wake, and look at the golden fruit in their hands with horror, and drop it. By dusk, every man is back aboard. When the island is out of sight, they weep and thank you.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- You walk among your sleeping sailors speaking the old words, and the fruit smells so very good. You sit down to rest for a moment on the soft grass. You wake a month later.
+[sk:Magic | st:+Lost]
 
 === m272b
 "How do they wake?" you ask. The old man smiles. "When someone reminds them," he says, "what they were looking for."
@@ -437,3 +517,9 @@ You go aboard and take a cup of mead, and stand before the bier.
 [d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1 | tr:1]
 -- You speak to the brothers. The eldest takes offence. "It is our father's," he says, "not the old king's." You are asked to leave the ship.
 [sk:Diplomacy]
+?? win the sword in fair combat with the eldest son | Sword & Shield | 5
+++ The eldest son says the sword goes to the sea, unless a better warrior than he claims it. You accept. You fight him on the deck of his father's funeral ship, before the bier, with the Orkneymen striking their shields. It is a long, fair fight. At the end, he lowers his blade, and lifts the sword from his father's chest himself, and puts it in your hands. The old king holds it a long time, and weeps.
+[d:5 | sk:Martial | rn:Romance+2 | tr:1]
+-- You fight the eldest son on the deck before the bier, and he is better. The sword goes to the sea.
+[sk:Sword & Shield | st:+Wounded]
+

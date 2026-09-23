@@ -13,6 +13,11 @@ You come upon a small man in motley walking fast along the road with a bundle on
 [d:3 | sk:Courtly | rn:Romance+1]
 -- The players at Sarum are rough men, and they do not like a court fool. They laugh at Dagonet's riddles, and not kindly, and then they throw him in the river. You fish him out. He sits on the bank, dripping, jingling faintly. "*Home again,*" he says, "*home again.*"
 [sk:Diplomacy | st:+Despairing]
+?? trick-ride in the players' show beside him | Mounted | 4
+++ You offer the players a knight's turn as well as a fool's. In the market square at Sarum, you ride your horse round the square standing on the saddle while Dagonet juggles on your shoulders. It is a disaster, very nearly, several times, and the crowd adores it. The players take Dagonet on at once and try to take you too. A month later, the High King rides to Sarum himself to see the famous fool, and brings him home.
+[d:3 | sk:Martial | rn:Romance+1]
+-- You offer the players a knight's turn. In the market square, you stand on your saddle with Dagonet on your shoulders, and the horse sneezes. Dagonet lands in a fish-cart. The players do not take him on, and they do not take you either.
+[sk:Mounted | st:+Scorned]
 
 === f01b
 "Come back with me," you say. "I will speak to Sir Kay." Dagonet looks at you as though you have offered to speak to a thunderstorm. "*He will not care what you say,*" he murmurs. "*He'll kick you too, then, and I'll stay.*"
@@ -42,6 +47,11 @@ You come upon a small churchyard in a hill town, where a fool in faded motley si
 [d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1 | tr:1]
 -- You go to the new king's hall together, and Llew tells his best joke. The new king does not laugh. He fines Llew a shilling for the attempt, and you a shilling for bringing him, and has you both put out of the hall. Llew goes back to the tomb.
 [sk:Wisdom]
+?? hold a requiem where laughter is allowed | Piety | 5
+++ You go to the priest and ask for a Mass for the old king's soul, and ask that, at the end, his fool be allowed to tell one jest at the tomb, as the old king would have wished. The priest is doubtful, and then he laughs. The whole court comes. At the end, Llew tells the jest about the hedgehog. There is a terrible silence. Then the new king laughs, and weeps, and laughs. The fine is abolished that afternoon.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+-- You ask for a Mass with a jest at the end. The priest refuses, very firmly. The new king hears of the request and fines you a shilling for impiety.
+[sk:Piety]
 
 === f02b
 Llew smiles. "He was fat," he says. "Very fat. He could not ride a horse, so he had himself carried in a litter, and he used to lean out and talk to everyone in the road. Farmers, beggars, pigs. He knew the names of all the pigs in his kingdom." He laughs. "When the Saxons came, he had himself carried to the front of the army in his litter, and he leaned out and told them a joke. It was a very rude joke about a Saxon and a hedgehog. The Saxons laughed so hard they could not fight, and the next morning they went home." He wipes his eyes. "I wrote that joke. It is the only thing I ever did that mattered. He gave me a gold cup for it." He looks at the tomb. "I sold the cup when the plague came, to buy bread for the town. He would have laughed at that too." He tells you the joke about the hedgehog. It is very rude. You laugh all the way to the next town.
@@ -64,6 +74,11 @@ You step between Ninian and the lord's men. "He is a simple man," you say. "Let 
 [d:L | sk:Martial | rn:Divinity+1 | rn:Any+1]
 -- The two men-at-arms come at you, and they are better than you expected, and the crowd does not help. When you get up, Ninian has been whipped, and the lord is gone. The fool is sitting in the grass, bleeding, humming. "The knight will see the ledger," he says to you, "later."
 [sk:Sword & Shield | st:+Wounded]
+?? vouch for the fool on your own honour | Honor | 4
+++ You put your hand on your sword-hilt. "I will stand surety for him," you say to the lord. "If his words are slander, I will answer for them myself, in the lists, against any man you name." The lord looks at you, and at your sword, and at the fair watching. He does not want a joust. He wants his steward to be honest. "A week," he says. By the end of the week, he has found the second ledger himself.
+[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+-- You offer to answer for the fool's words in the lists. The lord names his steward's nephew, who is very large. It goes badly. The fool is whipped anyway.
+[sk:Honor | st:+Wounded]
 
 === f03b
 "My lord," you say, "if the fool is lying, you will lose nothing by letting me look at your steward's accounts. If he is telling the truth, you will want to know." The lord hesitates. "Very well," he says at last. "And if you find nothing, the fool is whipped twice."
@@ -72,6 +87,11 @@ You step between Ninian and the lord's men. "He is a simple man," you say. "Let 
 [d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
 -- You spend a day at the manor going through the steward's accounts, which are perfect. You find nothing. Ninian is whipped twice. As they do it, he looks up at you and smiles. "The knight did not look under the hearth," he says. By the time you have gone back, the hearthstone has been mortared down.
 [sk:Wisdom | st:+Despairing]
+?? follow the steward by night | Hunting | 5
+++ You wait outside the steward's house and follow him when he slips out after midnight. He goes to a moneylender's back door with a heavy bag, and comes out with a light one, and then goes to a loose stone in the church wall and puts something behind it. In the morning, you take the lord to the stone. Behind it is the second ledger. The steward flees to Ireland. The lord kneels before Ninian, who pats him on the head.
+[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You follow the steward by night, and he goes straight home to bed. So does everyone else. In the morning, Ninian is whipped twice.
+[sk:Hunting | st:+Despairing]
 
 === 1804
 You come upon a jester lying in a ditch, laughing. He has been laughing, you gather, for some time. His face is purple, his ribs are heaving, tears are streaming down his cheeks, and between gasps he is trying to say something.
@@ -101,6 +121,11 @@ You kneel beside Pedr in the ditch. His eyes are desperate, but his mouth will n
 [d:3 | sk:Courtly | rn:Divinity+1]
 -- The witch at the well is a bent old woman with a face like a crab-apple. You bow very low and begin to plead for Pedr. Halfway through, you notice she has a wart on her nose shaped exactly like a pear, and something in your face gives you away. She points at you. "You too," she says. You laugh all the way back down the valley, and for three days after.
 [sk:Diplomacy | st:+Accursed]
+?? bring the witch a gift of rare herbs | Nature Lore | 4
+++ You do not go empty-handed. You spend the morning in the woods and bring old Nest's sister a basket of the things a witch cannot easily find: wood-sorrel, and moonwort, and a mandrake root that you dig with your dagger at noon so it cannot scream. The witch at the well looks in the basket and cackles with pleasure. She draws a sign in the air. Down the valley, the laughing stops.
+[d:3 | sk:Wilderness | rn:Divinity+1]
+-- You bring the witch a basket of herbs. She looks in it and snorts. "Common hemlock," she says, "and dock, and nettles. Do you think I am a cow?" She points her finger at you. You laugh all the way down the valley.
+[sk:Nature Lore | st:+Accursed]
 
 === 1805
 You come upon a small, red-haired fool in green motley sitting on a fence outside a tournament field, polishing a very old and very dented helmet. "Pwca," he says, with a bow that nearly topples him off the fence. "Fool to the Earl of Hereford. I have entered the tournament."
@@ -148,6 +173,11 @@ The steward runs up to you, sweating. "Thank God," he says. "Three days ago, the
 [d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
 -- You find the pedlar at the next fair, but he will not tell you what was in the flask, and he sells you another one instead, which he swears is the cure. It is not. When the king and the fool drink it, they both think they are the Bishop of Hereford, and the steward will not speak to you again.
 [sk:Wisdom | st:+Scorned]
+?? turn the flask's enchantment back on itself | Magic | 5
+++ You ask for the flask and sniff it: sweet, and green, and wrong. You pour water into it and speak over it the words for undoing, and make the king and the fool each take a sip from it, back to back, at midnight. They wake in their right minds and in each other's clothes. The king is appalled. The fool is sorry. But the king does not raise the taxes again. "I have had a lesson," he says, "in being a fool."
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- You speak the words for undoing over the flask and make them each take a sip. In the morning, the king thinks he is a goose. The fool still thinks he is king. The steward will not speak to you.
+[sk:Magic | st:+Scorned]
 
 === f07b
 You watch the fool in the crown, pardoning a poacher and paying a widow's debts from the treasury. You watch the king at the well, telling a joke about a dog that is not funny. "The people love him," you say. "Let us leave well alone."
@@ -156,6 +186,11 @@ You watch the fool in the crown, pardoning a poacher and paying a widow's debts 
 [d:4 | sk:Courtly | rn:Villainy+1 | rn:Divinity+1 | tr:1]
 -- You and the steward spread it about that the king has become a new man. Unfortunately, the king's brother does not believe it, and marches on the castle with a hundred men. The fool, being a fool, surrenders at once. The king, being a fool, does too. You flee over the wall.
 [sk:Cunning | st:+Pursued]
+?? secure the castle for the new king | Warfare | 5
+++ You go to the captain of the guard, who has liked the new king better from the first day, and together you change the watchwords, move the old king's loyal men to the far towers, and set a guard on the gate against the king's brother. When the brother comes with a hundred men, he finds the gate shut and the walls manned. He goes home. The fool reigns for twelve years and is remembered as the best king that castle ever had.
+[d:4 | sk:Martial | rn:Villainy+1 | rn:Divinity+1 | tr:1]
+-- You change the watchwords and set a guard on the gate. The king's brother comes with a hundred men, and the captain of the guard, after a night's thought, opens the gate for him. You flee over the wall.
+[sk:Warfare | st:+Pursued]
 
 === 1810
 You come upon a fool in black and white motley in the kitchens of Camelot, stirring something in a bucket with a gleeful look. The kitchen is empty. It is an hour before the Whitsun feast.
@@ -206,6 +241,11 @@ You ask for an audience with the king. The king receives you, still red-faced. "
 [d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
 -- "No, my lord," you say. "I have come to tell you that the Earl will swallow his pride first, if you let him." The king considers this. "Or I could march on him," he says, "and he could swallow his teeth." He does march. You ride away before the first battle, with Robin's whistle playing a lament behind you.
 [sk:Wisdom]
+?? show the king that his army is too small | Warfare | 5
+++ You ask to see the king's army. It is sixty men and a cart. You walk him round it, courteously, and then ask how many men the Earl of Buellt has. Three hundred, it turns out. The king goes quiet. "Perhaps," he says, "the goose has been punished enough." He sends the Earl a letter of stiff reproach and a gift of a goose. The Earl, who was counting his own army and found it smaller than he thought, sends back barley.
+[d:3 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+-- You walk the king round his sixty men and ask how many the Earl has. "Fewer," says the king confidently. He is wrong. The army marches the next day, and you ride away before the first battle.
+[sk:Warfare]
 
 === 1813
 You come upon a fool dressed in motley sitting in a hayloft above a market square, with a stolen seal and a pot of wax, writing on parchment with great concentration. Every so often, he drops a sealed parchment out of the hayloft door, and a small boy runs off with it.
@@ -222,6 +262,11 @@ He sees you and grins. "Hush. I am Gwilym. I stole the Lord of Kidwelly's seal. 
 [d:3 | sk:Wilderness | rn:Any+1]
 -- Gwilym bolts out of the hayloft door and across the rooftops. You chase him, but the roof of the bakery is weaker than it looks, and you go straight through it into a tray of loaves. When you climb out, Gwilym is gone. The baker is very angry.
 [sk:Hunting | st:+Scorned]
+?? appeal to Gwilym's pride in his craft | Honor | 4
+++ You sit down beside him in the hayloft. "The pig decree," you say, "was the best jest I have heard in a year. But a fool who hides behind a lord's seal is not a fool. He is a forger. A fool says it to the lord's face." Gwilym looks at you for a long time. Then he climbs down, walks into the hall and hands the seal to his lord in front of everyone, and tells him about the pigs. The lord laughs so hard he forgets to be angry.
+[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+-- You tell Gwilym a fool should say it to the lord's face. "Then I will," he says, and does, and adds a great deal about the lord's nose. The lord is not amused. Gwilym goes in the stocks, and you are thrown out of the town for encouraging him.
+[sk:Honor | st:+Scorned]
 
 === f13b
 You climb up into the hayloft and sit down beside him. "What does this town need?" you ask. Gwilym stops giggling. He thinks for a long time. "The bridge," he says. "The lord has been promising to mend it for five years. A child fell through it last winter."
@@ -246,6 +291,11 @@ You spur after the knight in black. "Sir Brun!" you call. "That motley belongs t
 [d:3 | sk:Martial | rn:Romance+1 | rn:Any+1]
 -- You meet him in the road with lances, and on the first pass, he puts you into a hedge. He rides on laughing, with two trophies now: a fool's cap and a knight's pride. Hwfa helps you out of the hedge. "*We are both fools now,*" he says gloomily.
 [sk:Mounted | st:+Unhorsed]
+?? shame Sir Brun into giving back a fool's coat | Honor | 4
+++ You ride alongside him. "A knight," you say, "who hangs a fool's coat in his hall and says he won it in single combat. The heralds will enjoy that." Brun opens his mouth to answer, and then imagines the heralds. He goes very red. He unties the motley and throws it at you. "It is only a coat," he says. You ride back to Hwfa, who puts it on and does a handspring and falls over.
+[d:2 | sk:Courtly | rn:Romance+1]
+-- You tell Sir Brun what the heralds will say. Brun laughs. "Let them," he says. "Every herald in Britain already calls me worse." He rides on, jingling.
+[sk:Honor]
 
 === f15b
 You catch up with Sir Brun at the next inn. "I hear you dice," you say, and put down a silver penny. "I will play you for the fool's motley." Brun's eyes gleam. He sets down his dice.
@@ -273,6 +323,11 @@ You ride to the king's side and bow. "Sire," you say, "a fool's jest is a fool's
 [d:4 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
 -- You speak of the High King's oath, and of fools in every court since Solomon's, and the king listens with his jaw tight. Then he says, "Are you a fool too?" and the crowd laughs, and you have lost them. The axe falls. You ride away with the laughter in your ears.
 [sk:Diplomacy | st:+Despairing]
+?? remind the king that wrath is a deadly sin | Piety | 5
+++ You speak quietly, so only he can hear. You remind him that there are seven deadly sins, and that his fool has committed none of them, while a king who kills a man for a jest has committed at least one, before witnesses. The king's jaw works. He glances at his confessor, standing nearby, who is nodding. At last he lifts his hand. "Take him down," he says. "And bring me my brother's accounts."
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You remind the king of the sin of wrath. "And the sin of pride," says the king, "in a knight who lectures his betters." The axe falls. You leave the town with the fool's last grin in your mind.
+[sk:Piety | st:+Despairing]
 
 === f20b
 You catch the fool's eye and glance at your horse. He understands at once. He grins, and when the headsman lifts his axe, the fool rolls sideways off the block and runs.

@@ -13,6 +13,11 @@ A sergeant of the garrison, bloody and hatless, grabs your bridle. "Sir! The cas
 [d:L | sk:Martial | rn:Romance+1 | rn:Any+1]
 -- You lead the twenty at the gate, and the Orkney men are waiting with spears. Half your men fall. You are driven back. At dawn, Lot's army comes in through the Micklegate.
 [sk:Warfare | st:+Wounded | st:+Despairing]
+?? call on the Orkney men at the gate to yield | Diplomacy | 5
+++ You walk up to the Micklegate alone, with your sword sheathed, and call up to the Orkney men that the castle is holding, that Lot's army is still a day away, and that every man on that gate will hang at dawn unless he walks away tonight. You name their captain, whom you met once at a feast. A long silence. Then the gate-bar scrapes, and the Orkney men slip out into the dark. By dawn, York is the High King's again.
+[d:4 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+-- You walk up to the gate and call to the Orkney men to yield. Their captain laughs and throws a spear. It misses. The gate opens at dawn, for Lot.
+[sk:Diplomacy | st:+Despairing]
 
 === m111b
 You look at the burning houses and the frightened faces in the windows. "The gate can wait," you say. "People cannot."
@@ -21,6 +26,11 @@ You look at the burning houses and the frightened faces in the windows. "The gat
 [d:4 | sk:Wilderness | rn:Divinity+2]
 -- You lead them through the back lanes, but you lose your way in the smoke, and walk them straight into a street full of Orkney men. You get most of them out. Not all.
 [sk:Nature Lore | st:+Despairing]
+?? cut a way through the Orkney men blocking the lane | Sword & Shield | 4
+++ At the end of the lane to the river-gate, six Orkney men are looting a chandler's shop. You do not go round. You go through, fast, with your sword, and they scatter into the smoke. Behind you comes a long, silent line of women and children and old men, and you count them through the river-gate: three hundred. At noon, from the far bank, you watch the High King's banner go up on the Micklegate.
+[d:4 | sk:Martial | rn:Divinity+2]
+-- You go through the Orkney men at the end of the lane, and one of them is better than the others. You hold them long enough for most of the townsfolk to get past. Not all.
+[sk:Sword & Shield | st:+Wounded]
 
 === 2311
 You ride into Winchester in the Grail year on the feast of Saint Swithun, and find the city in a riot. The monks of the cathedral were carrying their saint's bones in procession when the monks of the rival abbey across the river blocked their way with their own saint. Now both processions are fighting in the market square, with staves and censers, and the townsfolk have joined in on both sides.
@@ -37,6 +47,11 @@ You ride your horse into the square, scattering monks like chickens.
 [d:3 | sk:Martial | rn:Divinity+1 | rn:Any+1]
 -- You ride into the square, and a flying censer hits your horse, and it bolts. You come off in the middle of the riot and are trampled by monks.
 [sk:Mounted | st:+Wounded]
+?? bring the two abbots to a truce in the mud | Diplomacy | 4
+++ You do not fight monks. You dismount in the middle of the riot, pick up both fallen reliquaries, one under each arm, and walk to where the two abbots are shouting at each other, and hand one to each. "Your saints," you say, "are lying in the mud together. Perhaps they want you to carry them together." The abbots look at the bones. The riot, round them, falters and stops. Both saints go home in the same cart.
+[d:3 | sk:Courtly | rn:Divinity+2]
+-- You pick up both reliquaries and walk to the abbots. Each one grabs the wrong reliquary. The riot starts again, worse.
+[sk:Diplomacy | st:+Wounded]
 
 === m211b
 You stand up in your stirrups and shout at the top of your voice.
@@ -61,6 +76,11 @@ You climb up the wall beside the old woman with the pitchfork.
 [d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
 -- You show them how to drop stones and pour water, but the ram reaches the Westgate, and the gate breaks. You fight in the street. Winchester falls.
 [sk:Warfare | st:+Wounded | st:+Despairing]
+?? soften the ground before the gate so the ram founders | Nature Lore | 4
+++ The ground before the Westgate is clay. You get the townsfolk to carry every bucket of water they have to the wall and pour it over, all night, and at dawn the road before the gate is a bog. Mordred's ram comes up to it, sinks to its axles, and stops. The men pushing it are in easy range of the bakers' millstones. Mordred's army marches away after a week of sulking.
+[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+-- You pour water over the clay all night, and a hard frost comes at dawn. The road is like iron. The ram comes up to the gate at a trot.
+[sk:Nature Lore | st:+Despairing]
 
 === m311b
 You ride out through the postern gate and come round behind Mordred's army, to where the ram is being wheeled toward the Westgate.
@@ -69,6 +89,11 @@ You ride out through the postern gate and come round behind Mordred's army, to w
 [d:L | sk:Martial | rn:Romance+2]
 -- You come out of a lane at a gallop, but Mordred's knights are guarding the ram. You are driven back. The ram reaches the gate.
 [sk:Mounted | st:+Wounded]
+?? burn the ram with fire-arrows from the church tower | Hunting | 4
+++ You do not ride out. You climb the tower of Saint Swithun's, which overlooks the road, with a bow and a pot of pitch, and when the ram comes up the road, you put an arrow into its roof, and another, and another, until the whole thing is burning. The crew flee. The townsfolk on the walls cheer. Mordred's army has no other ram.
+[d:L | sk:Wilderness | rn:Romance+2]
+-- You climb the tower with a bow and pitch, and your first fire-arrow lands on the thatch of a Winchester baker's house. The townsfolk are not pleased. The ram reaches the gate.
+[sk:Hunting | st:+Scorned]
 
 === 2223
 You come upon a battle in the Forest of Celidon, where the High King's men are hunting a Saxon war-band through the trees. It is a strange, broken fight, with men in twos and threes fighting among the oaks. In a clearing, you find a Saxon boy of fifteen, with a broken spear, backed against a tree by three British soldiers. He is crying.
@@ -85,6 +110,11 @@ You ride between the soldiers and the boy. "The High King swore mercy to any who
 [d:4 | sk:Courtly | rn:Divinity+2]
 -- The soldiers glare at you. One of them spits, and they go, but when you turn round, the boy has run. You hear a scream from further in the forest. You do not know if it was him.
 [sk:Honor | st:+Despairing]
+?? ask the soldiers to pray for their dead with the boy | Piety | 4
+++ You kneel in the leaves between the soldiers and the Saxon boy, and ask the soldier whose brother was killed what his brother's name was. Then you pray for him, aloud, by name, and pray for the boy's dead too. After a while, the soldier kneels. Then the others. The boy kneels last. When you rise, nobody is holding a spear. Years later, a Saxon monk founds an abbey in the Forest of Celidon.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You kneel and begin to pray for the soldier's brother. The soldier looks at the boy, and at you praying, and walks away without a word. When you look up, the boy has run.
+[sk:Piety | st:+Despairing]
 
 === m123b
 You leave them and ride deeper into the forest, where the fighting is thickest.
@@ -93,6 +123,11 @@ You leave them and ride deeper into the forest, where the fighting is thickest.
 [d:L | sk:Wilderness | rn:Any+2 | tr:1]
 -- You find the Saxon war-leader making a stand behind a fallen oak, and charge, and are thrown. You spend the rest of the battle behind a tree, bleeding.
 [sk:Hunting | st:+Wounded]
+?? lead the soldiers in a drive against the war-leader | Warfare | 4
+++ You gather the scattered soldiers from the clearings and set them in a line, fifty paces apart, and drive the forest toward the river, like beaters driving deer. The Saxons, cut off from each other, fall back before you until they are caught against the water. Their war-leader surrenders to you personally. The High King gives you his sword.
+[d:4 | sk:Martial | rn:Any+2 | tr:1]
+-- You set the soldiers in a line and drive the forest, but the line breaks at a thicket, and the Saxons come back through the gap and take you from behind.
+[sk:Warfare | st:+Wounded]
 
 === 2323
 You come upon two knights fighting in a clearing in a forest, hammering at each other with swords, both of them exhausted, both of them bleeding. Neither wears a surcoat, and their shields are plain. One is in white armour. One is in red.
@@ -111,6 +146,11 @@ You leap from your horse and throw yourself between them. "Hold!" you cry. "Take
 [d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
 -- They are both too proud. "Stand aside," says the knight in red. You do not, and he strikes you with the flat of his sword, and you fall, and they fight on. When it is over, they unhelm, and they are brothers, and one of them is dead.
 [sk:Diplomacy | st:+Wounded | st:+Despairing]
+?? strike both their swords down at once | Sword & Shield | 5
+++ You do not argue. As the red knight's sword comes down, you meet it with your own, and turn it, and with the same stroke knock the white knight's blade out of his hand. They stare at you. "Now," you say, "unlace your helms." They are too astonished to refuse. They are brothers: Sir Aglovale and Sir Dornar, sons of King Pellinore. They fall on each other's necks and weep.
+[d:4 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+-- You meet the red knight's sword with your own, and the white knight, seeing a new enemy, strikes at you too. You spend a very bad quarter of an hour fighting both of them before they unhelm.
+[sk:Sword & Shield | st:+Wounded]
 
 === m223b
 You rein in at the edge of the clearing. It is not your quarrel.
@@ -141,6 +181,11 @@ You ride to the fallen tree and throw a rope round it, and tie it to your saddle
 [d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
 -- You haul, and your horse hauls, and the rope snaps. The tree does not move. The Saxons take the carts.
 [sk:Endure Hardship | st:+Despairing]
+?? form the carters into a wall round the carts | Warfare | 4
+++ You do not try to move the tree. You pull the carts into a ring, in the old way, and put the carters behind them with their whips and their knives, and the dead escort's spears, and you stand in the gap. The Saxons expected carters. They find a fort. After three rushes, they give up and melt back into the trees. By nightfall, the bread is in the old king's camp.
+[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+-- You pull the carts into a ring, but the carters do not know how to hold one. The Saxons are over the carts in the first rush.
+[sk:Warfare | st:+Despairing]
 
 === 2235
 You come upon the High King's army drawn up on the slopes of a great hill in the Golden Age, facing a Saxon host three times its size. It is the eve of the battle of Mount Badon. Fires burn all across the hill. The young king is walking among his men, clasping hands.
@@ -157,6 +202,11 @@ He sees you and stops. "You," he says. "Good. I need a knight who is not frighte
 [d:6 | sk:Martial | rn:Romance+2 | st:+Esteemed]
 -- You lead thirty men up the back of the hill in the dark, but a dog barks in the Saxon camp. The archers are awake. You are driven back down the hill with half your men. The battle is won anyway, at dawn, but at a terrible cost.
 [sk:Warfare | st:+Wounded | st:+Despairing]
+?? find the goat-path the Saxons do not guard | Nature Lore | 5
+++ You go up the back of the hill alone first, in the dusk, and find it: a goat-path through the gorse, hidden by a fold of the hill, where the Saxons have set no watch because no army could climb it. It is steep. Thirty men can climb it. At midnight, you lead them up in single file. By dawn, the young king's banner is flying on the summit of Badon, and the Saxon host below loses heart.
+[d:6 | sk:Wilderness | rn:Romance+2 | st:+Esteemed]
+-- You find a goat-path through the gorse and lead thirty men up it at midnight. It ends at a cliff. You come down again at dawn, and the battle is won anyway, at a terrible cost.
+[sk:Nature Lore | st:+Despairing]
 
 === m135b
 You take your place in the High King's battle line. At dawn, the Saxons come down the hill.
@@ -181,6 +231,11 @@ You get down from your horse and take the spade from the old priest's hands.
 [d:5 | sk:Wilderness | rn:Divinity+2 | st:+Blessed]
 -- You dig for three days, and on the fourth, you fall ill with the smell of the field. The old priest nurses you. The dead go unburied.
 [sk:Endure Hardship | st:+Plague-Ridden]
+?? speak the old words that settle the unquiet dead | Magic | 5
+++ You walk the field at dusk, from one end to the other, and speak over it the old words for the dead who have not been sung home: the words the grandmothers still say at crossroads. That night, you see them: three hundred men standing on the hillside, looking at you. Then they turn, all together, and walk away over the mountain. In the morning, the old priest is smiling. "They can wait for the spade now," he says.
+[d:5 | sk:Spiritual | rn:Divinity+2]
+-- You walk the field and speak the old words. That night, three hundred men stand on the hillside, and they do not walk away. They walk toward you.
+[sk:Magic | st:+Mad]
 
 === m235b
 You ride down the mountain to the villages where the dead men came from, and knock on every door.
@@ -189,6 +244,11 @@ You ride down the mountain to the villages where the dead men came from, and kno
 [d:4 | sk:Courtly | rn:Divinity+2 | tr:1]
 -- They are frightened of the reivers, and will not come. You ride back up the mountain alone. The old priest keeps digging.
 [sk:Diplomacy | st:+Despairing]
+?? stand guard while the villagers bury their dead | Warfare | 4
+++ You tell the villagers they will not dig alone. You set a watch on the pass, and walk the ridge yourself every hour, with your sword drawn, so that they can see you from below. They come, a few at a time, then a whole village, then three. The reivers see a knight on the ridge and do not come. At the end of the week, a woman gives you her dead husband's sword.
+[d:4 | sk:Martial | rn:Divinity+2 | tr:1]
+-- You set a watch on the pass and walk the ridge. On the third night, the reivers come by the other pass. The villagers scatter. The dead go unburied.
+[sk:Warfare | st:+Despairing]
 
 === 2435
 You come upon a battle in a mountain pass, where a small band of the old king's men is holding the pass against a Saxon host coming up from the valley. They are forty. The Saxons are four hundred. Their captain, an old knight you recognise as Sir Bedivere, is standing in the narrowest part of the pass with his back to a rock, holding a shield in his one good hand.
@@ -213,6 +273,11 @@ You dismount and take your place beside Sir Bedivere in the pass.
 [d:L | sk:Martial | rn:Romance+1 | rn:Any+1]
 -- You ride down the back of the pass and find the king's army, but no captain will spare men. You ride back up alone, too late. The pass has fallen.
 [sk:Mounted | st:+Despairing]
+?? take the short way down through the hills | Nature Lore | 4
+++ You do not go down the long road the army took. You take a shepherds' track straight down the mountain's shoulder, leading your horse, and come out on the valley floor two hours ahead of any messenger by the road. You find a captain who will listen, and bring back two hundred men up the pass at dusk. The Saxons break. Sir Bedivere, bloody to the elbows, laughs. "Just in time," he says.
+[d:L | sk:Wilderness | rn:Romance+1 | rn:Any+1]
+-- You take a shepherds' track down the mountain's shoulder, and it leads you into the wrong valley. By the time you find the army, the pass has fallen.
+[sk:Nature Lore | st:+Despairing]
 
 === 2247
 You come upon a great battle on a wide plain at Bedegraine, where the eleven rebel kings under King Lot of Orkney are fighting the young High King's army. It is a vast, confused melee, horsemen and footmen, banners everywhere. Merlin sits on a black horse on a hillock above the field, watching.
@@ -241,6 +306,11 @@ You spur your horse toward the golden armour.
 [d:5 | sk:Martial | rn:Romance+2 | st:+Esteemed]
 -- You cut your way toward the young king, but you are knocked from your horse halfway there. You spend the rest of the battle fighting on foot, in the mud, with no idea who is winning.
 [sk:Mounted | st:+Unhorsed]
+?? rally the young king's scattered knights to him | Warfare | 5
+++ You do not cut your way to the young king. You ride along the back of his line, where his knights are being pushed back, shouting his name and pointing at the golden armour, and they see it and rally, and you lead them back into the melee in a wedge. You reach him just as his horse is killed. His knights close round him. At the end of the day, the rebel kings are broken, and he comes to find you.
+[d:5 | sk:Martial | rn:Romance+2 | st:+Esteemed]
+-- You ride along the back of the line shouting his name, and nobody can hear you over the battle. You are knocked from your horse and spend the rest of the day on foot, in the mud.
+[sk:Warfare | st:+Unhorsed]
 
 === m147b
 You spur your horse toward Lot's black and gold banner.
@@ -249,6 +319,11 @@ You spur your horse toward Lot's black and gold banner.
 [d:6 | sk:Martial | rn:Romance+1 | rn:Any+2 | tr:1]
 -- You fight your way toward the banner, but Lot's hearth-guard are the best fighters in the north, and they drive you back. You are wounded, and carried from the field.
 [sk:Sword & Shield | st:+Wounded]
+?? strike at the rebels' hearts with the young king's name | Diplomacy | 6
+++ You do not fight your way to Lot's banner. You ride along the edge of the melee where the lesser kings' men are, and shout to them that the young king offers pardon to any who lay down arms before sunset. Word spreads through the rebel host faster than any charge. By mid-afternoon, three kings' banners are down, not captured, but lowered. Lot fights on alone. By sunset, the rebels are fleeing.
+[d:6 | sk:Courtly | rn:Divinity+1 | rn:Any+2]
+-- You ride along the edge of the melee shouting the young king's pardon. Nobody has told the young king. When he hears, he is not pleased.
+[sk:Diplomacy | st:+Scorned]
 
 === 2347
 You come upon a tournament on a wide plain at Winchester in the Grail year, where the High King has called a great melee to bring home the knights of the quest. Many have come. Many have not. They fight in disguise, with plain shields, so that no man may know who he fights. It is a strange, sad tournament. Knights who were brothers break lances on each other without knowing it.
@@ -265,6 +340,11 @@ You take up the white shield and ride into the melee.
 [d:5 | sk:Martial | rn:Romance+2 | tr:1]
 -- You fight all day, and in the afternoon, a knight with a plain black shield unhorses you and rides away. You never learn who he was. That night, you think you see him at the feast, and then you are sure you do not.
 [sk:Mounted | st:+Unhorsed]
+?? fight on foot in the thick of the melee | Sword & Shield | 5
+++ When your lance breaks in the first charge, you do not ride back for another. You dismount in the middle of the melee and fight on foot with your plain white shield, and it is the best fighting of the day: nobody knows who you are, and nobody holds back. When the heralds call for the knight of the white shield, the High King himself lifts your visor, and smiles for the first time that day. "Welcome home," he says.
+[d:5 | sk:Martial | rn:Romance+2 | tr:1]
+-- You dismount and fight on foot in the melee, and a knight with a plain black shield beats you to your knees and walks away. You never learn who he was.
+[sk:Sword & Shield | st:+Wounded]
 
 === m247b
 You go to the royal stand. The High King is sitting alone, watching the melee with his chin in his hand. He looks old.
@@ -273,6 +353,11 @@ You go to the royal stand. The High King is sitting alone, watching the melee wi
 [d:4 | sk:Courtly | rn:Romance+1 | rn:Divinity+1 | tr:1]
 -- You sit with him, and try to cheer him, but you talk about the quest without meaning to, and his face closes. "Go and fight," he says. "Everyone else is."
 [sk:Honor]
+?? bring the king's old companions to sit with him | Diplomacy | 4
+++ You do not sit with him yourself. You go round the pavilions and find the old knights who are home from the quest, or never went: Kay, and Lucan, and Bedivere, and old Sir Ector, and bring them all to the royal stand, one by one, with some excuse. By the end of the afternoon, the High King is surrounded by his oldest friends, and laughing. He looks across at you, and knows exactly what you have done.
+[d:4 | sk:Courtly | rn:Romance+1 | rn:Divinity+1]
+-- You go to find the king's old companions. Kay is sulking, Lucan is ill, and Bedivere is on the quest. You come back with Sir Ector, who falls asleep.
+[sk:Diplomacy]
 
 === 2447
 You come to Salisbury Plain in May, where two armies face each other across the heather under a sky full of ravens. On one side, the dragon banner of the old king. On the other, the red and black of Mordred. Between them, a pavilion, where the old king and Mordred are meeting with fourteen men each, to make terms. Every man on both sides has been ordered not to draw his sword, for any reason.
@@ -342,6 +427,11 @@ You leave your horse and wade into the reeds, following the sound of fighting.
 [d:L | sk:Wilderness | rn:Romance+1 | rn:Any+1]
 -- You follow the shouting into the fog, and lose your way, and wander for hours among the reeds. When the fog lifts, the battle is over, and you are a mile from anywhere.
 [sk:Hunting | st:+Lost]
+?? call the lost knight through the fog with his own horn-call | Honor | 4
+++ You ask the squire what his master's horn-call is, and he tells you: three short, one long. You blow it, again and again, into the fog, as a knight's own call to his own men. At last, faintly, from far out in the reeds, it is answered. You follow it, and find Sir Griflet up to his waist in water with his back to a willow and three Picts round him. They flee at your coming. "Tenth time I have been rescued this year," says Griflet.
+[d:3 | sk:Courtly | rn:Romance+1 | rn:Any+1]
+-- You blow Sir Griflet's horn-call into the fog, three short and one long. The Picts have heard it too, and they know what it means: a knight, alone, calling. They come to it out of the reeds from three sides, and you fight them knee-deep in water until your own men find you.
+[sk:Honor | st:+Wounded]
 
 === m159b
 You ride to the edge of the marsh and blow your horn, three long blasts.
@@ -350,6 +440,11 @@ You ride to the edge of the marsh and blow your horn, three long blasts.
 [d:4 | sk:Martial | rn:Romance+1 | rn:Any+1]
 -- You blow your horn, and the men come to it, and so do the Picts. You fight on the hummock of dry ground until the fog lifts.
 [sk:Warfare | st:+Wounded]
+?? lift the fog with the fen-men's words | Magic | 5
+++ An old fen-man with the army tells you the words his grandmother used to thin a fog for the eel-boats. You say them from the hummock, loudly, three times. The fog does not lift. It thins, just enough to see a spear's length. It is enough. Your men find each other, and the Picts, who were counting on the fog, find themselves in the open. They go back to their boats.
+[d:4 | sk:Spiritual | rn:Any+2]
+-- You say the fen-man's words from the hummock, and the fog thickens instead. The old fen-man shrugs. "She was not a very good grandmother," he says.
+[sk:Magic | st:+Lost]
 
 === 2359
 You come upon a battle in the marshes in the Grail year, where a lord's army is fighting a band of men in white robes, the followers of a hermit who has declared himself the Grail's prophet and seized a monastery. The white-robed men are fanatics, and they fight with a terrible, joyful courage, singing hymns. Many of them are boys.
@@ -366,6 +461,11 @@ You draw your sword and ride into the marsh with the lord's men.
 [d:4 | sk:Martial | rn:Any+1 | rn:Villainy+1]
 -- You lead the charge, but the fanatics do not break. They fight to the last, singing. You are wounded. The lord's men win, at a terrible cost.
 [sk:Warfare | st:+Wounded | st:+Despairing]
+?? call on the boys to lay down their spears | Piety | 5
+++ You ride out between the lines with your helm off and your hands empty, and call out to the white-robed boys, not in anger, but as a priest calls to children, that God does not want them to die for a man in a tower. You tell them the Grail feeds; it does not starve. The singing falters. A boy of fourteen lowers his spear, and then another. By nightfall, half of them have walked out of the marsh to their mothers.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You ride out between the lines with your hands empty and call to the boys. They sing louder, and charge.
+[sk:Piety | st:+Wounded | st:+Despairing]
 
 === m259b
 You leave the battle and ride round the marsh to the monastery, where the false prophet is watching from the tower.
@@ -374,6 +474,11 @@ You leave the battle and ride round the marsh to the monastery, where the false 
 [d:5 | sk:Spiritual | rn:Divinity+2]
 -- You climb the tower and find him, and try to reason with him, but he calls you a demon and his guards throw you down the stair.
 [sk:Wisdom | st:+Wounded]
+?? cut your way to the tower and take the prophet | Sword & Shield | 5
+++ You go in through the monastery's back gate, past two white-robed guards who are more used to singing than fighting, and up the tower stair. The prophet is at the window, preaching. You take him by the collar and walk him down the stair and out into the courtyard in plain view, and his followers see their prophet held by a stranger. The singing stops. They put down their spears.
+[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+-- You go in through the back gate, and the white-robed guards are more used to fighting than you thought. You are thrown out of the gate.
+[sk:Sword & Shield | st:+Wounded]
 
 === 2459
 You come upon a battle in the Fens during the war, where the old king's men and Mordred's are fighting over a causeway, the only road across the marsh. Neither side can win. They have been fighting for three days, and the causeway is covered in dead. The fen-folk watch from their reed-boats, waiting to loot whoever loses.
@@ -390,6 +495,11 @@ A fen-man in a flat-bottomed boat paddles up beside you. "There is another way a
 [d:5 | sk:Wilderness | rn:Romance+1 | rn:Any+1 | n:Lose 1 Treasure, if possible]
 -- You pay. The fen-man leads you by night through the reeds, and then he vanishes, and you are left in the marsh with fifty men and no path. It is a long night.
 [sk:Nature Lore | st:+Lost]
+?? haggle the fen-man down to a fair price | Diplomacy | 4
+++ You do not pay everything. You sit down in his boat and haggle, as a fen-man haggles, over eels and ale and his grandmother's health, for an hour, until he is laughing and the price is a quarter of what he asked. Then he leads you and fifty of the old king's men by night through the reeds. At dawn, you come out behind Mordred's men on the causeway. They break.
+[d:5 | sk:Courtly | rn:Romance+1 | rn:Any+1]
+-- You haggle with him for an hour, and at the end of it, he paddles off to Mordred's side instead. They pay more.
+[sk:Diplomacy | st:+Despairing]
 
 === m359b
 You look at the causeway, and the dead, and the two exhausted armies. There must be a way.
@@ -414,6 +524,11 @@ You take the wheel. "Cut the grappling ropes," you shout. "Archers to the stern!
 [d:5 | sk:Martial | rn:Romance+1 | rn:Any+1 | tr:1]
 -- You cut the grappling ropes and turn your ship, but you turn too far, and the Irish board you from the other side. It is a long, bloody fight on the deck. You win, barely.
 [sk:Warfare | st:+Wounded]
+?? use the mist and the tide against the Irish | Nature Lore | 5
+++ You see the mist lying on the water to the north and the tide running under it toward the Menai. You turn your ship into the mist, let the Irish follow, and let the tide carry you through the narrow place, which you know and they do not. The Irish ships behind you run onto the sandbanks one after another. By the end of the afternoon, their fleet is scattered. The young king gives you command of your ship.
+[d:5 | sk:Wilderness | rn:Romance+1 | rn:Any+1 | tr:1]
+-- You turn into the mist and let the tide carry you, and you do not know the narrow place as well as you thought. You run onto the sandbank first.
+[sk:Nature Lore | st:+Wounded]
 
 === m171b
 You look across the water at the Irish flagship, with its king standing at the prow. "Grapple her," you say. "We are going aboard."
@@ -422,6 +537,11 @@ You look across the water at the Irish flagship, with its king standing at the p
 [d:6 | sk:Martial | rn:Romance+2 | st:+Esteemed]
 -- You lead twenty men onto the Irish flagship, but the Irish king's hearth-guard are waiting. You are driven back into the sea. Your crew fish you out.
 [sk:Sword & Shield | st:+Plague-Ridden]
+?? hail the Irish king and offer him terms | Diplomacy | 5
+++ You stand in your bow and call across the water to the red-bearded Irish king that he has already lost three ships, and that the young king's fleet is behind you, and that a king who goes home now goes home a king. The Irish king looks at you, and at the fleet, and laughs. He calls his ships off. The young king sends for you afterwards and makes you a gift of the Irish king's own gold cup, sent in token of the truce.
+[d:5 | sk:Courtly | rn:Divinity+1 | rn:Romance+1 | tr:1]
+-- You call across the water to the Irish king that he should go home while he is still a king. He laughs, takes a bow from the man beside him, and shoots at you himself. The arrow takes your helmsman in the arm, and the Irish close on you while your ship swings.
+[sk:Diplomacy | st:+Wounded]
 
 === 2371
 You are at sea in the Grail year when you come upon a strange sea battle: a ship of monks from Iona, attacked by a pirate ship, and the monks are defending themselves with oars and psalms. The pirates are winning. As you watch, a monk falls overboard.
@@ -438,6 +558,11 @@ Your captain wants to sail on. "Not our business," he says. "Pirates are pirates
 [d:L | sk:Martial | rn:Divinity+2 | tr:1]
 -- You leap onto the pirates' deck, but you slip, and fall between the ships. You are pulled out by the monks, who are losing.
 [sk:Sword & Shield | st:+Plague-Ridden]
+?? rally the monks themselves against the pirates | Warfare | 4
+++ You shout across to the monks: oars together, in a line, like pikes. They do it. You bring your ship alongside the pirates and leap aboard from behind, and the pirates, caught between a knight and forty monks presenting oars like a shield-wall, surrender. The abbot blesses you and asks what you would like as a reward. You ask for a prayer. He gives you three, and a small silver cross.
+[d:L | sk:Martial | rn:Divinity+2 | tr:1]
+-- You shout across to the monks to form a line with their oars. They do, very bravely, facing the wrong way. The pirates come at them from behind, and you leap aboard into the middle of it all, and it is a long, confused fight before the pirates take the monks' ship anyway.
+[sk:Warfare | st:+Wounded]
 
 === m271b
 You throw ropes into the sea, and haul the drowning monks aboard your ship, one by one.
@@ -446,6 +571,11 @@ You throw ropes into the sea, and haul the drowning monks aboard your ship, one 
 [d:3 | sk:Wilderness | rn:Divinity+2]
 -- You haul out three monks, but the sea is rough and the rope keeps slipping through your cold hands, and the rest are lost. The pirates take the monks' ship and sail away laughing. The three you saved sing a psalm for their brothers on your deck, and you cannot join in.
 [sk:Endure Hardship | st:+Despairing]
+?? pray the monks up out of the sea | Piety | 4
+++ You throw every rope you have over the side and kneel in the bow and pray aloud, and the drowning monks, hearing a prayer they know, swim toward it. You haul out eleven of them, half-drowned, singing. The pirates, seeing a ship full of rescued monks and a knight in the bow, decide there are easier prizes. The monks sing a psalm on your deck, soaking wet. It is the most beautiful thing you have ever heard.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You kneel in the bow and pray aloud. The monks hear you, but the sea is rough. You haul out three. The rest are lost.
+[sk:Piety | st:+Despairing]
 
 === 2471
 You are at sea with the old king's fleet off the mouth of the Medway, where Mordred's ships and the Saxon fleet have come out to stop the old king landing. It is the greatest sea battle Britain has ever seen: three hundred ships locked together in the estuary, fighting deck to deck.
@@ -462,6 +592,11 @@ Your ship is next to the old king's own. You see Mordred's flagship, its red and
 [d:6 | sk:Martial | rn:Romance+2 | rn:Divinity+1]
 -- Your ship swings across the old king's bow, and the ram strikes it, and it sinks. You are pulled from the sea, half-drowned. The old king's ship is saved. Yours is not.
 [sk:Warfare | st:+Plague-Ridden | st:+Wounded]
+?? steer across the ram's path by the run of the tide | Nature Lore | 5
+++ You do not throw your ship in the way. You watch the tide, which is running hard across the estuary, and turn your ship so that it drifts, fast, across the flagship's bow at the last moment, and the ram strikes you a glancing blow and slides off into open water. Mordred's flagship is swept past the old king's ship by the same tide, with its ram in the air. The old king lifts his sword to you.
+[d:5 | sk:Wilderness | rn:Romance+2]
+-- You watch the tide and turn your ship to drift across the flagship's bow. The tide turns first. The ram takes you amidships.
+[sk:Nature Lore | st:+Plague-Ridden]
 
 === m371b
 "Grapple her!" you shout. "We are going aboard!"
@@ -470,3 +605,9 @@ Your ship is next to the old king's own. You see Mordred's flagship, its red and
 [d:6 | sk:Martial | rn:Romance+2 | tr:1]
 -- You lead your crew across the grappling ropes, but Mordred's men are the best in his fleet. You are driven back. The ram strikes the old king's ship, and it is holed, but it does not sink.
 [sk:Sword & Shield | st:+Wounded]
+?? call on Mordred's rowers to rise against their masters | Diplomacy | 5
+++ You leap onto the flagship's rowing deck, not its quarterdeck, and shout to the rowers chained at the oars that the old king frees every slave who turns against Mordred today. They stop rowing. The flagship slews round, dead in the water, a length from the old king's ship. Its captain surrenders. When the red and black sails come down, the Saxon ships flee.
+[d:6 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+-- You leap onto the rowing deck and shout to the rowers that the old king will free them. They are Frisians, and do not understand a word of British. The overseer does. He brings his whip down across your face, and you are driven back over the side before the ram strikes.
+[sk:Diplomacy | st:+Wounded]
+

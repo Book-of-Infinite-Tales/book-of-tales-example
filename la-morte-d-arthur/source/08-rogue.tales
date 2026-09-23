@@ -15,6 +15,11 @@ He finds you in the stable an hour later. "I have never killed anything," he whi
 [d:L | sk:Wilderness | rn:Villainy+1 | rn:Any+1 | tr:1]
 -- You track the wolf up the valley by moonlight. It is enormous, and it is waiting for you. It takes your spear arm in its jaws before you can strike, and you both roll down the hill. When it flees, you are bleeding, and Gwion is gone. The next morning, you hear, he left the inn before dawn with his harp and the villagers' ten marks paid in advance.
 [sk:Hunting | st:+Wounded]
+?? rouse the village to hunt the wolf together | Warfare | 4
+++ You go back into the inn and tell the villagers that their hero has a plan: a drive. You set the men in a long line with torches and pans, and the dogs behind them, and drive the wolf down the valley toward the sheepfold, where you wait with your spear and Gwion stands behind you, pale. The wolf breaks from the bracken straight at you. When it is over, the village carries Gwion home in triumph. He looks at you over their heads, ashamed and grateful.
+[d:3 | sk:Martial | rn:Villainy+1 | rn:Any+1]
+-- You set the villagers in a long line with torches and pans, and they drive the wolf, but the line breaks at the stream, and the wolf goes through the gap and takes a ewe on its way. Everybody blames Gwion. Gwion blames you.
+[sk:Warfare | st:+Scorned]
 
 === r01b
 You follow Gwion back into the inn. "Good people," you say, "before your hero goes out, I think he has something to tell you." Gwion looks at you with pure terror.
@@ -52,6 +57,11 @@ You ride to the sheriff's hall. The sheriff is a small, precise man who dresses 
 [d:4 | sk:Courtly | rn:Divinity+2]
 -- You tell him that no knight of the High King's court would do this. The sheriff looks at you with interest. "Are you a knight of the High King's court?" he asks. When you admit that you are not, or not quite, he smiles and has you thrown out.
 [sk:Honor | st:+Scorned]
+?? call on the bishop's authority over the dead | Piety | 5
+++ You remind the sheriff that the dead belong to the Church, not the sheriff, and that the Bishop of Hereford has excommunicated sheriffs for less. The sheriff stops counting. He does not know whether it is true. Neither, entirely, do you. But he signs an order to cut her down, and the priest of the village by the river buries her with bells. Hob Redcap stands at the back of the church with his hood up, and weeps.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You remind the sheriff that the dead belong to the Church. "Then the Church," he says, "may come and ask me for them." He goes back to counting. Alis hangs on.
+[sk:Piety]
 
 === 1703
 You come upon a thin, ragged man on a donkey, riding hard along a forest track, with a small box of carved bone clutched to his chest. A lame boy on crutches is limping after him, calling, "Master! Master Wat! Wait!"
@@ -68,6 +78,11 @@ The man pulls up when he sees you. "Please," he says. "I am Wat, a thief. I stol
 [d:4 | sk:Courtly | rn:Divinity+2]
 -- At the abbey, you lay the box before the abbot and tell him everything. The abbot listens, stony-faced, and then has Wat put in chains. "A thief is a thief," he says, "and a saint is not a pedlar." The finger goes back into its gold shrine. The lame boy sits outside the abbey gate for three days, waiting, and then limps away.
 [sk:Diplomacy | st:+Despairing]
+?? let the saint show himself before the abbot | Piety | 5
+++ At the abbey, you do not argue. You ask the abbot only to watch. Then you bring in the lame boy, who has followed you, and Wat lays the finger on the boy's crutch, and prays. The boy stands up without it. The abbot sits down very suddenly. After a long silence, he gives the box back to Wat. "Take him out to the roads," he says, "and bring him back at Easter." Wat walks out of the abbey weeping.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- At the abbey, you ask the abbot to watch, and Wat lays the finger on the lame boy's crutch, and prays, and nothing happens at all. The abbot has Wat put in chains. The saint, it seems, does not perform for abbots.
+[sk:Piety | st:+Despairing]
 
 === r03b
 "Then the saint has chosen you," you say. "Let us go on, and see where he sends you." Wat laughs, and the boy laughs, and behind you, in the forest, you hear the monks' horses.
@@ -76,6 +91,11 @@ The man pulls up when he sees you. "Please," he says. "I am Wat, a thief. I stol
 [d:L | sk:Wilderness | rn:Divinity+1 | rn:Villainy+1]
 -- You lead him off the track and through a stream, but the monks have a hound. They catch you on the ridge, and take the finger, and take Wat, and take you too, for good measure, to be tried by the bishop for sacrilege.
 [sk:Nature Lore | st:+Imprisoned]
+?? ride ahead of the monks with Wat up behind you | Mounted | 4
+++ You pull Wat up behind your saddle, put the lame boy on the donkey, and ride. The monks' horses are old and fat. By nightfall you are two valleys ahead, and by the end of the week you are in the Marches, where nobody has heard of Saint Dyfrig. Wherever Wat goes, something happens: a fever breaks, a well runs sweet. At the end of a month, he takes the finger back to the abbey himself.
+[d:3 | sk:Martial | rn:Divinity+1 | rn:Villainy+1]
+-- You pull Wat up behind your saddle and ride, and your horse, carrying two, goes lame at the first ford. The monks come up with a bishop's warrant. Wat goes in chains, and you go with him.
+[sk:Mounted | st:+Imprisoned]
 
 === 1704
 You come upon a man in the road with his hands clamped over his ears and a purse of green silk tied to his belt. The purse is screaming. It is a high, thin, furious scream, like a hare in a trap, and it does not stop.
@@ -92,6 +112,11 @@ You come upon a man in the road with his hands clamped over his ears and a purse
 [d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
 -- You take Dicon up to the hill at dusk and call on the lady. She comes, and she is very angry, and when you try to bargain with her, she only laughs and points at you. The purse unties itself from Dicon's belt and ties itself to yours. It screams all the way down the hill, and for three days after, until you bury it in a churchyard.
 [sk:Magic | st:+Accursed]
+?? return the purse with a knight's full apology | Honor | 5
+++ You go up the hill alone and kneel at its foot, and lay the screaming purse on the grass, and apologise, not as a thief, but as a knight whose friend has wronged a lady. You take it on yourself. The hill is quiet a long while. Then a hand comes out of the turf, takes the purse and pats your head, once, like a dog. Dicon never sees the little people again. You see them, sometimes, at the edges of your eyes, but they are smiling.
+[d:3 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+-- You kneel at the foot of the hill and apologise on Dicon's behalf. The hill is quiet. Then the purse leaps up and ties itself to your own belt. It screams for three days, until you bury it in a churchyard.
+[sk:Honor | st:+Accursed]
 
 === r04b
 You look at the purse. You look at the silver in Dicon's hand. "Give it here," you say. "I will take care of it." Dicon stares at you. "You want it?" he says.
@@ -100,6 +125,11 @@ You look at the purse. You look at the silver in Dicon's hand. "Give it here," y
 [d:4 | tr:2 | rn:Villainy+2 | st:+Unhorsed]
 -- You wrap your hand in a cloth and cut the strings. The purse leaps out of Dicon's belt and into your hand, and clamps shut on your fingers like a trap, and screams directly into your face. You drop it. It rolls away into the long grass, and when you look for it, it is gone. So are your own purse and your dagger.
 [sk:Cunning | st:+Accursed | rn:Villainy+1]
+?? bind the purse's voice and keep it | Magic | 5
+++ You take the purse by its strings and speak the old words for silence over it, three times, very firmly, as you would to a dog. The screaming stops. The purse hangs quiet at your belt, full of silver, and when you take a penny out, there is another penny. Dicon falls on his knees and thanks you. For a month, you are rich. Then one night you wake to find three little people sitting on the end of your bed, looking at you.
+[d:4 | tr:2 | rn:Villainy+2 | st:+Accursed]
+-- You take the purse by its strings and speak the words for silence. The purse opens its mouth and screams straight into your face, and your ears ring for a week. It rolls away into the long grass, and so does Dicon.
+[sk:Magic | st:+Accursed | rn:Villainy+1]
 
 === 1705
 You come upon a pair of young lovers on one horse, galloping toward you along a lane, looking back over their shoulders. The man is a handsome rogue in a torn shirt, with a grin as wide as the lane. The girl behind him has a silk gown hitched up to her knees and a sword across her lap.
@@ -131,6 +161,11 @@ You look at the dust cloud, and at the girl, and you make up your mind. "Your fa
 [d:4 | tr:2 | rn:Villainy+2]
 -- Jack fights you, and Mererid fights you too, and she is better with a sword than he is. When you wake up in the lane, they are gone, and the baron's men are standing over you, asking what happened. You tell them. They laugh.
 [sk:Sword & Shield | st:+Wounded | rn:Villainy+1]
+?? ride them down before they reach the church | Mounted | 3+L
+++ You wheel your horse and gallop after them. They are two on one horse, and you are one, and you catch them a mile short of Llanfair. You seize the girl's bridle-arm and drag her across to your own saddle while Jack shouts and curses. When the baron's men come up, you hand her over. The baron pays you a fat purse and a fine sword. Mererid does not look at you once.
+[d:4 | tr:2 | rn:Villainy+2]
+-- You gallop after them, but Mererid is a better rider than Jack, and she takes the reins and leads you through a ford and a bog and a gorse thicket. You come out of the gorse torn and alone, and hear the church bell ringing at Llanfair.
+[sk:Mounted | rn:Villainy+1]
 
 === 1707
 You come upon a man sitting on the steps of a church, rocking back and forth, with his arms around a sack. He is filthy, and there is earth under his fingernails and in his hair. "Cunedda," he whispers. "Cunedda, Cunedda, Cunedda."
@@ -149,6 +184,11 @@ You kneel beside Rhys and put your hand on the sack. "Let me carry it back for y
 [d:4 | sk:Spiritual | rn:Divinity+2]
 -- You carry the sack up the hill at dusk and into the black mouth of the barrow. Inside, a tall figure sits on a stone throne. You lay the gold before it and begin to pray, but the figure lifts one bony hand and points at you. You flee. The gold is back where it belongs. But you hear, all the way down the hill, a dry voice saying *Cunedda, Cunedda*, and it is saying it in your head.
 [sk:Piety | st:+Mad]
+?? seal the barrow with the old words against the dead | Magic | 5
+++ You do not go into the barrow. You walk three times round it at dusk, sunwise, with the sack on your shoulder, and lay the gold on the capstone, and speak the old words that close a grave. The standing stone hums. When you look again, the gold is gone, and the entrance to the barrow is grass. In the morning, Rhys is sane and weeping, and nothing walks from the barrow to the church again.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- You walk three times round the barrow and speak the old words, and get them the wrong way round. The barrow opens wider. That night, something walks from the barrow to your inn instead of the church.
+[sk:Magic | st:+Pursued]
 
 === r07b
 You reach for the sack. Rhys screams and clings to it. The priest steps back, crossing himself.
@@ -157,6 +197,11 @@ You reach for the sack. Rhys screams and clings to it. The priest steps back, cr
 [d:5 | tr:2 | rn:Villainy+2 | st:+Pursued]
 -- It takes all your strength to prise his fingers open. When they let go, you stagger back with the sack, and it is heavier than any sack could be, and it pulls you down onto the church steps. You cannot let go. You cannot let go. The priest has to bring a hammer.
 [sk:Endure Hardship | st:+Accursed | rn:Villainy+1]
+?? coax the sack from him with a trick | Cunning | 4
+++ You kneel beside him and whisper that you have come from King Cunedda himself, who wants his treasure carried back by a stronger man. Rhys looks at you with desperate hope, and lets go. You shoulder the sack and walk out of the churchyard, and do not turn toward the barrow. In the sack are a gold torc, a gold cup and a sword with a hilt of red enamel. That night, something stands at the door of your inn.
+[d:5 | tr:2 | rn:Villainy+2 | st:+Pursued]
+-- You kneel beside him and whisper that the king has sent you for his treasure. Rhys looks at you. "He did not," he says. "He told me who he would send." He clutches the sack harder, and screams, and the priest sends you away.
+[sk:Cunning | rn:Villainy+1]
 
 === 1710
 You come upon a band of outlaws in a wood, crouching in the bracken above a road, with bows strung and faces smeared with mud. Their leader, a grizzled woman with one eye and a man's jerkin, rises when she sees you and puts a finger to her lips.
@@ -175,6 +220,11 @@ Down the road, you hear the creak of wheels.
 [d:4 | sk:Martial | rn:Villainy+1 | rn:Divinity+1 | tr:1]
 -- When the cart rounds the bend, you ride out in front of it, but the escort is twice as large as Maud said, and they have crossbows. The outlaws flee. You are dragged off your horse and taken to Shrewsbury in the tax cart, sitting on the sheriff's money.
 [sk:Warfare | st:+Imprisoned | rn:Villainy+1]
+?? shoot the escort's horses from the bracken | Hunting | 4
+++ You take a bow from one of Maud's men and lie in the bracken, and when the cart rounds the bend, you shoot the lead horse of the escort, and then the second. The cart stops. The escort, on foot and surrounded by bows, throws down its weapons. Nine hundred silver pennies go back to the villages in sacks, left on doorsteps in the night. Maud gives you a hundred of them.
+[d:4 | sk:Wilderness | rn:Villainy+1 | rn:Divinity+1 | tr:1]
+-- You lie in the bracken with a borrowed bow, and your first arrow goes into a tree, and the escort sees where it came from. They charge the bracken. The outlaws scatter, and you are left in the ditch with a sergeant sitting on you.
+[sk:Hunting | st:+Imprisoned | rn:Villainy+1]
 
 === r10b
 You nod to Maud, and turn your horse, and ride back the way you came. When you are out of sight of the wood, you circle round and come to the road ahead of the cart.
@@ -183,6 +233,11 @@ You nod to Maud, and turn your horse, and ride back the way you came. When you a
 [d:4 | sk:Martial | rn:Villainy+1 | tr:1]
 -- You gallop up to the cart and tell the captain of the escort what is waiting in the wood. He does not believe you. He thinks you are one of them, and arrests you. Meanwhile, the outlaws take the cart. Maud, you hear, is very disappointed in you.
 [sk:Mounted | st:+Imprisoned]
+?? send the escort a false message to take the long road | Cunning | 4
+++ You ride ahead, stop a pedlar on the road and pay him to tell the escort that the bridge by the wood is down. He does, with great conviction. The escort turns off by the long road through the hills, and Maud's outlaws wait in the bracken all afternoon for a cart that never comes. Nobody ever learns who sent the pedlar. You feel pleased with yourself for a week.
+[d:3 | sk:Courtly | rn:Villainy+1 | rn:Any+1]
+-- You pay a pedlar to tell the escort that the bridge is down. He tells them. He also tells them who paid him. The escort captain thinks you are one of Maud's men sending them into a trap, and arrests you.
+[sk:Cunning | st:+Imprisoned]
 
 === 1712
 You come upon an old woman sitting at a table outside a tavern with three walnut shells and a pea. A crowd of drovers stands round her. As you watch, a young drover puts down a penny, points at a shell, and loses. Then another. Then another.
@@ -236,6 +291,11 @@ You pick up one of the swords. "Good people," you say, "this sword is made of ti
 [d:L | tr:1 | rn:Villainy+2]
 -- You tell the story of the sword in the stone to the crowd in the next town. At the back of the crowd is a tall, heavy man in a plain brown cloak, listening with great interest. When you finish, he comes up and asks to buy a sword, and he asks you to describe the king, and you do, and he laughs. It is Arthur himself. He does not have you arrested. He only takes a sword, and pays for it, and walks away, still laughing. You feel smaller than you have ever felt.
 [sk:Diplomacy | st:+Scorned | rn:Villainy+1]
+?? stage a mock joust to sell the swords | Mounted | 4
+++ In the next town, you ride up and down the market with one of Pym's swords, and challenge a friend of Pym's to a mock combat, and cut his wooden shield in half with a great flourish. The crowd gasps. Nobody notices that the shield was sawn through beforehand. By sundown, every sword is sold. Pym gives you your third and a real sword of your own.
+[d:L | tr:1 | rn:Villainy+2]
+-- You ride up and down the market and strike the sawn shield with a great flourish, and the tin sword bends double. The crowd laughs, and then gets angry. You and Pym leave town very fast.
+[sk:Mounted | st:+Scorned | rn:Villainy+1]
 
 === 1715
 You come upon a highwayman sitting on a stone at a crossroads, with a mask pushed up on his forehead and a heavy sack at his feet. He looks exhausted.
@@ -262,6 +322,11 @@ You look at the crystal ball, and the silver star, and the book of blue leather.
 [d:3 | sk:Spiritual | rn:Divinity+1]
 -- You turn your back to the signpost and walk straight out across the fields. After an hour, you come to a crossroads, and there is a stone, and there is a signpost pointing to itself. Owain sits down on the stone. So do you.
 [sk:Magic | st:+Lost]
+?? follow the stars, not the roads | Nature Lore | 5
+++ You wait until night and look up. The roads may be bewitched, but the stars are not. You take the pole star over your left shoulder and walk straight, with Owain holding your stirrup, over hedge and ditch and field, never looking at a signpost. By dawn you are ten miles away on a road you do not know. Owain falls on his knees and kisses it. He sells everything in the sack and gives the money to the church.
+[d:3 | sk:Wilderness | rn:Divinity+1]
+-- You wait for night and take the pole star over your shoulder and walk. At midnight, clouds cover the sky. At dawn, you are at the crossroads.
+[sk:Nature Lore | st:+Lost]
 
 === 1720
 You come upon a crowd around a gallows at a market town, where a young thief stands on the cart with a rope round his neck. He is laughing and joking with the hangman, but when he sees you, his face changes and he calls out.
@@ -281,6 +346,11 @@ The hangman is waiting. The rope is tight.
 [d:L | sk:Wilderness | rn:Divinity+2]
 -- The third ash tree past the mill has no turned earth at its foot. Nor does the second, or the fourth. You dig until dark and find nothing but roots. Either Dafydd lied, or someone found it first. You go to the bakehouse and tell Mistress Anest the truth, and give her what silver you have, which is not forty marks.
 [sk:Hunting | n:Lose 1 Treasure, if possible]
+?? work out where he really buried it | Wisdom | 4
+++ The third ash past the mill has nothing under it. You sit down and think. Dafydd was a thief; he would count the ash trees from the other end, from the road he fled along. You walk to the far end of the row and count three. The earth there is turned. The bag holds forty silver marks. Mistress Anest, when you bring it, sits down on her bakehouse floor and weeps for the silver, and for the thief.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- The third ash has nothing under it. You think hard, and dig under every other ash in Ludlow, and a good many oaks. The reeve arrests you for damaging the common. You never find the silver.
+[sk:Wisdom | st:+Imprisoned]
 
 === r20b
 "I will do it," you say. Dafydd smiles at you with pure relief. "Thank you," he says. They hang him. You ride to Ludlow, and find the third ash tree past the mill, and dig.
@@ -297,3 +367,9 @@ You push your horse through the crowd to the cart. "Sheriff," you say, "he is so
 [d:4 | sk:Courtly | rn:Divinity+2]
 -- The sheriff frowns. "He is sorry," he says, "because he is about to be hanged. If he were not about to be hanged, he would not be sorry." He nods to the hangman. You are too late even to hear where the silver is, and you ride away with that on your conscience.
 [sk:Diplomacy | st:+Despairing]
+?? offer yourself as surety for his penance | Honor | 6
+++ "Take the rope off him," you say, "and put it round my wrist. He will dig up the silver under guard and give it back. If he runs, hang me." The sheriff stares at you. The crowd goes quiet. At last, the sheriff nods. Dafydd digs up the silver under guard and gives it to Mistress Anest with his own hands, weeping. Then he goes to the High King's galleys for seven years, and does not run.
+[d:4 | sk:Courtly | rn:Divinity+2]
+-- "Put the rope round my wrist," you say. The sheriff considers this. "Then I will have two thieves," he says, "and I only need one." He nods to the hangman.
+[sk:Honor | st:+Despairing]
+

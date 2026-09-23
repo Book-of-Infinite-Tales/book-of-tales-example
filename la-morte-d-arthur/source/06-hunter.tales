@@ -83,6 +83,11 @@ You come upon a hunter kneeling in a forest glade with his bow on the ground bes
 [d:2 | sk:Courtly | rn:Divinity+1]
 -- The hermit is a sharp old woman who listens to Eustace's story and then says it was a trick of the light. Eustace is furious. He storms off into the old forest after the stag, and you never learn what he found.
 [sk:Diplomacy]
+?? confess beside him, so he is not alone | Piety | 4
+++ At the hermitage, you kneel first, and make your own confession in front of him, and it is not a short one. Eustace listens with his mouth open. When you have finished, he kneels too, and tells the hermit about every deer he ever killed. It takes three days. At the end of it, he gives you his bow. "I will not need it," he says. "I am going to be a gamekeeper."
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- At the hermitage you kneel first and begin your confession. Halfway through, Eustace gets up and walks out. "If a knight has done all that," he says, "what hope is there for me?" You have made it worse.
+[sk:Piety]
 
 === 1504
 You are riding at dusk along a lonely track across a heath when you hear horns, and hounds, and hoofbeats in the sky. A huntsman appears on the track ahead of you. He is tall as a tree, with a great pair of antlers growing from his head and a chain of rusted iron round his neck. Behind him, in the clouds, you see riders with hollow faces.
@@ -133,6 +138,11 @@ You come upon a young woman in green leather sitting on a fallen oak with a long
 [d:3 | sk:Wilderness | rn:Romance+2]
 -- You take Bran into the forest for a week and teach him to track. He is a poor pupil, and on the fourth day, he tracks a wild boar straight to its lair, and it chases you both up a tree. Rhian finds you there two hours later and shoots it. She laughs until she cries. Bran does not propose again.
 [sk:Hunting | st:+Scorned]
+?? teach Lord Bran to shoot from the saddle | Mounted | 5
+++ Bran cannot outshoot Rhian standing. But Bran was born on a horse, and Rhian was not. You spend a week teaching him to loose an arrow at full gallop, and at the end of it you set the match again: from horseback. Bran hits the mark at a gallop four times out of six. Rhian cannot hit it once. She stares at him. Then she laughs. "Teach me," she says. They are married by midsummer.
+[d:3 | sk:Martial | rn:Romance+2]
+-- You spend a week teaching Bran to shoot from horseback. On the last day, he shoots his own horse in the ear. Rhian laughs until she cries. Bran does not propose again.
+[sk:Mounted | st:+Scorned]
 
 === h05b
 You turn to Bran. "My lord," you say, "you want to marry the best archer in the Marches, and then stop her shooting?"
@@ -167,6 +177,11 @@ Across the stream, something huge moves in the bracken.
 [d:5 | sk:Martial | rn:Any+2 | tr:1]
 -- Iddawg drives the boar out of the bracken, and you ride it down along the stream. But when it turns at bay, it is faster than anything that size has any right to be. Its tusk rips your horse's belly, and you are thrown. When you get up, the boar is gone, and so is Iddawg, running after it. You find your way home alone. You dream of the boar, afterwards, every night, and wake with your hands clenched.
 [sk:Warfare | st:+Wounded | st:+Obsessed]
+?? bind the boar-king with the old words of his making | Magic | 6
+++ You remember the story: Twrch Trwyth was a king before he was a boar. You stand in the stream as it charges and call it by its king's name, loudly, three times. The boar stops, dripping, a spear's length from you. For a moment, in its small red eyes, you see a man. Then it turns and walks away up the valley, and Iddawg, weeping, lets it go. "It remembered," he says. "Seven years, and it remembered."
+[d:5 | sk:Spiritual | rn:Divinity+2]
+-- You stand in the stream and call the boar by its king's name. It does not stop. You leap aside at the last moment and it takes a strip out of your thigh as it passes. Iddawg runs after it, shrieking with joy.
+[sk:Magic | st:+Wounded | st:+Obsessed]
 
 === h07b
 "Seven years," you say. "Your brothers are dead. Your dogs are dead. What will the comb give you?" Iddawg looks at you blankly, as though you have spoken in a foreign tongue.
@@ -250,6 +265,11 @@ You take the slice. It is very good. "Share and share alike," you say. Tom laugh
 [d:L | tr:1 | rn:Villainy+1]
 -- You wrap the deer in your cloak and ride past the forester's lodge. Unfortunately, the deer's hind leg slips out from under the cloak and dangles there, with the king's brand clearly visible. The foresters are very interested. Tom escapes into the trees. You do not.
 [sk:Cunning | st:+Imprisoned | rn:Villainy+1]
+?? ride the deer out through the forest at speed | Mounted | 3+L
+++ You sling the deer across your saddle, pull Tom up behind you, and gallop through the forest by the rides the foresters use, straight past their lodge, waving. Nobody stops a knight at a gallop. At Tom's cottage, his wife and six children fall on the venison. Tom presses a purse of silver on you that he says came from a gentleman who did not know he was giving it.
+[d:L | tr:1 | rn:Villainy+1]
+-- You sling the deer across your saddle and gallop through the forest, and at the foresters' lodge your horse shies at a dog, and the deer slides off in front of the verderer. Tom escapes. You do not.
+[sk:Mounted | st:+Imprisoned | rn:Villainy+1]
 
 === h13b
 You shake your head. "The law is the law, Tom," you say. Tom sighs and puts down the knife. "They always say that," he says. "Right up until it's them."
@@ -258,6 +278,11 @@ You shake your head. "The law is the law, Tom," you say. Tom sighs and puts down
 [d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
 -- Tom runs, of course, and he knows every path in the forest, and you do not. You lose him in the first ten minutes. When you go back to the hollow, the venison has gone too.
 [sk:Hunting]
+?? persuade Tom to come quietly | Honor | 4
+++ You sit down by his fire. "If you run," you say, "they will hunt you, and your children will be poachers' orphans. If you come with me, I will speak for you." Tom looks at you for a long time. Then he puts out his fire. The verderer wants his hand. You speak for him, and pay the fine yourself. Tom sends you a pheasant every Michaelmas for twenty years.
+[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+-- You sit by his fire and speak of his children. Tom listens, nods, and hits you over the head with the spit. When you wake, the venison and the poacher are both gone.
+[sk:Honor | st:+Wounded]
 
 === 1515
 You come upon a hunting party in a forest clearing: six huntsmen with hounds and a young lord in green, all sitting on their horses in a circle, staring at each other in bewilderment.
@@ -287,6 +312,11 @@ You leave the huntsmen in their clearing and walk toward the white hart. It does
 [d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
 -- It leads you deeper and deeper into the wood, and you follow it for what seems like an hour. When you come out, the hunting party is gone, and so is the autumn. It is spring. You do not know where the months went.
 [sk:Magic | st:+Lost]
+?? follow the white hart with a prayer on your lips | Piety | 5
+++ You follow it praying, as the old hunters say you must, and the wood that has twisted round the huntsmen all day lets you pass straight. The hart leads you to a pool where a lady in white sits on a stone. "You prayed," she says. "Nobody prays for a hart." She releases the hunting party for your sake, and touches your forehead, and you feel it for days afterward, cool as water.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You follow it praying, but the wood twists round you all the same, and when you come out, it is spring, and you do not know where the months went.
+[sk:Piety | st:+Lost]
 
 === 1520
 You hear a man shouting for help in the forest, and ride toward the sound. You find a clearing churned to mud, a dead horse, and a huntsman clinging to the branch of an oak with his leg bent at a terrible angle. Beneath the tree, a great black boar is pacing, grunting, tearing at the roots with its tusks.

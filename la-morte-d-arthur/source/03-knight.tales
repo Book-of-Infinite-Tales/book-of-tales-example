@@ -26,6 +26,11 @@ As you come down to a ford, a lanky knight in battered armour hails you from the
 [d:3 | sk:Courtly | rn:Any+1 | rn:Villainy+1]
 -- Dinadan borrows a blue and white surcoat and rides up to the ford, trumpeting like a herald. Tarquin looks at him for a long moment and bursts out laughing. "I know that knight," he calls, "and he is a head taller." Meanwhile, the paddock has a guard you did not see, and you are marched across the ford at spear-point. Dinadan escapes, still apologising.
 [sk:Cunning | st:+Imprisoned]
+?? ride up in the champion's colours yourself | Mounted | 5
+++ You borrow Dinadan's blue and white surcoat and ride up to the ford sitting as tall as you can. Tarquin roars and charges, and you turn your horse and gallop away up the bank, and he chases you for a mile, bellowing, while Dinadan opens his dungeon. When Tarquin finally realises, he is too far away to do anything but swear. Sixty-four knights buy you wine that night.
+[d:3 | sk:Martial | rn:Any+1 | rn:Villainy+1]
+-- You borrow the blue and white surcoat and ride up to the ford. Tarquin charges, and you turn to flee, and your horse slips on the bank. Tarquin is on you before you are up. Dinadan escapes, apologising.
+[sk:Mounted | st:+Imprisoned]
 
 === 1202
 You come upon a knight lying on his back in the grass outside a castle wall, staring at the sky. His horse grazes nearby, and his armour is rusted where the dew has been at it for many nights.
@@ -43,6 +48,11 @@ You ride to the castle gate and ask to see the Lady Ettarde. She receives you in
 [d:4 | sk:Courtly | rn:Romance+2]
 -- You praise Pelleas's courage and his skill and his devotion, and with every word Ettarde's lip curls further. "If he is so fine," she says, "why does he need a stranger to say so?" Her knights escort you out, and that night they beat Pelleas harder than ever.
 [sk:Honor | st:+Scorned]
+?? win Ettarde for him with a love-charm | Magic | 5
+++ You go down to the stream at dusk and gather the herbs an old woman once told you about, and bind them with a thread from Pelleas's surcoat, and leave them on the lady's windowsill. In the morning, Ettarde looks out of her window at the man in the grass, and something in her face softens. She sends her maid to bring him in. You are not sure you have done a good thing. Pelleas is sure.
+[d:3 | sk:Spiritual | rn:Romance+1 | rn:Villainy+1]
+-- You gather the herbs and leave them on the lady's windowsill. In the morning, Ettarde looks out of her window and falls deeply in love with the first man she sees, who is her steward. Pelleas is heartbroken all over again.
+[sk:Magic | st:+Accursed]
 
 === n02b
 You haul Pelleas to his feet by his surcoat. "Enough," you say. "There are other windows in Britain."
@@ -149,6 +159,11 @@ The poem begins: *O Nest, thou art as white as linen, and as starch'd.*
 [d:3 | sk:Courtly | rn:Romance+2]
 -- You find Nest at the wash-house and read her the poem. At *starch'd*, your voice cracks, and you have to stop, and she sees your face. "Is this a joke?" she asks. You swear it is not, but she has seen the laugh in your eyes. When Kay hears that Nest threw the poem in the copper, he is quite sure whose fault it is. You spend a fortnight on latrine duty.
 [sk:Honor | st:+Scorned]
+?? bring Nest flowers from the meadow in Kay's name | Nature Lore | 4
+++ You go out to the water-meadows and pick an armful of meadowsweet and marigolds, the flowers laundresses use to scent the linen, and take them to the wash-house. "From Sir Kay," you say. Nest looks at the flowers, and at you, and smells them, and laughs. "He knows what I use?" she asks. "He noticed," you say. She is quiet a moment. "Tell him he may walk me to the Lammas fair." Kay turns red for a whole day.
+[d:3 | sk:Wilderness | rn:Romance+2]
+-- You go out to the water-meadows and pick an armful of flowers. Unfortunately, half of them are cowbane. Nest takes one look and drops them in the copper. "Is he trying to poison me?" she asks. Kay hears of it within the hour.
+[sk:Nature Lore | st:+Scorned]
 
 === n05b
 You fold the poem carefully. "I will see it reaches the right hands," you say. As soon as Kay has gone, you head for the great hall, where Sir Dinadan is holding court among the young knights.
@@ -226,6 +241,11 @@ There is no talking to him. He comes at you across the crossroads, and you fight
 [d:4 | sk:Martial | rn:Villainy+2 | tr:1]
 -- Lamorak rides into the crossroads singing. You and Gaheris burst out of the hedge on either side, but Lamorak hears you coming. He knocks Gaheris out of the saddle with one blow and rides you down with the next. When you wake, he is sitting on a milestone, bandaging Gaheris's head. "Tell your mother," he says to the groaning Gaheris, "I am sorry I will be late."
 [sk:Warfare | st:+Wounded | rn:Villainy+1]
+?? stalk Lamorak and take him at the stream | Hunting | 4
+++ You leave Gaheris in the hedge and go ahead alone, and find Lamorak watering his horse at a stream with his helmet off, singing. You come out of the reeds behind him. He turns, and sees your sword, and stops singing. You bring him back to the crossroads with his hands tied. Gaheris draws, and then looks at the big man standing quietly in the road, and cannot do it. He sends Lamorak across the sea instead. It is not what either of you meant.
+[d:3 | sk:Wilderness | rn:Villainy+1 | rn:Any+1]
+-- You go ahead alone through the reeds, and a heron gets up in front of you with a great clatter. Lamorak looks round, laughs, and rides off at a gallop. Gaheris blames you. So does the heron.
+[sk:Hunting | rn:Villainy+1]
 
 === n10b
 "You will not kill a man from a hedge," you say, "while I am here." Gaheris's face goes hard as stone. "Then I will start," he says, "with you."
@@ -235,6 +255,11 @@ There is no talking to him. He comes at you across the crossroads, and you fight
 [d:4 | sk:Martial | rn:Romance+2]
 -- Gaheris fights like his whole family is watching. He is faster than you, and angrier, and after a few minutes you are on the ground with his sword at your throat. Lamorak comes singing round the bend and stops dead. "Let the knight go," he says, "and fight me." Gaheris does. You lie in the road and watch them go at it. It ends with both of them bloody and nobody dead, and Gaheris swears to finish it another day.
 [sk:Sword & Shield | st:+Wounded]
+?? ride Gaheris down before he reaches his horse | Mounted | 4
+++ His horse is tethered at the edge of the crossroads, and he is on foot with his whetstone. You spur between him and it. He runs for the tether and you cut him off, and cut him off again, until he stands in the middle of the crossroads, panting, with his sword drawn and nowhere to go. Lamorak comes singing round the corner and stops, astonished. Gaheris walks home. It is a long way to Orkney.
+[d:3 | sk:Martial | rn:Romance+1]
+-- You spur between Gaheris and his horse, but he is quicker than you think. He is in the saddle before you have turned, and he rides you down instead. Lamorak finds you in the ditch.
+[sk:Mounted | st:+Unhorsed]
 
 === n10c
 "Wait," you say. "Let me speak to him first. If he will give up your mother, will you let him live?" Gaheris hesitates. "He will not," he says. "But try, if you like. I have waited long enough to wait a little longer."
@@ -243,6 +268,11 @@ There is no talking to him. He comes at you across the crossroads, and you fight
 [d:4 | sk:Courtly | rn:Divinity/Romance+2]
 -- You ride to meet Lamorak and tell him everything. He roars with laughter. "Let him try!" he says, and gallops past you to the crossroads, and the fight is on before you have turned your horse. You pull them apart eventually, but not before Gaheris has sworn on his father's grave to finish it. Gaheris blames you for the warning. Lamorak blames you for the delay.
 [sk:Diplomacy | st:+Scorned]
+?? make them both swear peace on a relic | Piety | 5
+++ You take a small bone of Saint David from your purse, which you have carried since your first pilgrimage, and hold it up between the two men. "Swear," you say, "that neither of you will draw on the other while this bone is in Britain." Neither dares refuse a saint. They swear. You keep the relic very safe after that, and you never, ever take it abroad.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You hold up the bone between them. Lamorak laughs and swears at once. Gaheris looks at it, and then at Lamorak laughing, and spits on the ground. "I will not swear on a bone," he says, "with my mother's shame still warm."
+[sk:Piety | st:+Scorned]
 
 === 1212
 You come upon a little manor house in a valley, with an orchard where an old knight is chasing a pig. The pig is winning. The knight is stout and white-haired and red in the face, and he is laughing so hard that he has to stop and hold on to a tree.
@@ -286,6 +316,11 @@ You come upon a knight sitting alone beside a small fire on a winter evening, re
 [d:L | sk:Wilderness | rn:Any+1 | tr:1]
 -- It is a hard road north in winter. On the high moors, a blizzard catches you, and you spend two nights in a shepherd's hut with your fingers turning black. By the time you reach Orkney, Morgause has already gone south. You leave the letter with her steward. Mordred thanks you anyway, warmly. "It is the thought," he says.
 [sk:Endure Hardship | st:+Wounded]
+?? ride hard by the coast road before the snows | Mounted | 4
+++ You take the coast road north, changing horses at every abbey, and reach Caithness before the first snow. The ferrymen say you are mad. Queen Morgause receives the letter, reads it and burns it. "Tell my son I understand," she says. When you return, Mordred embraces you. From then on, he greets you at court as a friend, and others notice it.
+[d:3 | sk:Martial | rn:Any+1 | tr:1]
+-- You take the coast road north and ride your horse lame at Berwick. The snows come while you are waiting for another. You reach Orkney a month late. Mordred thanks you warmly anyway. It is the warmth that makes you uneasy.
+[sk:Mounted | st:+Unhorsed]
 
 === n13b
 You take the letter with thanks. Two nights later, alone in an inn, you hold it over a candle and ease the seal loose with a hot knife.
@@ -314,6 +349,11 @@ You come upon a knight sitting on his horse in the middle of a field, alone, fac
 [d:3 | sk:Martial | rn:Romance+1]
 -- Griflet has practised well. His lance takes you squarely, and you go over your horse's tail into the grass. He is so delighted he gets down and helps you up and embraces you. "Ten!" he says. "Ten!" He rides off toward Camelot singing. You are left in the field with a bruised back and the wooden post, which seems to be looking at you.
 [sk:Mounted | st:+Unhorsed]
+?? fight him on foot instead, sword to sword | Sword & Shield | 4
+++ "A joust is ten courses of luck," you say. "Let us fight on foot, and see who is better." Griflet is delighted. You fight in the field for an hour, and he is better than any knight of nine victories has a right to be. At last you beat his sword down and he yields, laughing. "Nine," he says. "Still nine. But it was a good fight." He rides home the next week anyway. He says he has learned enough.
+[d:3 | sk:Martial | rn:Romance+1]
+-- "Let us fight on foot," you say. Griflet is delighted, and fights like a man who has practised on a post for three years, which he has. He beats you soundly. "Ten!" he cries. He rides home singing.
+[sk:Sword & Shield | st:+Wounded]
 
 === n15b
 "Sir Griflet," you say, "no one at court remembers that squire. But they have missed you." Griflet looks doubtful. "Do you think so?" he asks.
@@ -349,6 +389,11 @@ Balin looks at you, and his face changes. "You drew it," he says. "The damsel's 
 [d:5 | sk:Martial | rn:Divinity+2 | st:+Blessed]
 -- The red knight fights hard, and he fights like a man with nothing to lose. His sword finds the joint of your armour, and you go down on the stones. Before he can strike again, Balin has run across the causeway and thrown himself between you. You are carried to the tower. From a window, bleeding, you watch the two knights fight to the death on the causeway. Afterwards, when they unlace their helms, they are brothers. You close your eyes.
 [sk:Sword & Shield | st:+Wounded | st:+Despairing]
+?? ride against him along the narrow causeway | Mounted | 3+L
+++ You mount, and he mounts, and you ride at each other along the narrow stones with the water on either side. Your lance takes him on the shield and lifts him out of the saddle into the lake. When you drag him out and unlace his helm, he is a young man with Balin's face. "I am Balan," he says. On the shore, Balin cries out. You have turned a curse aside, for once.
+[d:4 | sk:Martial | rn:Divinity+2]
+-- You ride at each other along the narrow stones, and his lance takes you into the lake. Before he can finish you, Balin has run across the causeway. From the water, you watch the brothers fight, and die, and learn each other's names.
+[sk:Mounted | st:+Despairing]
 
 === n20b
 You ride out onto the causeway and raise your hand. The red knight stops. "Sir," you call, "before any blood is shed, will you show your face?"
@@ -357,3 +402,9 @@ You ride out onto the causeway and raise your hand. The red knight stops. "Sir,"
 [d:4 | sk:Spiritual | rn:Divinity+2]
 -- "Sir, there is a knight on the shore who has been given a shield that is not his own." The red knight laughs. "It is the custom of the island," he says. "Everyone has a shield that is not his own." He rides past you. You cannot stop what follows. When it is over, the two dead knights lie together on the causeway, and when their helms are unlaced, they are brothers.
 [sk:Wisdom | st:+Despairing]
+?? invoke the law of arms, that no knight fights in another's shield | Honor | 5
+++ "By the law of arms," you call, so that the ladies on the battlements hear it, "no knight may fight bearing another man's shield. That knight on the shore has been given a shield not his own. The custom of this island is broken." The red knight hesitates. The ladies look at each other. At last he unlaces his helm. He is a young man with Balin's face. The brothers meet on the causeway and weep.
+[d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+-- You call out the law of arms. The ladies on the battlements laugh. "Here," says one, "there is no law but the custom." The red knight rides past you. You cannot stop what follows.
+[sk:Honor | st:+Despairing]
+

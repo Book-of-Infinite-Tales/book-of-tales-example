@@ -13,6 +13,11 @@ You give your horse to the steward and walk in. The hall is golden, and the tabl
 [d:3 | sk:Courtly | rn:Romance+1 | tr:1]
 -- You eat a little, and drink a little, and toward midnight, without meaning to, you say, "My lady, may I know your name?" The whole hall goes silent. The lady smiles. "Of course," she says, and tells you, and you forget everything else. You wake in the market square three days later, among the fish.
 [sk:Honor | st:+Ensorcelled]
+?? ask her a better question than her name | Wisdom | 5
+++ At midnight, when the wish to ask her name is almost unbearable, you ask her something else instead: what she would like to be asked. The lady in green looks at you for a long moment. Then she laughs, delighted. "Nobody has ever asked me that," she says. She tells you. It is a very small thing, and very sad. At dawn she lets the three young men go with you, and gives you a cup of green glass.
+[d:3 | sk:Spiritual | rn:Romance+1 | tr:1]
+-- At midnight, you ask her what she would like to be asked. "My name," she says, smiling. And you ask it. You wake in the market square three days later, among the fish.
+[sk:Wisdom | st:+Ensorcelled]
 
 === m102b
 You do not go in. You walk slowly round the castle walls, looking for the seam in the spell.
@@ -35,6 +40,11 @@ You draw your sword. "The custom ends today," you say. The black knight calls ov
 [d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+2]
 -- You fight them at the gate, one at a time. You unhorse three. The fourth unhorses you. They carry you into the courtyard and lay you beside the pale maidens, and you watch them bleed until your wounds let you ride.
 [sk:Mounted | st:+Wounded | st:+Despairing]
+?? shame them by the vows of the Grail quest | Piety | 5
+++ You do not draw. You speak to the black knight and his nine of the Grail, which asks for clean hands, and of the maidens in the courtyard whose blood is on theirs. You ask them how many have died, and whether their lady is any better. The black knight tries to answer and cannot. At last he takes off his helm. "God forgive us," he says. "Enough." The maidens are sent home. You go in to see the lady, and find her alone in the dark, weeping.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You speak to them of the Grail and of clean hands. The black knight laughs. "The Grail has left us," he says. "We keep our own customs now." He closes the gate.
+[sk:Piety | st:+Despairing]
 
 === m202b
 "Let me see her," you say. "There may be another way." The black knight hesitates, then stands aside.
@@ -67,6 +77,11 @@ You find a boatman who still loves the old king, and at night, he rows you under
 [d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
 -- You go down the river by night, but at the estuary, Mordred's patrol boats are waiting. You swim for it. The letter, in its oilcloth, sinks. You reach the shore alive, and nothing else.
 [sk:Hunting | st:+Pursued | st:+Despairing]
+?? ride the letter out through the gate in a carter's clothes | Mounted | 5
+++ You borrow a carter's smock and a cart of cabbages, sew the queen's letter into the lining of the horse's collar, and drive out of the Ludgate at dawn with the market carts. The guards poke the cabbages with spears. Nobody looks at the horse. Ten miles out, you unharness it, and ride it bareback to Dover. In the High King's camp before Benwick, you put the letter into Arthur's hand.
+[d:L | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+-- You drive a cart of cabbages out of the Ludgate, and a guard who has been bored all night decides to search the horse. He finds the letter. You leave the cabbages and run.
+[sk:Mounted | st:+Pursued | st:+Despairing]
 
 === 2214
 As you ride through a forest in golden sunlight, you come upon a castle of white stone where there was no castle marked on any map. The gate is open. In the courtyard, the flagstones are laid out in black and white squares, and on them stand thirty-two people in painted tabards, stock still: kings, queens, knights, bishops and a great many servants as pawns.
@@ -83,6 +98,11 @@ You climb onto the other high chair and look down at the board. The white pieces
 [d:5 | sk:Spiritual | rn:Any+2 | st:+Esteemed]
 -- It is a long game. You lose a knight, then a bishop, then your queen. At last Guivret moves a pawn forward, and says, "Checkmate," softly. You climb down from the high chair and take your place on the board as a white knight. It is three days before another traveller comes, and wins, and sets you free.
 [sk:Wisdom | st:+Imprisoned]
+?? cheat the lord at his own game | Cunning | 5
+++ You notice that the black pieces watch their lord's eyes, and move a moment before he speaks. So you watch them too, and see his every plan before he makes it. Then you let him see you glance, once, toward his queen, and while he moves to protect her, you walk a white pawn to the end of the board. He does not notice until it is a queen. "Checkmate," you say. Guivret stares. Everyone is free.
+[d:4 | sk:Courtly | rn:Any+1 | rn:Villainy+1]
+-- You watch the black pieces' eyes, and one of them sees you doing it and tells Guivret. "Cheating," says the lord, delighted, "is a forfeit." You take your place on the board as a white knight.
+[sk:Cunning | st:+Imprisoned]
 
 === m114b
 "I do not play games with people," you say, and draw your sword. Guivret's face darkens. "Then you will play with my knights," he says, and the black pieces draw their swords.
@@ -115,6 +135,11 @@ You sit down beside the old lord's chair. "Tell me," you say.
 [d:L | sk:Wilderness | rn:Divinity+2]
 -- You dig for three days in the castle orchard, but the ground is full of roots and stones, and by the end, you have buried eleven knights and cannot lift a spade. You leave the rest where they lie, and the old lord watching them.
 [sk:Endure Hardship | st:+Wounded]
+?? lay the dead to rest with the words for the dead | Magic | 5
+++ You do not dig. You walk among the thirty-two dead knights on their black and white squares and close each one's eyes, and speak over each the old words that send the dead where they should go. As you speak, each body crumbles into white dust on its square. When the last is gone, the old lord gets up from his chair for the first time in years, walks onto the empty board, and lies down on it. In the morning, he is dust too.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You walk among the dead knights and speak the old words, and one of them sits up. You do not finish. You leave the castle very fast.
+[sk:Magic | st:+Mad]
 
 === 2414
 As you ride through a forest in dim sunlight, with the sound of a battle somewhere to the south, you come upon a castle of white stone, half fallen down. The gate hangs on one hinge. In the courtyard, the flagstones are black and white squares, cracked and overgrown with weeds, and on one of the white squares lies a wounded knight in the old king's colours, with a sword in his hand.
@@ -141,6 +166,11 @@ You lift the wounded knight across your saddle and lead your horse out through a
 [d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
 -- You lead your horse down a streambed, but the horse stumbles on the stones, and the wounded knight cries out. Mordred's men hear it. You run. You get away, but the knight does not.
 [sk:Nature Lore | st:+Pursued | st:+Despairing]
+?? ride hard for the king's camp with him across your saddle | Mounted | 4
+++ You tie the wounded knight across your saddle and ride, not away from Mordred's men, but past them, at a gallop, before they have finished coming through the gate. They shout and turn, but you are already gone. By nightfall you are in the old king's camp, and the surgeons are taking the knight. "Sir Lucan will hear of this," he says as they carry him off.
+[d:3 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+-- You ride hard past Mordred's men, and one of them has a spear. It takes your horse. You and the wounded knight go down together in the road.
+[sk:Mounted | st:+Unhorsed | st:+Despairing]
 
 === 2226
 You come upon a castle on a crag, with seven towers and seven banners, and a rope bridge swaying across the chasm to its gate. A herald stands at the bridge-end. "The Castle of Maidens," he announces. "Held by the seven sons of Duke Lianor. They have imprisoned every maiden who passed this road for seven years. Many knights have tried to free them. Most are in the moat."
@@ -165,6 +195,11 @@ You cross the bridge with your sword sheathed, and ask the brothers politely if 
 [d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
 -- You spend a day going back and forth between the brothers and the maidens, and by the end, they are all agreed on one thing: that you are a busybody. They put you out over the bridge.
 [sk:Diplomacy | st:+Scorned]
+?? find in the castle library the old charter of the college | Wisdom | 4
+++ While the brothers and the maidens argue, you go into the famous library, and after an hour among the shelves, you find it: the old duke's charter, which founds the castle as a house of learning for maidens, with seven brothers as its guardians. Nobody has read it in thirty years. You read it aloud in the hall. The brothers are astonished to find they are porters. The maidens are delighted. Lady Eleri gives you a book of your own.
+[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- You search the library for an hour and find a great many sermons and a cookery book. By the time you come out, the brothers and the maidens have agreed on one thing: that you are a busybody.
+[sk:Wisdom | st:+Scorned]
 
 === 2326
 You come upon a castle on a crag that turns. Slowly, all day and all night, the whole castle revolves on its rock like a millstone, and its gate comes round once every hour. A hermit sits at the foot of the crag, watching it. "The Turning Castle," he says. "Its lord was a knight who swore he would find the Grail before any other. He locked himself in and set the castle turning so nobody could reach him until he was ready. That was ten years ago. Nobody has seen him since." He looks up. "Sometimes, when the gate goes by, you can hear him singing."
@@ -181,6 +216,11 @@ You wait at the foot of the crag, watching the gate come round. When it is level
 [d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
 -- You gallop at the gate, and your horse leaps, and misses, and you fall back down the crag in a shower of stones. The hermit bandages you. "Most miss," he says. "Some several times."
 [sk:Mounted | st:+Wounded]
+?? climb the turning wall by its ivy | Endure Hardship | 5
+++ You do not leap for the gate. You wait for the ivy on the castle's side to come round, grab it, and hold on, and are swept up and away as the castle turns, clinging on, round and round, until you can climb to a window. In the chapel at the heart of the castle, you find the lord singing to an empty altar. You tell him the truth: not yet, and not by him. He stops the castle and walks out with you into the sunlight.
+[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You grab the ivy and are swept up and away, round and round, until the ivy tears. You fall into the heather at the hermit's feet. "Most fall," he says, and bandages you.
+[sk:Endure Hardship | st:+Wounded]
 
 === m226b
 You walk round the foot of the crag, watching the castle turn, looking for what turns it.
@@ -237,6 +277,11 @@ You shake your head at the porter and ride on. The music follows you across the 
 [d:2 | sk:Wilderness | rn:Divinity+1 | tr:1]
 -- You ride on, but the music follows, and after an hour, you find yourself at the gate again, with the porter smiling. He takes your horse. You are there until the next full moon.
 [sk:Endure Hardship | st:+Ensorcelled]
+?? pray to shut out the castle's music | Piety | 4
+++ You ride all night with the music in your ears, saying the psalms aloud, one after another, louder and louder, until you cannot hear anything else. At dawn, the music stops. You feel as though you have come through a great storm. In your saddlebag, you find a white rose you did not put there. It does not fade.
+[d:2 | sk:Spiritual | rn:Divinity+1 | tr:1]
+-- You ride all night saying psalms, but somewhere around the ninetieth, you find you are singing them to the castle's tune. At dawn, you are at its gate again.
+[sk:Piety | st:+Ensorcelled]
 
 === 2338
 You come upon a castle on a wide plain in a land gone to dust. The fields around it are grey and dead, and the moat is dry. In the gatehouse sits a knight in rusted armour, with his hands on the pommel of his sword. He does not move as you approach. "The Castle Mortal," he says. "King Pellam's brother lives here. He wounded his own brother with the spear that bleeds, and made the land waste, and he is proud of it." His voice is empty. "I am his porter. I have not eaten in a year. Nothing here eats. Nothing here dies."
@@ -277,6 +322,11 @@ A herald in Mordred's colours rides up to you. "Knight!" he calls. "King Mordred
 [d:5 | sk:Martial | rn:Villainy+2 | tr:1 | tok:12]
 -- You lead a party of sappers under the north wall. The defenders hear you digging and flood the mine. You are dragged out half-drowned, and the captain curses you for losing him twenty men.
 [sk:Warfare | st:+Plague-Ridden | rn:Villainy+1]
+?? talk the garrison into opening the gate | Cunning | 4
+++ You ride to the castle under a white branch and tell the castellan, very sadly, that the old king is dead over the sea, and that Mordred has promised mercy to any who open their gates by Sunday. You show him a letter you have written yourself. He believes it, because he wants the siege to end. The gate opens on Sunday. Mordred's captain gives you the castellan's sword and a manor. You try not to look at the castellan's face.
+[d:5 | tr:1 | rn:Villainy+2 | tok:12]
+-- You ride to the castle under a white branch with your false letter, and the castellan reads it and laughs. "The old king's army landed at Dover yesterday," he says. "Tell your master." Mordred's captain is not pleased that you told him first.
+[sk:Cunning | rn:Villainy+1]
 
 === m338b
 You thank the herald, ride away and circle round the camp by night to the castle's river side, where a rope hangs down the wall.
@@ -285,6 +335,11 @@ You thank the herald, ride away and circle round the camp by night to the castle
 [d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
 -- You swim the river with a sack of flour on your back, and the current takes you, and the flour, and you are washed up a mile downstream, in Mordred's camp. They do not know who you are. You spend a very frightening day pretending to be one of them.
 [sk:Endure Hardship | st:+Pursued]
+?? slip in by the reeds on the river side | Hunting | 4
+++ You leave your horse and crawl through the reeds below the castle on the river side, where the besiegers' watch is thinnest, and swim the last stretch under the water-gate. The defenders haul you up. You bring them word, and then you go back out the same way and bring them flour, three nights running. On the fourth night, you bring them news that the old king's army has landed. Mordred's host breaks camp two days later.
+[d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+-- You crawl through the reeds below the castle, and a heron gets up beside you with a great clatter. The besiegers' watch looks round. You spend the night lying in the river up to your nose.
+[sk:Hunting | st:+Plague-Ridden]
 
 === 2250
 As you pick your way through a bog at dusk, you see golden light shining across the water. It comes from the windows of a castle built on great wooden stilts over the marsh, with lanterns hung all along its walkways. A causeway of planks leads to its door, where a lady in a gown of silver-green is standing, as though waiting.
@@ -343,6 +398,11 @@ A young priest with a sword at his belt meets you at the end of the causeway. "F
 [d:4 | sk:Wilderness | rn:Divinity+2]
 -- You show them how to cut the causeway and put out every light. But a baby cries on the second night, and a patrol of Mordred's men hears it. They take the cattle and half the food, and they leave laughing. It could have been worse. It was bad enough.
 [sk:Nature Lore | st:+Despairing]
+?? make both armies think the marsh is full of plague | Cunning | 4
+++ You have the refugees hang rags on poles along every approach to the castle, the red rags that mark a plague house, and dig false graves along the causeway and paint crosses on the doors. When the scouts of both armies come through the marsh, they take one look and turn back, holding their noses. Neither army comes within a mile. Father Idris holds a mass of thanksgiving on the roof.
+[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+-- You hang red rags and paint crosses, and it works too well. Mordred's captain decides to burn the plague-castle to stop the sickness spreading. You get the people out in boats as it burns.
+[sk:Cunning | st:+Despairing]
 
 === m350b
 "Fight," you say. "If the old king wins, he will remember who stood with him." The young men cheer. Father Idris looks at you sadly. "And if he loses?" he asks.
@@ -367,6 +427,11 @@ You bring your boat alongside and climb up the rocks. The king falls on your nec
 [d:4 | sk:Martial | rn:Romance+1 | rn:Any+1]
 -- You rig the castle's banners as sails and shout orders from the battlements. The island turns very slowly and drifts faster toward Ireland. You land in Wexford with the King of Gwynedd, who is not pleased, and it takes you a month to get home.
 [sk:Warfare | st:+Lost]
+?? read the currents and let the island drift home | Nature Lore | 5
+++ You do not try to steer. You watch the sea for a day, and the weed, and the birds, and you find the current that runs back toward Gwynedd, a mile south. You get the king's household to paddle the island toward it with every oar and door they have. On the third day, the current takes it, and the island drifts gently back across the bay and grounds on a sandbank. The King of Gwynedd kisses the shore.
+[d:4 | sk:Wilderness | rn:Romance+1 | rn:Any+1]
+-- You watch the sea for a day and find a current, and paddle the island into it. It is the wrong current. You land in Wexford with the King of Gwynedd, who is not pleased.
+[sk:Nature Lore | st:+Lost]
 
 === m162b
 You look down at the island. It is covered in rock and seaweed, but where it meets the sea, you see something that looks very much like an eye, the size of a barn door, closed. It opens as you watch.

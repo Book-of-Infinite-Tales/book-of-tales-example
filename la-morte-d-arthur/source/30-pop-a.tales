@@ -26,6 +26,11 @@ Behind her, on a slipway among the trees, you see a ship being built of white wo
 [d:5 | sk:Wilderness*2 | rn:Any+2 | tr:Prydwen]
 -- You work with them, but the white wood splinters under your clumsy hands, and the silk tangles. At dawn, the eldest sister sends you home in the rowing boat with a basket of apples. "Come back," she says, "when your hands are quieter."
 [sk:Endure Hardship | d:1]
+?? learn the sisters' craft of binding virtue into wood | Magic | 6
+++ You do not plane or stitch. You sit with the eldest sister at the prow of the white ship while she sings the old words into the timber, and you learn them, line by line, until you can sing them back. By dawn, your words are in the ship too. "It is called Prydwen," she says. "It was always meant for the young king. But your song is in it now, so it will carry you first." She gives it to you, to take to Camelot.
+[d:5 | sk:Spiritual*2 | rn:Any+2 | tr:Prydwen]
+-- You sit with the eldest sister and try to learn the words, and they slide out of your head like water. At dawn she sends you home in the rowing boat with a basket of apples.
+[sk:Magic | d:1]
 
 === p2501c
 You look at the youngest of the nine. She has dark hair and grey eyes, and she is laughing at you. "Me?" she says. "Why me?" "Because you laughed," you say.
@@ -54,6 +59,11 @@ You take the spade. The ground is frozen hard as iron.
 [d:6 | sk:Wilderness | rn:Divinity+3 | st:+Blessed]
 -- You dig all day, and at dusk, you are waist-deep in a hole with nothing in it but stones. The monk thanks you, and goes on digging alone. You leave with blistered hands.
 [sk:Endure Hardship | st:+Wounded]
+?? find the grave by the old signs of the island | Nature Lore | 5
+++ You do not dig where the monk has been digging. You walk the island and look at the ground, and at the moss, and at where the snow does not lie. At the foot of the hill, there is a place where the frost never forms, and a wild rose grows through it in winter. You dig there. Your spade strikes a slab carved with a cross, and under it an old man sleeps with two crystal vessels at his feet. You put the slab back. When you stand up, the apple trees are in blossom.
+[d:6 | sk:Wilderness | rn:Divinity+3 | st:+Blessed]
+-- You walk the island looking for signs, and find a place where the frost never forms, and dig. It is a hot spring. The monk thanks you. His feet, at least, are warm.
+[sk:Nature Lore]
 
 === p2513b
 You climb the hill. The thorn tree is covered in white flowers, and it smells of snow and honey. You kneel beneath it.
@@ -62,6 +72,11 @@ You climb the hill. The thorn tree is covered in white flowers, and it smells of
 [d:5 | sk:Spiritual | rn:Divinity+2 | tr:1]
 -- You pray until dark. The thorn drops its petals on you. You hear nothing but the wind. When you come down, the monk is still digging.
 [sk:Piety]
+?? keep the winter vigil under the thorn through the night | Endure Hardship | 5
+++ You kneel beneath the thorn and do not rise when the sun goes down. The frost comes. Your knees freeze to the ground. Near midnight, you hear a voice, very quiet, like an old man speaking from the next room. It says your name. It says, *Not here. Not me. Go on.* When you come down the hill at dawn, the monk looks at your face and stops digging. He gives you a sprig of the thorn, still in flower.
+[d:5 | sk:Wilderness | rn:Divinity+2 | tr:1]
+-- You kneel beneath the thorn through the night, and near midnight you cannot feel your hands, and the monk comes up the hill and carries you down to his fire. You hear nothing but the wind.
+[sk:Endure Hardship | st:+Wounded]
 
 === 2525
 You come to the edge of a great lake at dawn, after the last battle, with the mist lying on the water. On the shore, among the reeds, the old king lies on a cloak, grey-faced, with his crown beside him and a great wound in his head. Sir Bedivere is kneeling beside him, weeping. Sir Lucan lies dead a little way off.
@@ -91,6 +106,11 @@ You take the sword from Sir Bedivere's hands. It is heavier than any sword you h
 [d:6 | sk:Courtly | rn:Divinity+2 | rn:Romance+1]
 -- You look at the sword, and you cannot. You hide it in the reeds and come back. "What did you see?" asks the old king. "The wind on the water," you say. His face twists with grief. "You have lied to me," he says. In the end, Sir Bedivere throws it. The hand rises and takes it. The old king does not look at you again.
 [sk:Honor | st:+Despairing | rn:Divinity-1]
+?? throw it true with a strength not your own | Endure Hardship | 5
+++ The sword is so heavy that you can barely lift it above your head, and your arms are shaking from the battle. You pray, once, and throw. It wheels out over the lake, flashing, farther than any man could throw it, and an arm in white samite rises out of the water and catches it by the hilt, and brandishes it three times, and draws it under. When you turn round, the old king is smiling. "Well done," he says. "The first time."
+[d:6 | sk:Wilderness | rn:Divinity+2 | rn:Romance+1]
+-- The sword is so heavy you can barely lift it. You throw, and it falls in the reeds at the water's edge. Sir Bedivere wades in and throws it for you. The arm rises and takes it. The old king does not look at you.
+[sk:Endure Hardship | st:+Despairing]
 
 === p2525b
 You kneel and lift the old king in your arms. Sir Bedivere takes his feet. Together, you carry him down to the water.
@@ -99,6 +119,11 @@ You kneel and lift the old king in your arms. Sir Bedivere takes his feet. Toget
 [d:6 | sk:Wilderness | rn:Divinity+1 | rn:Romance+2 | tr:Carnwennan]
 -- You carry him out into the water, but your legs give way, and you both fall. The three queens reach down and lift him out of the lake themselves, and the barge goes out into the mist. You are left kneeling in the water, with nothing.
 [sk:Endure Hardship | st:+Despairing]
+?? command the barge-queens by the old king's own right | Honor | 5
+++ You do not carry him yet. You stand in the water and call to the three queens, in the old king's name, that he will go to his barge borne by his knights, as a king goes, and not lifted like a sack. The queen in the middle lowers her veil and nods. You and Bedivere carry him out between you, and lay his head in her lap. He looks up at you. "Carnwennan," he says, and presses his dagger into your hand. "For the next time."
+[d:6 | sk:Courtly | rn:Divinity+1 | rn:Romance+2 | tr:Carnwennan]
+-- You call to the three queens in the old king's name. They do not answer. They reach out of the barge and take him from the shore themselves, and it goes out into the mist.
+[sk:Honor | st:+Despairing]
 
 === p2525c
 Sir Bedivere holds out the sword to you, weeping. "You do it," he says. "I cannot." You take it. The old king has closed his eyes.
@@ -128,6 +153,11 @@ You thank the herald and ride on, past the camp, round the walls, to where the r
 [d:6 | sk:Martial | rn:Romance+2 | tr:White Dun-Mane]
 -- You swim your horse up the river under the walls, but Claudas's men have laid a boom across it. You are caught, and taken to Claudas, who laughs and sends you home without your horse.
 [sk:Warfare | st:+Unhorsed | st:+Imprisoned]
+?? find the river-way under the walls | Nature Lore | 5
+++ You do not fight through the siege lines. You walk the riverbank at dusk, as a fisherman would, and find where the old eel-weirs run under the water-gate, below the besiegers' boom. At midnight, you swim your horse along the weirs, in the dark, under the walls, and come up at the water-gate shouting King Ban's name. You spend a month on the walls. When the young king's army lands, Claudas flees. King Ban gives you a white horse from his own stable.
+[d:6 | sk:Wilderness | rn:Romance+2 | tr:White Dun-Mane]
+-- You find the old eel-weirs and swim your horse along them at midnight. The besiegers have found them too.
+[sk:Nature Lore | st:+Imprisoned]
 
 === p2502b
 You ride into the besiegers' camp under a white branch and ask to see King Claudas. He is a lean, fox-faced man with a gold chain on his chest. "Peace?" he says. "I have ten thousand men and he has three hundred."
@@ -136,6 +166,11 @@ You ride into the besiegers' camp under a white branch and ask to see King Claud
 [d:6 | sk:Courtly | rn:Divinity+1 | rn:Romance+2 | tr:1]
 -- You tell him the young British king has sworn to defend King Ban. Claudas laughs. "Then let him come," he says, "and find Benwick in ashes." He has you escorted out of the camp. Benwick falls a month later.
 [sk:Diplomacy | st:+Despairing]
+?? meet King Claudas's champion to decide the siege | Sword & Shield | 6
+++ You offer Claudas a bargain: single combat, his champion against you, and whoever loses, his king's army goes home. Claudas laughs and accepts, because his champion is a giant of a man from the Desert Land. You fight him on the bridge before Benwick's gate, with both armies watching. It is the hardest fight of your life. At the end, the champion yields. Claudas, to his credit, keeps his word. You are given gifts by both sides.
+[d:6 | sk:Martial | rn:Romance+2 | tr:1]
+-- You fight Claudas's champion on the bridge before Benwick's gate. He throws you off it into the moat. Benwick falls a month later.
+[sk:Sword & Shield | st:+Wounded | st:+Despairing]
 
 === p2502c
 You look at the smoke over the walls, and at the herald, and at the land Claudas is offering. "I will stand aside," you say.
@@ -175,6 +210,11 @@ You kneel in the courtyard at the foot of the tower and pray aloud. The ladies a
 [d:5 | sk:Spiritual | rn:Divinity+2 | st:+Blessed]
 -- You pray for a sign. The ladies scream louder, and lean further out, and one of them falls. She vanishes before she hits the ground. You do not know if it was a sign or a death.
 [sk:Piety | st:+Despairing]
+?? bind the demons with the old words and holy water | Magic | 6
+++ You take the flask of holy water that every Grail knight carries and sprinkle a circle round the tower's foot, and speak the words that bind what is not what it seems. The ladies on the tower scream. Their faces slip like masks. One by one, they turn to smoke and are drawn down into the circle, and are gone. The old hermit gets up very slowly. "I prayed for that for twenty years," he says.
+[d:5 | sk:Spiritual | rn:Divinity+2 | st:+Blessed]
+-- You sprinkle a circle of holy water round the tower and speak the binding. The circle holds nothing. One of the ladies falls. She vanishes before she hits the ground. You do not know if it was a demon or a death.
+[sk:Magic | st:+Despairing]
 
 === p2514c
 You look up at the ladies on the tower. You cannot let them die. "Come down," you call. "I will love you."
@@ -202,6 +242,11 @@ The old king sits in his pavilion, grey and tired. "I do not want this war," he 
 [d:6 | sk:Martial | rn:Romance+2 | rn:Any+1]
 -- You lead the assault on the north wall, and it fails. You are carried from the ditch with an arrow in your leg. The siege goes on.
 [sk:Warfare | st:+Wounded | st:+Despairing]
+?? break the walls with a mine under the north tower | Endure Hardship | 6
+++ You do not climb ladders. You take thirty men and dig, for a month, under the north tower, in the wet and the dark, propping the tunnel with timber. On the last night, you fire the props. The tower groans and falls. But before the army can pour through the breach, the gates open, and the queen's champion rides out alone, unarmed, and kneels in the mud before the old king's pavilion. The old king weeps. The assault is called off.
+[d:6 | sk:Wilderness | rn:Romance+2 | rn:Any+1]
+-- You dig for a month under the north tower, and the defenders dig a counter-mine, and the two tunnels meet in the dark. You are dragged out, half-buried.
+[sk:Endure Hardship | st:+Wounded]
 
 === p2526b
 You ride to the gate of Benwick under a white branch. They let you in. The queen's champion's kinsmen, Sir Bors and Sir Lionel and Sir Ector de Maris, meet you in the courtyard, grave and grey.
@@ -210,6 +255,11 @@ You ride to the gate of Benwick under a white branch. They let you in. The queen
 [d:7 | sk:Courtly | rn:Divinity+2 | rn:Romance+1 | st:+Esteemed]
 -- You speak to them all night, but in the morning, the great knight of Orkney hears that you have been inside Benwick, and calls you a traitor before the whole army. The peace is dead before it is born.
 [sk:Diplomacy | st:+Scorned]
+?? carry the peace by the old right of a herald | Honor | 6
+++ You take a herald's white tabard and a herald's white staff and ride to the gate of Benwick, and demand entry by the law that no knight on either side will break. They let you in. Sir Bors and Sir Lionel and Sir Ector de Maris meet you in the courtyard, grave and grey, and you talk all night. At dawn, you ride out with terms. The old king reads them and puts his face in his hands. "Yes," he says. It is the only peace anyone makes in those last years.
+[d:7 | sk:Courtly | rn:Divinity+2 | rn:Romance+1]
+-- You ride to the gate as a herald, and the great knight of Orkney sees you do it, and calls you a traitor before the whole army. The peace is dead before it is born.
+[sk:Honor | st:+Scorned]
 
 === p2526c
 "My lord," you say, "the war that matters is not here. It is at home. Mordred has your crown."
@@ -218,6 +268,11 @@ You ride to the gate of Benwick under a white branch. They let you in. The queen
 [d:6 | sk:Spiritual | rn:Divinity+1 | rn:Romance+2 | tr:Goswhit]
 -- You tell him about Mordred. The old king listens, and then shakes his head. "My nephew of Orkney will not leave," he says, "and I will not leave him." The siege goes on. You go home alone.
 [sk:Wisdom | st:+Despairing]
+?? ride home ahead of the army to show the king what Mordred has done | Mounted | 6
+++ You do not argue. You take ship at night, ride through Kent in three days, see Mordred's banners on every tower and the Saxon ships in every creek, and ride back to the coast and take ship again. You walk into the old king's pavilion with mud to your waist and tell him what you have seen with your own eyes. He listens with his head bowed. "I have been fighting the wrong war," he says. He gives you his helm, Goswhit, to carry before him on the march.
+[d:6 | sk:Martial | rn:Divinity+1 | rn:Romance+2 | tr:Goswhit]
+-- You take ship and ride through Kent, and Mordred's men catch you at Rochester. By the time you escape, the old king has heard the news from someone else.
+[sk:Mounted | st:+Imprisoned]
 
 === 2503
 You come across the sea to the island of Lewis at midsummer, to the great stones of Callanish, which stand in a cross on a hill above a grey loch. At dawn, as the sun rises over the hills, a figure walks down the long avenue of stones toward the centre of the circle: a tall man in a cloak of feathers, shining.
@@ -244,6 +299,11 @@ You sit down with the islanders at the edge of the circle. The old woman looks a
 [d:5 | sk:Spiritual | sk:Wisdom | rn:Divinity+1 | tr:Unfailing Bow]
 -- They teach you for a week, but you cannot hold the tunes, and the words are in a tongue you do not know. The old woman pats your hand. "Some people are for gifts," she says. "Not songs."
 [sk:Wisdom]
+?? learn the stones' reckoning by watching the sky with them | Nature Lore | 5
+++ You do not learn the songs. You lie on the hill among the stones for five nights with the islanders, watching the moon rise between them and the sun set in the notches of the hills, until you can see for yourself how the stones count the year. On the last night, the old woman nods. She gives you a bow of yew wood, very old, from her grandfather. "It never misses," she says, "if you know where the moon is."
+[d:5 | sk:Wilderness | rn:Divinity+1 | tr:Unfailing Bow]
+-- You lie among the stones for five nights, and it is cloudy for all five. The old woman pats your hand. "Some years," she says, "the sky does not want to be counted."
+[sk:Nature Lore]
 
 === 2515
 You come across the sea to Callanish in the Grail year, and find the stones white with frost in midsummer. The loch is frozen. An old hermit lives in a hut at the foot of the avenue, and he is waiting for you at his door.
@@ -260,6 +320,11 @@ You walk the avenue with the hermit, touching each stone. They are cold as ice. 
 [d:6 | sk:Spiritual | rn:Divinity+2 | tr:Stone of Giramphiel]
 -- You find a black stone in the centre of the circle and try to move it, and it burns your hands like ice. You cannot shift it. The stones stay silent.
 [sk:Magic | st:+Wounded]
+?? heave the black stone out of the circle | Endure Hardship | 6
+++ It is a black stone in the centre of the circle, where no stone should be, humming a low, ugly note. You wrap your hands in your cloak against the cold that burns, and dig round it, and heave, and heave again, until it topples and rolls down the hill into the frozen loch. At once the frost melts. The stones begin to sing. The hermit gives you a small grey stone from the circle, warm as a hand. "It will always know where the Grail is," he says.
+[d:6 | sk:Wilderness | rn:Divinity+2 | tr:Stone of Giramphiel]
+-- You wrap your hands and heave at the black stone. It does not move. Your hands are frostbitten for a month.
+[sk:Endure Hardship | st:+Wounded]
 
 === p2515b
 "When?" you ask. The old hermit looks at his slate for a long time.
@@ -282,6 +347,11 @@ You stand in the circle among the singers and open your mouth, and the note come
 [d:6 | sk:Wilderness | rn:Divinity+2 | rn:Romance+1]
 -- You sing all night, and at dawn, your voice gives out. The stones go on without you. When you leave, you still cannot speak.
 [sk:Endure Hardship | st:+Wounded]
+?? pray with the old priests that the king may pass in peace | Piety | 5
+++ You do not try to hold back what is coming. You kneel in the centre of the circle and pray, not that the king should live, but that he should die well and be carried somewhere safe. The old priest, hearing you, stops singing, and kneels beside you, and so do the others, one by one. The stones' note changes. It is still a lament. It is not a cry any more. When you leave, the old priest blesses you in a tongue you do not know.
+[d:6 | sk:Spiritual | rn:Divinity+2]
+-- You kneel and pray that the king may pass in peace. The old priest looks at you with pity. "Then you have given him up," she says, "before we have." The stones sing on without you.
+[sk:Piety | st:+Despairing]
 
 === p2527b
 "Singing will not save him," you say. "Swords might." The old priest looks at you sadly, but she does not stop you.
@@ -290,6 +360,11 @@ You stand in the circle among the singers and open your mouth, and the note come
 [d:6 | sk:Martial | rn:Romance+2 | tr:1]
 -- You gather thirty young men and sail south, but a storm scatters the boats in the Minch. You land in Galloway with six men, too late for anything.
 [sk:Warfare | st:+Despairing]
+?? steer the island boats through the Minch in a gale | Nature Lore | 5
+++ You gather thirty young men and the islanders' boats, and you do not wait for fair weather. You read the gale and the tide-races of the Minch as the island fishermen taught you, and bring every boat through to Galloway, and march south. You join the old king's army a week before the last battle. The islanders fight like demons. The ones who live go home to Lewis and tell their children that they stood with Arthur.
+[d:6 | sk:Wilderness | rn:Romance+2 | tr:1]
+-- You read the gale and the tide-races, and read them wrong. The boats are scattered. You land in Galloway with six men, too late for anything.
+[sk:Nature Lore | st:+Despairing]
 
 === 2504
 You come to Camelot on the day the Round Table arrives from Cameliard, the wedding gift of King Leodegrance. It fills the great hall: a circle of oak so big that a hundred and fifty knights can sit at it, and no seat is higher than any other. Merlin is walking round it with his staff, touching each seat, and as he touches them, names appear on their backs in letters of gold.
@@ -329,6 +404,11 @@ You look across at the black seat. "Master Merlin," you ask. "Whose is that?"
 [d:5 | sk:Spiritual | rn:Divinity+1 | rn:Any+1 | tr:Staff of Merlin]
 -- Merlin looks at you. "A seat," he says, "for someone who asks fewer questions than you." The court laughs, and Sir Kay laughs loudest. You take your own seat with your ears burning, and resolve that the next time you want to know something, you will watch and wait instead of asking.
 [sk:Wisdom]
+?? sense the seat's power with your own hand | Magic | 5
+++ You do not ask. You walk across the circle and lay your palm on the back of the black seat, not sitting, only touching. It is hot as a forge and cold as a well at once, and through your hand you feel it waiting, very patiently, for someone. You take your hand away. Merlin is looking at you with interest. "Most people ask," he says. He gives you his own staff to hold while he eats, and forgets to take it back.
+[d:5 | sk:Spiritual | rn:Divinity+1 | rn:Any+1 | tr:Staff of Merlin]
+-- You lay your palm on the back of the black seat. It burns you. You spend the feast with your hand in a bowl of water, and Merlin laughing.
+[sk:Magic | st:+Wounded]
 
 === p2504c
 You walk across the circle to the black seat. The court gasps. Merlin does not move to stop you.
@@ -356,6 +436,11 @@ You sit down beside the High King. He pours you wine.
 [d:6 | sk:Courtly | rn:Romance+2 | tr:Rhongomyniad]
 -- You try to cheer him, but every story you tell reminds him of someone who has gone. By midnight, he is weeping into his wine. You leave him there, alone, with the empty seats.
 [sk:Honor | st:+Despairing]
+?? take the king out hawking as in the old days | Hunting | 4
+++ You do not sit at the empty table. You tell him that his hawks have not flown in a month, and take him out onto the downs with a falcon on his fist, and nobody else. You fly the hawks all afternoon. He laughs when his falcon misses a heron. He tells you stories of Sir Ector's pig and Merlin's temper. At dusk, he looks like a younger man. He gives you a spear from the wall of his hall, which his father carried.
+[d:6 | sk:Wilderness | rn:Romance+2 | tr:Rhongomyniad]
+-- You take him out hawking, and his falcon flies off and does not come back. He stands on the downs looking at the empty sky for a long time. You ride back in silence.
+[sk:Hunting | st:+Despairing]
 
 === p2516b
 You stand before the High King. "My lord," you say, "I go to seek the Grail." The High King closes his eyes.
@@ -364,6 +449,11 @@ You stand before the High King. "My lord," you say, "I go to seek the Grail." Th
 [d:5 | sk:Spiritual | rn:Divinity+2 | st:+Determined]
 -- He opens his eyes. "Go, then," he says. "Everyone else has." He does not bless you. You ride out of Camelot with a heavy heart, and the quest is harder for it.
 [sk:Piety | st:+Despairing]
+?? ride out on the quest in the king's own company, not away from him | Mounted | 5
+++ You do not ask his blessing to leave. You ask him to ride with you, for one day, as far as the first crossroads. He stares at you. Then he calls for his horse. You ride out of Camelot together at dawn, the king and one knight, and at the crossroads he draws his sword and lays it on your shoulder. "Find it," he says. "And come back." You do not find the Grail. But you feel it, sometimes, on the roads.
+[d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+1 | st:+Determined]
+-- You ask him to ride with you as far as the first crossroads. He shakes his head. "I cannot even ride out of my own gate," he says, "without them following."
+[sk:Mounted | st:+Despairing]
 
 === p2516c
 You walk over to the chess table in the corner. Mordred looks up with his warm smile. Agravain does not look up at all. "Friend," says Mordred. "Do you play?"
@@ -372,6 +462,11 @@ You walk over to the chess table in the corner. Mordred looks up with his warm s
 [d:5 | sk:Courtly | rn:Any+2]
 -- You sit down and play him. He beats you in eleven moves, gently, as if he were teaching a child. Then he looks up at you with his warm grey eyes. "Everyone has a weakness, friend," he says. "Now I know yours."
 [sk:Cunning | st:+Scorned]
+?? confront Mordred and Agravain openly before the court | Diplomacy | 6
+++ You do not sit down to their game. You ask them, loudly enough for the hall to hear, what is written in Agravain's book, and why it has the queen's name in it. The hall goes quiet. Agravain closes the book. Mordred smiles. "Friend," he says, "you are very interested in our affairs." But the High King has heard, and looks at his son for a long time, and Agravain's book is not seen in the hall again.
+[d:5 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+-- You ask them loudly what is in Agravain's book. Mordred opens it and reads out a page of household accounts. The hall laughs. At you.
+[sk:Diplomacy | st:+Scorned]
 
 === 2528
 You come to Camelot on a grey morning in the last years, and find the whole city gathered in the meadow outside the walls, where a stake has been driven into the ground and faggots piled round it. Queen Guinevere stands chained to it, in a white shift, very pale and very straight. The High King sits on a horse, facing away. He cannot watch.
@@ -418,6 +513,11 @@ You take your place among the guard at the stake. The law is the law. The king m
 [d:6 | sk:Martial | rn:Romance+1 | rn:Any+2]
 -- You fight at the stake, and the riders break through the guard in the first charge, and you are struck down. When you come to, the queen is gone, and Gareth and Gaheris are dead in the ashes, and the war has begun.
 [sk:Sword & Shield | st:+Wounded | st:+Despairing]
+?? form the guard into a wall round the stake | Warfare | 6
+++ You do not fight alone. You take command of the guard, who are frightened and disordered, and form them into a ring round the stake, shields locked, as the old king taught at Badon. When the riders come out of the woods, they strike a wall. It holds longer than anything could have held. At last, they break through and carry the queen away. The king, afterwards, sends for you. "You held," he says.
+[d:6 | sk:Martial | rn:Romance+1 | rn:Any+2]
+-- You form the guard into a ring, but the riders are the best knights in the world, and they come through the ring at its weakest place, which is where Gareth and Gaheris are standing unarmed.
+[sk:Warfare | st:+Despairing]
 
 === p2528b
 You look at the queen at the stake, and at the executioner's torch, and at the king who cannot watch. You draw your sword and run toward the queen.
@@ -426,3 +526,9 @@ You look at the queen at the stake, and at the executioner's torch, and at the k
 [d:6 | sk:Martial | rn:Romance+2 | tr:Necklace of the Lake | st:+Pariah]
 -- You run toward the queen, and the guard catches you before you reach the stake. You are held down in the grass while the riders come. They free her anyway. You are arrested by the king's men for treason.
 [sk:Mounted | st:+Imprisoned]
+?? loose the queen's chains with a word before the torch falls | Magic | 6
+++ You do not run. You stand at the edge of the crowd and look at the chains, and speak the old words for opening, which work on locks and gates and sometimes on the iron of a stake. The chains fall from the queen's wrists into the faggots. She looks down at them, astonished, and in that moment the riders come out of the woods and reach her, and she is gone. Nobody saw you. She sends you, a month later, a necklace of pearls from the lake.
+[d:6 | sk:Spiritual | rn:Romance+2 | tr:Necklace of the Lake]
+-- You speak the old words for opening, and the chains do not fall. The riders come anyway, and cut them.
+[sk:Magic | st:+Despairing]
+

@@ -13,6 +13,11 @@ You come upon a dwarf on a tall white mule, dressed in a herald's tabard so long
 [d:3 | sk:Courtly | rn:Romance+1 | tr:1]
 -- At Camelot, the court is outraged by the message, and before you can speak, Sir Kay has knocked Tudwal off his mule. The High King rebukes Kay, but the damage is done. Tudwal rides home with a black eye, and King Ryons, you hear, is delighted to have a new grievance.
 [sk:Honor | st:+Scorned]
+?? advise the herald how to deliver it without changing a word | Wisdom | 4
+++ On the road, you work it out together. The words must stay the same; that is the herald's law. But the manner of reading them is his own. At Camelot, Tudwal reads King Ryons's demand in a voice of such exaggerated pomposity, with such flourishes on his silver trumpet, that the whole court is laughing before he reaches the word *beard*. The High King laughs loudest. Tudwal leaves with a new tabard and gives you his old trumpet.
+[d:3 | sk:Spiritual | rn:Romance+1 | tr:1]
+-- You advise him to read it in a pompous voice. He does. Unfortunately, the High King is in a bad mood that day, and thinks the herald is mocking him. Tudwal is thrown out of the hall.
+[sk:Wisdom | st:+Scorned]
 
 === d01b
 "Tell your king's champion," you say, "that there is a knight at this crossroads who answers for the High King." Tudwal's eyes light up. "Oh, splendid," he says. "Nobody ever answers."
@@ -21,6 +26,11 @@ You come upon a dwarf on a tall white mule, dressed in a herald's tabard so long
 [d:4 | sk:Martial | rn:Romance+2]
 -- The champion arrives two days later on a horse covered in black bearskin. He puts you in a gorse bush on the first pass. Tudwal sighs, and writes a new message: *Arthur's knight answered, and is in a gorse bush.* You help him spell *gorse*.
 [sk:Mounted | st:+Unhorsed]
+?? fight the champion on foot when his lance breaks | Sword & Shield | 5
+++ The champion's lance shatters on your shield on the first pass, and so does yours, and you both come off your horses. You meet him on foot among the gorse. He is big and slow and angry. You are quicker. By the end, he is on his back in a gorse bush, and Tudwal is writing a message on the back of the old one: *Arthur's knight has answered.* He rides home with it, whistling.
+[d:4 | sk:Martial | rn:Romance+2]
+-- The champion's lance and yours both shatter, and you meet him on foot. He is bigger than you thought and not slow at all. You end up in the gorse bush. Tudwal helps you spell *gorse*.
+[sk:Sword & Shield | st:+Wounded]
 
 === 2002
 You come upon a dwarf walking along the road leading a riderless horse. A knight's shield is strapped to the saddle, dented and scraped, with a broken lance-head still stuck in it. The dwarf is walking slowly, as if he does not want to arrive.
@@ -37,6 +47,11 @@ You come upon a dwarf walking along the road leading a riderless horse. A knight
 [d:4 | sk:Courtly | rn:Divinity+2]
 -- The widow receives you in her hall. Grugyn tells her. When he finishes, she stands up and slaps him, hard, across the face, and then she slaps you. "How dare you," she says. "How dare you say that in his house." You are both put out of the gate.
 [sk:Honor | st:+Scorned]
+?? pray with the widow before the words are spoken | Piety | 4
+++ At the manor, before Grugyn says anything, you ask Lady Nest to pray with you for her husband's soul. She kneels. Grugyn kneels. You pray for a knight who was afraid, and asked to be brave, and failed, and was loved. You say it plainly. When you rise, Lady Nest's face is wet, but she is not surprised. "He was always afraid," she says. "I made him a knight." She keeps Grugyn as her steward.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You ask Lady Nest to pray with you. She does, but when you pray for a knight who was afraid, she stands up and walks out of the chapel. She will not see either of you again.
+[sk:Piety | st:+Scorned]
 
 === d02b
 "She has lost her husband," you say. "She need not lose him twice." Grugyn looks at you doubtfully. "But what shall I say?"
@@ -61,6 +76,11 @@ You come upon a dwarf in a pilgrim's grey habit, sitting by the road at the foot
 [d:L | sk:Martial | rn:Divinity+2]
 -- The robbers are waiting at the top of the pass. You charge them, but there are too many, and the crossbowman shoots your horse. In the confusion, one of them snatches the bell from the dwarf's hands. Brother Ifan sits in the road afterwards and says nothing for a long time. Then he says, "Well. It will ring for them now, I suppose."
 [sk:Warfare | st:+Despairing | st:+Unhorsed]
+?? take him over the mountain by the goat track | Nature Lore | 4
+++ You leave the road and lead the dwarf up a goat track that the robbers do not watch, because no robber would climb it. It takes all day, and the bell rings softly in its cloth at every step. At the top, you see the robbers far below, waiting at the pass for pilgrims who never come. On the far side, Brother Ifan rings the bell once for you, and it sounds like water.
+[d:3 | sk:Wilderness | rn:Divinity+1]
+-- You lead him up the goat track, and the goat track ends at a cliff, and you have to come down the long way, through the pass, at dusk. The robbers are waiting. You get through, but the bell does not.
+[sk:Nature Lore | st:+Despairing]
 
 === d03b
 You dismount and kneel in the road. The dwarf looks at you gravely, then lifts the little bell and rings it over your head.
@@ -93,6 +113,11 @@ You hold out your hand. The dwarf looks at you for a long time. Then he wraps th
 [d:3 | sk:Spiritual | rn:Divinity+1 | tr:1]
 -- You and the dwarf work through the night, and at midnight you plunge the sword into a trough of holy water. There is a scream of steam, and then the sword is singing louder than ever, and now it knows your name.
 [sk:Magic | st:+Accursed]
+?? work the forge all night to reforge the blade | Endure Hardship | 5
+++ You and the dwarf work through the night at the forge. You pump the bellows until your arms are dead, and he hammers the blade flat, and folds it, and hammers it again, and the song grows fainter with every fold. At dawn, it is silent, and very sharp. The dwarf lays it on the anvil and weeps. "My best work," he says, "and it will never say a word." He gives you a dagger from the same steel.
+[d:3 | sk:Wilderness | rn:Divinity+1 | tr:1]
+-- You pump the bellows all night, but near dawn your strength fails, and the fire cools, and the blade cracks in the quench. It sings one last time, a terrible note, and is silent. The dwarf does not speak to you.
+[sk:Endure Hardship | st:+Despairing]
 
 === 2005
 You come upon a dwarf standing beneath a lady's window in a small town, holding a lute and a bunch of primroses. He is dressed in his best: a red doublet, a feathered cap, and a sword that nearly touches the ground. He is also soaking wet.
@@ -166,6 +191,11 @@ You come upon a dwarf sitting in the stocks outside a castle gate, with a placar
 [d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
 -- You go into the castle as a guest and watch Sir Hugh's knights at supper, but you see no cup, and when you ask about it, the knights laugh and say the dwarf must have melted it. Pebin sits in the stocks for another three days.
 [sk:Wisdom]
+?? follow the knights and learn where the cup went | Hunting | 4
+++ You wait by the castle gate at dusk until one of the laughing knights rides out alone, and follow him to a tavern in the next village, where he sells a silver cup to the landlord for two marks. You buy it back for three. The next morning, you set it on the table before Sir Hugh, and the landlord beside it. Pebin is out of the stocks by noon, and paid for his saddle twice over.
+[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You follow one of the knights at dusk, and he rides to a tavern, and drinks, and rides home. You have spent a night and learned only that he likes ale. Pebin sits in the stocks for three more days.
+[sk:Hunting]
 
 === d10b
 You look at the knights laughing at the gate. You think of the rotten apples. "Tell me about these saddles," you say. Pebin's eyes gleam.
@@ -198,6 +228,11 @@ You kneel and take the wounded knight by the shoulders. The dwarf nods. "He will
 [d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
 -- You find comfrey by the stream and yarrow on the hillside, but you cannot find the water-avens. You search every marsh for miles. When you ride back at dusk, the dwarf is sitting beside the knight, who is very still. He shakes his head.
 [sk:Nature Lore | st:+Despairing]
+?? draw the poison out with a healer's charm | Magic | 5
+++ You kneel beside the knight and lay your hands on the wound and speak the old charm for poison, the one that begins *Wound, wound, give it back*. The dwarf watches with his eyebrows raised. The black flesh round the wound slowly reddens. The knight's breathing eases. "Salerno," says the dwarf, "does not teach that." He cleans the wound, and the knight lives, and Meddyg makes you teach him the charm on the way to the next town.
+[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- You lay your hands on the wound and speak the charm for poison. The dwarf watches, then pushes you aside. "Charms later," he says. "Comfrey now." By the time you have found the comfrey, the leg cannot be saved.
+[sk:Magic | st:+Despairing]
 
 === 2013
 You come upon a dwarf sitting on a cart piled high with crossbows at a crossroads, smoking a clay pipe. The cart has two painted signs: one on the left side, reading *ARMS FOR THE LORD OF CARDIGAN*, and one on the right, reading *ARMS FOR THE LORD OF PEMBROKE*.
@@ -214,6 +249,11 @@ You look at the two signs. "What do you think the lords would say," you ask, "if
 [d:4 | sk:Courtly | rn:Divinity+2]
 -- You ride to each lord and invite them to meet at the weir. They both come, with their men, and see the cart, and are furious, but not with Hob. Each is sure the other hired you. The battle at the salmon weir is the worst of the war. Hob sells a great many crossbows afterwards.
 [sk:Diplomacy | st:+Despairing]
+?? seize the cart before it sells more crossbows | Warfare | 4
+++ You do not argue. You take the cart. Hob shouts, and his two drivers reach for crossbows, and find you have already taken the strings off them. You drive the cart to the salmon weir and tell both lords that there will be no more crossbows until they have talked. Without crossbows, they have to. They make peace in an afternoon and split the cart between them for their castle walls.
+[d:3 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+-- You try to take the cart. Hob's drivers have strung crossbows, and they are not bad shots. You leave without the cart, and with a bolt through your cloak.
+[sk:Warfare | st:+Wounded]
 
 === d13b
 "A third," you say, "and I look stern." Hob claps his hands. "You were born for commerce," he says.
@@ -222,6 +262,11 @@ You look at the two signs. "What do you think the lords would say," you ask, "if
 [d:L | tr:2 | rn:Villainy+2]
 -- For a week you ride with Hob, looking stern. Then, in Cardigan, you meet a knight whom you last met in Pembroke, buying crossbows. He looks at you, and at the cart, and turns it round. You and Hob leave town very quickly, without the cart.
 [sk:Cunning | st:+Pursued | rn:Villainy+1]
+?? drive the cart between the two camps at speed | Mounted | 3+L
+++ You take the reins yourself, and turn the cart so that its Cardigan side faces Cardigan and its Pembroke side faces Pembroke, and drive it between the two camps at a gallop, dealing from both sides at once. It is the best day's trade Hob has ever had. He divides the money fairly and gives you a crossbow of your own. "There is a very promising quarrel in Lothian," he says.
+[d:L | tr:2 | rn:Villainy+2]
+-- You drive the cart between the two camps at a gallop, and take a corner too fast, and the cart overturns in the middle of the salmon weir, both signs showing. Both lords come to look. You and Hob leave on foot, quickly.
+[sk:Mounted | st:+Pursued | rn:Villainy+1]
 
 === 2015
 You come upon a dwarf sitting on a stone at the foot of a green hill, with his chin in his hands. He is old and white-bearded, with a pick on his shoulder, and he is staring at a crack in the hillside no wider than a man's hand.
@@ -238,6 +283,11 @@ At midnight, the crack in the hillside widens into a doorway, and a warm golden 
 [d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1 | tr:1]
 -- You go down a long stair into a hall of silver, where dwarves are working at forges. They do not see you. You call to them, and they do not hear. Dwyfan walks among them, calling their names, and they walk through him as though he were smoke. At dawn, you are thrown out onto the hillside, and the crack closes. Dwyfan sits on his stone and does not move.
 [sk:Magic | st:+Despairing]
+?? go into the hill with a blessed candle | Piety | 5
+++ You light a candle blessed at Easter and carry it before you down the long stair. The golden light dims around it, and the hammering stops, and the dwarves at their forges turn and see you, which Dwyfan says they never do. An old woman at the nearest forge drops her hammer. "You have grown," she says. It is his mother. The candle lets her walk out with him, into the sun she has not seen for a hundred years.
+[d:4 | sk:Spiritual | rn:Divinity+2 | tr:1]
+-- You light a blessed candle and carry it down the stair, and the golden light hisses and goes out, and so does the doorway. You are thrown back onto the hillside, and the crack closes. Dwyfan sits on his stone and does not move.
+[sk:Piety | st:+Despairing]
 
 === d15b
 You sit down on the stone beside the old dwarf. "A hundred years," you say. "What would you say to them?"
