@@ -14,13 +14,15 @@ RobMcA/book-of-tales-example
 
 ### La Morte d'Arthur
 
-An AI-generated Book of Tales inspired by Sir Thomas Malory's *Le Morte d'Arthur*. It provides new encounters, passages, and resolutions for all three game ages:
+An AI-generated Book of Tales inspired by Sir Thomas Malory's *Le Morte d'Arthur*, written with the `book-of-tales-author` skill from the [Book of Tales Template](https://github.com/RobMcA/Book-of-Tales-Template). It covers all three game ages:
 
-- **Golden Age of Camelot** — Camelot is young and the fellowship still discovering what it means to be worthy of itself.
-- **Quest of the Holy Grail** — the court fractures under the Grail's terrible light; every crossroads holds a test the sword cannot pass.
-- **Final Wars of Britain** — Mordred's shadow lies across the land; ride with what honour you have left.
+- **Golden Age of Camelot**: a beardless young king, eleven rebel kings under Lot of Orkney, Merlin at court, and the Round Table newly arrived from Cameliard.
+- **Quest of the Holy Grail**: the veiled vessel passes through the hall at Pentecost, the fellowship scatters, and the land around Corbenic turns to dust.
+- **Final Wars of Britain**: the queen at the stake, the siege of Benwick, Mordred crowned at Canterbury, and the last battle on Salisbury Plain.
 
-The book covers each age's opening passage, character encounters with branching choices and skill resolutions, location visits, status encounters (imprisonment, pursuit), and a closing epilogue.
+The book has about 1,100 passages. It has every passage the components file calls for: the three age starts, all 132 character encounters, all 162 milieu encounters, the 12 location cards and their 36 Places of Power, and an epilogue scored by the table's renown. Quest and status-card passages refer players to the physical Book of Tales. Thirteen story-token threads carry consequences between encounters. For example, a knight who rode with King Lot is remembered at Camelot and in Orkney, and a knight who once befriended Mordred is recognised on Salisbury Plain.
+
+The book uses the full reader schema: formula targets and Destiny, graded renown checks, category totals, "Divinity or Romance" rewards, and passage links for story-token gates. `scripts/validate.py` has been updated to accept these, to match the reader's own validation.
 
 ### The `aiGenerated` flag
 
