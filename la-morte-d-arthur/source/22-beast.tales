@@ -80,12 +80,12 @@ You follow the roars through the burning streets, spear in hand.
 "What did the king feed them?" you ask. The boy stares. "Mutton," he says. "And he sang to them. The same song. It is a drinking song. It is very rude."
 ?? lead the lions home with the king's song | Nature Lore | 5
 ++ You carry a leg of mutton through the burning streets, singing the old king's drinking song at the top of your voice, with the boy beside you, until the lioness comes out of an alley and stops and stares at you. Then the lion. They follow you, growling low, all the way to the castle stables, and walk in, and lie down. The boy shuts the door on them and bursts into tears. The garrison on the walls, who have heard every word of the song, are laughing too hard to shoot.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You carry a leg of mutton through the streets, singing. The lioness comes out of an alley, and stops, and stares at you. Then she takes the mutton, and then she takes a swipe at you, and then she is gone into the smoke.
 [sk:Nature Lore | st:+Wounded]
 ?? herd the lions home from the saddle like cattle | Mounted | 5
 ++ You ride through the burning streets with the menagerie boy up behind you, and when you find the lioness, you do not go near her. You ride round her, wide, the way a drover works a bull, and turn her gently with the horse's shoulder, and turn her again, toward the castle. The lion follows the lioness. They walk into the castle stables side by side, and the boy slams the door. The garrison cheers.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Martial | rn:Divinity/Romance+1]
 -- You ride round the lioness to turn her, and she turns on your horse instead. You are thrown into a burning doorway. The lions are gone into the smoke.
 [sk:Mounted | st:+Wounded]
 
@@ -114,7 +114,7 @@ You spur your horse after the black knight. He hears you coming and turns, grinn
 You turn your horse the other way, after the white hind. She is already far ahead, a flash of white between the trees.
 ?? track the white hind to where she rests | Hunting | 3+L
 ++ You follow her for hours, through bracken and over streams, until you find her lying in a glade, exhausted, with her golden collar caught on a briar. You free the collar gently. She does not run. She lets you lead her back by it, all the way to the lady, who has found her hound again, carried back by a sheepish knight in black. The lady gives you the golden collar. "The hind," she says, "should go free." You agree.
-[d:L | sk:Wilderness | rn:Romance+1 | rn:Any+1 | tr:1]
+[d:L | sk:Wilderness | rn:Romance+1 | tr:1]
 -- You follow her for hours, deeper and deeper into the forest, and at last she stops, and turns, and looks at you. Then she is gone, as though she had never been. You are a long way from anywhere you know.
 [sk:Hunting | st:+Lost]
 
@@ -136,7 +136,7 @@ The Questing Beast does not run. It walks up to you, slowly, with its serpent's 
 You understand. Pellinore is dead. The Orkney brothers killed him by a ford, you learn later, and the beast has been searching for someone to chase it ever since. It knows you. You rode after it once, beside him.
 
 You ride after it all that day, not trying to catch it, only following, the way he used to. At dusk, it stops at a pool and drinks, and looks back at you, and goes on into the dark. You find yourself weeping for a foolish old king who talked to his horse.
-[d:4 | sk:Wilderness | rn:Romance+1 | rn:Divinity+1 | st:+Obsessed | n:Lose Story Token #2]
+[d:4 | sk:Wilderness | rn:Divinity/Romance+1 | st:+Obsessed | n:Lose Story Token #2]
 
 === m217a
 "I will ride with you," you say. Lamorak nods, and the two of you gallop after the beast as it springs away into the trees.
@@ -147,7 +147,7 @@ You ride after it all that day, not trying to catch it, only following, the way 
 [sk:Mounted | st:+Lost]
 ?? let the beast lead you to water at dusk | Nature Lore | 4
 ++ You rein in and let Lamorak gallop on. The beast's feet are a hart's feet, and harts go to water at dusk. You call Lamorak back, and you wait by the pool in the rushes, and at sunset it comes, and drinks, and lifts its serpent's head and looks straight at you both. Lamorak lowers his spear. "My father would have wanted to catch it," he says. "Not kill it." He gives you his father's hunting horn.
-[d:3 | sk:Wilderness | rn:Romance+1 | rn:Divinity+1]
+[d:3 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You wait by the pool all evening, and the beast does not come. When you find Lamorak again, he has lost it too, and blames you for the wait.
 [sk:Nature Lore]
 
@@ -190,7 +190,7 @@ You ride at the Saxon with your sword up. He looses his arrow wild and runs. The
 You draw your sword. The beast watches you come. It does not try to rise.
 ?? slay the Questing Beast | Sword & Shield | 4
 ++ It is over very quickly. The beast does not fight. When it is dead, the baying in its belly stops, and the forest is very quiet. You take its serpent's head. It will make you famous. Every hall in Britain will want to hear how you killed the Questing Beast. You find, riding away, that you do not want to tell them.
-[d:5 | tr:1 | rn:Villainy+1 | rn:Any+1 | rn:Divinity-1]
+[d:5 | tr:1 | rn:Villainy+1 | rn:Divinity-1]
 -- You raise your sword. The beast looks at you, and in its eyes you see, for a moment, an old king laughing, and you cannot do it. When you look again, it is gone, arrow and all, into the smoke.
 [sk:Sword & Shield]
 
@@ -219,7 +219,7 @@ You wait until the griffin flies off to hunt, then start up the cliff with a sac
 You climb up the mountain by the long path, and come out on the ledge beside the nest. The griffin turns her head and looks at you with one great golden eye.
 ?? calm the angry griffin | Nature Lore | 5
 ++ You do not look her in the eye. You sit down on the ledge with your back to her, as you would with an angry hawk, and wait. After an hour, she stops hissing. After two, she comes over and looks at you. You offer her a leg of mutton from your pack. She takes it. By sundown, she has settled on her eggs again, and the villagers can hear her crooning. The Lord of Dinas's huntsmen do not come back. You hear, a year later, that two young griffins have been seen over the mountain, and that the village is very proud of them.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Wilderness | rn:Divinity+1]
 -- You sit down on the ledge with your back to her. The griffin picks you up by your belt, carries you down to the valley, and drops you in the village pond.
 [sk:Nature Lore | st:+Scorned]
 
@@ -257,12 +257,12 @@ You come upon a column of refugees struggling up a mountain pass in the rain: wo
 You dismount and walk up the pass toward the wyvern, with your shield up and your sword drawn.
 ?? fight the wyvern on the mountain pass | Sword & Shield | 6
 ++ The wyvern drops its goat and comes at you, stinging and snapping. You take the sting on your shield, and the barb goes through it and stops a finger's width from your arm. You cut off its tail. It screams and takes to the air, and flies away over the mountain, trailing black blood. The refugees file past you, one by one, and every one of them touches your arm as they go. You find the boy on the far side of the rock, alive, clinging to a ledge.
-[d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:5 | sk:Martial | rn:Divinity/Romance+1]
 -- The wyvern drops its goat and comes at you. Its sting goes through your shield and into your arm. You fall, and the poison burns. The refugees drag you back down the pass. You are sick for a week, and they have to go back into the valley.
 [sk:Sword & Shield | st:+Wounded | st:+Despairing]
 ?? shoot the wyvern from cover as it feeds | Hunting | 5
 ++ You leave your horse and creep up through the rocks with a borrowed bow until you are thirty paces from the wyvern, which is busy with its goat. Your first arrow takes it in the eye. It screams and flaps into the air, lurching, and flies away over the mountain, trailing black blood. The refugees file past you one by one, and every one touches your arm. You find the boy on a ledge, alive.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You creep up through the rocks with a bow, and a stone rolls under your foot. The wyvern looks round. Your arrow bounces off its hide, and its sting does not.
 [sk:Hunting | st:+Wounded]
 
@@ -275,7 +275,7 @@ You look up at the mountain. There is a shepherds' track, you think, over the sh
 [sk:Nature Lore | st:+Despairing]
 ?? guard the column as it passes beneath the wyvern | Warfare | 5
 ++ You form the refugees into a column with the carts on the outside and the children in the middle, and the strongest men with torches along the side facing the rock. You walk beside them with your shield raised. The wyvern hisses and lashes its tail, but it does not like fire, and it does not like order. It stays on its rock. The column passes. On the far side, the woman with the baby names her daughter for you.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Martial | rn:Divinity/Romance+1]
 -- You form the column and walk beside it with your shield up, but a goat breaks loose, and the column breaks after it, and the wyvern drops from its rock into the middle of the confusion.
 [sk:Warfare | st:+Wounded | st:+Despairing]
 
@@ -304,7 +304,7 @@ You lower your visor and look only at the ground in front of your horse. You can
 You look at the beast's great drooping head. It is not wicked. It is only what it is.
 ?? drive the beast gently away from the village | Mounted | 3+L
 ++ You ride in a wide circle round behind it, shouting and clattering your sword on your shield. The catoblepas lumbers away from you, its head dragging in the grass, too heavy to lift while it walks. You herd it for a whole day, across the plain and into the marshes to the south, where there are no villages. It lies down in the reeds with a groan of contentment. The cowherd tells everyone that you drove the catoblepas like a cow.
-[d:L | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Martial | rn:Divinity+1]
 -- You ride round behind it, shouting. The catoblepas stops. Then, very slowly, it begins to lift its head. You gallop away across the plain without looking back.
 [sk:Mounted | st:+Scorned]
 
@@ -320,7 +320,7 @@ A hermit is watching from a rock, telling his beads. "Every day they fight," he 
 You draw your sword and run at the serpent. The lion's eyes find you over the serpent's coils.
 ?? strike the serpent and free the lion | Sword & Shield | 5
 ++ You hack at the serpent's coils where they are wound round the lion, and the serpent lets go to turn on you, and the lion is free. It springs, and between you, you finish the serpent. The lion stands over it, panting, and looks at you. Then it lies down at your feet and puts its head on your boot. When you ride away, it follows you. It follows you for three days, and on the fourth, it is gone, but you hear its roar, sometimes, when you are in danger.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1 | st:+Accompanied | n:Place a Sword & Shield Skill Marker on your Accompanied Status Card]
+[d:4 | sk:Martial | rn:Divinity+1 | st:+Accompanied | n:Place a Sword & Shield Skill Marker on your Accompanied Status Card]
 -- You hack at the serpent's coils, and it lets go of the lion to turn on you, and wraps round you instead. You are crushed until your ribs crack. The lion saves you, which is humiliating.
 [sk:Sword & Shield | st:+Wounded]
 
@@ -344,12 +344,12 @@ You come upon a great horse running wild across a wide plain after a battle, amo
 You walk out into the ring, alone, without your sword. The mare stops screaming and looks at you, with her ears back.
 ?? calm the maddened war-horse | Mounted | 6
 ++ You do not rush. You stand still until she stops trembling. Then you walk closer, slowly, talking to her, saying her name. She lets you touch her neck. She lets you take the bridle. She stands, shaking, while you check her wounds, and then she follows you out of the ring, with her head on your shoulder. The old groom weeps. You lead her back to the old king's camp. He is not there, but his steward takes her, and thanks you in the king's name.
-[d:5 | sk:Martial | rn:Romance+1 | rn:Divinity+1]
+[d:5 | sk:Martial | rn:Divinity/Romance+1]
 -- You stand still until she stops trembling, and walk closer, and she rears and strikes you with a hoof. You go down. She gallops away over the plain and is not seen again.
 [sk:Mounted | st:+Wounded]
 ?? soothe her as her old groom would | Nature Lore | 5
 ++ You find the old groom and ask him what she likes. Apples, he says, and her left ear scratched, and the king's old whistle, two notes, low and high. You walk out into the ring with an apple, and whistle the two notes. The mare stops screaming. Her ears come forward. She walks to you, trembling, and takes the apple, and lets you scratch her ear. The groom weeps. You lead her back to the old king's camp.
-[d:4 | sk:Wilderness | rn:Romance+1 | rn:Divinity+1]
+[d:4 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You walk out with an apple and whistle two notes, and they are the wrong two notes. The mare rears. Her hoof catches your shoulder, and she gallops away over the plain.
 [sk:Nature Lore | st:+Wounded]
 
@@ -357,7 +357,7 @@ You walk out into the ring, alone, without your sword. The mare stops screaming 
 You draw your sword and step between the mare and the soldiers in red and black. "She is the king's," you say.
 ?? drive off Mordred's men from the king's mare | Warfare | 4
 ++ You call to the old king's men among the ring, and they come to your side, and together you drive Mordred's soldiers back across the plain. The Saxons, who have no quarrel with a horse, wander away. When the plain is clear, the old mare comes of her own accord and stands beside you, and the groom leads her home.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Divinity+1]
 -- You call to the old king's men, but there are not enough of them. Mordred's soldiers throw a rope over the mare, and drag her away screaming, and there is nothing you can do.
 [sk:Warfare | st:+Wounded | st:+Despairing]
 
@@ -373,12 +373,12 @@ You come upon a lake at the edge of a marsh, still and black, where a village of
 You wade into the black water with your sword drawn. Something stirs in the depths.
 ?? battle the afanc in the black lake | Sword & Shield | 6
 ++ It comes at you from below, enormous, with its saw-teeth snapping. You fight it in the water, waist-deep, and it drags you under twice, and twice you come up. The third time, you drive your sword into its throat. It thrashes, and the water goes red, and then it floats. The villagers haul it out with ropes. In its den under the bank, they find the old woman's grandson, alive, very cold and very frightened. She carries him home in her arms.
-[d:5 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:5 | sk:Martial | rn:Divinity+1]
 -- It comes at you from below and drags you under, and under, and under. You come up gasping on the far side of the lake, without your sword, and it is a long walk back.
 [sk:Sword & Shield | st:+Wounded]
 ?? drag the beast into the shallows where it is weak | Endure Hardship | 6
 ++ You do not fight it in the deep water. When it seizes your leg and drags you, you let it, and then you grab a willow root on the bank and hold on, and hold on, and haul it inch by inch into the shallows, where it cannot dive. On land it is slow and blind. The villagers fall on it with every spade and flail in the village. In its den, they find the old woman's grandson, alive.
-[d:5 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:5 | sk:Wilderness | rn:Divinity+1]
 -- You grab a willow root and hold on, and the afanc pulls, and the root snaps. You come up on the far side of the lake without your sword.
 [sk:Endure Hardship | st:+Wounded]
 
@@ -402,7 +402,7 @@ You see, far off across the marsh, a pilgrim in a grey hood, following the light
 You spur your horse through the reeds toward the pilgrim. The lights dance in front of you, trying to lead you astray.
 ?? reach the pilgrim through the treacherous marsh | Nature Lore | 3+L
 ++ You do not look at the lights. You look at the reeds, and the water, and the way the bog bubbles, and you ride where the ground is firmest. You reach the pilgrim as he is stepping into the deep water, and haul him back by his hood. He fights you. "The Grail!" he weeps. "It was the Grail!" You turn his face toward the lights, and as you watch, they wink out, one by one. "It was the bog," you say. He is silent all the way to dry ground.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Wilderness | rn:Divinity+1]
 -- You ride toward the pilgrim, and the lights dance before you, and before you know it, your horse is up to its belly in the bog. By the time you have freed it, the pilgrim is gone, and so are the lights.
 [sk:Nature Lore | st:+Plague-Ridden | st:+Despairing]
 
@@ -492,7 +492,7 @@ You climb onto the island. It is warm under your feet, and it rises and falls, s
 "Abbot!" you shout. "That is a whale!" The abbot waves cheerfully. "We know," he calls. "He is very comfortable."
 ?? bring the monks safely off the whale | Warfare | 4
 ++ You bring your ship alongside and throw them ropes. The abbot does not want to go, but the younger monks do, and while you argue, the whale decides the matter for you by beginning, slowly, to sink. The monks scramble aboard with their chalice and their candles, and the abbot comes last, dripping. The whale sinks, and rises again a hundred yards away, and blows, and swims away west. "He will come back for us," says the abbot, rather crossly. "Next Easter." You are sure he will.
-[d:3 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Martial | rn:Divinity+1]
 -- You bring your ship alongside and throw them ropes, and the whale, disturbed, dives. The monks, the chapel and very nearly your ship go down in a great swirl. You fish out six of them. The rest you never find.
 [sk:Warfare | st:+Despairing]
 
@@ -516,7 +516,7 @@ You swing up onto the white horse's back. Its skin is cold and wet, and it rises
 You take a bridle from your saddlebag, a plain iron one, and hold it up. The kelpie's eyes widen.
 ?? bridle the kelpie with cold iron | Magic | 5
 ++ You slip the iron bit into its mouth before it can move. It screams like the sea in a storm, and then stands still, trembling, bound. "Now you will carry me," you say, "and not drown me." It carries you across the sea in half a day. On the far shore, you take the bridle off. The kelpie looks at you with hatred and something else, and goes back into the waves. You keep the bridle. It is still wet.
-[d:4 | sk:Spiritual | rn:Villainy+1 | rn:Any+1 | mv:free]
+[d:4 | sk:Spiritual | rn:Villainy+1 | mv:free]
 -- You try to slip the iron bit into its mouth. The kelpie seizes your arm in its teeth and drags you into the surf. The fisherman and three soldiers pull you out.
 [sk:Magic | st:+Wounded]
 ?? trick the kelpie into giving up its own bridle | Cunning | 5

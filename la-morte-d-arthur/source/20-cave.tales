@@ -10,12 +10,12 @@ As you walk your horse through the back lanes of Carleon, a boy in a torn smock 
 You climb down the rope ladder into the dark. At the bottom, a tunnel runs away under the town, lit here and there by candle-stubs stuck in old Roman brickwork.
 ?? creep through the tunnels and bring the girl out | Hunting | 3+L
 ++ You follow the voices through the tunnels, keeping to the shadows, until you find a vault where a dozen thieves are melting silver over a brazier. The girl is tied in a corner. You wait until they are arguing over the shares, then slip in, cut her loose and lead her out by the way you came. She is up the ladder before the thieves notice she is gone. The boy hugs her until she squeaks. The bishop, when he hears where his candlesticks went, sends you a reward.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Wilderness | rn:Divinity+1]
 -- You follow the voices through the tunnels, but the tunnels branch and branch again, and your candle gutters out. You wander in the dark for hours before you find daylight, through a grating in the fish market. The girl, you learn later, was let go the next morning, frightened into silence.
 [sk:Hunting | st:+Lost]
 ?? fight your way to the girl through the thieves | Sword & Shield | 5
 ++ You go straight down the tunnel toward the voices and burst into a vault where a dozen thieves are melting silver. They are not fighters. You scatter them with the flat of your sword, and a small, rat-faced man in a velvet hat flees down a side passage, squeaking orders. You untie the girl and carry her out. The watch, finally roused, comes down behind you and finds a whole church's worth of silver in the vault.
-[d:4 | sk:Martial | rn:Romance+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Romance+1]
 -- You go straight at the voices and burst into the vault, but there are more thieves than you counted, and one of them knocks over the brazier. In the smoke and molten silver, you are burned and driven back. You climb out empty-handed.
 [sk:Sword & Shield | st:+Wounded]
 
@@ -28,7 +28,7 @@ You ride to the watch-house and hammer on the door. The captain of the watch, a 
 [sk:Warfare]
 ?? find the tunnels' other mouths and block them | Hunting | 4
 ++ You do not go down the well. You walk the town with the tanner's boy and look for the other ways in: a grating in the fish market, a loose stone behind the church, a cellar door that smells of damp. You put a watchman on each, and then you drop a lit bundle of wet straw down the well. The thieves come coughing up out of every hole at once, into waiting arms. The girl comes up last, blinking. The bishop gets his candlesticks back.
-[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Wilderness | rn:Divinity+1]
 -- You find three of the tunnels' mouths and set a watch on each, but you miss the fourth, under the river wall. When you smoke the well, the thieves are gone by the river. The girl is let go the next morning, frightened into silence.
 [sk:Hunting]
 
@@ -57,12 +57,12 @@ You pay your penny and go down the steps into a cave hung with candles. At the f
 "Show me," you say. The young priest leads you round to a grating in the alley behind the church, where you can look down into the cave from above.
 ?? catch the shrine-keepers in their fraud | Cunning | 4
 ++ You watch through the grating for an hour. The shining monk is real enough, an old man who sits and prays and speaks to no one. But between visitors, the monks who keep the shrine are counting coins and laughing, and one of them is dabbing oil of phosphor on a cloth to make the cave shine brighter. You and the priest go down with the bishop's sergeant. The keepers are taken away. The old monk, it turns out, never knew about the phosphor. He goes on praying in the dark, alone, and the priest brings him bread every day.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- You watch through the grating for an hour and see nothing but an old man praying. When you go to the bishop with your suspicions, the shrine-keepers produce a letter of approval from the Archbishop. The young priest is sent to a parish in the Fens.
 [sk:Cunning | st:+Scorned]
 ?? make the shrine-keepers swear upon their own relic | Honor | 5
 ++ You go down into the cave and ask the keepers, before the pilgrims, to swear on their own relic that the shining is a miracle and not their own work. They look at each other. Nobody in that city will swear a false oath on a relic in front of a crowd. The eldest keeper goes white and confesses about the oil of phosphor. The old monk, it turns out, never knew. The young priest brings him bread every day after that.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- You ask the keepers to swear on their relic. The eldest does, at once, with his hand on it, smiling. The pilgrims cheer. You leave feeling that you have made a lie holier.
 [sk:Honor | st:+Scorned]
 
@@ -78,7 +78,7 @@ As you walk your horse through the half-empty streets of London, now under Mordr
 You go to Saint Martin's after dark. Two of Mordred's soldiers are dicing by a door in the crypt, beside a lantern.
 ?? overpower the guards and lead the prisoners out | Martial | 5
 ++ You come on the guards before they can reach for their spears and put them both down on the crypt floor. Beyond the door, in the caves, thirty men lie in the dark, weak with thirst. You bring them out a few at a time, through the crypt and the churchyard and down to the river, where a fisherman who remembers the old king ferries them across. The last of them, an old knight with a white beard, grips your hand. "The king will hear of this," he says, "if he lives." You hope he does.
-[d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+1 | st:+Pursued]
+[d:5 | sk:Martial | rn:Divinity/Romance+1 | st:+Pursued]
 -- You come on the guards, but one of them gets to the bell-rope before you can stop him. The crypt fills with soldiers. You flee through the churchyard. Behind you, the prisoners are knocking, three knocks and a pause, and you cannot go back.
 [sk:Martial | st:+Pursued | st:+Despairing]
 
@@ -91,7 +91,7 @@ You cannot free thirty men alone. But you can keep them alive until someone else
 [sk:Endure Hardship | st:+Plague-Ridden | st:+Despairing]
 ?? bribe the gaolers to carry the water down themselves | Cunning | 4
 ++ You find out which of Mordred's gaolers drinks, and which has a sick child, and which owes money to the wrong man. By the end of the week, all three are carrying water and bread down to the caves every night, for different reasons, and none of them knows about the others. On the eighth night, the old king's men take the city gate. Thirty knights come up out of the caves alive.
-[d:L | sk:Courtly | rn:Divinity+1 | rn:Villainy+1]
+[d:L | sk:Courtly | rn:Divinity/Villainy+1]
 -- You find the gaoler who drinks and pay him to carry water down. He drinks your money and tells his captain. You leave London the same night, over the wall.
 [sk:Cunning | st:+Pursued]
 
@@ -122,7 +122,7 @@ You take a slow step forward, then another. The bear raises its head.
 You sit down very slowly on the cave floor. The bear watches you. Nia watches you. You begin to hum.
 ?? win the bear's trust | Nature Lore | 3+L
 ++ You hum until the bear lays its head down again. Then you take a honeycomb from the ledge beside it, very slowly, and hold it out. The bear sniffs it, and licks it, and licks your hand. You stay there until dusk, humming and feeding it honey, until it falls asleep. Then you take Nia by the hand and walk her out through the waterfall. At the edge of the wood, she turns and waves. "Goodbye, bear," she calls. You hear, from the forest, a low, contented grunt.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Wilderness | rn:Divinity+1]
 -- You hum. The bear listens, and then it gets up, and comes over to you, and sniffs you all over, and sits on you. It is a very long afternoon. When it finally gets up, you are bruised all over, and Nia is asleep.
 [sk:Nature Lore | st:+Wounded]
 
@@ -148,12 +148,12 @@ You unbuckle your sword and kneel beside him on the rock. He looks at you in sur
 "You took a crown that was not yours," you say, "and you were struck down for it. God has already punished you. Is it not pride, to punish yourself further?" Sir Melias turns and looks at you.
 ?? reason with the penitent knight | Wisdom | 5
 ++ He argues. You argue back. You talk of the prodigal son, and of the thief on the cross, and of what the Grail is for, if not for mercy. By sundown, Sir Melias is silent. Then he laughs, a cracked, rusty laugh. "Pride," he says. "Even here. You are right." He lets you bind his back, and eats bread, and in the morning, he rides away with you as far as the edge of the forest, talking about horses.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Spiritual | rn:Divinity+1]
 -- He argues. You argue back. At last he says, "You are very clever. The devil is clever too." He turns back to the rock and picks up his scourge. You leave him there.
 [sk:Wisdom]
 ?? remind him of his duty to the living | Honor | 5
 ++ "There are pilgrims on the forest road," you say, "and robbers too, and no knight to guard them, because the one who should is lying in a cave hitting himself." Sir Melias stares at you. "You are on the quest," you say. "The quest is not only for the vessel." He is silent a long time. Then he picks up his sword. In the morning, he rides out onto the forest road. The pilgrims there, you hear later, are very well guarded.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
 -- You speak of his duty to the living. "The living," he says, "are what I sinned against." He turns back to the rock and picks up his scourge.
 [sk:Honor]
 
@@ -171,12 +171,12 @@ Outside, faintly, you hear a horn.
 You go back through the waterfall and mount your horse. The horn sounds again, nearer. You ride toward it.
 ?? draw the Saxon search-party away from the cave | Mounted | 3+L
 ++ You find the Saxons in a clearing: a dozen men with axes, following a hound. You ride across the clearing in full view, shouting, and wheel away into the trees. They come after you, hallooing. You lead them for five miles through the forest, over streams and through thickets, until they are lost and exhausted and their hound has given up. Then you circle back to the waterfall by night. The wounded men cheer you, weakly. One of them dies before morning, but the rest live.
-[d:L | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:L | sk:Martial | rn:Divinity/Romance+1]
 -- You find the Saxons in a clearing and ride across it shouting. But only half of them follow you. The other half go on with the hound, toward the waterfall. You hear the screaming from a mile away, and you cannot get back in time.
 [sk:Mounted | st:+Despairing]
 ?? lay a false trail away from the waterfall | Hunting | 3+L
 ++ You take a bloody bandage from one of the wounded men and drag it on a string behind your horse, away through the forest to the east. The Saxons' hound finds the scent and bays, and the whole search party goes off after it. You lead them to a river and let the trail end in the water. By dark, they are miles away. The wounded men in the cave live to see the morning.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:L | sk:Wilderness | rn:Divinity/Romance+1]
 -- You drag a bloody bandage behind your horse to the east. The hound follows it, but the Saxons' leader is no fool, and sends half his men on toward the waterfall anyway.
 [sk:Hunting | st:+Despairing]
 
@@ -189,7 +189,7 @@ You roll up your sleeves. "What do you need?" you ask. The young woman looks at 
 [sk:Nature Lore | st:+Wounded | st:+Despairing]
 ?? hold the waterfall with the men who can still stand | Warfare | 5
 ++ Four of the wounded can still hold a spear. You set them behind the curtain of falling water, where a man coming through is blind and soaked and off balance, and you stand in front of them. When the Saxons come through the waterfall at dusk, they come one at a time, and they do not come for long. By morning they have given up on the cave. Tangwen says she will name her first son for you.
-[d:4 | sk:Martial | rn:Romance+1 | rn:Divinity+1]
+[d:4 | sk:Martial | rn:Divinity/Romance+1]
 -- You set four wounded men behind the waterfall and stand before them. The Saxons do not come through the water. They come round the side, by a path you did not see.
 [sk:Warfare | st:+Wounded | st:+Despairing]
 
@@ -337,12 +337,12 @@ A troop of Saxon horsemen is coming over the rise.
 You mount your horse and ride to the top of the rise, between the family and the Saxons.
 ?? hold the rise against the Saxon horsemen | Warfare | 3+L
 ++ There are eight of them, and one of you, but you have the high ground and the sun behind you, and you ride at them as though there were forty more knights behind the hill. They hesitate. You strike down the leader, and the rest wheel away, shouting, to find easier prey. When you ride back to the hollow, the family is gone, down into the dark. You hear a child's voice, very faint, calling thank you from under the ground.
-[d:L | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:L | sk:Martial | rn:Divinity/Romance+1]
 -- There are eight of them, and one of you. You hold them for a few minutes, long enough, you hope, and then a spear takes your horse, and you are running across the plain with Saxons behind you. You do not know if the family got down in time.
 [sk:Warfare | st:+Unhorsed | st:+Pursued]
 ?? make the riders think an army waits behind the hill | Cunning | 4
 ++ You ride along the top of the rise, back and forth, shouting orders to men who are not there, and then you raise your horn and blow the signal for a charge. The Saxon riders look at the rise, and at the smoke of the village behind it, and at the horn, and decide not to find out. They wheel away. When you ride back to the hollow, the family is gone, down into the dark. A child calls thank you from under the ground.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- You ride back and forth along the rise shouting orders, and the Saxons watch you for a while, and then one of them laughs and points. You are the only one there. They charge.
 [sk:Cunning | st:+Pursued]
 
@@ -379,12 +379,12 @@ You go out to the edge of the island as the torches come across the bog. There a
 "Tell me about this pig," you say. The witch grins. "Fat, spotted, fond of apples," she says. "And it was stolen from a sty with a locked gate."
 ?? track down the real pig-thief | Hunting | 4
 ++ You go back to the village and look at the sty. The lock is not broken. It has been opened with a key. There is only one key, and it belongs to the reeve's nephew, who has a new spotted pig in his own sty two villages over. You bring the nephew and the pig to the reeve an hour before sunset. The torches are put out. Mother Mallt sends you a jar of salve that heals any cut overnight.
-[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Wilderness | rn:Divinity+1]
 -- You go to the village and look at the sty, and follow a trail of hoofprints out into the bog, and find a spotted pig, which is the wrong pig. By the time you get back, the torches are crossing the causeway.
 [sk:Hunting]
 ?? question the villagers until the lie shows | Wisdom | 4
 ++ You go from house to house in the village, asking about the pig. Everyone saw it. Everyone heard it. But the reeve's nephew heard it squeal at midnight, and the pig, according to the reeve, was taken at dawn. You ask the nephew how he heard a pig that was still in its sty. He goes white. The pig is found in his cousin's sty two villages over. The torches are put out.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Spiritual | rn:Divinity+1]
 -- You go from house to house asking questions, and by the end, everyone is sure you are the witch's friend, and some of them are sure you are the witch.
 [sk:Wisdom | st:+Scorned]
 
@@ -415,7 +415,7 @@ You wade into the water and take the hermit by the arm. He struggles. "My vow," 
 You leave the hermit praying and wade out into the bog, following the flow of the water. It is running into the island from somewhere.
 ?? find the blocked outflow and drain the flood | Nature Lore | 3+L
 ++ A mile across the bog, you find it: an old stone sluice, built by the monks who drained the bog a hundred years ago, blocked by a dead ox and a year of reeds. You spend the afternoon dragging the ox free. When it moves, the water rushes through with a roar. By the time you get back to the island, the water in the cave is down to the hermit's knees, and he is weeping and thanking God. You do not mention the ox. He would be disappointed.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Wilderness | rn:Divinity+1]
 -- You wade out into the bog following the flow of the water, and lose your footing, and go under. You come up covered in weed and leeches, far from the island. By the time you find your way back, it is dark, and the hermit is up to his neck.
 [sk:Nature Lore | st:+Plague-Ridden]
 
@@ -462,12 +462,12 @@ From further back in the cave, you hear another sound: a man crying out. Grace's
 "Let the man go," you say. Grace looks at you for a long moment. "And have him bring the sheriff?" she says. "I think not."
 ?? rescue the customs man from the sea-cave | Hunting | 5
 ++ You go back up the cliff as if you are leaving, and come down again by a goat-path at the far end of the beach, where the tide is still out. The back of the cave is dark. You find the customs man tied to a post and cut him free, and lead him out the back way, round the rocks, just as the tide turns. He is a small, frightened man called Master Colley. He is very grateful. You make him promise to take only a tenth next time. He promises. You think he might even mean it.
-[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Wilderness | rn:Divinity+1]
 -- You come down by a goat-path at the far end of the beach and creep into the back of the cave. But the tide comes in faster than you expected, and by the time you have cut the customs man loose, the only way out is through the smugglers. Grace grins at you. "Evening again, sir knight," she says.
 [sk:Hunting | st:+Imprisoned]
 ?? claim the customs man's life as a knight's due | Honor | 5
 ++ "Mistress Penhale," you say, "I am a knight, and I have seen your faces, and I have seen your wine. I will forget both, if you give me the customs man. Or I will remember both, at the sheriff's." Grace looks at you for a long moment, then laughs. "An honest bargain," she says. She sends the customs man out blindfolded, and gives you a barrel for your forgetting. You make him promise to take only a tenth next time.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- You offer Grace your silence for the customs man. She thinks about it. "Or," she says, "I could have two customs men." You are tied up next to him until the tide goes out.
 [sk:Honor | st:+Imprisoned]
 
@@ -491,12 +491,12 @@ As you ride along a cliff-top at dusk, you hear bells ringing from beneath the s
 You climb down the rocks and wade into the cave. The water is cold and green, and the bells are very loud, and under them, you hear the singing.
 ?? resist the sea-singer's enchantment | Magic | 5
 ++ At the back of the cave, on a rock above the water, sits a woman with seaweed in her hair, singing, and at her feet sits a young fisherman, staring at her with empty eyes. The song pulls at you too. You stuff your ears with wax from a candle stub and walk straight to the boy, and lift him, and carry him out. The singer stops singing. As you go, she calls after you, very sadly, "They never stay." The boy wakes up on the beach in his father's arms and remembers nothing.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- At the back of the cave sits a woman with seaweed in her hair, singing, and you forget, for a while, why you came. When you come to your senses, the tide has turned, and you are sitting on the rock at her feet beside the boy. You have to swim for it, and you drag him out, but you are half-drowned by the time you reach the beach.
 [sk:Magic | st:+Ensorcelled]
 ?? swim in with your ears stopped with wax | Endure Hardship | 5
 ++ You stuff your ears with wax from a candle stub until you can hear nothing but your own heart. Then you swim into the cold green cave and do not look at the woman on the rock. You find the fisherman's son by feel, sitting at her feet, and haul him into the water and out through the cave mouth, with her mouth moving silently behind you. He wakes on the beach in his father's arms and remembers nothing.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Wilderness | rn:Divinity+1]
 -- You stuff your ears with wax and swim into the cave. The water is colder than any water should be. Halfway in, your limbs go numb, and you have to turn back. The bells ring on.
 [sk:Endure Hardship | st:+Plague-Ridden]
 
@@ -520,7 +520,7 @@ A girl comes running along the cliff-path toward you. "They landed last night," 
 You look down at the cave, and at the longship, and you have an idea.
 ?? burn the Saxons' longship in the cave | Warfare | 6
 ++ You wait until the tide is turning and the Saxons are asleep after their feast. Then you climb down the cliff with a torch and a bundle of oiled rags, and set fire to the dragon ship. It goes up like a haystack. The Saxons wake to find their only way home burning. They fight each other over the one small boat, and those who are left surrender to the village the next morning. You are given the dragon's head, which did not burn, and it is nailed over the door of the church for a hundred years.
-[d:5 | sk:Martial | rn:Romance+1 | rn:Any+1 | tr:1]
+[d:5 | sk:Martial | rn:Romance+1 | tr:1]
 -- You climb down the cliff with a torch, but a sentry sees you. The Saxons pour out of the cave, and you run for the cliff-path with arrows in the rock around you. That night, they raid the village anyway.
 [sk:Warfare | st:+Wounded | st:+Despairing]
 
@@ -528,6 +528,6 @@ You look down at the cave, and at the longship, and you have an idea.
 You ride with the girl to the village and gather everyone left: old men, women, children, a priest. "They will come tonight," you say. "We will be ready."
 ?? rally the village to hold against the Saxon raid | Martial | 5+A | total
 ++ You spend the day teaching grandmothers to throw nets, boys to sling stones and the priest to ring the bell when he sees torches. You block the lane with upturned boats and pile seaweed on the thatch so it will not burn. When the Saxons come up from the beach at midnight, they walk into a village that fights back from every doorway. They lose five men in the lane and go back to their ship in disgust. At dawn, the village cheers you until your ears ring. The girl, whose name is Morwenna, ties a fishing charm to your bridle.
-[d:3+L | sk:Martial | rn:Any+1 | rn:Divinity+1]
+[d:3+L | sk:Martial | rn:Divinity+1]
 -- You spend the day teaching grandmothers to throw nets and boys to sling stones. When the Saxons come at midnight, the barricade of boats holds for a while, but then the thatch catches, and the villagers break and run for the church. You hold the church door until dawn, when the Saxons, laden with plunder, go back to the sea.
 [sk:Martial | st:+Wounded]

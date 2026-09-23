@@ -23,12 +23,12 @@ You come upon a small man in motley walking fast along the road with a bundle on
 "Come back with me," you say. "I will speak to Sir Kay." Dagonet looks at you as though you have offered to speak to a thunderstorm. "*He will not care what you say,*" he murmurs. "*He'll kick you too, then, and I'll stay.*"
 ?? stand up to Sir Kay on the fool's behalf | Honor | 5
 ++ You find Kay in the great hall and tell him, in front of everyone, that a man who kicks a fool down the stair is a smaller man than the fool. The hall goes silent. Kay goes red, then white. Then, to everyone's astonishment, he laughs. "Fair," he says. "That was fair." He turns to Dagonet. "Come back, then. I will not kick you." He pauses. "Much." The High King, who has been listening from the dais, calls you over and fills your cup with his own hand.
-[d:4 | sk:Courtly | rn:Romance+1 | rn:Any+1]
+[d:4 | sk:Courtly | rn:Romance+1]
 -- You find Kay in the great hall and tell him that a man who kicks a fool is a smaller man than the fool. Kay looks at you for a long moment. Then he picks up a jug of water and pours it over your head. The whole hall laughs, and Dagonet laughs loudest of all, because it is better than being kicked.
 [sk:Honor | st:+Scorned]
 ?? make Kay the butt of the fool's best joke | Cunning | 4
 ++ You and Dagonet plan it together on the road. At supper, Dagonet stands up and tells the court a long, rambling tale about a seneschal who was so proud of his cooking that he ate it all himself, and grew so fat he could not fit through the door of his own buttery. It is not about Kay, of course. Everyone knows it is about Kay. The High King laughs until he has to hold the table. Kay is furious, but he cannot kick a fool for telling a story the king laughed at. Dagonet is safe for a year.
-[d:3 | sk:Courtly | rn:Villainy+1 | rn:Romance+1]
+[d:3 | sk:Courtly | rn:Romance/Villainy+1]
 -- You and Dagonet plan it together. At supper, Dagonet stands up and tells the court the tale of the seneschal who ate all his own cooking. Nobody laughs. Kay, it turns out, has been ill for a week and can eat nothing. The High King frowns. Dagonet is sent to the kitchens, and you are not invited to dine at the high table again that season.
 [sk:Cunning | st:+Scorned]
 
@@ -44,12 +44,12 @@ You come upon a small churchyard in a hill town, where a fool in faded motley si
 "Come," you say. "Your new king needs you more than your old one does." Llew looks at the tomb. "*That is what the old king said,*" he says, "*in his will.*"
 ?? help the fool break through the new king's grief | Wisdom | 5
 ++ You go to the new king's hall together. You do not let Llew tell jokes. Instead, you ask the new king, quietly, what his father's favourite joke was. He does not want to answer. Then, very reluctantly, he tells you: the one about the bishop and the goat. He tells it badly. Llew, at the back of the hall, laughs aloud, and the king hears the laugh, and remembers his father laughing, and his face crumples, and he laughs and weeps at once. Afterwards, the fine is abolished. Llew is made the king's fool, and the king gives you his father's cup.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1 | tr:1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1 | tr:1]
 -- You go to the new king's hall together, and Llew tells his best joke. The new king does not laugh. He fines Llew a shilling for the attempt, and you a shilling for bringing him, and has you both put out of the hall. Llew goes back to the tomb.
 [sk:Wisdom]
 ?? hold a requiem where laughter is allowed | Piety | 5
 ++ You go to the priest and ask for a Mass for the old king's soul, and ask that, at the end, his fool be allowed to tell one jest at the tomb, as the old king would have wished. The priest is doubtful, and then he laughs. The whole court comes. At the end, Llew tells the jest about the hedgehog. There is a terrible silence. Then the new king laughs, and weeps, and laughs. The fine is abolished that afternoon.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
 -- You ask for a Mass with a jest at the end. The priest refuses, very firmly. The new king hears of the request and fines you a shilling for impiety.
 [sk:Piety]
 
@@ -71,12 +71,12 @@ Ninian opens his eyes and looks straight at you. "The knight will stand between,
 You step between Ninian and the lord's men. "He is a simple man," you say. "Let him be." The lord's face darkens. "He is a slanderer," he says, "and my men will have him."
 ?? hold off the lord's men | Sword & Shield | 3+L
 ++ The two men-at-arms come at you, but their hearts are not in it, and after a few blows they back off. The crowd cheers. The lord, red with rage, rides away. That evening, Ninian comes to you as you eat. "The ledger," he says. "The steward keeps two." He goes away again, humming. The next week, you hear that the lord found the second ledger, and that the steward has fled to Ireland with a great deal of money. The lord sends you a gift of wine, and an apology to Ninian, which Ninian ignores.
-[d:L | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Martial | rn:Divinity+1]
 -- The two men-at-arms come at you, and they are better than you expected, and the crowd does not help. When you get up, Ninian has been whipped, and the lord is gone. The fool is sitting in the grass, bleeding, humming. "The knight will see the ledger," he says to you, "later."
 [sk:Sword & Shield | st:+Wounded]
 ?? vouch for the fool on your own honour | Honor | 4
 ++ You put your hand on your sword-hilt. "I will stand surety for him," you say to the lord. "If his words are slander, I will answer for them myself, in the lists, against any man you name." The lord looks at you, and at your sword, and at the fair watching. He does not want a joust. He wants his steward to be honest. "A week," he says. By the end of the week, he has found the second ledger himself.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- You offer to answer for the fool's words in the lists. The lord names his steward's nephew, who is very large. It goes badly. The fool is whipped anyway.
 [sk:Honor | st:+Wounded]
 
@@ -84,12 +84,12 @@ You step between Ninian and the lord's men. "He is a simple man," you say. "Let 
 "My lord," you say, "if the fool is lying, you will lose nothing by letting me look at your steward's accounts. If he is telling the truth, you will want to know." The lord hesitates. "Very well," he says at last. "And if you find nothing, the fool is whipped twice."
 ?? find the steward's second ledger | Wisdom | 5
 ++ You spend a day at the lord's manor with the steward, a smooth, smiling man, going through his accounts, which are perfect. Too perfect. That night, you search his room and find, under a loose hearthstone, a second ledger, with very different figures. The lord reads it by candlelight, his face growing darker and darker. The steward is arrested at dawn. The lord goes to the fair himself and kneels before Ninian, who pats him on the head and tells him his roan mare is about to foal.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- You spend a day at the manor going through the steward's accounts, which are perfect. You find nothing. Ninian is whipped twice. As they do it, he looks up at you and smiles. "The knight did not look under the hearth," he says. By the time you have gone back, the hearthstone has been mortared down.
 [sk:Wisdom | st:+Despairing]
 ?? follow the steward by night | Hunting | 5
 ++ You wait outside the steward's house and follow him when he slips out after midnight. He goes to a moneylender's back door with a heavy bag, and comes out with a light one, and then goes to a loose stone in the church wall and puts something behind it. In the morning, you take the lord to the stone. Behind it is the second ledger. The steward flees to Ireland. The lord kneels before Ninian, who pats him on the head.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Wilderness | rn:Divinity+1]
 -- You follow the steward by night, and he goes straight home to bed. So does everyone else. In the morning, Ninian is whipped twice.
 [sk:Hunting | st:+Despairing]
 
@@ -152,7 +152,7 @@ He points to the stand, where the Earl's daughter, the Lady Tangwystl, sits unde
 You look at the Lady Tangwystl. She is very lovely. Pwca, following your gaze, goes pale. "Oh," he says, in a small voice. "Oh, no."
 ??* win the tournament and the lady's kiss | Romance | 4
 ++ You ride in the lists and win every course. When you ride to the stand to claim your kiss, the Lady Tangwystl gives it gracefully and asks you to sup with her. She is charming and witty, and she laughs at all your stories. Late in the evening, she says, "You know, I have a fool who loves me. He thinks I do not know." She sighs. "But a lady cannot marry a fool." You find Pwca afterwards, sitting on the fence. He does not speak to you.
-[d:3 | rn:Romance+1 | rn:Villainy+1 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
+[d:3 | rn:Romance/Villainy+1 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
 ~~2 You win two courses and lose the third. The Lady Tangwystl kisses the winner, who is fat and fifty. She catches your eye across the field and shrugs.
 [d:1 | rn:Romance+1]
 -- You are thrown on your first course. As you lie in the dust, you hear a jingle of bells, and see Pwca doing cartwheels along the barrier to make the lady laugh. She does.
@@ -170,12 +170,12 @@ The steward runs up to you, sweating. "Thank God," he says. "Three days ago, the
 "There is a king," you say, "and there is a fool. It is not for us to decide which is which." The steward looks relieved. "The flask," he says. "The flask came from a pedlar at the fair."
 ?? find the cure for the enchanted flask | Wisdom | 5
 ++ You find the pedlar at the next fair and persuade him, with some difficulty, to tell you what was in the flask. It was a love potion, badly made. The cure is to drink from the flask again, both at once, looking the other way. You bring the flask back and make the king and the fool drink from it back to back. They wake up in their right minds, in each other's clothes. The king is appalled. The fool is sorry. But the king, you notice, does not raise the taxes again. "I have had a lesson," he says, "in being a fool."
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- You find the pedlar at the next fair, but he will not tell you what was in the flask, and he sells you another one instead, which he swears is the cure. It is not. When the king and the fool drink it, they both think they are the Bishop of Hereford, and the steward will not speak to you again.
 [sk:Wisdom | st:+Scorned]
 ?? turn the flask's enchantment back on itself | Magic | 5
 ++ You ask for the flask and sniff it: sweet, and green, and wrong. You pour water into it and speak over it the words for undoing, and make the king and the fool each take a sip from it, back to back, at midnight. They wake in their right minds and in each other's clothes. The king is appalled. The fool is sorry. But the king does not raise the taxes again. "I have had a lesson," he says, "in being a fool."
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- You speak the words for undoing over the flask and make them each take a sip. In the morning, the king thinks he is a goose. The fool still thinks he is king. The steward will not speak to you.
 [sk:Magic | st:+Scorned]
 
@@ -183,12 +183,12 @@ The steward runs up to you, sweating. "Thank God," he says. "Three days ago, the
 You watch the fool in the crown, pardoning a poacher and paying a widow's debts from the treasury. You watch the king at the well, telling a joke about a dog that is not funny. "The people love him," you say. "Let us leave well alone."
 ?? keep the fool on the throne | Cunning | 5
 ++ You and the steward spread it about that the king had a vision at the fair and has become a new man. Nobody who has seen the new king at work is surprised. The real king is quite happy in motley, and falls in love with a kitchen maid, and nobody minds. The fool reigns for twelve years and is remembered as the best king that castle ever had. You are given a manor, which the fool says is only fair, since you gave him a kingdom.
-[d:4 | sk:Courtly | rn:Villainy+1 | rn:Divinity+1 | tr:1]
+[d:4 | sk:Courtly | rn:Divinity/Villainy+1 | tr:1]
 -- You and the steward spread it about that the king has become a new man. Unfortunately, the king's brother does not believe it, and marches on the castle with a hundred men. The fool, being a fool, surrenders at once. The king, being a fool, does too. You flee over the wall.
 [sk:Cunning | st:+Pursued]
 ?? secure the castle for the new king | Warfare | 5
 ++ You go to the captain of the guard, who has liked the new king better from the first day, and together you change the watchwords, move the old king's loyal men to the far towers, and set a guard on the gate against the king's brother. When the brother comes with a hundred men, he finds the gate shut and the walls manned. He goes home. The fool reigns for twelve years and is remembered as the best king that castle ever had.
-[d:4 | sk:Martial | rn:Villainy+1 | rn:Divinity+1 | tr:1]
+[d:4 | sk:Martial | rn:Divinity/Villainy+1 | tr:1]
 -- You change the watchwords and set a guard on the gate. The king's brother comes with a hundred men, and the captain of the guard, after a night's thought, opens the gate for him. You flee over the wall.
 [sk:Warfare | st:+Pursued]
 
@@ -204,7 +204,7 @@ You come upon a fool in black and white motley in the kitchens of Camelot, stirr
 You look at the bucket. You think of every time Kay has been rude to you. "Show me which flagstone," you say. Crach's grin spreads from ear to ear.
 ?? grease the flagstone without being seen | Cunning | 4
 ++ You slip into the great hall while the servants are laying the tables, and while Crach distracts the butler with a riddle, you tip goose fat onto the flagstone in front of the high table and rub it in with your boot. At the feast, Kay steps up to carve the swan, and his feet go out from under him, and he sits down in the swan. The High King laughs until he weeps. So do the ambassadors from Rome. Kay looks round the hall for the culprit, and his eyes rest on Crach, and then, thoughtfully, on you.
-[d:3 | sk:Courtly | rn:Villainy+1 | rn:Any+1 | st:+Pursued]
+[d:3 | sk:Courtly | rn:Villainy+1 | st:+Pursued]
 -- You slip into the great hall and tip goose fat on the flagstone. Unfortunately, Queen Guinevere comes down from the dais before Kay does, to greet the Roman ambassadors, and steps on it. She does not fall. Sir Bedivere catches her. But the High King is not laughing, and Crach, you notice, has vanished.
 [sk:Cunning | st:+Scorned | rn:Villainy+1]
 
@@ -230,7 +230,7 @@ After the council, the fool finds you in the courtyard. "I am Robin Goodfellow,"
 "Tell me your idea," you say. Robin grins. "We bring the goose to court," he says, "and put it on trial."
 ?? stage the trial of the goose | Diplomacy | 4
 ++ It takes a week to arrange. You ride to the Earl and persuade him, with some difficulty, to lend you his goose. Then, before the whole court, the goose is tried for trespass, with Robin as the prosecutor and you as the goose's defender. You argue that the goose was only following its nature, and that the barley was very good barley. The goose bites the prosecutor. The king laughs so hard he has to be carried from the hall. The next day, he invites the Earl to dinner, and they eat the goose together.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- It takes a week to arrange. You ride to the Earl and ask to borrow his goose, and the Earl, suspicious, refuses, and sends his men to guard it. The trial is held with a borrowed goose, which the king recognises at once as one of his own. He is not amused. The army marches the next day.
 [sk:Diplomacy | st:+Despairing]
 
@@ -238,12 +238,12 @@ After the council, the fool finds you in the courtyard. "I am Robin Goodfellow,"
 You ask for an audience with the king. The king receives you, still red-faced. "A knight of Arthur's court," he says. "Well? Have you come to tell me to swallow my pride?"
 ?? counsel the proud king against war | Wisdom | 5
 ++ "No, my lord," you say. "I have come to tell you that the Earl will swallow his first, if you let him." You explain that a great king does not need three hundred marks, or a goose. He needs the Earl to say he was wrong. The king likes this. You ride to the Earl and tell him the same thing in reverse. At the end of a week, the Earl sends the king a letter of apology and a gift of barley, and the king sends the Earl a gift of a goose. Robin plays a triumphant tune on his whistle all the way through the feast.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
 -- "No, my lord," you say. "I have come to tell you that the Earl will swallow his pride first, if you let him." The king considers this. "Or I could march on him," he says, "and he could swallow his teeth." He does march. You ride away before the first battle, with Robin's whistle playing a lament behind you.
 [sk:Wisdom]
 ?? show the king that his army is too small | Warfare | 5
 ++ You ask to see the king's army. It is sixty men and a cart. You walk him round it, courteously, and then ask how many men the Earl of Buellt has. Three hundred, it turns out. The king goes quiet. "Perhaps," he says, "the goose has been punished enough." He sends the Earl a letter of stiff reproach and a gift of a goose. The Earl, who was counting his own army and found it smaller than he thought, sends back barley.
-[d:3 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Martial | rn:Divinity+1]
 -- You walk the king round his sixty men and ask how many the Earl has. "Fewer," says the king confidently. He is wrong. The army marches the next day, and you ride away before the first battle.
 [sk:Warfare]
 
@@ -264,7 +264,7 @@ He sees you and grins. "Hush. I am Gwilym. I stole the Lord of Kidwelly's seal. 
 [sk:Hunting | st:+Scorned]
 ?? appeal to Gwilym's pride in his craft | Honor | 4
 ++ You sit down beside him in the hayloft. "The pig decree," you say, "was the best jest I have heard in a year. But a fool who hides behind a lord's seal is not a fool. He is a forger. A fool says it to the lord's face." Gwilym looks at you for a long time. Then he climbs down, walks into the hall and hands the seal to his lord in front of everyone, and tells him about the pigs. The lord laughs so hard he forgets to be angry.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- You tell Gwilym a fool should say it to the lord's face. "Then I will," he says, and does, and adds a great deal about the lord's nose. The lord is not amused. Gwilym goes in the stocks, and you are thrown out of the town for encouraging him.
 [sk:Honor | st:+Scorned]
 
@@ -272,7 +272,7 @@ He sees you and grins. "Hush. I am Gwilym. I stole the Lord of Kidwelly's seal. 
 You climb up into the hayloft and sit down beside him. "What does this town need?" you ask. Gwilym stops giggling. He thinks for a long time. "The bridge," he says. "The lord has been promising to mend it for five years. A child fell through it last winter."
 ?? draft a decree the lord cannot undo | Cunning | 5
 ++ You draft it together, very carefully: *By order of the Lord of Kidwelly, the bridge shall be mended at the Lord's cost, and the Lord's name shall be carved upon it forever in thanks.* The heralds read it out. The townsfolk cheer. By the time the lord returns, the masons are already at work, and his name is half-carved on the parapet, and every man in town is thanking him. He cannot undo it without looking a fool. He is furious, and very proud of his bridge. Gwilym returns the seal to his lord's desk that night, and nobody ever proves a thing.
-[d:4 | sk:Courtly | rn:Divinity+1 | rn:Villainy+1]
+[d:4 | sk:Courtly | rn:Divinity/Villainy+1]
 -- You draft it together, very carefully, but you forget that the seal must be pressed right side up. The heralds notice. They also notice the handwriting. By the time the lord returns, you and Gwilym are both sitting in the pillory beside the steward.
 [sk:Cunning | st:+Imprisoned]
 
@@ -288,7 +288,7 @@ He points down the road, where a knight in black is riding away at a walk, with 
 You spur after the knight in black. "Sir Brun!" you call. "That motley belongs to a fool. I will fight you for it." Brun turns in the saddle and laughs. "Fight a knight for a fool's coat?" he says. "Very well."
 ?? joust with Sir Brun for the motley | Mounted | 4
 ++ You meet him in the road with lances, and on the first pass, you put him into a hedge. He comes out with leaves in his hair. "For a coat?" he says wonderingly. "For a coat," you say. He hands it over. You ride back to Hwfa and toss him his motley and his cap and his bauble, and he puts them on right there on the milestone, and does a handspring, and falls over. "*I am a fool again!*" he cries. "Thank God!"
-[d:3 | sk:Martial | rn:Romance+1 | rn:Any+1]
+[d:3 | sk:Martial | rn:Romance+1]
 -- You meet him in the road with lances, and on the first pass, he puts you into a hedge. He rides on laughing, with two trophies now: a fool's cap and a knight's pride. Hwfa helps you out of the hedge. "*We are both fools now,*" he says gloomily.
 [sk:Mounted | st:+Unhorsed]
 ?? shame Sir Brun into giving back a fool's coat | Honor | 4
@@ -320,7 +320,7 @@ The fool raises his head and sees you. He is quite young, with a face made for l
 You ride to the king's side and bow. "Sire," you say, "a fool's jest is a fool's right. Is the king's word so weak that it must be defended with an axe?" The king's eyes narrow.
 ?? persuade the king to show mercy | Diplomacy | 5
 ++ You speak of the High King's oath, and of fools who have been kept in every court since Solomon's, and of what will be said in every hall in Britain of a king who beheads his fool for a jest about taxes. The king listens, with his jaw tight. Then he looks at his brother, the treasurer, standing beside the scaffold with a fat purse at his belt, and a doubt comes into his face. "Take the fool down," he says. "And bring me my brother's accounts." The fool kisses your stirrup and weeps. The treasurer, you hear, leaves for Normandy the next week.
-[d:4 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Courtly | rn:Divinity+1]
 -- You speak of the High King's oath, and of fools in every court since Solomon's, and the king listens with his jaw tight. Then he says, "Are you a fool too?" and the crowd laughs, and you have lost them. The axe falls. You ride away with the laughter in your ears.
 [sk:Diplomacy | st:+Despairing]
 ?? remind the king that wrath is a deadly sin | Piety | 5
@@ -333,7 +333,7 @@ You ride to the king's side and bow. "Sire," you say, "a fool's jest is a fool's
 You catch the fool's eye and glance at your horse. He understands at once. He grins, and when the headsman lifts his axe, the fool rolls sideways off the block and runs.
 ?? snatch the fool from the scaffold | Mounted | 3+L
 ++ You ride through the crowd, reach down, and haul the fool up behind your saddle by his motley, and you are away before the king's men can move. You ride hard for the border with arrows singing past. That night, in a barn, the fool laughs until he cries. "The king will be so angry," he says. "It was worth being beheaded for, almost." He goes to Ireland, where the kings like jests, and you are not welcome in that castle again.
-[d:L | sk:Martial | rn:Romance+1 | rn:Villainy+1 | st:+Pursued]
+[d:L | sk:Martial | rn:Romance/Villainy+1 | st:+Pursued]
 -- You ride through the crowd and reach for the fool, but your hand closes on his cap, and it comes off with a jingle, and he falls back onto the scaffold. You are dragged from your horse by the king's men. They make you watch.
 [sk:Mounted | st:+Imprisoned | st:+Despairing]
 
@@ -341,6 +341,6 @@ You catch the fool's eye and glance at your horse. He understands at once. He gr
 You climb onto the scaffold. The headsman looks at you in confusion. The fool looks up. "Oh, good," he says. "An audience."
 ?? make the angry king laugh | Wisdom | 6
 ++ You do not tell a joke. You turn to the crowd and ask, very seriously, whether anyone here has ever tried to lift the new tax. A farmer shouts that he has, and it broke his back. A woman shouts that she tried too, and it vanished through her fingers. The crowd begins to laugh. You turn to the king and bow. "Sire," you say, "your fool is not guilty. He only said what everyone knows." The king stares at you. Then, slowly and unwillingly, his mouth twitches. He laughs. It is a short, bitter laugh, but it is a laugh. "Let him go," he says. "And lower the tax."
-[d:5 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:5 | sk:Spiritual | rn:Divinity/Romance+1]
 -- You ask the crowd whether anyone here has ever tried to lift the new tax. Nobody answers. They are too frightened. The king says, "Very droll," and nods to the headsman, and then to his guards, who take you by the arms. You are lucky to leave that castle with your own head.
 [sk:Wisdom | st:+Imprisoned]

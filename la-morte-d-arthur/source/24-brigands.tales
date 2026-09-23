@@ -10,12 +10,12 @@ You ride into Gloucester and find the great bridge over the Severn blocked by a 
 You ride up to the barricade and draw your sword. "The bridge is the king's," you say. "Clear it."
 ?? fight your way across the Severn bridge | Sword & Shield | 3+L
 ++ The first of them swings a club at your horse's head. You knock it out of his hands. The second goes into the river. The rest look at each other, and at the townsfolk gathering behind you with sticks and rolling-pins, and run. Black Cadwgan comes out of the tollhouse roaring, and you meet him in the middle of the bridge, and he goes into the river too. The townsfolk tear down the barricade with their bare hands. The baker gives you a loaf the size of a shield.
-[d:L | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Martial | rn:Divinity+1]
 -- The first of them swings a club at your horse's head, and your horse shies, and you are in the river before you have struck a blow. You swim to the bank to cheers from the brigands.
 [sk:Sword & Shield | st:+Scorned]
 ?? ride straight through the barricade | Mounted | 4
 ++ You back your horse the length of the bridge, then put your spurs in and ride at the barricade of carts. At the last moment, your horse leaps the lowest cart. The brigands scatter like pigeons. You wheel on the far side and ride back through them, and they run. Black Cadwgan comes out of the tollhouse and meets your horse's chest, and goes into the river. The townsfolk tear down the rest with their hands.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Divinity+1]
 -- You ride at the barricade, and your horse refuses at the last moment, and you do not. You land among the brigands, on your back. They take a toll of your purse.
 [sk:Mounted | st:+Unhorsed]
 
@@ -23,12 +23,12 @@ You ride up to the barricade and draw your sword. "The bridge is the king's," yo
 You pay your penny and cross. Then you go looking for the sheriff's house.
 ?? uncover the sheriff's dealings with the brigands | Wisdom | 5
 ++ You spend a day watching the sheriff's house, and at dusk, you see one of Cadwgan's men go in by the back door with a heavy purse, and come out without it. You follow him back to the bridge, and then you go to the Earl of Gloucester with what you have seen. The Earl, who has been wondering why his sheriff has a new horse, sends his own men. The bridge is clear by morning. The sheriff is in his own cells.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- You spend a day watching the sheriff's house and see nothing but a great many cats. When you ask questions in the town, word gets back to the sheriff, and you are arrested for vagrancy.
 [sk:Wisdom | st:+Imprisoned]
 ?? follow the toll money to where it ends up | Hunting | 4
 ++ You watch the tollhouse from the other bank at dusk and see a boy come out with a heavy bag. You follow him through the back lanes, keeping far behind, to the sheriff's own kitchen door. You go to the Earl of Gloucester, who has been wondering why his sheriff has a new horse. The Earl's men clear the bridge by morning. The sheriff is in his own cells.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Wilderness | rn:Divinity+1]
 -- You follow the boy through the back lanes and lose him in the fish market. By the time you find his trail again, it is dark, and you are lost in Gloucester.
 [sk:Hunting]
 
@@ -44,12 +44,12 @@ You notice that the monks have very large hands, and scars, and that one of them
 You put on a pilgrim's cloak over your armour, pay the false monks their fee, and follow them up the Tor.
 ?? trap the false monks on the Tor | Cunning | 4
 ++ At the top of the Tor, in the ruined chapel, the false monks turn on you and the other pilgrims with cudgels. You throw off your cloak. They stare at your armour, and at your sword, and at the pilgrims, who, seeing a knight, have found their courage. It is a short fight. The false monks are marched down the Tor with their hands tied with their own rope girdles. The Abbot of Glastonbury is so grateful he lets you touch the Holy Thorn.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- At the top of the Tor, the false monks turn on you with cudgels, and there are more of them than you thought. You are knocked down, robbed of your purse and your cloak, and rolled down the slope. The real monks find you at the bottom.
 [sk:Cunning | st:+Wounded]
 ?? meet the false monks at the summit with steel | Sword & Shield | 4
 ++ You climb the Tor ahead of them by the steep side and wait in the ruined chapel. When they come up with their pilgrims, you step out with your sword drawn. The false monks draw cudgels from under their habits. It is a short fight in the ruins. The pilgrims, seeing a knight, find their own courage. The false monks go down the Tor with their hands tied with their own girdles.
-[d:3 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Martial | rn:Divinity+1]
 -- You wait in the ruined chapel and step out with your sword drawn. There are eight false monks, not four. You are rolled down the Tor with the pilgrims.
 [sk:Sword & Shield | st:+Wounded]
 
@@ -100,12 +100,12 @@ As you ride through a forest in golden sunlight, you come to a great oak with a 
 "I am nobody's man," you say, "and the Baron sounds like a thief." Sir Hervi laughs and grips your hand. "Then welcome," he says.
 ?? raid the Baron's rent-carts | Hunting | 4
 ++ You lie in wait with the outlaws by the forest road, and when the Baron's rent-carts come by, heavy with silver squeezed from his tenants, you spring out of the trees and take them without a blow struck. The guards run. That night, Sir Hervi divides the silver and sends most of it back, in the dark, to the families who paid it. He gives you a fair share. "We are thieves," he says, "but we are honest thieves."
-[d:4 | sk:Wilderness | rn:Villainy+1 | rn:Divinity+1 | tr:1]
+[d:4 | sk:Wilderness | rn:Divinity/Villainy+1 | tr:1]
 -- You lie in wait by the forest road, but the Baron has hired more guards, and crossbowmen. The ambush goes wrong. You flee through the forest with the Baron's men behind you, and several of the outlaws do not come back.
 [sk:Hunting | st:+Pursued]
 ?? ambush the Baron's guards in open fight | Warfare | 4
 ++ You set the outlaws in two lines on either side of a sunken lane and wait. When the Baron's rent-carts and their twelve guards are between the lines, you blow a horn, and forty ragged farmers rise out of the bracken on both sides. The guards throw down their spears. Sir Hervi sends most of the silver back, in the dark, to the families who paid it. He gives you a fair share.
-[d:4 | sk:Martial | rn:Villainy+1 | rn:Divinity+1 | tr:1]
+[d:4 | sk:Martial | rn:Divinity/Villainy+1 | tr:1]
 -- You set the outlaws in two lines and wait, but the Baron has hired crossbowmen. When the horn blows, they are ready. You flee through the forest with the Baron's men behind you.
 [sk:Warfare | st:+Pursued]
 
@@ -113,12 +113,12 @@ As you ride through a forest in golden sunlight, you come to a great oak with a 
 "Your cause is just," you say. "Let the High King hear it." Sir Hervi laughs bitterly. "The High King," he says, "has never heard of me."
 ?? plead the outlaw knight's case at Camelot | Diplomacy | 5
 ++ You ride to Camelot with Sir Hervi, under your protection, and ask for a hearing. It takes a week, but the High King hears you, and sends for the Baron of Arden and his books. The books do not add up. The Baron is fined, and the land is given back to Sir Hervi, and the tenants return to their farms. The outlaws come out of the forest in a long, blinking procession. Sir Hervi gives you his father's sword.
-[d:5 | sk:Courtly | rn:Divinity+1 | rn:Romance+1 | tr:1]
+[d:5 | sk:Courtly | rn:Divinity/Romance+1 | tr:1]
 -- You ride to Camelot with Sir Hervi, but the Baron of Arden gets there first, with gifts. Sir Hervi is arrested as an outlaw. You spend a month getting him out.
 [sk:Diplomacy | st:+Scorned]
 ?? find the forged debts in the Baron's own books | Wisdom | 5
 ++ Before you go to Camelot, you go to the Baron's steward, who is an honest man and unhappy, and ask to see the accounts. The debt Sir Hervi is said to owe was entered in a different ink, on a scraped page. You take the page to Camelot. The High King sends for the Baron and his books. Sir Hervi gets his land back, and the outlaws come out of the forest in a long, blinking procession.
-[d:5 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1 | tr:1]
+[d:5 | sk:Spiritual | rn:Divinity/Romance+1 | tr:1]
 -- You ask the Baron's steward to show you the accounts. He does, and then he shows them to the Baron, who has you thrown out. Sir Hervi laughs bitterly.
 [sk:Wisdom | st:+Scorned]
 
@@ -159,12 +159,12 @@ As you ride through a forest in dim sunlight, you come to a great oak with a cle
 You look at the outlaws, ragged and hungry and fierce. "Show me the ford," you say.
 ?? plan and lead the attack at the ford | Warfare | 5
 ++ You study the ford all day. That night, you send half the outlaws upstream to make noise and light fires, and when the Saxons go to see, you fall on their camp with the other half. It is over in minutes. The Saxons flee into the river, and many drown. The outlaws take their weapons, their horses and their food. Sir Hervi embraces you. "The best night's work I have done since I lost my land," he says.
-[d:5 | sk:Martial | rn:Romance+1 | rn:Any+1 | tr:1]
+[d:5 | sk:Martial | rn:Romance+1 | tr:1]
 -- You send half the outlaws upstream to make noise, but the Saxons are not fooled. They wait for the other half and cut them down in the river. You and Sir Hervi escape with six men.
 [sk:Warfare | st:+Despairing]
 ?? use the ford itself against them | Nature Lore | 5
 ++ You spend the day walking the river and find what you need: a mill-dam a mile upstream. At midnight, when the Saxons are asleep by the ford, you open the sluice. The river rises three feet in a quarter of an hour, and the Saxon camp is under water, and the outlaws are waiting on the bank. The Saxons who reach dry ground do not reach it with their weapons. Sir Hervi embraces you.
-[d:5 | sk:Wilderness | rn:Romance+1 | rn:Any+1 | tr:1]
+[d:5 | sk:Wilderness | rn:Romance+1 | tr:1]
 -- You open the mill-sluice at midnight, and the river rises, and floods the outlaws' camp, which is lower than the Saxons'. It is a long, wet night of recriminations.
 [sk:Nature Lore | st:+Scorned]
 
@@ -172,7 +172,7 @@ You look at the outlaws, ragged and hungry and fierce. "Show me the ford," you s
 "Twenty men cannot beat forty," you say. "But twenty men who know the forest can tell the old king where forty Saxons are." Sir Hervi frowns. Then he nods.
 ?? scout the Saxon host with the outlaws | Hunting | 3+L
 ++ You spend a week creeping through the forest with the outlaws, counting Saxons, marking their camps, noting their roads. At the end of the week, you ride to the old king's camp with a map drawn on a piece of bark. The old king's captains use it to ambush the whole Saxon host at the river. Sir Hervi and his outlaws are given a pardon and a place in the old king's army.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:L | sk:Wilderness | rn:Divinity/Romance+1]
 -- You creep through the forest with the outlaws, counting Saxons, but one of the outlaws is a Saxon spy. On the fourth night, you are ambushed.
 [sk:Hunting | st:+Pursued]
 
@@ -230,7 +230,7 @@ You draw your sword and ride into the ruined chapel. The brigands leap up from t
 You leave your sword with the monk and walk into the chapel with your hands open. "Good evening," you say. "I hear you have something to sell."
 ?? trick the brigands out of the relic | Cunning | 5
 ++ You tell them you are a merchant, and that the casket is worth nothing, because everyone knows gold on a relic is only gilt, but that you will buy it off them for a silver penny as a curiosity. You show them the silver penny. They look at the casket, and at the penny, and at each other. One of them bites the casket. "Gilt," he says, disgusted. It is not gilt. It is solid gold. But you have made them doubt, and they sell it to you for three pennies. You carry it back to the monk, who faints.
-[d:4 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Courtly | rn:Divinity+1]
 -- You tell them you are a merchant and the casket is worthless gilt. One of them bites it. "Gold," he says. "Solid gold." They look at you with new interest, and at your purse. You leave without the casket, or your purse.
 [sk:Cunning | st:+Scorned]
 
@@ -309,7 +309,7 @@ The bishop's guards have fled. His chaplain, a thin young priest, is standing in
 You lower your lance and ride at the brigands.
 ?? scatter the brigands from the bishop's train | Mounted | 5
 ++ You ride through them like a bowling ball through skittles. Their leader turns and meets you, and goes off the back of his horse. The rest look at him, lying in the grass, and decide the bishop's gold is not worth it. The bishop is very grateful, in a pompous way. The young chaplain is simply grateful. You like him better.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Divinity+1]
 -- You ride at them, but there are too many, and they close round you. You are pulled from your horse and robbed along with the bishop. They leave you both standing on the plain in your shirts.
 [sk:Mounted | st:+Unhorsed]
 
@@ -333,7 +333,7 @@ The deserters see you and stand up. Their leader, a scarred sergeant, grins. "No
 You draw your sword. The sergeant sighs. "Always one," he says.
 ?? drive off the band of deserters | Sword & Shield | 3+L
 ++ They are soldiers, but they are tired and drunk and have lost the heart to fight. You cut down the sergeant, and the rest scatter across the plain. You help the woman and her children gather what the deserters dropped: a pot, some blankets, a sack of flour. It is not much. It is more than they had. She thanks you with dry eyes.
-[d:L | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Martial | rn:Divinity+1]
 -- They are soldiers, and there are a dozen of them. You are beaten and left in the ashes beside the woman. She binds your head with a strip of her shift.
 [sk:Sword & Shield | st:+Wounded]
 
@@ -341,12 +341,12 @@ You draw your sword. The sergeant sighs. "Always one," he says.
 You look at the deserters, and at their colours. "You wore the dragon," you say to one of them. "You wore the king's colours. Is this what he fought for?"
 ?? remind the deserters of their oaths | Honor | 5
 ++ You speak to each of them in turn. You ask the old soldiers where they fought, and the young ones who their fathers were. You remind them of the oath at Pentecost, and the king who swore it with them. One by one, they put down the loot. The sergeant is the last. "The king is dead," he says. "Then fight for his memory," you say. At dawn, eight of them ride with you to the old king's camp. The other four go home to their farms. The woman gets her pot back.
-[d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Courtly | rn:Divinity/Romance+1]
 -- You speak to them of oaths. The sergeant laughs in your face. "Oaths," he says, "are what got us here." They beat you and take your horse.
 [sk:Honor | st:+Unhorsed]
 ?? order them into ranks as their captain would | Warfare | 4
 ++ You do not plead. You bark at them, as a sergeant barks, and they are soldiers still: "Fall in! Dress your ranks! Who is the senior man?" The scarred sergeant is on his feet before he knows it. You march them up and down the ashes until they remember what they were. At dawn, eight of them ride with you to the old king's camp. The woman gets her pot back.
-[d:4 | sk:Martial | rn:Romance+1 | rn:Divinity+1]
+[d:4 | sk:Martial | rn:Divinity/Romance+1]
 -- You bark at them to fall in. The sergeant looks at you, amused. "Whose army?" he asks. Nobody falls in. They take your horse.
 [sk:Warfare | st:+Unhorsed]
 
@@ -362,12 +362,12 @@ Their leader, a lean woman with a face tattooed with blue dots, points her fish-
 "Show me the abbot's soldiers," you say. Aelfgifu grins. "Tomorrow," she says. "Sleep with us tonight."
 ?? fight the abbot's soldiers in the fens | Warfare | 3+L
 ++ The abbot's soldiers march into the fens the next day in their heavy mail, expecting fish-folk. They find the causeway gone and the water rising, and the fen-outlaws on their stilts all round them, and a knight on the only dry ground, waiting. By noon, they are wading back to Ely, soaked and humiliated. Aelfgifu gives you a fish-spear with a silver head. The abbot, you hear, decides the fens are God's business after all.
-[d:L | sk:Martial | rn:Villainy+1 | rn:Any+1 | tr:1]
+[d:L | sk:Martial | rn:Villainy+1 | tr:1]
 -- The abbot's soldiers march into the fens, and you lead the fen-outlaws against them, but the soldiers have crossbows. The outlaws scatter into the reeds. You are taken to Ely.
 [sk:Warfare | st:+Imprisoned]
 ?? draw the soldiers into the deep fen | Nature Lore | 3+L
 ++ You tell Aelfgifu your plan, and she grins. The next day, you ride out alone in front of the abbot's soldiers and let them chase you, along a path that only you and the fen-folk know is firm, until it isn't. They go into the mud to their waists in their heavy mail. The fen-folk rise around them on their stilts. The soldiers wade back to Ely, soaked and humiliated, and the abbot decides the fens are God's business after all.
-[d:L | sk:Wilderness | rn:Villainy+1 | rn:Any+1]
+[d:L | sk:Wilderness | rn:Villainy+1]
 -- You let the abbot's soldiers chase you along the hidden path. You take a wrong turn yourself. You and the soldiers spend a companionable afternoon waist-deep in the same bog.
 [sk:Nature Lore | st:+Plague-Ridden]
 
@@ -418,12 +418,12 @@ As you pick your way through the fens during the war, you find a village of reed
 You draw your sword and ride at the soldiers.
 ?? free the conscripts from Mordred's men | Warfare | 4
 ++ You ride through them, and they scatter, not expecting a fight. You cut the conscripts loose, and they pick up the soldiers' spears and turn on them. In minutes, the recruiting party is fleeing into the marsh. The old woman's grandsons are among the freed. She kisses your hand. The young men of the village want to ride with you. You tell them to go home and look after their grandmothers.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Martial | rn:Divinity/Romance+1]
 -- You ride at the soldiers, but there are more than you counted, and they have horses. You are driven off into the marsh. The conscripts are taken away.
 [sk:Warfare | st:+Pursued | st:+Despairing]
 ?? ambush the recruiting party on the causeway | Hunting | 4
 ++ You follow them out of the village and wait where the causeway crosses a deep dyke, and when they are strung out along it with their conscripts roped between them, you come out of the reeds and cut the rope, and push the nearest soldier into the dyke. The conscripts do the rest. The old woman's grandsons are home by nightfall.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You wait by the dyke all afternoon, up to your knees in reeds, and the recruiting party takes the drove road instead. By the time you find their tracks, they are across the river with the boys. You go back and tell the old woman, and she does not say anything.
 [sk:Hunting | st:+Despairing]
 
@@ -465,7 +465,7 @@ You draw your sword and stand at the rail. The pirates throw their grappling hoo
 "Grainne!" you call across the water. "I will make you a wager. A contest of your choosing. If I win, you let us go. If you win, you may have the ship."
 ?? win Grainne's contest | Endure Hardship | 4
 ++ Grainne laughs with delight. "A drinking contest," she says. "Aboard my ship." You drink with her until the stars come out. The pirates cheer. At the end, Grainne is under the table, and you are sitting on it, very carefully. She wakes up at dawn and laughs until she has to hold her head. She lets your ship go, and gives you her own dagger. "Nobody has ever beaten me," she says. "Come back when you want a job."
-[d:3 | sk:Wilderness | rn:Romance+1 | rn:Any+1 | tr:1]
+[d:3 | sk:Wilderness | rn:Romance+1 | tr:1]
 -- Grainne laughs with delight. "A drinking contest," she says. You are under the table before midnight. She takes the ship.
 [sk:Endure Hardship | st:+Imprisoned]
 
@@ -481,7 +481,7 @@ As the ship grinds and groans, you see men coming down the cliff with lanterns a
 You leap from the stricken ship into the surf and wade ashore, sword in hand, to meet the wreckers.
 ?? drive off the wreckers | Sword & Shield | 3+L
 ++ The wreckers are not fighters. They are villagers with axes, expecting drowning sailors. When they see a knight coming out of the surf with a drawn sword, they drop their lanterns and flee up the cliff. You go up after them and put out the false beacon. In the morning, the ship's crew and most of its cargo are safe on the beach. The captain is still angry at himself. You go to the village church and ring the bell until the priest comes, and tell him what his parishioners have been doing.
-[d:L | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Martial | rn:Divinity+1]
 -- You wade ashore to meet the wreckers, but they have come for exactly this, and there are twenty of them. You are knocked down in the surf and left for dead.
 [sk:Sword & Shield | st:+Wounded]
 
@@ -510,7 +510,7 @@ The Saxons are nearly finished loading. Their ship will sail on the next tide.
 You bring your ship into the cove and leap into the surf with your sword drawn, with your crew behind you.
 ?? storm the Saxon longship | Warfare | 5
 ++ The Saxons are loading, not fighting, and you are among them before they can form a shield-wall. It is a short, fierce fight on the beach and in the surf. When it is over, the Saxons who are left are rowing out of the cove in their empty ship, and the captives are free. Sister Wenna walks up the beach toward you, and, before she says anything, kneels and begins to bind the wounds of the nearest man, who is a Saxon.
-[d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:5 | sk:Martial | rn:Divinity/Romance+1]
 -- You leap into the surf, but the Saxons form a shield-wall on the beach, and you are driven back. The longship sails with its captives. Sister Wenna, you hear, heals the Frisians too.
 [sk:Warfare | st:+Wounded | st:+Despairing]
 
@@ -518,6 +518,6 @@ You bring your ship into the cove and leap into the surf with your sword drawn, 
 You wait until night, and swim to the longship with a knife and a bag of tools.
 ?? sabotage the Saxon ship in the dark | Cunning | 3+L
 ++ You swim under the longship's hull and cut through the lashings of three of its planks, so that they will hold on the beach but not in the open sea. Then you swim away. At dawn, the Saxons sail. A mile out, their ship begins to sink. They row desperately back to shore, straight into the arms of the local lord's men, whom you have warned. The captives are freed. Sister Wenna thanks you, and asks you, gently, not to do anything like that again, because the Saxons might have drowned.
-[d:L | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Courtly | rn:Divinity+1]
 -- You swim under the longship's hull, but the Saxons have a watchman. He sees you. You barely escape back to your ship, and the longship sails at dawn.
 [sk:Cunning | st:+Despairing]

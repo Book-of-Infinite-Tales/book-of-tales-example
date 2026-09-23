@@ -12,7 +12,7 @@ You look at the knucklebone. It is very clearly a knucklebone from a pig. The fr
 "Good people," you say loudly, "that is a pig's knuckle." The crowd goes quiet. Brother Cadoc's smile does not flicker. "Blasphemy!" he says. "Who will you believe, a knight or a man of God?"
 ?? prove the relic false before the crowd | Wisdom | 4
 ++ You ask for the relic, and hold it up, and ask whether any of them has ever butchered a pig. Half the village has. They crowd round and look, and the murmuring turns to anger. The blacksmith's wife snatches the tray of pardons and finds they are cut from the lead of the church roof. Brother Cadoc is chased out of the village with a pitchfork behind him, and the villagers get their pennies back. The priest thanks you. His roof has been leaking for a month.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Spiritual | rn:Divinity+1]
 -- You ask for the relic and hold it up and ask whether any of them has ever butchered a pig. But Brother Cadoc is quicker. He cries out that you have defiled the saint with your unclean hands, and falls on his knees weeping, and the villagers believe him. They drive you out of the village with stones. You resolve to be a little less certain in front of a crowd.
 [sk:Wisdom | st:+Scorned]
 ?? shame the friar into confessing | Piety | 5
@@ -143,12 +143,12 @@ He sees you watching and blushes to the roots of his tonsure. "I am Brother Hugh
 "Thirty years is long enough," you say. "Let me speak to the bishop." Brother Hugh goes white. "You would tell him?" "I would ask him," you say.
 ?? plead for the old lovers before the bishop | Diplomacy | 6
 ++ The bishop is a brisk, hard-faced man who does not like knights. You meet him on the road and ride beside him for two days, talking. You talk about vows, and about what was done to two young people thirty years ago against their will. You talk about mercy. On the second evening, the bishop sighs and rubs his eyes. "I was betrothed once too," he says. "She died." On Saturday, he releases Brother Hugh and the Abbess Gwenfrewi from their vows. They are married by the river on Sunday, and they float a bowl downstream with a letter in it for you.
-[d:5 | sk:Courtly | rn:Divinity+1 | rn:Romance+2]
+[d:5 | sk:Courtly | rn:Divinity/Romance+2]
 -- The bishop is a brisk, hard-faced man who does not like knights. You meet him on the road and try to talk to him about mercy. He listens for a quarter of an hour and then says, "So it is true." On Saturday, Brother Hugh is sent north, and the abbess is sent south. You do not see the wooden bowl again.
 [sk:Diplomacy | st:+Scorned]
 ?? remind the bishop that God is merciful to old lovers | Piety | 6
 ++ You ride beside the bishop for two days and speak of vows made by children, against their will, and of what the Lord said about the Sabbath being made for man. On the second evening, the bishop sighs. "I was betrothed once," he says. On Saturday he releases Brother Hugh and the Abbess Gwenfrewi from their vows, and on Sunday he marries them himself, by the river.
-[d:5 | sk:Spiritual | rn:Divinity+1 | rn:Romance+2]
+[d:5 | sk:Spiritual | rn:Divinity/Romance+2]
 -- You speak to the bishop of mercy and the Sabbath. He quotes Saint Paul back at you for an hour, and knows more of him than you do. On Saturday, Brother Hugh is sent north.
 [sk:Piety | st:+Scorned]
 
@@ -266,7 +266,7 @@ When Father Emyr comes back with the bread, you are standing in the doorway with
 You say nothing, and eat his bread, and thank him. That night, when he thinks you are asleep, you hear him slip out of the chapel. You follow.
 ?? lay a trap for the outlaws in the pass | Warfare | 3+L
 ++ The false hermit rings his bell, and the outlaws come down from the pass with torches to rob his guest. You have already moved your horse, stuffed your blankets with straw, and cut half-through the rope bridge above the chapel. When they are all on it, you cut the rest. Twelve outlaws go into the river. The survivors flee. The hermit, you find in the morning, has fled too. You take his chapel's bell to the next church, where it is still rung every Sunday.
-[d:L | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Martial | rn:Divinity+1]
 -- The false hermit rings his bell, and the outlaws come down from the pass. You try to take them by surprise in the dark, but there are too many, and one of them has a dog. You spend the night in a thicket with the dog barking outside it.
 [sk:Warfare | st:+Pursued]
 
@@ -327,7 +327,7 @@ You get down from your horse and roll up your sleeves. Father Mabon looks at you
 "I will fetch a physician," you say. Father Mabon nods. "The nearest is the Abbey of Saint Asaph," he says. "Three days' ride. Two, if you do not sleep."
 ?? ride to the abbey and back without rest | Mounted | 3+L
 ++ You ride through the night, and the next day, and the next night. At the abbey, you drag the infirmarian out of his bed and put him on a fresh horse, and you ride back. It takes you four days in all. When you arrive, Father Mabon is still on his feet, but only just. The infirmarian knows what to do. Of the thirty sick, eighteen live. The infirmarian says it would have been none, without you.
-[d:L | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Martial | rn:Divinity+1]
 -- You ride through the night, and at dawn, your horse falls, exhausted, and cannot get up. You walk the rest of the way. By the time you reach the abbey and return with the infirmarian, it has been a week, and there is nobody left in the barn to cough.
 [sk:Mounted | st:+Unhorsed | st:+Despairing]
 

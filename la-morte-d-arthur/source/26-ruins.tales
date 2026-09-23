@@ -12,12 +12,12 @@ At dusk, you hear it: the tramp of hobnailed sandals on stone.
 You wait by the colonnade as night falls. The soldier appears, grey and translucent, with a short sword at his hip. He stops in front of you and says something in Latin.
 ?? answer the ghost's watchword and release him | Wisdom | 5
 ++ You know a little Latin from the priests. He is asking for the watchword. You think about it for a long time. Then you say the only thing you can think of that a Roman soldier would want to hear: "The legion has gone home. You may go home too." The ghost stares at you. Then he takes off his helmet, and he is only a boy of eighteen, with a tired face. He salutes you, and walks into the green water, and is gone. The townsfolk never hear him again.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- You try to answer him in your little Latin, and get it wrong. The ghost draws his short sword. You wake face-down at the edge of the water, choking, with the reeve pulling you out.
 [sk:Wisdom | st:+Wounded]
 ?? stand guard beside him until his watch is relieved | Sword & Shield | 5
 ++ You draw your sword and fall in beside the ghost, and march with him up and down the colonnade, in step, all night. At dawn, you halt, and turn to him, and salute, and say in your little Latin: "Relieved." He stops. He takes off his helmet, and he is only a boy of eighteen, with a tired face. He salutes you back, and walks into the green water, and is gone.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Divinity+1]
 -- You fall in beside the ghost and march with him, but you fall out of step, and he turns on you with his short sword. You wake face-down at the edge of the water.
 [sk:Sword & Shield | st:+Wounded]
 
@@ -25,12 +25,12 @@ You wait by the colonnade as night falls. The soldier appears, grey and transluc
 You wait until the ghost has marched to the far end of the colonnade, and then you slip into the ruins behind him.
 ?? creep past the ghost and find the treasury | Hunting | 6
 ++ You find the treasury under a fallen arch, and in it a strong-box, rusted through, full of silver coins with a Roman emperor's face on them. You fill your helmet and slip out again. Behind you, the ghost is still marching, still calling the watchword. You wonder, riding away, how long he will go on guarding an empty box.
-[d:5 | tr:2 | rn:Villainy+1 | rn:Any+1]
+[d:5 | tr:2 | rn:Villainy+1]
 -- You find the treasury under a fallen arch, and reach for the box, and a cold hand closes on your shoulder. You flee. You are not sure how you got out, only that you did, and that you will not go back.
 [sk:Hunting | st:+Accursed]
 ?? find the treasury from the old Roman plan | Wisdom | 5
 ++ You do not creep about in the dark. You find a Roman stone in the church wall with an inscription on it, and read it, and learn that the treasury lay under the shrine of Sulis. You go straight there by daylight, while the ghost sleeps, and find the strong-box under the fallen altar, full of silver with an emperor's face on it. You wonder, riding away, how long he will go on guarding an empty box.
-[d:5 | tr:2 | rn:Villainy+1 | rn:Any+1]
+[d:5 | tr:2 | rn:Villainy+1]
 -- You read the Roman inscription and go to the shrine of Sulis, and dig, and find the ghost there instead, guarding it by day as well. You flee.
 [sk:Wisdom | st:+Accursed]
 
@@ -51,7 +51,7 @@ You step between the bishop's men and the beggars. "If Joseph rested here," you 
 [sk:Piety | n:Lose 1 Treasure, if possible]
 ?? make the family's claim good by the old law of dwelling | Wisdom | 5
 ++ You remind the bishop's steward of the law, older than any bishop, that whoever has lived seven winters under a roof, unchallenged, may not be put out of it. The beggar woman has lived there seven years and a month. The steward goes to find his master. The bishop, who does not want to be the man who threw a family out of Joseph's resting place, builds his shrine round them, and makes the beggar woman its keeper.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Spiritual | rn:Divinity+1]
 -- You remind the steward of the law of seven winters. He produces a lease, signed by the bishop's grandfather, that says otherwise. The family is thrown out.
 [sk:Wisdom | st:+Despairing]
 
@@ -161,12 +161,12 @@ You kneel beside the young hermit. The voices sing around you.
 You stand very still in the middle of the ring of columns and listen.
 ?? discern the nature of the singing voices | Magic | 5
 ++ You listen until you can hear each voice. They are not one goddess. They are hundreds of people, all the people who ever prayed in this place, to whatever god they had, and the wind has kept their voices. You tell the hermit. He is quiet a long time. "Then I will add mine," he says, and begins to sing, and the voices sing with him.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- You listen until the voices fill your head, and then you cannot stop hearing them, even when you have ridden away. It is a week before they fade.
 [sk:Magic | st:+Mad]
 ?? listen with a hermit's patience, day and night | Endure Hardship | 5
 ++ You sit in the middle of the temple for a day and a night without food, and listen, until you can hear each voice apart. They are not one goddess. They are all the people who ever prayed in this place, to whatever god they had, and the wind has kept their voices. You tell the hermit. "Then I will add mine," he says, and begins to sing, and the voices sing with him.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Wilderness | rn:Divinity+1]
 -- You sit and listen for a day and a night, and the voices fill your head until you cannot stop hearing them. It is a week before they fade.
 [sk:Endure Hardship | st:+Mad]
 
@@ -197,7 +197,7 @@ You wait until dark, and draw your sword.
 You look at the great wooden idol, and at the Saxons, and you remember what an old soldier once told you: take away a man's god, and you take away his courage.
 ?? set fire to the idol of Woden | Cunning | 5
 ++ You creep into the temple at midnight and pour oil on the idol's feet, and set it alight. The Saxons wake to see their god burning. They cry out in terror. They think it is a sign. By the time the idol falls, they have fled into the forest, leaving their captives, their feast and their weapons. The captives walk out of the temple at dawn, blinking at the smoke.
-[d:4 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Courtly | rn:Divinity+1]
 -- You creep into the temple and pour oil on the idol's feet, but a guard sees you. The Saxons drag you before the idol. You spend a very long night tied to the stake beside the captives, and are rescued at dawn by a band of the old king's men.
 [sk:Cunning | st:+Imprisoned]
 ?? preach the true God to the Saxons' own priest | Piety | 6
@@ -258,12 +258,12 @@ You sit down at the desk beside him. He shows you how to cut a quill and mix the
 "You will not survive the winter here," you say. "Come down with me, and finish your book by a fire." The old monk shakes his head. "I promised my brothers I would not leave." You lift him anyway.
 ?? carry the monk and his book through the snow | Endure Hardship | 3+L
 ++ You carry him down the mountain on your back through the snowdrifts, with the book wrapped in your cloak, and at the bottom, you find a village with a church and a fire. The old monk is angry for a day, and then he sits by the fire and finishes his copy in a month, warm, and gives it to the village church. They still have it.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Wilderness | rn:Divinity+1]
 -- You carry him down the mountain on your back, but the snow is deep and the path is lost, and you spend a night in a drift. He dies in your arms before morning. You save the book.
 [sk:Endure Hardship | st:+Despairing]
 ?? persuade him that his vow allows him to go | Wisdom | 5
 ++ You ask him what, exactly, he promised his brothers. He tells you: that he would not leave the book. "Then bring the book," you say. The old monk opens his mouth, and closes it, and laughs, for the first time, perhaps, in sixty years. You carry them both down the mountain, and he finishes his copy by a fire in the village church. They still have it.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Spiritual | rn:Divinity+1]
 -- You ask him what he promised. "That I would not leave," he says. "Not the book. The place." You cannot move him. You leave him bread and go.
 [sk:Wisdom | st:+Despairing]
 
@@ -279,12 +279,12 @@ You come upon the ruins of an old fort on a mountaintop, where a dozen of the ol
 "I will go," you say. "And I will bring help." The young captain looks at you. "Go quickly," he says.
 ?? climb down the mountain and bring back help | Endure Hardship | 5
 ++ You climb down the goat-path in the dark with three of the fittest men, and walk all night and all the next day to the old king's nearest camp. You find the old knight in command, Sir Lucan, and bring him back with fifty men. The Saxons in the valley see the dragon banner coming over the hill, and flee. The young captain in the fort weeps when he sees you. Of his dozen men, eleven are still alive.
-[d:5 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:5 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You climb down the goat-path in the dark, and one of the men with you falls. You go on, and reach the old king's camp, and come back with fifty men, but the Saxons have already stormed the fort.
 [sk:Endure Hardship | st:+Despairing]
 ?? signal the king's army with fire from the summit | Nature Lore | 4
 ++ You do not climb down. You gather every stick of gorse and heather on the mountain top and build a beacon, and wait for night, and light it. Twenty miles away, on another hill, another beacon answers, and then another. By dawn, Sir Lucan is coming up the valley with fifty men. The Saxons see the dragon banner, and flee.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You build a beacon of gorse and light it at nightfall. The wind is wrong. The smoke blows down the valley into the Saxon camp, and the Saxons, taking it as a sign, attack at dawn.
 [sk:Nature Lore | st:+Despairing]
 
@@ -388,12 +388,12 @@ You kneel beside the young woman and begin pulling stones out of the rubble.
 You look at the tracks of many horses leading away from the village. "Which way did they go?" The old man points north.
 ?? hunt down the village-burners | Hunting | 5
 ++ You follow the tracks for two days and find them camped by a river: twenty men in Mordred's colours, drinking and dividing the lord's silver. You do not attack them. You ride to the nearest of the old king's captains, and lead his men back to the river by night. By dawn, the raiders are prisoners. The silver goes back to the village. It is not enough to rebuild the church. It is enough to start.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You follow the tracks for two days and find them camped by a river, but they have set a watch, and they see you. You are chased for a day.
 [sk:Hunting | st:+Pursued]
 ?? bring the raiders to the old king's captains to judge | Warfare | 4
 ++ You follow the tracks only as far as you need to, then ride to the nearest of the old king's captains and bring him back with thirty men. You set them in a ring round the raiders' camp by the river in the dark, and at dawn, you call on the raiders to surrender. They look at the ring of spears, and do. The lord's silver goes back to the village. It is enough to start the church again.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Martial | rn:Divinity/Romance+1]
 -- You bring thirty of the old king's men to the raiders' camp, but the captain wants the silver more than justice. The village never sees it.
 [sk:Warfare | st:+Despairing]
 
@@ -443,12 +443,12 @@ As you pick your way through a marsh, you come upon a ruined tower on an island,
 You climb the broken stair of the tower. At the top, in a room full of books and smoke, an old man with a white beard is staring into a bowl of water.
 ?? break the old scholar's obsession | Wisdom | 6
 ++ He shows you what he sees in the bowl: a cup, very far away, that recedes whenever he reaches for it. You look at it, and at him, and you understand. "You are looking for it," you say, "so it runs from you. The hermits say it comes to those who are not looking." The old man is silent a long time. Then he laughs, and tips the bowl out of the window, and comes down the stair with you. His pupil weeps with joy.
-[d:5 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:5 | sk:Spiritual | rn:Divinity+1]
 -- He shows you what he sees in the bowl, and you look, and you cannot stop looking. It is a week before his pupil drags you out of the tower.
 [sk:Wisdom | st:+Obsessed]
 ?? smash the scrying-bowl before it takes you too | Sword & Shield | 4
 ++ You do not look into the bowl. You walk straight up to the old man's table and knock the bowl onto the floor with the flat of your sword. The water runs away between the boards. The old scholar stares at the wet floor for a long time. Then he laughs, a cracked, astonished laugh, and comes down the stair with you. His pupil weeps with joy.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Divinity+1]
 -- You walk up to the table and knock the bowl to the floor. It does not break. It does not even spill. The old man looks up at you. "It is not that sort of bowl," he says.
 [sk:Sword & Shield | st:+Scorned]
 
@@ -484,7 +484,7 @@ You dismount and take your place beside him on the gate. He looks at you and nod
 [sk:Warfare | st:+Wounded | st:+Despairing]
 ?? flood the causeway ahead of the riders | Nature Lore | 5
 ++ The causeway runs between two meres. You see where the old sluice is, choked with reeds, and while the old soldier holds the gate, you hack it open. The water pours across the causeway ahead of Mordred's riders, knee-deep and rising. They rein in, and look at it, and turn back. The old soldier sits down on the gate. "Relieved," he says. You take him to the old king's camp.
-[d:4 | sk:Wilderness | rn:Romance+1 | rn:Divinity+1]
+[d:4 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You hack at the old sluice, and it gives, and the water pours across the causeway behind the riders, cutting you and the old soldier off from your own side.
 [sk:Nature Lore | st:+Despairing]
 
@@ -526,12 +526,12 @@ You land in the cove and climb the cliff to the lighthouse. Inside, the old herm
 You stay aboard and sail out toward the Sands with every lantern lit.
 ?? guide the fleet away from the Sands | Warfare | 5
 ++ You sail up and down the edge of the Sands all night, with every lantern blazing and your crew shouting through speaking-trumpets. The Calais fleet sees you and steers clear. At dawn, every ship is past the Sands. The fishermen of Dover tell the story for years.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Divinity+1]
 -- You sail up and down the edge of the Sands, but the tide takes you onto them yourself. By dawn, you are aground, and so are two of the Calais ships.
 [sk:Warfare | st:+Plague-Ridden]
 ?? pilot the fleet round the Sands by your own lore | Nature Lore | 5
 ++ You know the Goodwins. You bring your ship to the edge of the Sands and anchor it there, with every lantern lit, and send the ship's boat round to each of the Calais ships in turn with a man who knows the channel. By dawn, every ship is past. The fishermen of Dover tell the story for years.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Wilderness | rn:Divinity+1]
 -- You anchor at the edge of the Sands with every lantern lit, and the anchor drags. By dawn, your ship is aground, and so are two of the Calais ships.
 [sk:Nature Lore | st:+Plague-Ridden]
 
@@ -594,12 +594,12 @@ You call the fishing boats together and tell them your plan.
 You wait until night, and row alone to the cove below Tintagel, where the Saxon ships are drawn up on the beach.
 ?? burn the Saxon ships in the cove | Cunning | 3+L
 ++ The Saxons are feasting in the ruins above. You set fire to their ships, one by one, and slip back into your boat. By the time they see the flames, the fleet is burning. They run down to the cove, and the fishermen, who have been waiting in the dark, are on them. By dawn, the Saxons have surrendered. The Cornish are very proud of you.
-[d:L | sk:Courtly | rn:Romance+1 | rn:Any+1]
+[d:L | sk:Courtly | rn:Romance+1]
 -- You set fire to the first ship, but a Saxon on watch sees you, and raises the alarm. You escape back to your boat, but the other ships are saved.
 [sk:Cunning | st:+Pursued]
 ?? cut the Saxon ships loose on the ebb | Nature Lore | 4
 ++ You do not burn them. You swim out on the ebb and cut their mooring lines one by one, and the tide does the rest, carrying the longships quietly out of the cove and away round the headland in the dark. At dawn, the Saxons come down to their ships and find the cove empty. The fishermen are waiting on the cliff. The Saxons surrender by noon.
-[d:L | sk:Wilderness | rn:Romance+1 | rn:Any+1]
+[d:L | sk:Wilderness | rn:Romance+1]
 -- You cut the mooring lines, and the ebb carries the ships out, and then the flood carries them back in again, and the Saxons, who have seen your wet footprints on the rocks, are waiting.
 [sk:Nature Lore | st:+Pursued]
 

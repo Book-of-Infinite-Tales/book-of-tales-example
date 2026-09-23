@@ -10,7 +10,7 @@ Up in the oak, sitting on a branch, is a small brown man with pointed ears and a
 "Come," you say to the bride. "Follow me, and do not look at the oak." The groom glares up at the tree, suspicious. Puck sticks his tongue out.
 ?? lead the wedding party out of the fay wood | Nature Lore | 3+L
 ++ You turn your cloak inside out, which an old woman once told you confuses the fair folk, and make everyone else do the same. Then you walk in a straight line, whatever the path seems to do. The wood twists and turns, and Puck shrieks with laughter somewhere behind you, and at last you come out into a meadow, and there is the church, with the bell ringing. The bride kisses you. The groom, to his credit, goes back to the edge of the wood and apologises to a toadstool. You hear, from the trees, a delighted giggle.
-[d:L | sk:Wilderness | rn:Romance+1 | rn:Any+1]
+[d:L | sk:Wilderness | rn:Romance+1]
 -- You lead the wedding party in what you are sure is a straight line. After an hour, you come back to the oak. Puck is laughing so hard he falls out of it. You spend the night in the wood with the wedding party, and the fiddler plays all night to keep your spirits up, which does not help.
 [sk:Nature Lore | st:+Lost]
 ?? persuade Puck to let them go | Diplomacy | 4
@@ -23,7 +23,7 @@ Up in the oak, sitting on a branch, is a small brown man with pointed ears and a
 You grin up at the little man. "What did you have in mind?" Puck's eyes shine.
 ?? play a fay prank on the rude bridegroom | Cunning | 4
 ++ You and Puck spend the evening leading the groom, and only the groom, round and round the oak, while the rest of the party goes on to the church with the priest. When he finally stumbles into the churchyard at midnight, muddy and wild-eyed, the bride is waiting at the door with her arms folded. "And what," she says, "is your excuse?" He tells her it was a toadstool. It is the best wedding story in that parish for a hundred years. Puck gives you a mushroom. You do not eat it.
-[d:3 | sk:Courtly | rn:Villainy+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Villainy+1]
 -- You and Puck spend the evening leading the groom round the oak. But Puck, it turns out, cannot tell the difference between one rude mortal and another, and around midnight, you realise you are going round the oak too. By dawn, you and the groom are the best of friends, which is the only good thing to come of it.
 [sk:Cunning | st:+Lost]
 
@@ -46,7 +46,7 @@ You get down from your horse and kneel on the other side of the stream. "Tell me
 [sk:Piety | st:+Doomed]
 ?? ask the washer the one question she must answer truly | Wisdom | 5
 ++ You remember what the old stories say: the washer at the ford must answer one question truly, and only one. You do not ask when you will die. You ask whose armour she will wash next. She looks up, surprised, and tells you: a knight you know, who is riding to a joust tomorrow on a lame horse. You ride through the night to warn him. He does not joust. You never see the washer again.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
 -- You ask her whose armour she will wash next. She holds up your own helm again. "The same," she says. "The same, and the same." You ride away with her answer in your ears.
 [sk:Wisdom | st:+Doomed]
 
@@ -85,7 +85,7 @@ You go into the church and speak to the priest, a stern old man called Father Rh
 [sk:Diplomacy]
 ?? give her leave by the old rite of the threshold | Magic | 5
 ++ You remember that the fair folk may cross any threshold where they are invited three times, with bread and salt. You fetch bread and salt from the priest's own kitchen, and stand in the doorway and invite Eirlys in, three times, by name. On the third, she steps over the threshold as lightly as a leaf. She sits in the last pew through the whole Mass. The priest glares, and then, at the end, gives her a piece of blessed bread.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
 -- You stand in the doorway and invite her in three times with bread and salt. On the third, she steps forward, and screams, and falls back onto the path. The salt was the priest's holy salt. She goes back to the wood and does not come to listen again.
 [sk:Magic | st:+Despairing]
 
@@ -101,12 +101,12 @@ A plump woman in a shawl is hiding behind a tree nearby. She grabs your sleeve. 
 You wait until the Queen of the Fay has fallen asleep in her bower, with the weaver's head in her lap. Then you creep closer.
 ?? unmake the King of the Fay's enchantment | Magic | 6
 ++ You find what you are looking for tucked into Titania's crown: a sprig of a purple flower, still wet with dew. You pluck it out and crush it and rub the juice on her eyelids, then on the weaver's long ears. The queen wakes, and looks at the weaver, and screams. The weaver's head is his own again, and he is very disappointed. His wife hauls him out of the wood by the ear. The Fay Queen looks at you with cold, beautiful eyes. "My husband," she says, "will be very sorry he did that." She rewards you with a single rose that never fades.
-[d:5 | sk:Spiritual | rn:Divinity+1 | rn:Any+1 | tr:1]
+[d:5 | sk:Spiritual | rn:Divinity+1 | tr:1]
 -- You find a sprig of purple flower in her crown, and pluck it, and crush it, and try to rub the juice on her eyes. She wakes before you can. She looks at you, and her eyes are full of the juice's glamour, and she falls deeply in love with you. It is a very bad week. When the spell wears off, she does not forgive you.
 [sk:Magic | st:+Ensorcelled | st:+Accursed]
 ?? find the flower that undoes the love-spell | Nature Lore | 5
 ++ Every love-spell has its antidote, the old women say, and it grows near the flower that made it. You search the wood round the bower until you find it: a small white flower, growing beside the purple one. You crush it and rub it on the Queen's eyelids as she sleeps, and on the weaver's long ears. The Queen wakes, looks at the weaver and screams. His head is his own again. His wife hauls him out of the wood by the ear.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Wilderness | rn:Divinity+1]
 -- You search the wood for the antidote and find a small white flower, and rub it on the Queen's eyelids. It is the wrong flower. She sneezes, wakes and has you thrown out of the wood by a great many very small guards.
 [sk:Nature Lore | st:+Accursed]
 
@@ -114,7 +114,7 @@ You wait until the Queen of the Fay has fallen asleep in her bower, with the wea
 You step into the bower and bow to the Fay Queen. "Your majesty," you say, "a fine creature. But does he sing?" Titania smiles dreamily. "Like a nightingale," she says. The weaver brays.
 ?? persuade the Fay Queen to part with her donkey | Cunning | 5
 ++ You tell her that a creature so fine needs a proper stable, with a trough of best hay and a mortal wife to groom him, and that there is one waiting just outside the wood. You describe the stable in such glowing detail that the Queen, enchanted as she is, becomes quite anxious for his comfort. She sends him out of the wood with a garland round his neck. His wife is waiting. By the next morning, the spell has worn off, and he is a weaver again, and he says he had the most wonderful dream.
-[d:3 | sk:Courtly | rn:Romance+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Romance+1]
 -- You tell her that a creature so fine needs a proper stable. The Fay Queen agrees completely, and asks you to be his stable-boy. It is three days before she tires of you, and you are allowed to go, smelling strongly of hay.
 [sk:Cunning | st:+Ensorcelled]
 
@@ -138,7 +138,7 @@ You take her hand. It is cool and light, like a leaf. "I accept," you say. Tryam
 You bow deeply. "Lady," you say, "I am honoured beyond words. But I cannot love where I cannot speak." Tryamour's face goes very still.
 ?? refuse her without giving offence | Diplomacy | 5
 ++ You speak of honour, and of the High King's court, where a knight's life is lived in the open, and of how any love you gave her would be a poor, half-hidden thing. You speak with such care that, at the end, the fay lady laughs softly. "You are the first," she says, "to say no to me kindly." She touches your forehead with one cool finger. "Go, then. And when the day comes that you need something from under the hill, say my name once. Only once." She and her pavilion fade like mist on the water.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- You speak of honour, and the High King's court. Tryamour's face goes colder with every word. "So," she says, "a mortal refuses me." She lifts her hand. When you come to your senses, you are lying in the river, and your horse is gone, and it is winter.
 [sk:Diplomacy | st:+Accursed]
 
@@ -169,7 +169,7 @@ You kneel at the edge of the toadstools and wait for Huw to dance past. The musi
 You step over the toadstools. The music takes you like a wave, and you are dancing, and it is the most wonderful thing you have ever felt.
 ?? dance with the fair folk and come out again | Magic | 6
 ++ You dance with a pale lady whose eyes are full of stars, and you dance with a tall lord in a cloak of leaves, and you dance, at last, with Huw, and as you dance with him, you tell him who you are and who he is, and that it has been a year. His face changes. He stops dancing. You both stop. The music falters. You walk out of the ring together, hand in hand, over the toadstools, and the fair folk let you go, laughing, as though it were the best joke they had heard in a century. It is a long time before your feet stop tapping.
-[d:5 | sk:Spiritual | rn:Any+2 | rn:Villainy+1]
+[d:5 | sk:Spiritual | rn:Villainy+2]
 -- You dance with a pale lady whose eyes are full of stars, and you dance, and you dance. When you stop, it is morning, and there is nobody in the ring, and your beard is longer, and your horse is gone. A shepherd tells you it is a month later than it was.
 [sk:Magic | st:+Mad | st:+Lost]
 
@@ -190,7 +190,7 @@ At dusk, you go to the stump of the hawthorn and call, courteously, on the King 
 [sk:Diplomacy | st:+Accursed]
 ?? answer the Fay King's riddle of the thorn | Wisdom | 6
 ++ Oberon looks at you. "Tell me," he says, "what a thorn is for." You think a long time. "To keep things out," you say, "and to keep things safe." Oberon smiles, very slightly. "Your farmer cut a door in my wall," he says. "Let him build me another." The farmer plants a hedge of hawthorn round the whole field. The children stop coughing. The cattle, being dead, stay dead.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- Oberon asks you what a thorn is for. "For firewood," you say, without thinking, and remember whom you are talking to. The next morning, your horse is lame.
 [sk:Wisdom | st:+Accursed]
 
@@ -277,7 +277,7 @@ The baby stops screaming and looks at you. It winks.
 [sk:Magic | st:+Ensorcelled | st:+Lost]
 ?? win the child back with a guest's perfect courtesy | Honor | 6
 ++ At midnight you walk into the fay fort as a guest, and eat nothing, and drink nothing, and praise the queen's feast and her music and her baby, without once asking for him. The fay queen is enchanted. At dawn, she says, "What gift would you like?" You ask for the baby. She sighs. "That was clever," she says, and lets you carry him out. When you get home, the changeling is gone and the mother is weeping over her own son.
-[d:5 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:5 | sk:Courtly | rn:Divinity/Romance+1]
 -- You walk into the fort and praise everything and eat nothing. At dawn, the fay queen asks what gift you would like, and you ask for the baby too eagerly. She laughs. "No," she says, "not that." You walk home empty-handed.
 [sk:Honor | st:+Despairing]
 
@@ -285,7 +285,7 @@ The baby stops screaming and looks at you. It winks.
 You sit down beside the woman. "Bring me a dozen eggs," you say, "and a pot of water, and put it on the fire where the child can see." She looks at you strangely, but she does it.
 ?? trick the changeling into giving itself away | Cunning | 4
 ++ You crack the eggs, one by one, and throw away the yolks, and set the empty shells in the pot to boil, very carefully, as though you were brewing something important. The changeling watches. At last it sits up in its cradle and says, in a cracked old voice, "I have seen the acorn before the oak, and the egg before the hen, but I have never seen a fool brew in eggshells." Then it leaps out of the cradle and up the chimney with a shriek. There is a cry at the door. On the step lies a fat, rosy baby, fast asleep.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- You crack the eggs and set the shells to boil. The changeling watches, and then it laughs, and says, "That old trick? My grandmother told me about that one." It lies down again and screams. The mother looks at you, and then at the fire, and at the shovel.
 [sk:Cunning | st:+Despairing]
 
@@ -303,12 +303,12 @@ The fay girl lifts her head and looks at you. She does not beg. She only looks.
 You look at the miller. "Open the cage," you say. The miller laughs and takes up a cudgel. "Come and open it yourself," he says.
 ?? break the iron cage and free the fay | Sword & Shield | 4
 ++ You knock the cudgel out of the miller's hands and put him in his own millpond. Then you take your sword to the cage's lock. It takes a long time, and the iron screams, and the fay girl screams too, but at last the door swings open. You lift her out. She is as light as a breath. At the edge of the wood, she steps out of your arms and stands on her own, and begins to grow solid again. "The hill will remember," she says. "The hill always remembers." She kisses your forehead, and it is like being kissed by the wind.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Romance+1 | st:+Blessed]
+[d:4 | sk:Martial | rn:Divinity/Romance+1 | st:+Blessed]
 -- You knock the miller into his millpond and take your sword to the lock. It will not break. You hack at it until your sword is notched and your arms ache, and at sunset, the fay girl fades away entirely, leaving nothing in the cage but a smell of apple blossom. The miller climbs out of the pond, cursing you for his lost fortune.
 [sk:Sword & Shield | st:+Despairing | st:+Accursed]
 ?? open the lock with a charm while she still breathes | Magic | 4
 ++ You do not fight the miller. You lay your hand on the iron lock and speak the words for opening, and the lock clicks, and the door swings wide while the miller is still shouting. You lift her out. She is as light as a breath. At the edge of the wood, she steps out of your arms and grows solid again. "The hill will remember," she says, and kisses your forehead. The miller's flour, you hear, never rises again.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1 | st:+Blessed]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1 | st:+Blessed]
 -- You lay your hand on the lock and speak the words for opening. Iron does not listen to charms. At sunset, the fay girl fades away in the cage, leaving a smell of apple blossom.
 [sk:Magic | st:+Despairing]
 

@@ -15,7 +15,7 @@ You ask for leave to speak before the King of Meath. He is a stern, grey man, an
 [sk:Diplomacy | st:+Despairing]
 ?? stand as the young monk's champion if it comes to war | Sword & Shield | 6
 ++ You do not argue the law. You offer to settle the matter by combat, you for the young monk and any warrior for the old abbot, so that one man bleeds instead of a thousand. The King of Meath is astonished. The old abbot's kinsmen put forward a champion. You fight him in the churchyard at Kells before both families. When he yields, the king rules that the copy stays at Kells. Nobody lifts a spear.
-[d:6 | sk:Martial | rn:Romance+1 | rn:Any+1 | tr:1]
+[d:6 | sk:Martial | rn:Romance+1 | tr:1]
 -- You fight the old abbot's champion in the churchyard. He is an Irish champion, and you lose. The young monk's kinsmen march anyway.
 [sk:Sword & Shield | st:+Wounded | st:+Despairing]
 
@@ -23,7 +23,7 @@ You ask for leave to speak before the King of Meath. He is a stern, grey man, an
 You take the young monk aside. "Is the book worth a war?" you ask. He looks at it for a long time. "No," he says. "But it is beautiful."
 ?? hide the disputed book and cool the quarrel | Cunning | 5
 ++ You wrap the book in oilcloth and hide it in the abbey's bread oven, which has not been lit in a week. Then you go to the old abbot and tell him that the copy has been lost in a fire, and to the young monk's kinsmen that there is nothing left to fight for. By the time the book is taken out of the oven, a year later, everyone has calmed down. The young monk leaves Ireland in shame, and founds a monastery on an island in the north called Iona. You are not sure you did the right thing. You are sure nobody died.
-[d:5 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:5 | sk:Courtly | rn:Divinity+1]
 -- You hide the book in the bread oven, and the baker, not knowing, lights it the next morning. The young monk weeps. The kinsmen march anyway.
 [sk:Cunning | st:+Scorned]
 ?? mediate between the two abbots in the church | Diplomacy | 5
@@ -59,12 +59,12 @@ You kneel before the altar. The monks withdraw. You look at the page for a long 
 You take your sword and sit in the doorway of the church, in the dark.
 ?? catch the relic-thief in the night | Hunting | 5
 ++ Near midnight, a shadow comes over the abbey bank. You let it come, and let it creep to the church door, and when it reaches for the latch, you take it by the wrist. It is a thin, sharp-faced man with a knife and a bag. He struggles, and then gives up. In the bag, you find three other pages he has stolen from other abbeys. You give him to the abbot, who makes him copy out the whole Gospel of John as penance. It takes him three years. By the end, he has decided to become a monk.
-[d:5 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:5 | sk:Wilderness | rn:Divinity+1]
 -- Near midnight, you fall asleep in the doorway. In the morning, the page is gone, cut neatly from the book with a knife. The abbot does not reproach you. That is worse.
 [sk:Hunting | st:+Despairing]
 ?? set a trap for the thief with the abbey's bells | Warfare | 4
 ++ You do not sit in the doorway. You tie a cord from the church door to the bell-rope, and set a monk at every gap in the earth bank, and wait. At midnight, the door opens a crack, and the bell booms out over the whole of Meath. The relic-thief runs straight into the arms of three large monks. In his bag are three pages stolen from other abbeys. He copies the Gospel of John as penance, and by the end he wants to be a monk.
-[d:5 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:5 | sk:Martial | rn:Divinity+1]
 -- You tie a cord from the door to the bell-rope. At midnight, the abbot comes to pray, opens the door, and rings every bell in Meath. The thief, hearing it, does not come. He comes the next night instead.
 [sk:Warfare]
 
@@ -204,18 +204,18 @@ If you have Story Token #3, turn immediately to [[p2534x]].
 You put your ear to the stone. "Ah," says Merlin. "The one who knew the riddle. Good. Listen."
 
 He tells you: about the adder, and the sword, and the parley. He tells you where to stand, so that you can reach the knight who draws his blade. "It will not stop the battle," he says. "I do not think anything will. But you might. It is the one thing I cannot see. You." He is quiet a moment. "Tell Nimue I am not angry. I never was." You tell her. She weeps. The stone is silent after that.
-[d:6 | rn:Divinity+2 | rn:Romance+1 | st:+Determined | n:Lose Story Token #3]
+[d:6 | rn:Divinity/Romance+2 | st:+Determined | n:Lose Story Token #3]
 
 === p2534a
 You kneel and put your ear against the cold stone. From inside, very faint, you hear an old man's voice.
 ?? understand Merlin's last message | Wisdom | 6
 ++ He speaks slowly, so that you will not miss it. He tells you that the king will die, but not all the way. That there is a barge, and an island, and a sleep. That Britain will forget him, and then remember him, again and again, for a thousand years. "Tell him," Merlin says, "that it was worth it. The table. All of it. Tell him I said so." You carry the words to the king on the eve of the battle. He weeps, and laughs, and says that Merlin never told him anything so kind in his life.
-[d:6 | sk:Spiritual | rn:Divinity+1 | rn:Romance+2]
+[d:6 | sk:Spiritual | rn:Divinity/Romance+2]
 -- He speaks, but his voice is so faint, and the wind is so loud, that you catch only a few words. *Worth it*, you think he says. Or *worse than it*. You never know which.
 [sk:Wisdom | st:+Despairing]
 ?? carry his last words to the king with perfect faithfulness | Honor | 5
 ++ You put your ear to the stone and hear only a few words: *worth it*. You do not guess the rest. You carry exactly those words to the old king on the eve of the battle, and tell him honestly that you heard no more. He sits with them for a long time. "Worth it," he says. "The table. All of it." He weeps, and laughs, and says that Merlin never told him anything so kind in his life.
-[d:6 | sk:Courtly | rn:Divinity+1 | rn:Romance+2]
+[d:6 | sk:Courtly | rn:Divinity/Romance+2]
 -- You carry Merlin's words to the old king, but by the time you reach his camp, you are not sure any more whether he said *worth it* or *worse than it*. You tell the king the first. You never know if you lied.
 [sk:Honor | st:+Despairing]
 
@@ -223,12 +223,12 @@ You kneel and put your ear against the cold stone. From inside, very faint, you 
 "Let him out," you say. "Let him see the end. He has earned that." Nimue looks at you with red eyes.
 ?? persuade the Lady of the Lake to free Merlin | Diplomacy | 7
 ++ You talk to her for a long time. About what she was afraid of, and what she is afraid of now. About how he taught her everything, and she has never had anyone to teach. At last, she stands up, and lays her hand on the stone, and speaks a single word. The stone opens like a door. Merlin walks out, very old and very thin, blinking in the daylight. He looks at Nimue. She looks at him. Then he laughs, and holds out his arm, and she takes it, and they walk down the hill together, toward the plain, to see the end. He looks back once, and winks at you.
-[d:7 | sk:Courtly | rn:Divinity+2 | rn:Romance+2 | st:+Esteemed]
+[d:7 | sk:Courtly | rn:Divinity/Romance+2 | st:+Esteemed]
 -- You talk to her for a long time, but she only shakes her head. "If I let him out," she says, "he will be kind to me. I could not bear it." She stays on the rock. You ride to the war.
 [sk:Diplomacy | st:+Despairing]
 ?? break the stone for her, with her leave | Magic | 7
 ++ "I cannot open it," Nimue says. "I have tried. My hand will not do it." "Then lend me your words," you say, "and let my hand do it." She looks at you a long time, and then whispers the word in your ear. You lay your hand on the stone and speak it. The stone opens like a door. Merlin walks out, very old and very thin, blinking in the daylight. He looks at Nimue. Then he laughs, and holds out his arm, and she takes it.
-[d:7 | sk:Spiritual | rn:Divinity+2 | rn:Romance+2 | st:+Esteemed]
+[d:7 | sk:Spiritual | rn:Divinity/Romance+2 | st:+Esteemed]
 -- Nimue whispers the word in your ear, and you speak it over the stone, and the stone does not know your voice. It stays shut. Nimue stays on her rock.
 [sk:Magic | st:+Despairing]
 
@@ -256,7 +256,7 @@ You kneel. You feel the axe lift above you. It comes down.
 "I accept," you say. The Green Knight claps you on the shoulder. "Splendid!" he says.
 ?? keep faith in the game of exchanges | Honor | 6
 ++ Three days. Each day, the Green Knight goes hunting, and each day, his wife comes to your room and kisses you, once, then twice, then three times, and gives you a green sash that she says will keep you from harm. Each evening, the Green Knight gives you a deer, a boar, a fox, and you give him the kisses, one, two, three. On the third evening, you give him the sash too, though you want to keep it more than anything. He looks at it, and at you, and laughs until the rafters ring. "Nobody," he says, "has ever given back the sash." He gives it back to you. "Keep it," he says. "You earned it by giving it."
-[d:7 | sk:Courtly | rn:Divinity+1 | rn:Romance+2 | tr:Green Sash]
+[d:7 | sk:Courtly | rn:Divinity/Romance+2 | tr:Green Sash]
 -- Three days. On the third day, the lady gives you a green sash that she says will keep you from harm, and in the evening, you give the Green Knight the kisses, but not the sash. He looks at you for a long time. "You kept something back," he says. He does not say it angrily. That is the worst of it.
 [sk:Honor | st:+Scorned]
 ?? match the Green Knight at his own hunting | Hunting | 6
@@ -289,7 +289,7 @@ If you have Story Token #14, turn immediately to [[p2523x]].
 The Green Knight looks at you. "You," he says. "You owe me a blow. You did not come to my chapel on the day." He sighs, and holds out his holly branch like an axe. "But it is the Grail year, and I am tired of axes. So instead of a blow, I will take a promise. Promise me one thing, and keep it, and we are even." You promise. He does not tell you what you have promised. He only smiles, and steps back into the holly, and is gone.
 
 For the rest of your life, you wonder what it was. You keep it anyway.
-[d:4 | rn:Divinity+1 | rn:Romance+1 | st:+Determined | n:Lose Story Token #14]
+[d:4 | rn:Divinity/Romance+1 | st:+Determined | n:Lose Story Token #14]
 
 === p2523a
 You think for a long time. The snow falls. The Green Knight waits.
@@ -341,12 +341,12 @@ He kneels in the snow, and lifts his faded hair from his neck. "Strike," he says
 You take the axe. It is heavier than you remember any axe being. The Green Knight kneels in the snow.
 ?? strike the blow that gives the land a season | Endure Hardship | 6
 ++ You strike. The head rolls, and does not rise. Green runs out of him into the snow, and the snow melts, and grass comes up, and far away, in the south, the rivers run faster. You kneel in the new grass for a long time. When you ride away, the wood behind you is green and full of birdsong, in the middle of winter. You do not know how long it will last. A season, he said. It is enough.
-[d:7 | sk:Wilderness | rn:Divinity+2 | rn:Romance+1]
+[d:7 | sk:Wilderness | rn:Divinity/Romance+2]
 -- You strike, and the axe turns in your hands, and cuts only snow. The Green Knight looks up at you, sorrowfully. "Then it is not your blow," he says. He takes back his axe.
 [sk:Endure Hardship | st:+Despairing]
 ?? strike the blow with a prayer for the land | Piety | 5
 ++ You kneel in the snow beside him before you lift the axe, and pray, for the land, and the old king, and the green that is going out of Britain. Then you strike. His head rolls, and does not rise. Green runs out of him into the snow, and the snow melts, and grass comes up, and far away in the south the rivers run faster. You kneel in the new grass for a long time. A season, he said. It is enough.
-[d:7 | sk:Spiritual | rn:Divinity+2 | rn:Romance+1]
+[d:7 | sk:Spiritual | rn:Divinity/Romance+2]
 -- You kneel and pray before you strike, and when you rise, you cannot lift the axe. The Green Knight looks up at you. "Then it is not your blow," he says.
 [sk:Piety | st:+Despairing]
 
@@ -354,12 +354,12 @@ You take the axe. It is heavier than you remember any axe being. The Green Knigh
 You shake your head. "No," you say. "Not you. Not like this." The Green Knight looks at you with his faded eyes.
 ?? persuade the Green Knight to live | Diplomacy | 5
 ++ You tell him that the king would not want it. You tell him that the land will need someone green after the king is gone, someone to remember what it was like. You tell him that Britain has lost enough. He listens, and at last he nods. "Then I will wait," he says. "Under the hill. Until the green comes back." He walks into the mound and closes the door. You hear, as you ride away, the sound of a great axe being set down. It has been a thousand years, and some say he is waiting still.
-[d:5 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:5 | sk:Courtly | rn:Divinity/Romance+1]
 -- You tell him the king would not want it. He shakes his head. "The king," he says, "is not asked." He picks up the axe and strikes off his own head. The green goes into the land. You are left alone in the snow.
 [sk:Diplomacy | st:+Despairing]
 ?? show him the green he would leave behind | Nature Lore | 5
 ++ You take his hand and walk him through his own wood in the snow, and show him what he has not looked at in years: the buds already swelling on the hazel, the snowdrops under the oak, the green moss on the north side of every stone. "It is not going out," you say. "It is only sleeping. Like the king." He is quiet a long time. "Then I will wait," he says. "Under the hill." He walks into the mound and closes the door.
-[d:5 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:5 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You walk him through his wood looking for green, and find none. The snow is too deep. He takes his axe from your hands, gently, and strikes off his own head.
 [sk:Nature Lore | st:+Despairing]
 
@@ -375,7 +375,7 @@ If you have Story Token #16, turn immediately to [[p2512x]].
 
 === p2512x
 The Lady of the Lake stops, and looks at you, and smiles with real warmth. "Nimue has told me of you," she says. "You helped her, when she was only a girl running from an old man. She is my heir now. I owe you for her." She takes off a necklace of pearls, green and white, and puts it round your neck. "Wear it, and no water will ever drown you, and I will always know where you are." She shows you her whole palace, room by room, and at the end, she lets you hold Excalibur's scabbard for a moment, before she sends it to the young king.
-[d:6 | rn:Romance+2 | rn:Divinity+1 | tr:Necklace of the Lake]
+[d:6 | rn:Divinity/Romance+2 | tr:Necklace of the Lake]
 
 === p2512a
 "The forge," you say. The Lady nods, and leads you down, deeper, to a cavern where a great cold fire burns blue under the water.
@@ -394,12 +394,12 @@ The Lady of the Lake stops, and looks at you, and smiles with real warmth. "Nimu
 You bow. "I would be honoured to dine," you say. The Lady of the Lake smiles and leads you to a hall where the table is laid with fish and fruits and wine that tastes of rain.
 ?? dine with the Lady of the Lake with perfect courtesy | Honor | 5
 ++ You eat, and talk, and listen to the ladies sing, and you are careful to thank each dish and each singer, as they do in the old courts. The Lady watches you with approval. At the end, she gives you a single pearl. "When you are in the greatest danger of your life," she says, "throw it in any water, and I will come." You keep it in your purse, and you never throw it. It is a comfort, all the same.
-[d:5 | sk:Courtly | rn:Romance+1 | rn:Divinity+1 | tr:1]
+[d:5 | sk:Courtly | rn:Divinity/Romance+1 | tr:1]
 -- You eat, and talk, and at the end of the meal, you forget to thank the singers. The Lady says nothing. But when you come up out of the lake, it is a day later than you went in.
 [sk:Honor]
 ?? match the Lady's ladies in song at the feast | Magic | 5
 ++ At the end of the meal, the ladies sing, and then they turn to you, as a guest must be turned to. You sing an old song of the lakes, and as you sing, the water of the palace glows round you, which it does not do for everyone. The Lady watches you with approval. She gives you a single pearl. "When you are in the greatest danger of your life," she says, "throw it in any water, and I will come."
-[d:5 | sk:Spiritual | rn:Romance+1 | rn:Divinity+1 | tr:1]
+[d:5 | sk:Spiritual | rn:Divinity/Romance+1 | tr:1]
 -- You sing an old song of the lakes, and the water round you goes dark. The Lady says nothing. But when you come up out of the lake, it is a day later than you went in.
 [sk:Magic]
 
@@ -419,18 +419,18 @@ You walk along the rows. You know some of the faces.
 The Lady of the Lake takes your hand. "You helped Nimue," she says. "So I will give you more than I give others." She looks at the rows of drowned knights. "Choose three," she says. "Three may go back."
 
 You choose. You walk along the rows for a long time, and choose the youngest, and the one with the most children, and the one whose face you remember from a road long ago. They wake, and sit up, and look round in wonder. You lead them up out of the lake into the sunlight. They will tell your name in three different halls for the rest of their lives.
-[d:7 | rn:Divinity+2 | rn:Romance+2 | st:+Esteemed]
+[d:7 | rn:Divinity/Romance+2 | st:+Esteemed]
 
 === p2524a
 You walk along the rows of the drowned knights for a long time. The Lady waits.
 ?? choose which drowned knight shall live again | Wisdom | 6
 ++ You do not choose the greatest knight, or the handsomest, or the one you knew best. You choose a young knight with a plain shield and a wedding ring, whom nobody would have missed but his wife. The Lady looks at you, and smiles. "That is how I would have chosen," she says. The young knight wakes, and weeps, and you lead him up out of the lake. His wife, in a village in Somerset, will not believe it until she sees him. Then she will not let go of him for a week.
-[d:6 | sk:Spiritual | rn:Divinity+2 | rn:Romance+1]
+[d:6 | sk:Spiritual | rn:Divinity/Romance+2]
 -- You walk along the rows, and cannot choose. Every face is someone's son. At last, the Lady takes your hand. "It is all right," she says. "Nobody can." She sends you home with nothing.
 [sk:Wisdom | st:+Despairing]
 ?? ask the drowned knights themselves who should go | Piety | 5
 ++ You do not choose. You kneel among the biers and pray, and ask, aloud, which of them most needs to go back. The Lady watches, surprised. One by one, the drowned faces are still. Then one of them, a young knight with a plain shield and a wedding ring, stirs, and sighs. "That is how I would have chosen," says the Lady. He wakes and weeps, and you lead him up out of the lake. His wife, in Somerset, will not let go of him for a week.
-[d:6 | sk:Spiritual | rn:Divinity+2 | rn:Romance+1]
+[d:6 | sk:Spiritual | rn:Divinity/Romance+2]
 -- You kneel among the biers and ask them. None of them stirs. The Lady takes your hand. "It is all right," she says. "Nobody can." She sends you home with nothing.
 [sk:Piety | st:+Despairing]
 
@@ -465,18 +465,18 @@ The water in front of you ripples, and a young woman rises out of it: Nimue, who
 You take the sword from Bedivere's hand. He lets you. You walk out into the lake, up to your waist, up to your chest, and Nimue meets you in the water, and takes the sword from your hands, and holds it up, three times, flashing, over the lake, so that everyone on the shore can see. Then she kisses your forehead and sinks with it into the water.
 
 Behind you, you hear the old king laugh, once, from where he lies on the shore. "Well done," he says. "The first time."
-[d:8 | rn:Divinity+2 | rn:Romance+2 | st:+Blessed | n:Lose Story Token #16]
+[d:8 | rn:Divinity/Romance+2 | st:+Blessed | n:Lose Story Token #16]
 
 === p2536a
 You take the sword from Bedivere's hand. It is heavier than anything you have ever carried.
 ?? throw Excalibur into the lake | Honor | 6
 ++ You walk to the edge of the water. You look at the sword for a long time. Then you throw it, with all your strength, out over the lake, and it wheels in the mist, flashing, and an arm in white samite rises out of the water and catches it by the hilt, and brandishes it three times, and draws it under. Bedivere falls to his knees. Behind you, on the shore, where the old king lies, you hear a long sigh, like a man who has put down a heavy load.
-[d:7 | sk:Courtly | rn:Divinity+2 | rn:Romance+1]
+[d:7 | sk:Courtly | rn:Divinity/Romance+2]
 -- You walk to the edge of the water, and look at the sword, and you cannot either. You give it back to Bedivere. In the end, he throws it himself, weeping, and the arm rises and catches it. You watch from the shore, ashamed.
 [sk:Honor | st:+Despairing]
 ?? throw it far and true with your whole strength | Endure Hardship | 5
 ++ The sword is heavier than anything you have ever carried, and your arms are shaking from the battle. You walk to the edge of the water and throw it, with everything you have left, and it wheels far out over the lake, farther than you could have thrown it, flashing. An arm in white samite rises and catches it and brandishes it three times and draws it under. Bedivere falls to his knees. From the shore, you hear a long sigh, like a man putting down a heavy load.
-[d:7 | sk:Wilderness | rn:Divinity+2 | rn:Romance+1]
+[d:7 | sk:Wilderness | rn:Divinity/Romance+2]
 -- You throw it with everything you have left, and it falls short, in the reeds. Bedivere wades in and throws it himself. The arm rises and takes it.
 [sk:Endure Hardship | st:+Despairing]
 
@@ -484,12 +484,12 @@ You take the sword from Bedivere's hand. It is heavier than anything you have ev
 You put your hand on Bedivere's shoulder. "It is not the last thing of him," you say. "You are."
 ?? give Sir Bedivere the strength to obey his king | Piety | 5
 ++ You stand with him at the water's edge and pray, and he prays with you, and at last he lifts the sword in his one hand and throws it, and it wheels out over the lake, and the arm rises and catches it and brandishes it three times and draws it under. Bedivere turns to you with his face wet. "Thank you," he says. Together, you carry the old king down to the black barge that is waiting in the mist.
-[d:6 | sk:Spiritual | rn:Divinity+2 | rn:Romance+1]
+[d:6 | sk:Spiritual | rn:Divinity/Romance+2]
 -- You stand with him at the water's edge, but he cannot do it. At last, he sits down on the stones and weeps, and the sword lies in his lap, and you both hear the old king calling, weakly, from the shore.
 [sk:Piety | st:+Despairing]
 ?? remind Bedivere of what the king made him swear | Honor | 5
 ++ You put your hand on his shoulder and ask him, quietly, what he swore at Pentecost, all those years ago. He says it, word by word, with the sword across his palm: *no outrage, mercy to all who ask, never to fight in a wrongful quarrel.* "And to obey his king," you say. He weeps. Then he throws. The arm rises and catches the sword and draws it under. Together, you carry the old king down to the black barge.
-[d:6 | sk:Courtly | rn:Divinity+2 | rn:Romance+1]
+[d:6 | sk:Courtly | rn:Divinity/Romance+2]
 -- You ask him what he swore at Pentecost. "I swore to guard him," says Bedivere. "Not to throw away his sword." He sits down on the stones and weeps, and the sword lies in his lap.
 [sk:Honor | st:+Despairing]
 

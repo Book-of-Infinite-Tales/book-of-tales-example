@@ -10,12 +10,12 @@ He stops when he sees you and bends down, very gently, so as not to spill the ch
 "I will guide you through," you say. Hu beams, and the bell clangs. The gorge of Nant-y-Cwm is a slit in the rock, with a river at the bottom and the walls leaning in at the top.
 ?? guide the giant and his chapel through the gorge | Nature Lore | 3+L
 ++ You walk ahead, finding the places where the rock bulges and the places where it falls away, and you call back to him: stoop, turn, sidestep, mind the tower. Hu edges through, sideways, holding his breath. The chapel scrapes the rock twice and loses a gargoyle. At the far end, he sets it down on the hill with a sigh that flattens the grass. The bishop, who has been watching, comes running. He baptises Hu in a pond, since there is no font big enough, and the giant weeps for joy and gives you the gargoyle.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Wilderness | rn:Divinity+1]
 -- You walk ahead, calling back to him, but you misjudge an overhang. The chapel's little tower catches the rock and snaps off, and the bell goes bouncing down into the river with a noise like the end of the world. Hu sits down in the gorge and cries. It takes a day to fish out the bell, and the bishop charges him for it.
 [sk:Nature Lore | st:+Scorned]
 ?? take the weight of the chapel through the tightest place | Endure Hardship | 5
 ++ At the narrowest bend, the chapel will not go through upright. You climb onto the rock above and brace your back against the little tower, and hold it tilted while Hu edges underneath, holding his breath. Your legs shake. Your back screams. The bell clangs in your ear. And then it is through, and Hu is laughing, and the chapel is on the hill. The bishop baptises him in a pond. He weeps for joy and gives you a gargoyle.
-[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Wilderness | rn:Divinity+1]
 -- You brace your back against the little tower, and hold, and hold, and then your legs give out and you and the tower go down into the gorge together. It takes a day to fish the bell out of the river. The bishop charges Hu for it.
 [sk:Endure Hardship | st:+Wounded]
 
@@ -28,7 +28,7 @@ You ride ahead to the hill, where the Bishop of Hereford is waiting in a tent, c
 [sk:Piety | st:+Despairing]
 ?? drive a hard bargain on the giant's behalf | Diplomacy | 4
 ++ You point out that a giant who carries chapels is worth more than a bishop's silver, and that the Abbot of Gloucester, who has three chapels to move, would be very glad of him. The bishop's eyes narrow. You haggle for an hour. At the end, the bishop agrees to baptise Hu at once, pay him a cow a week for his labour, and give him a hut of his own on the hill. Hu, when he hears it, cannot believe his luck. "A cow a week," he keeps saying. "A cow!"
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
 -- You point out that the Abbot of Gloucester would be glad of such a giant. The bishop smiles. "Then take him to Gloucester," he says, "and the abbot will ask him to carry three chapels, and baptise him never." You have no answer.
 [sk:Diplomacy]
 
@@ -44,12 +44,12 @@ You come upon a giantess sitting on a hillside, piling stones on a great cairn. 
 "They will not find you alone," you say. Morfran looks at you for the first time, with red, disbelieving eyes. "You would fight your own kind?" she asks. "For a giant?" "For a widow," you say.
 ?? defend the giantess from the knights | Warfare | 5
 ++ You set her on the hilltop behind the cairn, with a pile of boulders to hand, and you take the narrow path below. When the three knights come riding up at dawn, they find a knight barring their way and a giantess above them with a stone the size of a cart. They come on anyway. You fight the first, and Morfran drops a boulder in front of the other two, and their horses bolt. The three knights ride away, much less eager for glory. Morfran lays the last stone on her husband's cairn and asks you to say a prayer over it.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Martial | rn:Divinity/Romance+1]
 -- You set her on the hilltop and take the path below. But the knights do not come up the path. They come round the back of the hill, and by the time you hear her roar, it is too late to reach her. You find them gone and the giantess wounded, sitting beside her husband's cairn, and she will not let you near her.
 [sk:Warfare | st:+Despairing]
 ?? meet the three knights on the road before they reach her | Hunting | 4
 ++ You do not wait for them. You go down the valley at night and find their camp, and loose their horses, and cut their saddle-girths, and take their lances and throw them in the river. In the morning, three knights on foot, with no lances and saddles that slide off their horses, decide that the giantess is not worth the walk. Morfran lays the last stone on her husband's cairn and asks you to say a prayer over it.
-[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Villainy+1]
+[d:3 | sk:Wilderness | rn:Divinity/Villainy+1]
 -- You go down the valley at night to their camp, and step on a dry stick. Three knights wake at once. You get away, but now they know someone is protecting her, and they come up the valley at dawn in a very bad temper.
 [sk:Hunting | st:+Pursued]
 
@@ -88,7 +88,7 @@ You come upon a small church in a village where the priest is standing in the do
 You take the priest aside. "Father," you say, "if the font is too small, it is the font that must change, not the soul."
 ?? argue the giant's case from scripture | Wisdom | 5
 ++ You remind the priest of the whale that swallowed Jonah and was sent by God, and of Goliath, who was a giant and a Philistine, and this is neither. You remind him of Saint Christopher, who in some tellings was a giant and carried Christ over the water. The priest listens and chews his lip. At last he nods. "The mill-pond," he says. "I will use the mill-pond." The whole village comes to watch. Ysbaddaden is baptised in the mill-pond, and the millwheel stops for an hour, and nobody minds.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Spiritual | rn:Divinity+1]
 -- You remind the priest of Saint Christopher, who in some tellings was a giant. "That," says the priest firmly, "is a story for children." The giant, who has been listening, sighs and goes home. You pass his hut later and see him sitting in the doorway with his head in his hands.
 [sk:Wisdom | st:+Despairing]
 ?? shame the priest with the giant's own humility | Honor | 5
@@ -114,7 +114,7 @@ You come upon a young man sitting in a barn with his head poking out through a h
 [sk:Nature Lore | st:+Despairing]
 ?? unmake the witch's curse | Magic | 6
 ++ You write old Nest's words on a strip of bark, *Since you think yourself so big, grow*, and then you write them again underneath, backwards. You bind the bark round Twm's wrist with a red thread and make him say, every hour, *I am small, I am small.* It takes a week. On the seventh day, he wakes up in the barn with room to spare. His mother cries. He goes to find old Nest and apologise, and she gives him a piece of her mind and a honey-cake.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- You write the witch's words backwards on a strip of bark and bind it round Twm's wrist. Then you realise that you have spelt one of the words wrong. In the morning, Twm is the same size. You are not. Your boots no longer fit.
 [sk:Magic | st:+Accursed]
 
@@ -148,7 +148,7 @@ You sit down beside the giant. "Gogyrfan," you say, "have you ever thought about
 [sk:Diplomacy | st:+Scorned]
 ?? teach the giant how to court properly | Honor | 5
 ++ You teach Gogyrfan about flowers, and how one flower is better than a tree, and how to bow, and how to take no for an answer. At the end of it, he goes down to the millyard with a single daisy held very carefully between his finger and thumb, and bows so low his nose touches the ground, and gives it to Elin. She laughs, and takes it, and thanks him kindly. "Now," you say, "that is how it ends." Gogyrfan sighs. But he goes home content, and he never leaves another cow.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
 -- You teach Gogyrfan about flowers. He goes down to the millyard and gives Elin a flower. Unfortunately, he pulls it up by the roots, and it is an apple tree. The miller comes out with a pitchfork.
 [sk:Honor]
 
@@ -190,12 +190,12 @@ You put your finger to your lips and kneel beside the chain. It is old iron, rus
 You climb up to the cave and bang your sword on your shield. The snoring stops. Something as big as a house comes out of the dark, blinking, with a club in its hand made from a whole tree.
 ?? fight the mad giant of the Mount | Sword & Shield | 7
 ++ He is huge and mad and very strong, and he swings the club so hard the wind of it knocks you flat. You get up. You keep moving, round and round the fire, until he is dizzy and roaring, and then you run in under his arm and strike at his knee, and he falls, and the whole island shakes. It is a long, grim business after that. When it is over, you free the old woman, and carry the duchess down to the shore, and bury her there with the old woman singing. The Duke of Brittany, when he hears of it, sends you a gift fit for a king.
-[d:6 | sk:Martial | rn:Romance+2 | rn:Any+1 | tr:1]
+[d:6 | sk:Martial | rn:Romance+2 | tr:1]
 -- He is huge and mad and very strong, and he swings the club so hard the wind of it knocks you flat. You get up. He knocks you down again. The third time, you do not get up, and he picks you up by one leg and looks at you, puzzled, and throws you into the sea. The tide carries you back to the shore, half-drowned.
 [sk:Sword & Shield | st:+Wounded]
 ?? trap him with fire and falling rock | Warfare | 6
 ++ You do not wake him at once. You spend an hour levering loose the great stones above the cave mouth and piling brushwood from the beach against them. Then you bang your shield. The giant comes out roaring, into a wall of fire, and you knock the props from under the rocks. When the dust clears, the giant of the Mount is buried to the waist, raging, and it is easy after that. You free the old woman and bury the duchess by the shore.
-[d:5 | sk:Martial | rn:Romance+1 | rn:Any+2 | tr:1]
+[d:5 | sk:Martial | rn:Romance+2 | tr:1]
 -- You spend an hour levering stones and piling brushwood, and the smoke from your fire drifts into the cave before you are ready. The giant comes out coughing and furious, and finds you standing on the rocks with a lever in your hands. It goes badly after that.
 [sk:Warfare | st:+Wounded]
 
@@ -213,7 +213,7 @@ The mayor of the town comes running up to you. "Please," he gasps. "The giant's 
 "I will fight you," you say. Dinabutius sets down the bell tower, very carefully, back where it was, only slightly crooked. He stands up. And up. And up.
 ?? fight Dinabutius on the hillside | Warfare | 6
 ++ You do not fight him the way he expects. You run, and let him chase you, and lead him down into the marshes below the town, where he sinks to his knees, and then to his waist. Then you stand on the bank with your sword drawn. "Yield," you say. The giant, stuck in the mud, laughs, and then cries, and then yields. "My brother would have eaten you," he says. "I suppose I knew that." You and the townsfolk dig him out with ropes. He goes home to the mountains, and the town sends him a cart of apples every year.
-[d:5 | sk:Martial | rn:Romance+1 | rn:Any+1]
+[d:5 | sk:Martial | rn:Romance+1]
 -- You run, and he chases you, and you lead him toward the marsh. But he knows the marsh better than you. He steps round it, and catches you on the far side, and picks you up. "Champion," he says, and puts you in the bell tower. You spend the night there, until the town pays him a hundred sheep to let you down.
 [sk:Warfare | st:+Imprisoned]
 
@@ -248,7 +248,7 @@ You come upon an old, old giant sitting on Salisbury Plain with his back against
 "What lies ahead for Britain?" you ask. The old giant is silent so long that you think he has fallen asleep. Then he says, "Put your hand on the stone."
 ?? open your mind to the stone's vision | Wisdom | 6
 ++ You lay your hand on the stone, and it is warm. You see the young king, and the table, and the light in the hall. You see a queen and a fire. You see a plain in the west, and the ravens. You see a barge on a lake. And then, a long way off, you see the stones still standing, and small people walking among them in strange clothes, touching them, as you are. When you take your hand away, the old giant is watching you. "It all goes on," he says. "That is the thing to know. It all goes on."
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- You lay your hand on the stone, and see too much, too fast: fire and ravens and a king's face in the rain. You pull your hand away with a cry. The old giant looks at you with pity. "Small ones," he says. "Always in such a hurry."
 [sk:Wisdom | st:+Mad]
 
@@ -298,12 +298,12 @@ You look at the giant baby, and the giant baby looks at you, and stops crying fo
 You dismount and walk up to the giant baby, which stops crying to stare at you. You have calmed crying children before, though none of them were the size of a barn.
 ?? soothe the giant baby until its mother comes | Honor | 4
 ++ You sing to it. You sing every lullaby you know, very loudly, and when you run out, you sing marching songs, and drinking songs, and hymns. The baby listens, entranced, with its great thumb in its mouth. The villagers creep out of the church and join in. By the time the mother comes striding over the hill, the whole village is sitting round the baby in the ruins, singing, and the baby is asleep. The giantess weeps. She lifts it up without waking it, and before she goes, she rebuilds the mill in an afternoon.
-[d:3 | sk:Courtly | rn:Romance+1 | rn:Divinity+1]
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
 -- You sing to it. The baby listens for a moment, then opens its mouth and bellows along, completely out of tune, so loudly that every remaining window in the village breaks. By the time the mother arrives, you are deaf in one ear.
 [sk:Honor | st:+Wounded]
 ?? feed it honey and milk from every farm in the valley | Nature Lore | 4
 ++ You send the villagers running to every farm for milk and honey, and pour them into the horse trough, and push it toward the giant baby. It stops crying and sniffs. Then it drinks the lot, and falls asleep in the ruins of the mill with honey on its face. When its mother comes striding over the hill, she finds the whole village tiptoeing round a sleeping baby. She rebuilds the mill in an afternoon.
-[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You pour milk and honey into the horse trough and push it toward the baby. It tips the trough over its own head, and screams, and all the remaining windows break. The mother, when she arrives, assumes you did it on purpose.
 [sk:Nature Lore | st:+Wounded]
 
@@ -319,7 +319,7 @@ On a balcony above, a baron in red velvet is watching with a cup of wine in his 
 You push through the crowd to the edge of the pit, draw your sword and leap down into it. The crowd gasps. The mastiffs turn toward you.
 ?? fight your way to the giant and break his chain | Sword & Shield | 6
 ++ You beat the dogs off with the flat of your sword and reach the post, and strike the chain where it is weakest, again and again, until it parts. The giant rises to his full height, and the crowd goes silent. He looks at the baron on his balcony. Then he picks you up, very gently, and climbs out of the pit, and walks through the crowd, which parts for him, and out of the city gate, and does not stop until he reaches the forest. There he sets you down. "Thank you," he says. It is the only thing he ever says.
-[d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+1 | st:+Pursued]
+[d:5 | sk:Martial | rn:Divinity/Romance+1 | st:+Pursued]
 -- You beat the dogs off and reach the post and strike the chain. But the baron's men are already in the pit, with spears. They drag you off. The last thing you see, before they close the door of the cell, is the giant looking at you through the crowd.
 [sk:Sword & Shield | st:+Imprisoned]
 
@@ -332,7 +332,7 @@ You climb the stair to the baron's balcony. "My lord," you say, "I will buy your
 [sk:Diplomacy | st:+Despairing]
 ?? win the giant from the baron at dice | Cunning | 5
 ++ The baron is a gambler; everyone knows it. You propose a game. He stakes the giant. You stake your horse and armour. You play with the baron's own dice, which are loaded, as you guessed, and you have spent a long winter learning how to throw loaded dice so they roll the other way. You win. The baron cannot accuse you without admitting his dice are false. You lead the giant out of the city and take off his chain at the edge of the forest.
-[d:4 | sk:Courtly | rn:Divinity+1 | rn:Villainy+1]
+[d:4 | sk:Courtly | rn:Divinity/Villainy+1]
 -- You propose a game, and play with the baron's dice. They are loaded, and you cannot turn them. You lose your horse and your armour, and the giant stays in the pit.
 [sk:Cunning | st:+Unhorsed | st:+Despairing]
 

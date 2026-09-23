@@ -57,7 +57,7 @@ You come upon a young squire digging a grave under an oak tree beside the road, 
 [sk:Mounted | st:+Scorned]
 ?? keep Owein's secret from the heralds at Winchester | Cunning | 4
 ++ The heralds at Winchester want to know why Sir Ifor will not raise his visor. You tell them he has sworn a vow, and invent the details: a lady, a pilgrimage, a very large dragon. They are satisfied. Owein rides well enough not to disgrace the name, wins two courses and loses three, and comes home with his head high. Ifor's mother never learns the truth. Owein, you think, will carry it all his life, and be a better knight for it.
-[d:3 | sk:Courtly | rn:Romance+1 | rn:Villainy+1]
+[d:3 | sk:Courtly | rn:Romance/Villainy+1]
 -- The heralds at Winchester want to know why Sir Ifor will not raise his visor. You tell them he has sworn a vow, and invent a lady, a pilgrimage and a dragon. One of the heralds knew Ifor, and knew he could not abide dragons. He asks Owein to raise his visor, and the game is up.
 [sk:Cunning | st:+Scorned]
 
@@ -65,12 +65,12 @@ You come upon a young squire digging a grave under an oak tree beside the road, 
 "Owein," you say gently, "his mother will want to bury her son, not a stranger's glory." The boy bows his head.
 ?? help Owein carry his master home | Endure Hardship | 3+L
 ++ Sir Ifor's manor is two days' ride away, and the dead man must be carried over a saddle through the hills in the rain. You take turns leading the horse. On the second night Owein talks about his master for hours, and laughs sometimes, which surprises him. At the manor, Ifor's mother weeps over her son, and then over Owein. She asks him to stay on as her steward. "He always said you would be the better knight," she tells the boy. "He would want you to have his armour." Owein kneels and cannot speak.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:L | sk:Wilderness | rn:Divinity/Romance+1]
 -- Sir Ifor's manor is two days' ride away, over hills in the rain. On the second day, the packhorse slips on a scree slope, and the dead man goes tumbling down into a gorge. You spend a whole day retrieving him. By the time you reach the manor, neither of you can look Ifor's mother in the eye.
 [sk:Endure Hardship | st:+Despairing]
 ?? break the news to Sir Ifor's mother yourself | Honor | 4
 ++ You leave Owein to watch the body and ride ahead to the manor. You find the old lady in her garden and tell her plainly, and kneel while she weeps. When Owein arrives the next day with the cart, she is waiting at the gate, and she goes straight past the coffin to the boy and holds him. "He always said you would be the better knight," she says. She gives him his master's armour, and you his master's spurs.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
 -- You ride ahead to the manor and find the old lady in her garden. You mean to tell her gently, but you blurt it out in the first breath, and she faints among the roses. When she wakes, she will not see you, and she will not see Owein either. You resolve to find better words before you need them.
 [sk:Honor | st:+Despairing]
 
@@ -108,7 +108,7 @@ You kneel beside Iddo and look into the trough. There is nothing in it but water
 [sk:Diplomacy | rn:Divinity-1]
 ?? prove it was a trick of the light | Cunning | 4
 ++ You dip your hand in the trough and hold up the bottom of a broken lantern someone has thrown there, with a bit of polished brass still in it. "Here is the vessel," you say, "and here is the dawn." The crowd laughs with relief. Iddo stares at the brass for a long time. "Perhaps," he says. The hermit claps you on the shoulder. But that night, at the inn, you notice that the squire is not eating, and does not seem to need to.
-[d:3 | sk:Courtly | rn:Any+1 | rn:Villainy+1]
+[d:3 | sk:Courtly | rn:Villainy+1]
 -- You dip your hand in the trough to find something to show the crowd, and come up empty. The water is cold as ice and clear as glass, and your hand tingles for hours afterwards. The hermit stares at you. The villagers stare at you. You mutter something and leave.
 [sk:Cunning | st:+Accursed]
 
@@ -126,7 +126,7 @@ The hare looks at you. You are almost sure it is pleading.
 You ride between the hound and the hare and scoop the trembling beast up in your arms. Kay splutters with rage. "That is my squire!" he says. "And my supper!"
 ?? break the fay spell on the boy | Magic | 5
 ++ You carry the hare to the well where Madoc insulted the fay lady, and set him down on the edge of it, and call politely for her to come. She comes, in a ripple of water, and looks at the hare with some satisfaction. You apologise on the boy's behalf with every courtesy you know. The fay lady laughs and tips water from the well over the hare's head, and Madoc sits there, dripping and naked, and begins to apologise for himself. Kay rides off in disgust, calling for a new supper.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Spiritual | rn:Divinity/Romance+1]
 -- You carry the hare to the well where Madoc insulted the fay lady, and call for her. She comes, in a ripple of water, and looks at you and at the hare. "Your friend called me a milkmaid," she says. "What will you call me?" You call her *lady*, which is the wrong answer. When you ride away from the well, you are wearing long brown ears, and they are not coming off until morning.
 [sk:Magic | st:+Beast Form]
 ?? plead with Sir Kay for his squire's life | Honor | 4
@@ -169,7 +169,7 @@ Outside a tavern, you find a young squire perched on the mounting block, with in
 "You are a good squire," you tell Piran. "Let us make your master worthy of his letters." You spend the evening with Sir Sagramore, a cheerful, enormous knight who holds his wine cup with both hands.
 ?? teach Sir Sagramore to play the courtly lover by morning | Cunning | 5
 ++ You teach Sagramore six fine phrases, and how to bow, and how not to eat with his fingers. Piran hides behind the curtain and whispers the rest. When the Lady Elidan arrives, Sagramore kneels and says his six phrases with enormous feeling, and she is enchanted. The wedding is at midsummer. Piran is best man and writes the vows. You never learn whether she found out. You suspect she did, and decided that two men who loved her were better than one.
-[d:3 | sk:Courtly | rn:Romance+1 | rn:Villainy+1]
+[d:3 | sk:Courtly | rn:Romance/Villainy+1]
 -- You teach Sagramore six fine phrases and how to bow. When the Lady Elidan arrives, Sagramore kneels and says four of the six phrases, then forgets the rest and asks her if she likes pork. There is a terrible silence. Then Piran, behind the curtain, sneezes. The lady draws back the curtain, looks at the squire with ink on his fingers, and understands everything.
 [sk:Cunning | st:+Scorned]
 ?? teach Sir Sagramore to speak from his own heart | Honor | 5
@@ -182,7 +182,7 @@ Outside a tavern, you find a young squire perched on the mounting block, with in
 You ride out on the Caerwent road and meet the Lady Elidan's party at dawn. She is very lovely, with a sheaf of letters tucked into her sleeve and a look of great expectation on her face.
 ??* court the Lady Elidan | Romance | 4
 ++ You ride beside her all morning and tell her tales of your own deeds and loves, and she laughs and blushes and forgets to look at her letters. By noon, she has forgotten Sir Sagramore entirely. "Words on a page are one thing," she says. "A knight at my side is another." Piran, when he hears, is heartbroken. Sagramore is relieved. You are not sure what you are.
-[d:3 | rn:Romance+1 | rn:Villainy+1 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
+[d:3 | rn:Romance/Villainy+1 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
 ~~2 You ride beside her all morning. She is courteous and kind, but her eyes keep going to the road ahead. "Forgive me," she says. "I have been promised something beautiful." She rides on. You arrive at the tavern in time to watch Sagramore disappoint her.
 [d:1 | rn:Romance+1]
 -- You ride beside her all morning and do your best, but next to Piran's letters your conversation is very thin. "Sir Sagramore writes," she says pointedly, "far better than you speak."
@@ -202,12 +202,12 @@ The boy lowers his broom and levels it at your horse's chest.
 "I accept," you say gravely. You dismount, since the boy has no horse, and take a stick from the hedge. The mother puts her hands over her face. The boy beams.
 ?? fight the boy so that he learns something | Sword & Shield | 4
 ++ You fight him with the stick, slowly and carefully, and you let him land a few blows and then you show him what he did wrong. After an hour, he is panting and sweating and learning faster than any squire you have seen. "You are not a knight," you tell him at last, "not yet. But you could be." The boy takes the pot off his head. His eyes are clear. "I know," he says quietly. "I only wanted someone to see." You take him to the castle and speak for him. They take him back.
-[d:3 | sk:Martial | rn:Romance+1 | rn:Divinity+1]
+[d:3 | sk:Martial | rn:Divinity/Romance+1]
 -- You fight him with the stick, gently, but the boy fights like a demon, and the broom catches you across the knuckles, and without thinking you strike back too hard. He goes down in the road with a bloody nose and bursts into tears like the child he is. His mother takes him home without a word. You resolve to be gentler with fools.
 [sk:Sword & Shield | st:+Scorned]
 ?? give the boy a mock knighting that sets him right | Honor | 4
 ++ You kneel in the road and ask him to kneel too. Then, very gravely, you knight him with his own broom, and make him swear the oath of the Round Table, every word: no outrage, mercy to all who ask, and never to fight in a wrongful quarrel. "Challenging cows," you say, "is a wrongful quarrel." The boy looks at the broom, and at you, and laughs, and the madness goes out of his face. His mother kisses your hands.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
 -- You kneel in the road and knight him with his own broom. Unfortunately, this convinces him completely. He rides off on a donkey to challenge the Sheriff of Chester. His mother looks at you with great sorrow.
 [sk:Honor]
 
@@ -236,12 +236,12 @@ You come upon a squire sitting on a fallen tree with a sword across his knees, g
 "I will help you," you say. "But not in his sleep." Emrys's face hardens. "Why not? He is not a knight. He is a murderer." You shake your head. "We are not."
 ?? challenge Sir Breuse and fight him openly | Mounted | 6
 ++ You find Breuse at dawn, in a black pavilion by a river. He comes out laughing and mounts, and charges you with a lance tipped with steel. You meet him head-on, and on the second pass, you throw him. He lies in the grass and calls for quarter, and Emrys, beside you, lifts his master's sword. For a long moment the boy stands over Breuse, shaking. Then he lowers the sword. "Go and tell everyone," he says, "that a squire spared you." Breuse flees, and his name is a joke in every hall by winter.
-[d:5 | sk:Martial | rn:Romance+2 | rn:Divinity+1]
+[d:5 | sk:Martial | rn:Divinity/Romance+2]
 -- You find Breuse at dawn, in a black pavilion by a river. He comes out laughing and mounts, and on the first pass his steel-tipped lance throws you out of the saddle. You lie in the grass. Breuse wheels his horse and comes back to finish you, and Emrys leaps from the bushes, and takes the blow meant for you. Breuse flees. Emrys dies in your arms.
 [sk:Mounted | st:+Unhorsed | st:+Despairing]
 ?? ambush Breuse with Emrys in the night | Hunting | 4
 ++ You go with Emrys after all. At midnight, you creep into Breuse's pavilion together and tie him hand and foot while he sleeps. He wakes up to Emrys's sword at his throat. "I could kill you," says the squire. "I will not. I will take you to the High King, and you will hang." And so he does. You feel, at the hanging, that justice was done. You also feel that you did not do it as a knight should.
-[d:4 | sk:Wilderness | rn:Villainy+1 | rn:Divinity+1]
+[d:4 | sk:Wilderness | rn:Divinity/Villainy+1]
 -- You go with Emrys after all. At midnight, you creep toward Breuse's pavilion, but Breuse is no fool, and has set traps. You step in one, and the snare hoists you into the air by your ankle, and Breuse comes out of his pavilion with a torch and a grin. You and the squire both spend a very bad week in his cellar.
 [sk:Hunting | st:+Imprisoned]
 
@@ -347,7 +347,7 @@ When you look more closely, you see that the squire is a young woman, with her h
 "We will find him," you say. Gwenllian gives you a brief, fierce nod and starts down the hill. The field is wide, and the light is going.
 ?? search the battlefield among the dead and wounded | Endure Hardship | 3+L
 ++ You search until long after dark, by torchlight, turning over the dead and listening for the living. It is grim work, and Gwenllian does not flinch from any of it. At last, in a ditch at the far edge of the field, you find a young man with a broken leg and a head wound, alive, who opens his eyes and says, "Gwen? You're not supposed to be here." She weeps and laughs at once. You carry Rhys home between you. Their father, when he sees them, does not say a word about what is proper for girls.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:L | sk:Wilderness | rn:Divinity/Romance+1]
 -- You search until long after dark, turning over the dead. The work is grim, and the smell is worse, and by midnight you are sick and shaking. You do not find Rhys. In the morning, Gwenllian goes on alone. You leave the field with a fever and the faces of the dead in your dreams.
 [sk:Endure Hardship | st:+Plague-Ridden]
 ?? track the wounded who crawled from the field | Hunting | 4
@@ -410,7 +410,7 @@ You look at the widow. "The squire says you handed him the cup," you say. "Did y
 [sk:Wisdom | st:+Scorned]
 ?? trap the widow into betraying herself | Cunning | 5
 ++ You bow, and apologise, and say that of course the squire is guilty. Then you mention, as if in passing, that the physician found no poison in the cup at all, only in the jug, which the steward carried. The widow's face flickers. "The steward?" she says, too quickly. "He would never." In the silence that follows, the crowd turns its head, slowly, toward the steward, who is already running. The squire is freed.
-[d:4 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Courtly | rn:Divinity+1]
 -- You bow and say the squire is guilty, and mention the jug. The widow smiles. "How interesting," she says, "since there was no jug." You have told a lie in front of a whole crossroads, and been caught in it.
 [sk:Cunning | st:+Scorned]
 

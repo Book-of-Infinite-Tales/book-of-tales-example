@@ -330,12 +330,11 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Divinity",
-                  "delta": 1
                 }
               ]
             },
@@ -423,11 +422,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -517,11 +515,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -973,10 +970,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -1026,10 +1019,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -1340,10 +1329,6 @@
               "renown": [
                 {
                   "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -1689,11 +1674,10 @@
         "destiny": 4,
         "renown": [
           {
-            "type": "Divinity",
-            "delta": 1
-          },
-          {
-            "type": "Romance",
+            "type": [
+              "Divinity",
+              "Romance"
+            ],
             "delta": 1
           }
         ],
@@ -2010,11 +1994,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -2250,11 +2233,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -2654,10 +2636,6 @@
                 {
                   "type": "Villainy",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -2703,10 +2681,6 @@
               "renown": [
                 {
                   "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -2897,12 +2871,11 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Divinity",
-                  "delta": 1
                 }
               ],
               "statuses": [
@@ -3105,12 +3078,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -3149,12 +3121,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -3591,11 +3562,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -3636,10 +3606,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -3685,10 +3651,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -3852,10 +3814,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 2
                 }
               ]
@@ -3900,10 +3858,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 2
                 }
               ]
@@ -3949,11 +3903,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -3997,11 +3950,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -4047,12 +3999,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -4091,12 +4042,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -4343,10 +4293,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -4491,11 +4437,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -4539,11 +4484,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -4581,11 +4525,10 @@
         ],
         "renown": [
           {
-            "type": "Romance",
-            "delta": 1
-          },
-          {
-            "type": "Divinity",
+            "type": [
+              "Divinity",
+              "Romance"
+            ],
             "delta": 1
           }
         ],
@@ -5118,11 +5061,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -5316,10 +5258,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -5359,10 +5297,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -5497,11 +5431,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -5536,10 +5469,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -5602,10 +5531,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -5655,10 +5580,6 @@
                 {
                   "type": "Villainy",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -5697,11 +5618,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -6380,11 +6300,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -6418,11 +6337,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -6503,10 +6421,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -6919,11 +6833,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -6963,11 +6876,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -7015,10 +6927,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": "Staff of Merlin"
@@ -7053,10 +6961,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -7143,11 +7047,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -7188,11 +7091,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -7341,11 +7243,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -7385,11 +7286,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -7435,11 +7335,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -7580,10 +7479,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": 1
@@ -7688,11 +7583,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -7796,10 +7690,6 @@
               "renown": [
                 {
                   "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 },
                 {
@@ -7993,10 +7883,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -8041,11 +7927,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 2
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -8420,10 +8305,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -8628,11 +8509,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -8699,11 +8579,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -8743,11 +8622,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -8910,11 +8788,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -8957,11 +8834,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -9144,10 +9020,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -9187,10 +9059,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -9330,11 +9198,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -9374,11 +9241,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -9424,12 +9290,8 @@
               ],
               "renown": [
                 {
-                  "type": "Any",
-                  "delta": 2
-                },
-                {
                   "type": "Villainy",
-                  "delta": 1
+                  "delta": 2
                 }
               ]
             },
@@ -9661,10 +9523,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -9704,10 +9562,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -9888,10 +9742,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -9931,10 +9781,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -10074,10 +9920,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -10303,10 +10145,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -10346,10 +10184,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -10455,10 +10289,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -10544,11 +10374,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -10583,11 +10412,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -10684,10 +10512,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -10727,10 +10551,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -10831,10 +10651,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -10874,10 +10690,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -10922,10 +10734,6 @@
                 {
                   "type": "Villainy",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": 1
@@ -10966,10 +10774,6 @@
               "renown": [
                 {
                   "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -11129,11 +10933,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -11183,11 +10986,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -11417,10 +11219,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -11460,10 +11258,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -11506,11 +11300,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -11558,10 +11351,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -11601,10 +11390,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -11652,10 +11437,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -11695,10 +11476,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -11749,10 +11526,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -11792,10 +11565,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -12062,10 +11831,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -12367,11 +12132,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -12411,11 +12175,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -12522,11 +12285,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -12569,11 +12331,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -12764,10 +12525,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 2
                 }
               ],
@@ -12897,10 +12654,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -12963,12 +12716,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -13007,12 +12759,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -13145,10 +12896,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -13227,11 +12974,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -13314,11 +13060,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -13370,10 +13115,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -13407,10 +13148,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -13559,10 +13296,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -13611,11 +13344,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -13655,11 +13387,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -13936,10 +13667,6 @@
               ],
               "renown": [
                 {
-                  "type": "Any",
-                  "delta": 1
-                },
-                {
                   "type": "Villainy",
                   "delta": 1
                 }
@@ -13979,10 +13706,6 @@
                 }
               ],
               "renown": [
-                {
-                  "type": "Any",
-                  "delta": 1
-                },
                 {
                   "type": "Villainy",
                   "delta": 1
@@ -14030,11 +13753,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -14074,11 +13796,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -14172,10 +13893,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -14215,10 +13932,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -14473,10 +14186,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -14617,10 +14326,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -14866,11 +14571,10 @@
               "destiny": 4,
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -15104,11 +14808,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -15251,12 +14954,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -15346,10 +15048,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -15393,10 +15091,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -15524,10 +15218,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -15574,10 +15264,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -15616,11 +15302,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -15711,11 +15396,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -15887,11 +15571,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -15926,11 +15609,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -15971,11 +15653,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -16017,11 +15698,10 @@
         "destiny": 7,
         "renown": [
           {
-            "type": "Divinity",
-            "delta": 2
-          },
-          {
-            "type": "Romance",
+            "type": [
+              "Divinity",
+              "Romance"
+            ],
             "delta": 2
           }
         ],
@@ -16280,11 +15960,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -16419,10 +16098,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 2
                 }
               ],
@@ -16464,10 +16139,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 2
                 }
               ]
@@ -16559,11 +16230,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -16718,10 +16388,6 @@
               "renown": [
                 {
                   "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -17191,10 +16857,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": 1
@@ -17235,10 +16897,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -17313,10 +16971,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -17492,10 +17146,6 @@
               ],
               "renown": [
                 {
-                  "type": "Any",
-                  "delta": 1
-                },
-                {
                   "type": "Villainy",
                   "delta": 1
                 }
@@ -17542,11 +17192,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -17586,11 +17235,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -17636,11 +17284,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -17907,11 +17554,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -18129,10 +17775,6 @@
               ],
               "renown": [
                 {
-                  "type": "Any",
-                  "delta": 1
-                },
-                {
                   "type": "Villainy",
                   "delta": 1
                 }
@@ -18193,11 +17835,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -18358,12 +17999,11 @@
         "destiny": 6,
         "renown": [
           {
-            "type": "Divinity",
+            "type": [
+              "Divinity",
+              "Romance"
+            ],
             "delta": 2
-          },
-          {
-            "type": "Romance",
-            "delta": 1
           }
         ],
         "statuses": [
@@ -18568,10 +18208,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -18702,11 +18338,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -18746,11 +18381,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -18928,11 +18562,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -18979,10 +18612,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -19032,11 +18661,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -19082,11 +18710,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -19138,11 +18765,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -19182,11 +18808,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -19611,11 +19236,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -19661,11 +19285,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -19798,12 +19421,11 @@
         "destiny": 6,
         "renown": [
           {
-            "type": "Romance",
+            "type": [
+              "Divinity",
+              "Romance"
+            ],
             "delta": 2
-          },
-          {
-            "type": "Divinity",
-            "delta": 1
           }
         ],
         "treasures": "Necklace of the Lake"
@@ -19829,11 +19451,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -19873,11 +19494,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -19942,10 +19562,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -20062,10 +19678,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -20098,11 +19710,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -20182,11 +19793,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -20268,10 +19878,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -20311,10 +19917,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -20485,11 +20087,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -20530,10 +20131,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -20681,11 +20278,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -20840,10 +20436,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -21072,10 +20664,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -21455,11 +21043,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -21507,10 +21094,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -21561,11 +21144,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -21614,10 +21196,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": 1
@@ -21658,10 +21236,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -21765,11 +21339,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -21810,11 +21383,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -21995,10 +21567,6 @@
               "renown": [
                 {
                   "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -22211,11 +21779,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -22335,11 +21902,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -22374,11 +21940,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -22425,11 +21990,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -22557,10 +22121,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -22605,11 +22165,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -22653,11 +22212,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -22706,11 +22264,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -22758,10 +22315,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -22795,10 +22348,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -22884,11 +22433,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -22937,11 +22485,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -22986,10 +22533,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -23051,10 +22594,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -23094,10 +22633,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -23219,10 +22754,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -23262,10 +22793,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -23313,10 +22840,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": 1
@@ -23357,10 +22880,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -23549,11 +23068,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -23653,10 +23171,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -23759,10 +23273,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -23897,11 +23407,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -23942,11 +23451,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -23987,11 +23495,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -24031,11 +23538,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -24082,10 +23588,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -24377,11 +23879,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -24621,11 +24122,10 @@
               "destiny": 3,
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -24691,11 +24191,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -24739,11 +24238,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -24813,10 +24311,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": 1
@@ -24857,10 +24351,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -25105,12 +24595,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -25149,12 +24638,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -25241,10 +24729,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -25449,11 +24933,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ]
@@ -25493,11 +24976,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ]
@@ -25543,11 +25025,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -25876,10 +25357,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -26010,11 +25487,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -26055,11 +25531,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -26156,10 +25631,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -26325,11 +25796,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -26415,11 +25885,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -26462,11 +25931,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -26709,11 +26177,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -26844,10 +26311,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -27508,10 +26971,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -27800,10 +27259,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -27843,10 +27298,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -28358,11 +27809,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -28403,11 +27853,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -28457,11 +27906,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -28586,10 +28034,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -28908,10 +28352,6 @@
               ],
               "renown": [
                 {
-                  "type": "Any",
-                  "delta": 1
-                },
-                {
                   "type": "Divinity",
                   "delta": 1
                 }
@@ -29052,10 +28492,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -29145,11 +28581,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -29197,10 +28632,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -29247,10 +28678,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -29290,10 +28717,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -29571,10 +28994,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -29822,10 +29241,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -29865,10 +29280,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -30377,10 +29788,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -30420,10 +29827,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -30562,10 +29965,6 @@
                 {
                   "type": "Villainy",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": 1
@@ -30610,10 +30009,6 @@
               "renown": [
                 {
                   "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -30861,10 +30256,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -30904,10 +30295,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -30949,10 +30336,6 @@
                 {
                   "type": "Romance",
                   "delta": 2
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -30997,10 +30380,6 @@
                 {
                   "type": "Romance",
                   "delta": 2
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -31093,10 +30472,6 @@
               "renown": [
                 {
                   "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -31191,11 +30566,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -31235,11 +30609,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -31418,11 +30791,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 2
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -31468,11 +30840,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 2
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -31707,11 +31078,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -31759,10 +31129,6 @@
                 {
                   "type": "Villainy",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -31807,11 +31173,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ]
@@ -31898,10 +31263,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -32288,10 +31649,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -32331,10 +31688,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -32427,11 +31780,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -32471,11 +31823,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -32576,11 +31927,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -32631,10 +31981,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -32674,10 +32020,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -32761,10 +32103,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -32901,11 +32239,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -32945,11 +32282,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -32997,10 +32333,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": 1
@@ -33041,10 +32373,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -33136,10 +32464,6 @@
                 {
                   "type": "Villainy",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": 1
@@ -33183,10 +32507,6 @@
               "renown": [
                 {
                   "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -33320,10 +32640,6 @@
                 {
                   "type": "Villainy",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -33359,10 +32675,6 @@
               "renown": [
                 {
                   "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -33625,10 +32937,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -33729,11 +33037,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ]
@@ -33773,11 +33080,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ]
@@ -34074,11 +33380,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -34184,11 +33489,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -34235,11 +33539,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -34337,10 +33640,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -34386,10 +33685,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -34652,10 +33947,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -34695,10 +33986,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -34836,10 +34123,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "notes": [
@@ -34882,10 +34165,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -34934,11 +34213,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -34978,11 +34256,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -35088,10 +34365,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -35305,10 +34578,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -35348,10 +34617,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -35448,10 +34713,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -35517,11 +34778,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -35561,11 +34821,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -35701,10 +34960,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -35744,10 +34999,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -36000,10 +35251,6 @@
               ],
               "renown": [
                 {
-                  "type": "Any",
-                  "delta": 1
-                },
-                {
                   "type": "Villainy",
                   "delta": 1
                 }
@@ -36101,11 +35348,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -36162,10 +35408,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -36452,11 +35694,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -37385,10 +36626,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -38225,10 +37462,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -38323,12 +37556,11 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Divinity",
-                  "delta": 1
                 }
               ]
             },
@@ -38371,11 +37603,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -38421,12 +37652,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ],
               "statuses": [
@@ -38471,12 +37701,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -38669,11 +37898,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ]
@@ -38714,10 +37942,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -39996,10 +39220,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -40137,10 +39357,6 @@
               ],
               "renown": [
                 {
-                  "type": "Any",
-                  "delta": 1
-                },
-                {
                   "type": "Divinity",
                   "delta": 1
                 }
@@ -40262,10 +39478,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -40384,10 +39596,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -40432,11 +39640,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -40530,10 +39737,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -40573,10 +39776,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -40627,10 +39826,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -40670,10 +39865,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -40806,10 +39997,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -40849,10 +40036,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -40899,10 +40082,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -41028,11 +40207,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -41082,10 +40260,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -41318,10 +40492,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -41371,10 +40541,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -41413,11 +40579,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -41680,10 +40845,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -41723,10 +40884,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -42736,11 +41893,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -42784,11 +41940,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -42980,10 +42135,6 @@
                 {
                   "type": "Romance",
                   "delta": 2
-                },
-                {
-                  "type": "Any",
-                  "delta": 2
                 }
               ]
             },
@@ -43062,10 +42213,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -43099,10 +42246,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -43657,10 +42800,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -43706,11 +42845,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 2
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -45021,10 +44159,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -45069,11 +44203,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ]
@@ -45168,10 +44301,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -45211,10 +44340,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -45260,11 +44385,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -45486,11 +44610,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -45542,11 +44665,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -45626,11 +44748,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -45665,11 +44786,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -45710,11 +44830,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -45754,11 +44873,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -45800,11 +44918,10 @@
               "destiny": 3,
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -45868,10 +44985,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -46103,10 +45216,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -46151,11 +45260,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -46297,11 +45405,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ]
@@ -46540,11 +45647,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -46588,11 +45694,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -46697,10 +45802,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -46740,10 +45841,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -47970,10 +47067,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -48104,11 +47197,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -48450,11 +47542,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -48589,11 +47680,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -48679,11 +47769,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -48731,10 +47820,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -48774,10 +47859,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -48825,10 +47906,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -48868,10 +47945,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -49005,11 +48078,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -49101,11 +48173,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -49145,11 +48216,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -49296,11 +48366,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -49344,11 +48413,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -49395,10 +48463,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -49885,10 +48949,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -49928,10 +48988,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -49977,11 +49033,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -50110,11 +49165,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -50160,12 +49214,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -50210,12 +49263,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -50261,10 +49313,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -50327,10 +49375,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -50665,10 +49709,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -50708,10 +49748,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -50803,11 +49839,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -51420,11 +50455,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -51556,12 +50590,11 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Divinity",
-                  "delta": 1
                 }
               ]
             },
@@ -51603,11 +50636,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -51700,11 +50732,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -51763,11 +50794,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -52131,10 +51161,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -52363,10 +51389,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": 1
@@ -52407,10 +51429,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -52547,10 +51565,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -52589,11 +51603,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -52639,11 +51652,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -52830,11 +51842,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -53002,11 +52013,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -53047,11 +52057,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
                 }
               ],
@@ -53142,11 +52151,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -53452,12 +52460,11 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Romance",
-                  "delta": 1
                 }
               ]
             },
@@ -53496,11 +52503,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -53821,12 +52827,11 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 2
-                },
-                {
-                  "type": "Divinity",
-                  "delta": 1
                 }
               ]
             },
@@ -53916,10 +52921,6 @@
               "renown": [
                 {
                   "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -54029,10 +53030,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -54072,10 +53069,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -54208,11 +53201,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -54411,11 +53403,10 @@
         "destiny": 5,
         "renown": [
           {
-            "type": "Divinity",
-            "delta": 1
-          },
-          {
-            "type": "Romance",
+            "type": [
+              "Divinity",
+              "Romance"
+            ],
             "delta": 1
           }
         ],
@@ -54446,10 +53437,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -54489,11 +53476,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -54526,11 +53512,10 @@
         "destiny": 6,
         "renown": [
           {
-            "type": "Divinity",
-            "delta": 2
-          },
-          {
-            "type": "Romance",
+            "type": [
+              "Divinity",
+              "Romance"
+            ],
             "delta": 2
           }
         ],
@@ -54697,11 +53682,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -54951,11 +53935,10 @@
         "destiny": 7,
         "renown": [
           {
-            "type": "Divinity",
-            "delta": 2
-          },
-          {
-            "type": "Romance",
+            "type": [
+              "Divinity",
+              "Romance"
+            ],
             "delta": 2
           }
         ],
@@ -55033,11 +54016,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -55077,11 +54059,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -55265,11 +54246,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -55317,10 +54297,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -55360,10 +54336,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -55410,10 +54382,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -55463,11 +54431,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -55508,11 +54475,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -55559,11 +54525,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ],
@@ -55598,11 +54563,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -56070,11 +55034,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -56161,10 +55124,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -56347,11 +55306,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -56391,11 +55349,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -56710,10 +55667,6 @@
                 {
                   "type": "Romance",
                   "delta": 2
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ],
               "treasures": 1
@@ -56754,10 +55707,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 2
                 }
               ],
@@ -56857,11 +55806,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -56991,11 +55939,10 @@
               ],
               "renown": [
                 {
-                  "type": "Villainy",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Romance",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ],
@@ -57128,10 +56075,6 @@
                 {
                   "type": "Divinity",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -57176,10 +56119,6 @@
               ],
               "renown": [
                 {
-                  "type": "Any",
-                  "delta": 1
-                },
-                {
                   "type": "Romance",
                   "delta": 1
                 }
@@ -57221,10 +56160,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ],
@@ -57424,10 +56359,6 @@
                 {
                   "type": "Romance",
                   "delta": 1
-                },
-                {
-                  "type": "Any",
-                  "delta": 1
                 }
               ]
             },
@@ -57472,11 +56403,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -57651,11 +56581,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -57695,11 +56624,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -57785,11 +56713,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -57878,11 +56805,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -57922,11 +56848,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -57973,10 +56898,6 @@
               "renown": [
                 {
                   "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -58144,11 +57065,10 @@
         "destiny": 8,
         "renown": [
           {
-            "type": "Divinity",
-            "delta": 2
-          },
-          {
-            "type": "Romance",
+            "type": [
+              "Divinity",
+              "Romance"
+            ],
             "delta": 2
           }
         ],
@@ -58184,10 +57104,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -58228,10 +57144,6 @@
               "renown": [
                 {
                   "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Any",
                   "delta": 1
                 }
               ]
@@ -58295,11 +57207,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -58339,11 +57250,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Villainy",
+                  "type": [
+                    "Divinity",
+                    "Villainy"
+                  ],
                   "delta": 1
                 }
               ]
@@ -58615,11 +57525,10 @@
               ],
               "renown": [
                 {
-                  "type": "Divinity",
-                  "delta": 1
-                },
-                {
-                  "type": "Romance",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]
@@ -58659,11 +57568,10 @@
               ],
               "renown": [
                 {
-                  "type": "Romance",
-                  "delta": 1
-                },
-                {
-                  "type": "Divinity",
+                  "type": [
+                    "Divinity",
+                    "Romance"
+                  ],
                   "delta": 1
                 }
               ]

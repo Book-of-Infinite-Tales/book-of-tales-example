@@ -138,7 +138,7 @@ The tall knight tips his jug. You step back just in time.
 [sk:Cunning | st:+Scorned]
 ?? speak up for the dwarf to the lady herself | Honor | 5
 ++ You go to the lady's door and ask to speak with her. She comes down, a quiet young woman with ink on her fingers. You tell her that the dwarf under her window is the bravest man in town, since he comes back every night though he knows he will be drenched, and that he writes all his own songs. The Lady Morwen smiles. "I know," she says. "I wanted to see if he would keep coming." She goes out into the street, and takes Tegid's wet hand, and brings him in. Sir Hector's jug falls out of the window.
-[d:3 | sk:Courtly | rn:Romance+1 | rn:Divinity+1]
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
 -- You go to the lady's door and ask to speak with her. The door is opened by her father, who has heard all about the dwarf and does not approve, and who does not approve of knights who meddle, either. You are shown the street.
 [sk:Honor]
 
@@ -146,7 +146,7 @@ The tall knight tips his jug. You step back just in time.
 You walk to the foot of Sir Hector's window. "Sir Hector the Tall," you call. "Come down and I will see how tall you are on the ground."
 ?? fight Sir Hector in the street | Sword & Shield | 5
 ++ Sir Hector comes down, laughing, and draws, and stops laughing very soon. You fight him up and down the street, with the whole town hanging out of its windows, until you knock him flat on his back in the horse-trough. Tegid stands over him, dripping, and offers him a hand up. Sir Hector takes it, red-faced. The Lady Morwen, watching from her window, laughs for the first time. It is not at the dwarf.
-[d:4 | sk:Martial | rn:Romance+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Romance+1]
 -- Sir Hector comes down, laughing, and he goes on laughing, because he is very good with a sword. When he is done, you are sitting in the horse-trough, and the whole town is laughing, and the dwarf is helping you out.
 [sk:Sword & Shield | st:+Scorned]
 
@@ -188,12 +188,12 @@ You come upon a dwarf sitting in the stocks outside a castle gate, with a placar
 "You will not need a burr," you say, "if we can find the cup." Pebin snorts. "They will have hidden it."
 ?? find the cup and prove the saddler's innocence | Wisdom | 4
 ++ You go into the castle as a guest, and at supper you watch Sir Hugh's knights. One of them, a young man with a loud voice, drinks from a silver cup and keeps it by his hand all evening. You ask him, admiringly, where he got it. He tells you, drunkenly, that it was the one they said the dwarf stole, and wasn't that a fine joke. Sir Hugh's steward hears it too. In the morning, Pebin is released and paid for his saddle, twice over. The young knight goes to the stocks. Pebin makes him a very fine saddle afterwards, with no burr in it at all.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Spiritual | rn:Divinity+1]
 -- You go into the castle as a guest and watch Sir Hugh's knights at supper, but you see no cup, and when you ask about it, the knights laugh and say the dwarf must have melted it. Pebin sits in the stocks for another three days.
 [sk:Wisdom]
 ?? follow the knights and learn where the cup went | Hunting | 4
 ++ You wait by the castle gate at dusk until one of the laughing knights rides out alone, and follow him to a tavern in the next village, where he sells a silver cup to the landlord for two marks. You buy it back for three. The next morning, you set it on the table before Sir Hugh, and the landlord beside it. Pebin is out of the stocks by noon, and paid for his saddle twice over.
-[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Wilderness | rn:Divinity+1]
 -- You follow one of the knights at dusk, and he rides to a tavern, and drinks, and rides home. You have spent a night and learned only that he likes ale. Pebin sits in the stocks for three more days.
 [sk:Hunting]
 
@@ -225,12 +225,12 @@ You kneel and take the wounded knight by the shoulders. The dwarf nods. "He will
 "I will find them," you say. The dwarf nods briskly. "Comfrey by the stream. Yarrow on the hillside. The water-avens you will find in a marsh, if you are lucky. Hurry."
 ?? find the healing herbs in time | Nature Lore | 3+L
 ++ You find comfrey by the stream and yarrow on the hillside, and in a marsh two miles away you find the water-avens, its red flowers nodding. You ride back with your arms full. The dwarf grins. "You have a good eye," he says. He works fast, and by nightfall the knight's fever has broken. The knight, who turns out to be Sir Sagramore, says he owes you his leg. Meddyg says he owes you nothing, but teaches you the names of twenty herbs on the way to the next town.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:L | sk:Wilderness | rn:Divinity+1]
 -- You find comfrey by the stream and yarrow on the hillside, but you cannot find the water-avens. You search every marsh for miles. When you ride back at dusk, the dwarf is sitting beside the knight, who is very still. He shakes his head.
 [sk:Nature Lore | st:+Despairing]
 ?? draw the poison out with a healer's charm | Magic | 5
 ++ You kneel beside the knight and lay your hands on the wound and speak the old charm for poison, the one that begins *Wound, wound, give it back*. The dwarf watches with his eyebrows raised. The black flesh round the wound slowly reddens. The knight's breathing eases. "Salerno," says the dwarf, "does not teach that." He cleans the wound, and the knight lives, and Meddyg makes you teach him the charm on the way to the next town.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Spiritual | rn:Divinity+1]
 -- You lay your hands on the wound and speak the charm for poison. The dwarf watches, then pushes you aside. "Charms later," he says. "Comfrey now." By the time you have found the comfrey, the leg cannot be saved.
 [sk:Magic | st:+Despairing]
 
@@ -251,7 +251,7 @@ You look at the two signs. "What do you think the lords would say," you ask, "if
 [sk:Diplomacy | st:+Despairing]
 ?? seize the cart before it sells more crossbows | Warfare | 4
 ++ You do not argue. You take the cart. Hob shouts, and his two drivers reach for crossbows, and find you have already taken the strings off them. You drive the cart to the salmon weir and tell both lords that there will be no more crossbows until they have talked. Without crossbows, they have to. They make peace in an afternoon and split the cart between them for their castle walls.
-[d:3 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Martial | rn:Divinity+1]
 -- You try to take the cart. Hob's drivers have strung crossbows, and they are not bad shots. You leave without the cart, and with a bolt through your cloak.
 [sk:Warfare | st:+Wounded]
 
@@ -280,7 +280,7 @@ You come upon a dwarf sitting on a stone at the foot of a green hill, with his c
 At midnight, the crack in the hillside widens into a doorway, and a warm golden light spills out, and the sound of hammering, very far below. Dwyfan grips your hand. "Stay close," he says.
 ?? follow the dwarf into the hollow hill | Magic | 5
 ++ You go down a long stair into a hall of silver, where a hundred dwarves are working at forges and none of them has aged a day. When they see Dwyfan, a very old woman at the nearest forge drops her hammer. "You have grown," she says. It is his mother. They weep together. The dwarves under the hill offer him the choice: stay with them, and never grow older, or go back and take one of them with him. He chooses to go back, and takes his mother, and she sees the sun for the first time in a hundred years. She gives you a silver ring from the forge.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1 | tr:1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1 | tr:1]
 -- You go down a long stair into a hall of silver, where dwarves are working at forges. They do not see you. You call to them, and they do not hear. Dwyfan walks among them, calling their names, and they walk through him as though he were smoke. At dawn, you are thrown out onto the hillside, and the crack closes. Dwyfan sits on his stone and does not move.
 [sk:Magic | st:+Despairing]
 ?? go into the hill with a blessed candle | Piety | 5
@@ -311,7 +311,7 @@ The dwarf sees you. "Sir knight!" he calls. "Tell them! A clock is only wheels. 
 You push through to the stocks. "Wait," you call out. "If the clock is sorcery, then show me. Let him open it." The crowd hesitates. The priest scowls.
 ?? reveal the workings of the clock to the crowd | Wisdom | 5
 ++ They bring the clock out of the church and set it on a cart, and you help the dwarf, with his hands still bound, to open its back. Inside are wheels and weights and a long pendulum swinging. He shows them how the wheels turn, and how the figures are only painted wood on a lever. The crowd presses close to look. A blacksmith, who knows what a wheel is, begins to laugh. The priest's brother drops his torch. By sundown, the clock is back in the church, and the dwarf is sitting in the tavern, and people are buying him ale.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- They bring the clock out and open it. But inside, among the wheels, is a tiny carved figure of a horned man, which the dwarf says is only a joke. The crowd does not find it funny. You are lucky to get out of the square.
 [sk:Wisdom | st:+Scorned | st:+Despairing]
 
@@ -319,6 +319,6 @@ You push through to the stocks. "Wait," you call out. "If the clock is sorcery, 
 You draw your sword and ride straight at the stocks. The crowd scatters. The priest's brother drops his torch and runs.
 ?? break the stocks and carry the dwarf away | Mounted | 3+L
 ++ You smash the lock of the stocks with your pommel, haul the dwarf up behind your saddle and gallop out of the town gate with half the town running after you. Two miles out, he leans round and shouts in your ear, "My tools! My tools are still in my shop!" You go back for them that night, over the wall. He goes to Camelot, where the High King asks him to make a clock for the great hall. It is still there.
-[d:L | sk:Martial | rn:Divinity+1 | rn:Romance+1 | st:+Pursued]
+[d:L | sk:Martial | rn:Divinity/Romance+1 | st:+Pursued]
 -- You smash the lock of the stocks, but the crowd closes in before you can get the dwarf onto your horse. Somebody pulls you out of the saddle. You spend the night in the same stocks, with the dwarf beside you, and in the morning you are both run out of town with a great deal of shouting.
 [sk:Mounted | st:+Scorned]

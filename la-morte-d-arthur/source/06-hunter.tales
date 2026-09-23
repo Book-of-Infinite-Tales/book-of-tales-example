@@ -16,7 +16,7 @@ A moment later, an old knight gallops up on a lathered grey, with a crown tied t
 [sk:Mounted | st:+Unhorsed]
 ?? track the beast to its lair | Hunting | 5
 ++ While Pellinore gallops off after the baying, you look at the ground. The beast's feet are a hart's feet, and harts go to water at dusk. You find the pool where it drinks, and you and Pellinore wait in the rushes. At sunset it comes, and drinks, and lifts its serpent's head and looks straight at you. Pellinore does not move. After a while he whispers, "I do not want to catch it, you know. Not really. What would I do then?" The beast finishes drinking and pads away. Pellinore wipes his eyes and shakes your hand.
-[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Wilderness | rn:Divinity/Romance+1]
 -- While Pellinore gallops off after the baying, you look at the ground. You find hart's tracks, and follow them all afternoon, and at dusk you find a hart. An ordinary one. It looks at you in surprise and bounds away. Somewhere far off, the baying goes on.
 [sk:Hunting]
 
@@ -43,7 +43,7 @@ You catch Llywarch's wrist. "Wait," you say. "Listen." He tries to pull away. Th
 [sk:Endure Hardship | st:+Despairing]
 ?? reason with the huntsman until he sees the truth | Wisdom | 5
 ++ "Look at the dog," you say. "Does he look like a dog who has killed a child? Look at the blood on the doorstep. It goes out, not in." Llywarch stares at the doorstep. His sword arm drops. From inside, the crying comes again, louder. He runs in and comes out with his son, safe and bawling. The dead wolf lies behind the cradle. Llywarch drops his sword and falls on his knees beside Cafall. "Forgive me," he whispers. Then he looks up at you. "I will name the boy for you," he says.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
 -- "Look at the dog," you say. "Look at the blood." But Llywarch is not listening. You go on talking, reasoning, arguing, and all the while he is looking at the dog, and at last he screams and brings the sword down. Later, he finds his son alive. You wish you had used your hands and not your tongue.
 [sk:Wisdom | st:+Despairing]
 
@@ -275,12 +275,12 @@ You take the slice. It is very good. "Share and share alike," you say. Tom laugh
 You shake your head. "The law is the law, Tom," you say. Tom sighs and puts down the knife. "They always say that," he says. "Right up until it's them."
 ?? bring the poacher before the verderer | Hunting | 4
 ++ Tom runs, of course. You chase him through the forest, and he is fast and knows every path, but you are faster, and you catch him at a stream. You bring him to the verderer, a fat man who cannot wait to take his hand. But you speak for Tom, and point out that the deer was old and lame, and in the end the verderer settles for a fine, which you pay. Tom stares at you. "You are a strange sort of knight," he says. He sends you a pheasant every Michaelmas for twenty years. You never ask where they come from.
-[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Wilderness | rn:Divinity+1]
 -- Tom runs, of course, and he knows every path in the forest, and you do not. You lose him in the first ten minutes. When you go back to the hollow, the venison has gone too.
 [sk:Hunting]
 ?? persuade Tom to come quietly | Honor | 4
 ++ You sit down by his fire. "If you run," you say, "they will hunt you, and your children will be poachers' orphans. If you come with me, I will speak for you." Tom looks at you for a long time. Then he puts out his fire. The verderer wants his hand. You speak for him, and pay the fine yourself. Tom sends you a pheasant every Michaelmas for twenty years.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- You sit by his fire and speak of his children. Tom listens, nods, and hits you over the head with the spit. When you wake, the venison and the poacher are both gone.
 [sk:Honor | st:+Wounded]
 
@@ -309,7 +309,7 @@ You come upon a hunting party in a forest clearing: six huntsmen with hounds and
 You leave the huntsmen in their clearing and walk toward the white hart. It does not run. It turns and walks into the trees, and looks back, and waits for you.
 ?? follow the white hart to its secret | Magic | 5
 ++ It leads you to a pool in the heart of the wood, where a lady in white sits on a stone. "You did not try to shoot it," she says. "That is the first time in a hundred years." She tells you that the hart is her brother, turned into a beast by a jealous witch, and that the wood holds any hunter who chases him. "But you only followed," she says. She touches the hart's head, and for an instant you see a young man standing there, laughing. Then he is a hart again. "Not yet," she says. "But one day." She releases the hunting party for your sake.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
 -- It leads you deeper and deeper into the wood, and you follow it for what seems like an hour. When you come out, the hunting party is gone, and so is the autumn. It is spring. You do not know where the months went.
 [sk:Magic | st:+Lost]
 ?? follow the white hart with a prayer on your lips | Piety | 5
@@ -332,12 +332,12 @@ The boar turns and sees you. It lowers its head.
 You dismount and set your spear. The boar charges.
 ?? kill the boar with your spear | Sword & Shield | 3+L
 ++ It comes at you like a thunderbolt, and you set the butt of your spear against a root and let it run onto the point. The shock throws you backward, but the spear holds. The boar screams and thrashes and drives itself up the shaft toward you, and then it is still. Rhodri lets go of the branch and falls into your arms. "I have hunted boar for twenty years," he gasps, "and never seen that done." You carry him home to his lodge, and his wife feeds you for a week.
-[d:L | sk:Martial | rn:Romance+1 | rn:Any+1]
+[d:L | sk:Martial | rn:Romance+1]
 -- It comes at you like a thunderbolt. You set the spear, but the ground is soft, and the butt slips, and the boar's tusk opens your leg from knee to hip. You drag yourself up beside Rhodri in the tree. The two of you wait there until dawn, when the boar at last loses interest and trots away.
 [sk:Sword & Shield | st:+Wounded]
 ?? hold the boar at bay until nightfall | Endure Hardship | 5
 ++ You have no spear. You put your back to the oak and your shield in front of you and keep the boar off with your sword for hour after hour, as it charges and charges again. Your arm goes numb. Your shield splits. At dusk, the boar gives a grunt of disgust and trots off into the forest. You help Rhodri down from the tree and carry him home on your back. His family give you their best cloak and more thanks than you can bear.
-[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Wilderness | rn:Divinity+1]
 -- You put your back to the oak and your shield in front of you. The boar charges again and again, and after an hour, your arm gives out, and you drop the shield, and you have to scramble up the tree beside Rhodri. The branch cracks under your weight. You both fall.
 [sk:Endure Hardship | st:+Wounded]
 

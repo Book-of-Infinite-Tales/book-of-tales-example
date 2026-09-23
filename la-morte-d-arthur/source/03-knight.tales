@@ -23,12 +23,12 @@ As you come down to a ford, a lanky knight in battered armour hails you from the
 "Tell me your plan," you say. Dinadan brightens. "It is very simple. Tarquin hates one knight above all others: the queen's champion of the house of Benwick, who is not here. So one of us rides up in that knight's colours, blue and white, and challenges him, and when he charges, the other one lets his horse out of the paddock. A man cannot joust without a horse."
 ?? play your part in Dinadan's trick | Cunning | 4
 ++ Dinadan borrows a blue and white surcoat from somewhere and rides up to the ford, trumpeting like a herald. Tarquin roars and charges straight into the river, and you slip round behind the paddock and loose every horse he owns. Tarquin's charger, hearing its fellows, turns in midstream and bolts after them. Tarquin is left sitting in the ford up to his waist, bellowing. You and Dinadan open the dungeon while he is still catching horses. "Chivalry," says Dinadan, "is overrated."
-[d:3 | sk:Courtly | rn:Any+1 | rn:Villainy+1]
+[d:3 | sk:Courtly | rn:Villainy+1]
 -- Dinadan borrows a blue and white surcoat and rides up to the ford, trumpeting like a herald. Tarquin looks at him for a long moment and bursts out laughing. "I know that knight," he calls, "and he is a head taller." Meanwhile, the paddock has a guard you did not see, and you are marched across the ford at spear-point. Dinadan escapes, still apologising.
 [sk:Cunning | st:+Imprisoned]
 ?? ride up in the champion's colours yourself | Mounted | 5
 ++ You borrow Dinadan's blue and white surcoat and ride up to the ford sitting as tall as you can. Tarquin roars and charges, and you turn your horse and gallop away up the bank, and he chases you for a mile, bellowing, while Dinadan opens his dungeon. When Tarquin finally realises, he is too far away to do anything but swear. Sixty-four knights buy you wine that night.
-[d:3 | sk:Martial | rn:Any+1 | rn:Villainy+1]
+[d:3 | sk:Martial | rn:Villainy+1]
 -- You borrow the blue and white surcoat and ride up to the ford. Tarquin charges, and you turn to flee, and your horse slips on the bank. Tarquin is on you before you are up. Dinadan escapes, apologising.
 [sk:Mounted | st:+Imprisoned]
 
@@ -50,7 +50,7 @@ You ride to the castle gate and ask to see the Lady Ettarde. She receives you in
 [sk:Honor | st:+Scorned]
 ?? win Ettarde for him with a love-charm | Magic | 5
 ++ You go down to the stream at dusk and gather the herbs an old woman once told you about, and bind them with a thread from Pelleas's surcoat, and leave them on the lady's windowsill. In the morning, Ettarde looks out of her window at the man in the grass, and something in her face softens. She sends her maid to bring him in. You are not sure you have done a good thing. Pelleas is sure.
-[d:3 | sk:Spiritual | rn:Romance+1 | rn:Villainy+1]
+[d:3 | sk:Spiritual | rn:Romance/Villainy+1]
 -- You gather the herbs and leave them on the lady's windowsill. In the morning, Ettarde looks out of her window and falls deeply in love with the first man she sees, who is her steward. Pelleas is heartbroken all over again.
 [sk:Magic | st:+Accursed]
 
@@ -58,7 +58,7 @@ You ride to the castle gate and ask to see the Lady Ettarde. She receives you in
 You haul Pelleas to his feet by his surcoat. "Enough," you say. "There are other windows in Britain."
 ?? rouse Pelleas from his despair | Piety | 4
 ++ You sit him down by a fire and make him eat, then you make him pray with you, for the first time in a month. Afterwards he stares into the flames. "I have been praying to a window," he says. By morning, he has scrubbed the rust from his armour. He rides away east with you as far as the crossroads, and there he grips your hand. "If I hear of you in need," he says, "I will come." You hear later that he has married a lady of the Lake, and is happy.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Spiritual | rn:Divinity/Romance+1]
 -- You sit him down by a fire and make him eat. But as dawn breaks, the shutter opens above, and a pale face looks down, and Pelleas is on his feet and back at the wall before you can stop him. You leave him there. You cannot save a man who does not want to be saved.
 [sk:Piety]
 ?? drag him away by main force | Endure Hardship | 3+L
@@ -71,7 +71,7 @@ You haul Pelleas to his feet by his surcoat. "Enough," you say. "There are other
 You ride to the castle gate and ask to see the Lady Ettarde. She receives you with a spark of interest. "You are not here for Pelleas," she says, "are you?"
 ??* court Lady Ettarde | Romance | 4
 ++ You tell her of your deeds and your loves, and she listens, and laughs, and asks you to stay. By the third day, you are sure she loves you. On the fourth, you look out of her window and see Pelleas lying in the grass below, looking up. He sees you. He does not move. The next morning he is gone, and his circlet lies on the grass. You have won the lady, and you have done something that you will not boast of.
-[d:4 | rn:Romance+1 | rn:Villainy+1 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
+[d:4 | rn:Romance/Villainy+1 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
 ~~2 You tell her of your deeds, and she listens with half an ear. "Pelleas has done more for me," she says, "and I do not want him either." She sends you away with a cup of wine and a yawn.
 [d:1 | rn:Romance+1]
 -- You tell her of your deeds, and she laughs in your face. "Come back when you have lain in the grass for a month," she says.
@@ -94,7 +94,7 @@ He opens his eyes as you ride up. "Thank God," he says. "I am Bors of Ganis. Loo
 [sk:Mounted | st:+Despairing]
 ?? track them into the wood and free Lionel by stealth | Hunting | 3+L
 ++ You follow the trail of broken thorn to a charcoal-burner's hut, where the two knights have tied Lionel to a post and are arguing over his ransom. You wait until they are drunk, cut through the back wall of the hut with your dagger, and bring Lionel out on your shoulder. When Bors comes to find you, the brothers embrace. "God sent you," says Bors, and Lionel, for once, does not argue.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:L | sk:Wilderness | rn:Divinity/Romance+1]
 -- You follow the trail of broken thorn to a charcoal-burner's hut. But the two knights have left a man on watch, and he sees you coming. You fight him, but by the time he is down, the other two have fled with their prisoner into the dark. You resolve to watch a camp longer before you go in.
 [sk:Hunting | st:+Pursued]
 
@@ -169,7 +169,7 @@ The poem begins: *O Nest, thou art as white as linen, and as starch'd.*
 You fold the poem carefully. "I will see it reaches the right hands," you say. As soon as Kay has gone, you head for the great hall, where Sir Dinadan is holding court among the young knights.
 ?? have the poem read aloud at the high table | Cunning | 4
 ++ Dinadan sets the poem to the tune of a drinking song, and at supper he sings it before the whole court, with the young knights joining in on the chorus: *as starch'd, as starch'd*. Kay goes purple. The High King laughs until he cries. Then Nest the laundress stands up at the back of the hall, and walks the whole length of it, and kisses Kay full on the mouth in front of everybody. "That," she says, "was the best poem anyone ever wrote me." The court is silent. Kay is speechless. You are not sure whether the joke is on him or on you.
-[d:3 | sk:Courtly | rn:Villainy+1 | rn:Romance+1]
+[d:3 | sk:Courtly | rn:Romance/Villainy+1]
 -- Dinadan sets the poem to the tune of a drinking song, but he has had too much wine before supper, and when he stands up to sing, he points at you and announces that you wrote it. The court roars. Nest the laundress stands up at the back of the hall and says loudly that it is the worst poem she has ever heard, and that she would not walk out with its author for a sack of silver. Kay laughs at you for a month.
 [sk:Cunning | st:+Scorned]
 
@@ -177,7 +177,7 @@ You fold the poem carefully. "I will see it reaches the right hands," you say. A
 You go to the wash-house to deliver the poem. Nest looks up from her tub, blows a wisp of hair out of her eyes and grins at you. "Who are you, then?" she asks.
 ??* court Nest the laundress | Honor | 4
 ++ You never do read her the poem. You roll up your sleeves and help her wring out the High King's shirts instead, which makes her laugh, and by the end of the afternoon you are good friends and possibly more. Kay finds out within the week. He is too proud to be angry. He only says, "Well. She always did have poor taste," and goes to bed early. You feel badly about Kay. You feel less badly about Nest.
-[d:3 | sk:Courtly | rn:Romance+1 | rn:Villainy+1 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
+[d:3 | sk:Courtly | rn:Romance/Villainy+1 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
 -- You never read her the poem. Instead you tell her that she is as lovely as the dawn. Nest looks at you with pity. "Sir Kay," she says, "wrote me a poem this morning. It was terrible. You are worse." She turns back to her tub.
 [sk:Honor | st:+Smitten]
 
@@ -193,7 +193,7 @@ He bares his teeth at you, then seems to remember himself. He stands up, and bow
 "I will come with you," you say, "and see that justice is done, and nothing more." Marrok looks at you with his yellow eyes. "Justice," he says. "Yes." His manor is a day's walk away, and he will not ride, because horses will not carry him.
 ?? see that Marrok's wife faces justice before the lord of the manor | Diplomacy | 5
 ++ At the manor, the steward goes white as milk, and the lady drops her cup. You make Marrok wait outside while you go to the lord of the shire and lay out the whole thing before him, slowly and plainly. The lady is stripped of the manor and sent to a convent; the steward is exiled. Marrok walks in through his own front door for the first time in seven years. He sits by his own fire and weeps. Then he bows to you, very correctly. "You kept me a man," he says.
-[d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Courtly | rn:Divinity/Romance+1]
 -- At the manor, the steward goes white as milk, and the lady drops her cup. Before you can speak, Marrok is across the room. You pull him off the steward, but not before the man's arm is broken, and the lady has fled screaming into the night. The shire reeve arrives in the morning and takes Marrok away in chains. He goes quietly.
 [sk:Diplomacy | st:+Despairing]
 ?? stand between Marrok and his wife when the wolf rises | Sword & Shield | 4
@@ -243,7 +243,7 @@ There is no talking to him. He comes at you across the crossroads, and you fight
 [sk:Warfare | st:+Wounded | rn:Villainy+1]
 ?? stalk Lamorak and take him at the stream | Hunting | 4
 ++ You leave Gaheris in the hedge and go ahead alone, and find Lamorak watering his horse at a stream with his helmet off, singing. You come out of the reeds behind him. He turns, and sees your sword, and stops singing. You bring him back to the crossroads with his hands tied. Gaheris draws, and then looks at the big man standing quietly in the road, and cannot do it. He sends Lamorak across the sea instead. It is not what either of you meant.
-[d:3 | sk:Wilderness | rn:Villainy+1 | rn:Any+1]
+[d:3 | sk:Wilderness | rn:Villainy+1]
 -- You go ahead alone through the reeds, and a heron gets up in front of you with a great clatter. Lamorak looks round, laughs, and rides off at a gallop. Gaheris blames you. So does the heron.
 [sk:Hunting | rn:Villainy+1]
 
@@ -404,7 +404,7 @@ You ride out onto the causeway and raise your hand. The red knight stops. "Sir,"
 [sk:Wisdom | st:+Despairing]
 ?? invoke the law of arms, that no knight fights in another's shield | Honor | 5
 ++ "By the law of arms," you call, so that the ladies on the battlements hear it, "no knight may fight bearing another man's shield. That knight on the shore has been given a shield not his own. The custom of this island is broken." The red knight hesitates. The ladies look at each other. At last he unlaces his helm. He is a young man with Balin's face. The brothers meet on the causeway and weep.
-[d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Courtly | rn:Divinity/Romance+1]
 -- You call out the law of arms. The ladies on the battlements laugh. "Here," says one, "there is no law but the custom." The red knight rides past you. You cannot stop what follows.
 [sk:Honor | st:+Despairing]
 

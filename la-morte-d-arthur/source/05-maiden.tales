@@ -105,12 +105,12 @@ You come upon a young woman sitting on a rock in a woodland pool, with her bare 
 [tok:16]
 ?? hold the old enchanter while Nimue speaks the spell | Magic | 6
 ++ When Merlin comes back with the mushrooms, you take him by the arm and ask him a question about the stars. He is so pleased to be asked that he begins to answer, and while he is answering, Nimue begins to speak. The old man stops. He looks at her, and at you, and he understands. "Ah," he says. "Yes. I saw this, a long time ago." He does not struggle. The rock beside the pool opens like a door, and he walks into it, and it closes behind him. Nimue is shaking. "Thank you," she says. "The Lady of the Lake will remember you." She disappears into the pool.
-[d:4 | sk:Spiritual | rn:Villainy+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Villainy+1]
 -- When Merlin comes back, you take him by the arm and ask him about the stars. He smiles and begins to answer, and while he is answering, Nimue begins to speak. Then Merlin looks at you, and says one word, and you find you cannot move. "You are not the first to try," he says kindly. "Nor the last." He leads Nimue away by the hand. You stand in the pool, frozen, until the sun goes down.
 [sk:Magic | st:+Ensorcelled]
 ?? distract Merlin while Nimue prepares | Cunning | 5
 ++ When Merlin comes back with the mushrooms, you ask him to tell you how he moved the great stones from Ireland to Salisbury Plain. His eyes light up, and he tells you, in enormous detail, for an hour. He does not notice Nimue drawing a circle round him on the grass with her toe. At the end of the story, the rock beside the pool opens, and Merlin turns, and sees, and sighs. "Oh, well done," he says to her, and walks into the stone. Nimue throws her arms round your neck. "The Lady of the Lake," she says, "owes you a great deal."
-[d:4 | sk:Courtly | rn:Villainy+1 | rn:Romance+1]
+[d:4 | sk:Courtly | rn:Romance/Villainy+1]
 -- When Merlin comes back with the mushrooms, you ask him to tell you how he moved the great stones to Salisbury Plain. He looks at you, and then at Nimue, and smiles. "Ah," he says. "Nimue, dear, your friend is a terrible liar." Nimue curses. Merlin takes her arm, and they walk off together into the trees, and you are left holding the mushrooms.
 [sk:Cunning | st:+Scorned]
 
@@ -118,12 +118,12 @@ You come upon a young woman sitting on a rock in a woodland pool, with her bare 
 You follow Merlin into the trees and find him on his knees among the mushrooms. "She means to shut you in a cave," you tell him. Merlin sighs and gets up. "I know," he says. "I have always known."
 ?? persuade Merlin to save himself | Wisdom | 5
 ++ "If you know," you say, "why stay?" Merlin is silent for a long time. "Because I am old," he says at last, "and I have seen everything that will happen, and she is the only thing I cannot see." But you talk to him of Arthur, and the realm, and all that is still to be done, and at last he takes off his grey cloak and gives it to you. "Give her this," he says, "and tell her I have gone north." He walks away into the forest. Nimue, when you give her the cloak, is furious. The High King, when he hears, is not.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
 -- "If you know," you say, "why stay?" Merlin smiles at you, very kindly. "Because it is going to happen," he says, "whatever you say." He goes back to Nimue. You watch them walk away together into the trees. Much later, you hear that the old man has vanished, and that no one in Britain will ever see him again.
 [sk:Wisdom | st:+Despairing]
 ?? set a counter-ward on the old enchanter | Magic | 6
 ++ You gather rowan and thread and salt while Merlin watches, amused, and bind a counter-ward round his wrist. "Nobody has ever warded me," he says. That night, by the pool, Nimue speaks her spell, and the rock beside the pool opens, and nothing happens. Merlin laughs until he coughs. Nimue stares at you with pure fury. Merlin goes home to Camelot. You have made an enemy of the next Lady of the Lake, and a friend of the last wizard.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1 | st:+Pursued]
+[d:4 | sk:Spiritual | rn:Divinity+1 | st:+Pursued]
 -- You gather rowan and salt and bind a ward round his wrist. Merlin looks at it and sighs. "Wrong way round," he says gently, and takes it off. That night, the rock opens, and he walks into it. You watch from the trees.
 [sk:Magic | st:+Despairing]
 
@@ -144,7 +144,7 @@ She beckons you over. "I am Rhiannedd," she says. "My father has promised my han
 [sk:Mounted | st:+Unhorsed | st:+Despairing]
 ?? persuade her father to let the poor knight have her | Diplomacy | 5
 ++ Instead of entering, you take Rhiannedd's father aside, a plain, worried old lord, and tell him plainly what his daughter wants. He is surprised. "Nobody asked her," he says. "It never occurred to me." He watches Sir Ywain the Poor, who has just been thrown for the third time and is climbing back into the saddle for the fourth. "He does not give up, does he?" says the old lord. By sundown he has cancelled the final joust and announced the betrothal. Sir Harry is relieved. Sir Brian is not.
-[d:3 | sk:Courtly | rn:Romance+1 | rn:Divinity+1]
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
 -- Instead of entering, you take Rhiannedd's father aside and tell him what his daughter wants. He is furious. "My daughter," he says, "does not choose her husband. She chooses her gown." He has you escorted from the field. Sir Brian wins the tournament.
 [sk:Diplomacy | st:+Scorned]
 
@@ -185,7 +185,7 @@ You sit down on the grass beside her. "Tegwen," you say, "the dead do not eat br
 You stand up and look at the priest. "Who says she should be burned?" you ask. The priest glances toward the churchyard gate, where men are gathering with torches, though it is broad daylight.
 ?? turn the mob away from the churchyard | Diplomacy | 3+L
 ++ You go out to meet them. They are frightened men, not wicked ones, and you talk to them about the fever, which has killed half the valley, and about their own daughters. At last the blacksmith, who seems to lead them, puts down his torch. "If she is a revenant," he says, "she is a very quiet one." They go home. Before you leave, you persuade Tegwen's mother to come to the churchyard. That is a harder thing, but when she sees her daughter singing in the sun, she weeps, and goes to her.
-[d:L | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:L | sk:Courtly | rn:Divinity/Romance+1]
 -- You go out to meet them, but they are frightened men, and frightened men do not listen. They push past you into the churchyard. You fight them off, and in the struggle, a torch falls onto the dry grass. When the smoke clears, Tegwen is gone. You search for her for a day, and do not find her.
 [sk:Diplomacy | st:+Despairing]
 ?? take her away from the valley before the mob comes | Mounted | 4
@@ -219,12 +219,12 @@ You look at the pot, and at the castle, and at Eluned's face. "It is not honoura
 You take the pot from her gently and pour the hemlock out on the rock. Eluned cries out and tries to stop you. "It is not the way," you say. "Let me go to him."
 ?? challenge Sir Loholt before his own household | Sword & Shield | 5
 ++ You walk into the steward's feast and throw your gauntlet down among the dishes. "You sold a maiden to a giant for a hundred sheep," you say, loudly, so every guest can hear. The steward goes pale and calls for his sword. You fight him in the middle of his own hall, and when he falls, his household does not lift a hand for him. Then, with Eluned beside you, you go up into the hills. The giant Carnwen, it turns out, has married Eluned's sister, and is very sorry about the whole business. The sisters are reunited, weeping, in the giant's kitchen.
-[d:4 | sk:Martial | rn:Romance+2 | rn:Divinity+1]
+[d:4 | sk:Martial | rn:Divinity/Romance+2]
 -- You walk into the steward's feast and throw your gauntlet down among the dishes. Sir Loholt does not fight you. He shouts for his guards, and six men pile on you at once. You spend the next week in his dungeon. Eluned, you hear later, found another pot of hemlock.
 [sk:Sword & Shield | st:+Imprisoned]
 ?? climb to the giant's hall and rescue the sister yourself | Endure Hardship | 3+L
 ++ The giant's hall is on a crag three hours' hard climb above the castle. You make it, with Eluned beside you, by dusk. The giant Carnwen opens the door. He is very large and very worried, and Eluned's sister, standing behind him with a ladle, is not a captive at all. "He has been ever so kind," she says. "I only wanted to send word." The two sisters fall on each other's necks. Eluned throws her pot of hemlock off the crag. The steward, when he learns he has lost his hundred sheep, is inconsolable.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:L | sk:Wilderness | rn:Divinity/Romance+1]
 -- The giant's hall is on a crag three hours' hard climb above the castle. Halfway up, the rock gives way under your hands, and you fall twenty feet onto a ledge. By the time you have got your breath back, it is dark, and Eluned has gone back down the mountain with her pot.
 [sk:Endure Hardship | st:+Wounded]
 
@@ -240,12 +240,12 @@ You come upon a nunnery in a green valley, where a young nun with ink-stained fi
 You take the scroll. "I will see he hears it," you say. Branwen gives you a look of pure gratitude, and something else. "He will not listen," she says. "They never do. That is part of the reckoning too."
 ?? bring the warning to the High King's attention | Diplomacy | 5
 ++ At Camelot, you are shown into the High King's presence in the evening. He reads the scroll slowly, while Merlin looks over his shoulder. Then he rolls it up. "Merlin told me this," he says, "when I was a boy. Now a nun tells me." He is quiet for a long time. "I will remember it," he says. "Thank her. And tell her," he adds, "that she may look at all the stars she likes." Sister Branwen, when you tell her, laughs and weeps together.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- At Camelot, you ask to see the High King and are passed from steward to chamberlain to Sir Kay, who reads the scroll and laughs. "A nun's stars," he says. "The king has a wizard for that." He throws it in the fire. You ride back to the nunnery and tell Sister Branwen. She only nods. "It is part of the reckoning," she says.
 [sk:Diplomacy | st:+Despairing]
 ?? swear to its truth upon your knighthood | Honor | 5
 ++ At Camelot, when the High King hears you out and frowns, you draw your sword and lay it on the table before him. "I swear on this," you say, "that the nun's reckoning is honest, and I have checked it myself." The king looks at the sword a long time. "Then I will remember it," he says. He sends Sister Branwen a new astrolabe, and a letter in his own hand.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
 -- At Camelot, you lay your sword on the table and swear. Sir Kay asks whether you have also checked the nun's arithmetic, and you have not. The court laughs. The king is kind, but he does not believe a word.
 [sk:Honor | st:+Scorned]
 
@@ -310,7 +310,7 @@ You come upon a young woman standing in the middle of a village street, turning 
 "Come," you say gently. "Let us find your kin." Angharad looks at you with bewildered eyes and takes your arm.
 ?? trace Angharad's family through the parish | Wisdom | 4
 ++ The priest has an old book of baptisms, and you sit with him for an afternoon, following names from father to son and mother to daughter. By evening, you have found her kin: the old woman in the crowd, and her grandchildren, and a great-great-niece who has Angharad's own red hair. They take her in. The old woman sits with her by the fire, and they talk about the yew tree that was cut down, and the smithy that burned. When you leave, Angharad is holding a baby and laughing.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Spiritual | rn:Divinity/Romance+1]
 -- The priest has an old book of baptisms, but the old pages have been eaten by mice, and you cannot find the names. The villagers are frightened of Angharad and do not want her. In the end she walks out of the village toward the hill, and does not look back.
 [sk:Wisdom | st:+Despairing]
 ?? persuade the frightened villagers to take her in | Diplomacy | 4
@@ -323,12 +323,12 @@ You come upon a young woman standing in the middle of a village street, turning 
 "Let us go to the hill," you say. "If they took a hundred years from you, they can give them back." Angharad looks up at the green hill above the village and shivers.
 ?? bargain with the fair folk for Angharad's years | Magic | 6
 ++ At twilight, you go up the hill together and knock on the side of it three times with the pommel of your sword. A door opens where there was no door, and a lady in silver comes out. You bargain with her all night: courtesy for courtesy, riddle for riddle. At dawn, the lady laughs and gives in. When you come down the hill, there is a yew tree in the village, and a smithy, and a church with a wooden spire. Angharad runs down the street to her father's house. Nobody but you and she remembers any of it.
-[d:5 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1 | st:+Blessed]
+[d:5 | sk:Spiritual | rn:Divinity/Romance+1 | st:+Blessed]
 -- At twilight, you go up the hill and knock on the side of it three times. A door opens, and a lady in silver comes out, and looks at Angharad with delight. "You came back," she says. "Come and dance." Angharad goes. You try to follow, and the door closes on your hand. When you come down the hill, you do not know how long you were up there. Nobody in the village knows your name.
 [sk:Magic | st:+Lost]
 ?? shame the fair folk with perfect courtesy | Honor | 6
 ++ At twilight you knock on the side of the hill, and when the lady in silver comes out, you bow as you would to a queen. You tell her how beautifully her people dance, and how well they keep time, and how sad it is that they keep poorly the time of others. She laughs, and then she stops laughing. "That was prettily said," she says, "and true." When you come down the hill, there is a yew tree in the village, and a smithy, and Angharad is running to her father's door.
-[d:5 | sk:Courtly | rn:Divinity+1 | rn:Romance+1 | st:+Blessed]
+[d:5 | sk:Courtly | rn:Divinity/Romance+1 | st:+Blessed]
 -- You knock on the side of the hill and bow to the lady in silver, and praise her people's dancing. She is delighted. "Then join it," she says. You dance until dawn, and when you come down, the village is no different and you are a month older.
 [sk:Honor | st:+Lost]
 

@@ -121,7 +121,7 @@ You gather up the mantle. It is warm to the touch, and very light. "Good," says 
 [sk:Endure Hardship | st:+Accursed]
 ?? ward the mantle with salt and prayer as you ride | Magic | 5
 ++ You wrap the mantle in sacking and sprinkle it with salt every night, and say the old words over it, and it stops whispering. At Camelot, you lay it down and tell the High King exactly what you did, and why. The Lady of the Lake, who is at court, unwraps it with a stick and throws it into the fire, and the fire leaps to the rafters. The High King gives you a horse. Morgan, you hear, is furious that the salt worked.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
 -- You wrap the mantle in sacking and sprinkle it with salt, but on the fourth night the salt runs out, and the mantle whispers until dawn. In the morning, your hands are blistered where you touched it, and your horse will not come near you.
 [sk:Magic | st:+Accursed]
 
@@ -181,7 +181,7 @@ You come upon a lady in a hooded cloak sitting on a stile in the rain, with a ba
 [sk:Cunning | st:+Scorned]
 ?? bar the road to Sir Gaheris | Sword & Shield | 5
 ++ You draw your sword and stand in the road. "You shall not pass this way today," you say. Gaheris does not ask why. He draws and comes at you, and you fight in the mud for a long, grim quarter-hour, until his sword flies out of his hand into the hedge. He stares at you, panting. "Who are you?" he asks. "Nobody who wishes you harm," you say. He goes back to Carlisle. You never learn if he guessed.
-[d:3 | sk:Martial | rn:Romance+1 | rn:Villainy+1]
+[d:3 | sk:Martial | rn:Romance/Villainy+1]
 -- You draw your sword and stand in the road. Gaheris does not ask why. He draws and comes at you, and he is faster than he looks. The fight ends with you on your back in the mud and his sword at your throat. "You are protecting her," he says, "and I know who from." He leaves you lying there and rides into the wood.
 [sk:Sword & Shield | st:+Wounded]
 
@@ -189,7 +189,7 @@ You come upon a lady in a hooded cloak sitting on a stile in the rain, with a ba
 You look at the queen and then at her son on the road. "My lady," you say, "I am sorry." Morgause's face goes very still. "Ah," she says. "One of those."
 ?? tell Gaheris everything, and try to prevent bloodshed | Diplomacy | 5
 ++ You ride to meet Gaheris and tell him everything, but you make him swear on his sword first that he will not harm his mother. He swears, grinding his teeth. At the woodcutter's hut, Lamorak comes out with his hands empty, and the two men stare at each other. Nobody draws. Morgause goes home to Orkney with her son that same day. You have kept the peace, but you do not think it will last.
-[d:2 | sk:Courtly | rn:Divinity+1 | rn:Villainy+1]
+[d:2 | sk:Courtly | rn:Divinity/Villainy+1]
 -- You ride to meet Gaheris and tell him everything. He does not wait to hear the rest. He spurs into the wood, and by the time you catch up, the woodcutter's hut is on fire, Lamorak is gone, and Morgause is sitting on the stile weeping. Gaheris will not look at either of you. You have made an enemy of Orkney's queen, and you are not sure you made a friend of her son.
 [sk:Diplomacy | st:+Pursued | rn:Villainy+1]
 
@@ -258,7 +258,7 @@ The Queen of the Out Isles adds, "He is very handsome. Try not to spoil his face
 "I will bring you his shield," you say. The Queen of Northgalis tosses you a cherry. "Upside down," she says. "Remember."
 ?? challenge Sir Breunor at his gate | Sword & Shield | 5
 ++ Sir Breunor comes out to meet you in fine armour, with a shield painted with three silver hearts, which you think is a little much. He fights well, but he fights like a man who has always won, and when you drive him back against his own gatehouse he yields in astonishment. "The queens sent you," he says bitterly. "I was going to give the horses back." You bring the shield to the glade. The three queens hang it upside down from a branch and pelt it with cherry stones, and pay you handsomely.
-[d:4 | sk:Martial | rn:Villainy+1 | rn:Romance+1 | tr:1]
+[d:4 | sk:Martial | rn:Romance/Villainy+1 | tr:1]
 -- Sir Breunor comes out to meet you with a shield painted with three silver hearts. He fights like a man who has always won, and it turns out that he usually has. When you come to, he is sitting on the grass beside you, polishing his shield. "Tell the ladies I am sorry," he says, "and that I will send the horses back." The three queens are not pleased with your message.
 [sk:Sword & Shield | st:+Wounded]
 ?? steal the shield from Sir Breunor's hall | Cunning | 3+L
@@ -302,7 +302,7 @@ The queen's clear voice rings across the courtyard. "What is it that women most 
 "I will ride with him, my lady," you say. "And I will see that he listens." Gromer looks at you with loathing. The maiden he wronged, a miller's daughter named Tanwen, is standing among the queen's ladies. She does not look at him at all.
 ?? seek the answer to the queen's riddle | Wisdom | 5
 ++ You ride through a long year, asking. Some say gold, some say beauty, some say a husband, some say none. Then, in a cottage on the edge of a moor, an old woman with a face like a walnut gives you the answer. "Their own way," she says. "In all things. The same as men." When Gromer speaks it at Camelot, the queen is silent for a moment. "That is the answer," she says. "Now you know it. Remember it." Tanwen is given his lands in recompense. Gromer is given his life and nothing else.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
 -- You ride through a long year, asking. You collect a hundred answers and cannot choose between them. At Camelot, Gromer guesses "flattery", and the queen's ladies laugh aloud. "Then you have learned nothing," says the queen. He hangs the next morning, and you watch, knowing that you did not help him learn.
 [sk:Wisdom | st:+Despairing]
 ?? teach Sir Gromer what the riddle means | Honor | 6
@@ -320,7 +320,7 @@ The queen's clear voice rings across the courtyard. "What is it that women most 
 [sk:Diplomacy | st:+Scorned]
 ?? cite the old law of the realm before the court | Wisdom | 5
 ++ You recite, word for word, the law Uther made and his son kept: that a man who forces a maiden forfeits his life, or his lands, at the maiden's choice. You turn to Tanwen. "The choice is hers," you say. The whole court looks at the miller's daughter. "His lands," she says. The queen raises an eyebrow, and then she nods. Gromer leaves court that day without a penny, and Tanwen's family have a farm.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
 -- You recite the old law, and get a word wrong, and a clerk corrects you, and then the queen corrects the clerk. By the end, the court is arguing about grammar and nobody is thinking about Tanwen at all.
 [sk:Wisdom]
 
@@ -409,7 +409,7 @@ The queen raises her head. "I did not kill my husband," she says clearly. "He di
 You ride into the square and throw down your gauntlet at Cadell's feet. "I will stand for the queen," you say. The crowd breaks into a roar. Cadell smiles thinly and calls for his armour.
 ?? fight Prince Cadell in trial by combat | Sword & Shield | 6
 ++ Cadell is a strong swordsman, and he fights for a crown, but you fight for a life. The combat lasts until the sun is touching the hills. Then Cadell overreaches, and you beat his sword down and put your point to his throat. "Confess," you say. He confesses, in front of the whole town, that the queen is innocent. Aeronwen is unchained. She walks to where you stand, takes your hand and kisses it. "I will not forget," she says. The men of Dyfed carry you round the square on their shoulders.
-[d:5 | sk:Martial | rn:Romance+2 | rn:Divinity+1 | st:+Esteemed]
+[d:5 | sk:Martial | rn:Divinity/Romance+2 | st:+Esteemed]
 -- Cadell is a strong swordsman, and he fights for a crown. The combat lasts until the sun is touching the hills. Then your foot slips on the cobbles, and his sword opens your side. You fall. The herald declares the queen guilty. As they carry you out of the square, you see the smoke begin to rise. You will carry that smoke with you for the rest of your life.
 [sk:Sword & Shield | st:+Wounded | st:+Despairing]
 ?? charge Prince Cadell on horseback in the lists | Mounted | 3+L

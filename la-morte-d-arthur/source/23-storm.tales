@@ -12,12 +12,12 @@ The merchant looks at you coolly. "My grain," he says, "and my price."
 You ride your horse up the warehouse steps, through the flood, to the merchant's door. His servants lower their spears.
 ?? break open the hoarder's warehouse | Warfare | 4
 ++ You do not fight the servants. You shout to the men on the rooftops, and they come swimming and wading from every side, forty of them, and the servants look at the forty and at their master and put down their spears. You break the door. The grain is handed out in sacks, by boat, from roof to roof, all night. The merchant stands on his steps in the rain, shouting that he will go to the king. You tell him that you hope he does. The king, when he hears, makes him pay for the new bridge.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Divinity+1]
 -- You shout to the men on the rooftops, but they are frightened and cold, and they do not come. The servants drive you back down the steps with their spears. The grain stays behind its door.
 [sk:Warfare | st:+Wounded]
 ?? prove the merchant broke the guild's own law | Wisdom | 5
 ++ You wade to the guildhall, find the charter on its wall, and read it aloud from the steps to every roof within earshot: no merchant of Winchester may hold back grain in a time of flood, on pain of losing his freedom of the city. The merchant goes pale. His own servants look at him and step away from the doors. By nightfall the grain is going out by boat, and the merchant is sitting in the guildhall explaining himself.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Spiritual | rn:Divinity+1]
 -- You wade to the guildhall and read the charter aloud, and a clerk shouts back that the clause was repealed at Candlemas, at the merchant's own request. You wade back, wiser in the ways of guilds.
 [sk:Wisdom]
 
@@ -30,7 +30,7 @@ You look at the children on the roof, and the water still rising. The grain can 
 [sk:Endure Hardship | st:+Plague-Ridden]
 ?? gather the boats and command the rescue | Warfare | 4
 ++ You ride to the upper town and turn out every man with a boat, a door or a barrel. You set them in pairs, give each a street, and send the strongest swimmers to the farthest roofs. By midnight, the lower town is empty and the cathedral hill is full of wet, living people. The bishop, shamed, opens his granary, and then shames the merchant into opening his.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Divinity+1]
 -- You gather the boats, but in the dark and the rain nobody can hear your orders, and two boats go to the same roof while a third roof goes under. You save most of them. You count the rest for a long time.
 [sk:Warfare | st:+Despairing]
 
@@ -48,12 +48,12 @@ A young woman pulls at your sleeve. "He has done this in three towns," she whisp
 You push through the crowd to the church steps. The preacher turns on you, pointing. "A knight!" he cries. "Proud and sinful! Lay down your sword!"
 ?? unmask the false prophet | Cunning | 4
 ++ You lay down your sword on the pile of gold. Then you pick up the preacher's own leather satchel, which is lying behind the pillar where he thought nobody could see it, and turn it upside down. Out fall the gold rings from the last three towns, each with its owner's mark, and a map of the next three, and a very fine pair of boots. The crowd goes silent. Then it goes for the preacher. You get him to the gaol before they can hang him, which he does not thank you for.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- You lay down your sword on the pile of gold, meaning to turn the tables on him. The preacher snatches it up and cries that the knight has made his sacrifice! The crowd cheers you. He is gone in the night with the gold, and your sword.
 [sk:Cunning | st:+Scorned]
 ?? answer him scripture for scripture | Wisdom | 4
 ++ Every time he cries out a verse about judgement, you answer him with the next verse, which is about mercy. He does not know the next verses. You do. The crowd, which knows its psalms, begins to smile, and then to laugh, and then to pick its rings back up. The preacher is gone by morning, and so is his satchel, but not the town's gold.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Spiritual | rn:Divinity+1]
 -- You answer him verse for verse, and he answers you back, in Latin, and the crowd, who have no Latin, decide he is the holier man. They throw more gold on the pile.
 [sk:Wisdom | st:+Scorned]
 
@@ -108,12 +108,12 @@ The storm roars all night. Near midnight, you wake to see the woman's hand in th
 You hold out your hand. The pedlar hesitates, then gives you the letter. The young man is still asleep.
 ?? read the secret letter without waking its bearer | Cunning | 4
 ++ You ease the seal with a hot knife. The letter is from King Lot to a baron in the south, promising him land if he rises against Arthur at Michaelmas. You copy it by firelight onto a scrap of your own parchment, reseal it and slip it back into the satchel. In the morning, the young man rides away none the wiser. You ride to Camelot. The pedlar, it turns out, is one of Merlin's spies. She is very annoyed that you read it first.
-[d:4 | sk:Courtly | rn:Romance+1 | rn:Any+1]
+[d:4 | sk:Courtly | rn:Romance+1]
 -- You ease the seal with a hot knife, and it cracks. The young man wakes at the sound and sees the letter in your hand. He draws his knife. In the struggle, the letter goes into the fire. The young man flees into the storm. The pedlar looks at the ashes. "Well," she says. "That was a waste."
 [sk:Cunning | st:+Pursued]
 ?? take the letter by force and bind the messenger | Sword & Shield | 4
 ++ You wake the young man with your sword at his throat and tie his hands with his own belt. The letter is from King Lot to a baron in the south, promising land for a rising at Michaelmas. You take messenger and letter to Camelot through the storm. The High King reads it and gives you the messenger's horse. The pedlar, who is one of Merlin's spies, is very annoyed that you took all the credit.
-[d:4 | sk:Martial | rn:Romance+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Romance+1]
 -- You wake the young man with your sword at his throat, and he is quicker than he looks. He rolls into the fire, throws the letter into it and is out of the door into the storm before you can stop him.
 [sk:Sword & Shield | st:+Pursued]
 
@@ -126,7 +126,7 @@ You catch the pedlar's wrist. The young man wakes and sees her hand in his satch
 [sk:Diplomacy | st:+Wounded]
 ?? disarm them both before blood is spilled | Sword & Shield | 4
 ++ The young man's knife comes out, and so does the pedlar's, and you knock both out of their hands in a single stroke and stand between them with your sword on the table. "Sit," you say. They sit. By the fire, it all comes out: a spy of Merlin's and a messenger of Lot's, both frightened. In the morning, they ride off in opposite directions. You ride to Camelot, faster than either.
-[d:3 | sk:Martial | rn:Romance+1 | rn:Any+1]
+[d:3 | sk:Martial | rn:Romance+1]
 -- You knock the young man's knife away, but the pedlar's catches your arm, and while you are cursing, both of them are out in the storm, still fighting over the letter.
 [sk:Sword & Shield | st:+Wounded]
 
@@ -152,12 +152,12 @@ You kneel beside him. The hermit kneels on the other side. "Tell it all," you sa
 You take a lantern and ride out into the storm. The hermit calls after you that you are mad.
 ?? search the drowned bog in the storm | Nature Lore | 3+L
 ++ You find the bog by the crossroads, a mile away, and in it, clinging to a dead tree, up to his chest in the water, a knight. He has been there, he says, for a day, not a year. The wounded man was feverish. You haul him out and bring him back to the hut, and the wounded knight sees him, and weeps, and grips his hand, and asks his pardon, and gets it. Both of them live.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You ride out into the storm and search the bog by the crossroads all night, and find nothing but a shield, sinking. When you get back to the hut, the wounded knight is dead.
 [sk:Nature Lore | st:+Despairing]
 ?? ride the edge of the bog by the lightning | Mounted | 4
 ++ You do not wade in. You ride the firm edge of the bog at a gallop, and every time the lightning flashes, you look. On the fourth flash, you see him: a knight up to his chest, clinging to a dead tree. You throw him a rope from the saddle and haul him out with your horse. He has been there a day, not a year. The wounded man in the hut grips his hand and asks his pardon. Both of them live.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Martial | rn:Divinity/Romance+1]
 -- You ride the edge of the bog by the lightning, and the lightning strikes a tree beside you. Your horse bolts into the bog. By the time you are out, the wounded knight in the hut is dead.
 [sk:Mounted | st:+Unhorsed | st:+Despairing]
 
@@ -204,7 +204,7 @@ You come upon a village on a mountainside being hammered by hailstones as big as
 You start up the mountain on foot, bent double against the hail. The higher you climb, the harder it beats.
 ?? climb through the witch's storm | Endure Hardship | 5
 ++ You climb with your shield over your head, and the hail rings on it like a smithy. Near the top, the wind tries to throw you off the mountain. You crawl. At last you reach the rock, and the witch, a small, fierce old woman, turns and stares at you. "Nobody has ever got this far," she says. You tell her about the child. She is quiet a long time. Then she lowers her arms, and the storm stops. "I will send the lord his money back," she says. "His storms, too."
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Wilderness | rn:Divinity+1]
 -- You climb with your shield over your head, but halfway up, a gust tears it out of your hands, and the hail beats you down. You crawl back to the village, bruised all over.
 [sk:Endure Hardship | st:+Wounded]
 ?? turn her storm with a counter-charm | Magic | 5
@@ -222,7 +222,7 @@ You ride round the mountain into the next valley, where the sun is shining on fi
 [sk:Honor]
 ?? warn the lord that his neighbours are arming | Warfare | 5
 ++ You tell Sir Ebrauc, pleasantly, over his strawberries, that the men of the next valley have lost their harvest and are sharpening their scythes, and you describe exactly how a hundred angry farmers would come over the hill, and where his walls are weakest. He listens with a strawberry halfway to his mouth. By evening, his steward is riding up the mountain to pay the witch to stop, and half his harvest is going over the hill.
-[d:3 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Martial | rn:Divinity+1]
 -- You tell Sir Ebrauc about the scythes. He laughs, and shows you his forty men-at-arms. "Let them come," he says. You ride away, and the hail goes on.
 [sk:Warfare]
 
@@ -243,7 +243,7 @@ You tie your horse and start up the mountainside toward the ledge, through the f
 [sk:Nature Lore | st:+Despairing]
 ?? rope them together and command the descent | Warfare | 4
 ++ You climb up to the ledge and take charge as if the pilgrims were a company of foot. You rope them together, the strong between the weak, and give each a place and a task, and bring them down the gully in good order, one careful step at a time, calling the steps aloud. At dawn, the abbess counts them, twice. All twenty are there.
-[d:3 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Martial | rn:Divinity+1]
 -- You rope them together and call the steps aloud, but the wind takes your voice, and the pilgrims stop and start at different times, and the rope jerks, and one of them falls, and takes three with him.
 [sk:Warfare | st:+Despairing]
 
@@ -280,7 +280,7 @@ You pull him up across your saddle and lead your horse down the pass, into the t
 You take the satchel from his hands. He does not have the strength to stop you. "Please," he says. You mount your horse.
 ?? carry the letters through the blizzard | Hunting | 3+L
 ++ You ride down the other side of the pass through the snow, and at the bottom, you read the letters. Mordred has promised the Saxon kings Kent, Sussex and Essex. You carry them to the old king's camp, where the king reads them himself, with his face like stone. "I did not believe it," he says. You are rewarded. You do not mention the messenger, and nobody asks.
-[d:5 | sk:Wilderness | rn:Villainy+1 | rn:Any+1 | tr:1]
+[d:5 | sk:Wilderness | rn:Villainy+1 | tr:1]
 -- You ride down the other side of the pass through the snow and lose your way in the blizzard. When you finally reach a village, the letters are sodden and unreadable. You think, sometimes, about the man you left.
 [sk:Hunting | st:+Despairing]
 
@@ -309,12 +309,12 @@ You spur your horse through the rain and smoke toward the burning stand.
 You ride through the chaos shouting for the knights to rally to you. A few of them turn.
 ?? command the knights to put out the fire | Warfare | 4
 ++ You form them into a line from the river to the stand, passing helmets full of water, and send the strongest to pull down the burning timbers. It is a strange sight: the flower of chivalry passing buckets. The fire is out within the hour, and every lady is safe. The knights, soaked and blackened, cheer you, and the prize of the tournament, a silver horse, is given to you by acclaim.
-[d:4 | sk:Martial | rn:Romance+1 | rn:Any+1 | tr:1]
+[d:4 | sk:Martial | rn:Romance+1 | tr:1]
 -- You shout for the knights to rally, but in the storm nobody hears you. By the time the fire is out, it has burned itself out. Three ladies are badly hurt.
 [sk:Warfare | st:+Despairing]
 ?? turn the river into the lists by breaking its bank | Nature Lore | 4
 ++ You see what nobody else has: the lists are built on the flood-meadow, below the river. You gallop to the bank with six knights and hack through the turf where the river runs highest, and the water pours through the gap and across the meadow and into the burning stand. It goes out in a great cloud of steam. The ladies come out wet and furious and alive. The prize, a silver horse, is given to you by acclaim.
-[d:4 | sk:Wilderness | rn:Romance+1 | rn:Any+1 | tr:1]
+[d:4 | sk:Wilderness | rn:Romance+1 | tr:1]
 -- You break the river's bank, and the water pours across the meadow, and into the pavilions, and the horse-lines, and the kitchens, and not the stand, which is on a little rise. The fire burns itself out.
 [sk:Nature Lore | st:+Scorned]
 
@@ -345,7 +345,7 @@ You ride into the crowd and pull the old woman up onto your saddle. "Enough," yo
 "Wait," you say. "Look at the sky. Look at the hills." You point to the west, where another black cloud is gathering over the heath.
 ?? read the weather and prove it no witch's doing | Nature Lore | 4
 ++ You show them how the storms come over the hills from the sea, and gather on the heath where the air is cold, and break over the village. You tell them it has happened for a hundred years and will happen for a hundred more. Then you show them where to plant a windbreak of hawthorn and hazel along the edge of the heath, to break the hail. They listen. They let the old woman go. The next spring, they plant the hedge. It is still there.
-[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Wilderness | rn:Divinity+1]
 -- You show them the clouds gathering over the heath, and at that very moment, the old woman looks up at them and mutters something, and the hail begins again. Nobody listens to you after that.
 [sk:Nature Lore | st:+Scorned]
 
@@ -371,7 +371,7 @@ You wade through the mud to where the king's banner lies, torn and filthy, and l
 You go from fire to fire through the camp, where the frightened men are huddled.
 ?? turn the men's fear with wise words | Wisdom | 5
 ++ At every fire, you tell them a story: of the storm before the battle of Badon, when lightning struck the king's standard and he won anyway; of the Roman general who fell on his face as he landed in Britain and said, *I have taken hold of this land*. You make them laugh. You make them angry. By midnight, the talk at the fires has changed. In the morning, the army stands. You do not know if what you told them was all true. It was true enough.
-[d:4 | sk:Spiritual | rn:Any+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Romance+1]
 -- You go from fire to fire, telling them stories of omens that meant nothing. But at the fourth fire, a soldier asks you, quietly, why the lightning struck the king's tent and nobody else's. You have no answer.
 [sk:Wisdom]
 
@@ -387,7 +387,7 @@ The water between you and the cottage is deep and fast, full of floating branche
 You spur your horse into the flood. It swims, snorting, with the current dragging at it.
 ?? rescue the family through the flood | Endure Hardship | 3+L
 ++ You reach the cottage and take the children first, two at a time, across your saddle, and swim them to the bank, and go back, and back again. On the last trip, you take the woman, and the man swims beside you holding the cow's rope. The cow, to everyone's surprise, swims beautifully. When they are all on the bank, the woman sits down in the mud and laughs and laughs, because the cow is safe. You laugh too.
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:L | sk:Wilderness | rn:Divinity/Romance+1]
 -- You reach the cottage and take two of the children, but on the way back, a floating tree strikes your horse, and you are all in the water. You get the children to the bank. By the time you swim back, the cottage roof is gone, and the family with it, all but the cow.
 [sk:Endure Hardship | st:+Despairing]
 
@@ -395,12 +395,12 @@ You spur your horse into the flood. It swims, snorting, with the current draggin
 You turn your horse and ride hard for the nearest village on the high ground.
 ?? rouse the villages and lead the boats out into the flood | Warfare | 4
 ++ You burst into the village alehouse and shout that the marsh is flooding, and in ten minutes every man with a boat is on the shore. You organise them: two boats to each roof, the fastest rowers to the farthest houses. By morning, every family in the marsh has been brought off, and most of their cows. The marsh-folk remember you in their songs for a long time, as the knight who rang the bell.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Martial | rn:Divinity+1]
 -- You burst into the village alehouse and shout that the marsh is flooding, but it is late and they are drunk, and it takes an hour to get them moving. By the time the boats reach the marsh, three roofs are empty.
 [sk:Warfare | st:+Despairing]
 ?? guide the boats through the drowned fields | Nature Lore | 4
 ++ You know how water lies. You stand in the bow of the first boat and read the flood: where the hedges run under it, where the ditches will snag an oar, where the old lane lies straight beneath the surface. The boats follow your hand. By dawn, every roof in the marsh is empty, and nobody has capsized. The marsh-folk remember you in their songs.
-[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Wilderness | rn:Divinity+1]
 -- You stand in the bow and read the flood, and read it wrong, and your boat runs onto a drowned hedge. It takes an hour to get free. Three roofs are empty when you reach them.
 [sk:Nature Lore | st:+Despairing]
 
@@ -421,7 +421,7 @@ You draw your sword and ride at her. She laughs, and the mud rises round your ho
 [sk:Piety | st:+Plague-Ridden]
 ?? bind her with the old words of the bog | Magic | 6
 ++ You do not ride at her. You stand at the edge of the black water and call her by the names the marsh-folk use, one after another, until you find the one that makes her stop stirring. Then you bind her with it: back into the bog, until the Grail returns. She shrieks and sinks, and the storm stops as though a door had closed. Your horse, when you dig it out of the mud, is very sulky.
-[d:5 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:5 | sk:Spiritual | rn:Divinity+1]
 -- You call her by the names the marsh-folk use, and one of them is not hers. It is her mother's. Something much bigger stirs under the bog. You flee, and the storm follows you for three days.
 [sk:Magic | st:+Accursed]
 
@@ -429,7 +429,7 @@ You draw your sword and ride at her. She laughs, and the mud rises round your ho
 "Hag," you call. "What do you want?" She stops stirring and looks at you with her little red eyes. "Want?" she says. "Nobody ever asks the bog what it wants."
 ?? strike a bargain with the bog's daughter | Diplomacy | 4
 ++ It turns out she wants the villages to stop cutting peat from her bog without asking. You wade to the nearest village and tell them. They agree, very quickly, to leave an offering at the edge of the bog every spring, and to cut only from the western side. The hag grumbles, and stirs once more, and the storm drifts away. "The western side," she mutters, sinking. "Only the western side."
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Divinity+1]
 -- It turns out she wants a husband. She looks at you very hopefully. You flee, and the storm follows you for three days.
 [sk:Diplomacy | st:+Accursed]
 
@@ -445,7 +445,7 @@ You count: ten soldiers, and a line of fifteen prisoners in the old king's colou
 You draw your sword and ride out of the dark, into the lanterns, shouting.
 ?? fall upon Mordred's men in the storm | Martial | 5
 ++ The storm is on your side. They cannot see how many you are, and you shout as though you were fifty. The officer turns and you cut him down, and the soldiers break and run into the dark. You cut the prisoners loose. Three are already dead in the pool. Twelve are alive. They gather round you, shivering, and one of them, a young knight with a bloody face, grips your hand. "We will not forget," he says.
-[d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:5 | sk:Martial | rn:Divinity/Romance+1]
 -- You ride out of the dark into the lanterns, and the soldiers turn, and there are ten of them, and they are not frightened. You are driven back into the marsh. Behind you, the screaming goes on.
 [sk:Martial | st:+Wounded | st:+Despairing]
 
@@ -474,7 +474,7 @@ You draw your sword and step in front of her. "The first man who lays a hand on 
 [sk:Sword & Shield | st:+Despairing]
 ?? read the storm and show them it will pass | Nature Lore | 4
 ++ You shout above the wind to the captain: look at the clouds, low and fast and ragged in the west; look at the swell, lengthening. It is a squall, not a gale, and it will blow out by dawn. The old sailors look, and nod, and the young ones listen to the old ones. By the time the stars come out, nobody is talking about witches. At Waterford, the young woman thanks you with great dignity.
-[d:3 | sk:Wilderness | rn:Romance+1 | rn:Divinity+1]
+[d:3 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You shout to the captain that it is only a squall. Then the mast cracks. Nobody listens to you after that, and it takes your sword to keep her on board.
 [sk:Nature Lore | st:+Wounded]
 
@@ -482,7 +482,7 @@ You draw your sword and step in front of her. "The first man who lays a hand on 
 You push past the crew to the wheel, where the captain has left it swinging. "The sea wants nothing," you say. "It is only the sea."
 ?? steer the ship through the storm | Warfare | 3+L
 ++ You take the wheel and shout orders: reef the sail, man the pumps, lash the cargo. The crew obeys, because someone is shouting orders, and there is no time to throw anyone overboard while you are bailing. You steer into the waves all night. In the morning, the ship limps into Waterford with its sail in rags and everyone on board. The young woman walks down the gangplank with her head high. The captain buys you a drink and does not meet your eye.
-[d:L | sk:Martial | rn:Any+1 | rn:Divinity+1]
+[d:L | sk:Martial | rn:Divinity+1]
 -- You take the wheel, but you are no sailor, and a great wave takes the ship broadside. The mast goes. You are all in the sea, clinging to wreckage, until a fishing boat picks you up the next morning.
 [sk:Warfare | st:+Plague-Ridden]
 
@@ -524,12 +524,12 @@ Your own captain shakes his head. "We cannot go near the reef," he says. "We wil
 "Take us in," you say. The captain stares at you. Then he spits, and turns the wheel.
 ?? command the ship through the rescue at the reef | Warfare | 6
 ++ You bring your ship in on the lee side of the reef, where the troop-ship's hull breaks the waves, and throw lines across. Men come along the lines one by one, hand over hand, over the boiling water. It takes all night. Your ship's hull scrapes the reef twice. At dawn, the troop-ship breaks up and goes under, but a hundred and twenty men are on your deck, soaked and shaking and alive. The captain drinks a whole bottle of wine and then embraces you.
-[d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+[d:5 | sk:Martial | rn:Divinity/Romance+1]
 -- You bring your ship in toward the reef, and a wave throws it on the rocks. Now there are two ships foundering. By dawn, a third ship from the fleet has come and taken off most of the men from both. Many are lost.
 [sk:Warfare | st:+Despairing]
 ?? read the reef and bring the ship in on the lee | Nature Lore | 5
 ++ You watch the breakers by the lightning and see where the water is darker and smoother: a channel through the reef, on the lee side. You shout it to the helmsman, and he takes the ship through it, scraping, into the calm water behind the wreck. You throw lines across. Men come along them, hand over hand. At dawn, a hundred and twenty men are on your deck, alive.
-[d:5 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+[d:5 | sk:Wilderness | rn:Divinity/Romance+1]
 -- You see a channel through the reef and call it, and it is not a channel. The ship grinds on the rocks, and now there are two ships foundering. By dawn, a third ship has taken off most of both crews.
 [sk:Nature Lore | st:+Despairing]
 

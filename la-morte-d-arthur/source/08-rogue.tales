@@ -12,12 +12,12 @@ He finds you in the stable an hour later. "I have never killed anything," he whi
 "I will kill your wolf," you say. "But you are coming with me." Gwion looks as though he might faint. "Must I?" he says. "Someone must write it down," you say.
 ?? hunt the great wolf of Nant | Hunting | 3+L
 ++ You track the wolf up the valley by moonlight, with Gwion stumbling behind you, and find it on a ledge above the sheepfold. It is enormous. You kill it with your spear as it leaps, and Gwion, who has been hiding behind a rock, is sick. In the morning, the village carries him home in triumph with the wolf's pelt round his shoulders. He looks at you over their heads, ashamed and grateful. The ten marks are waiting in your saddlebag. So, by the next spring, is the song, which is very good, and quite true, apart from the names.
-[d:L | sk:Wilderness | rn:Villainy+1 | rn:Any+1 | tr:1]
+[d:L | sk:Wilderness | rn:Villainy+1 | tr:1]
 -- You track the wolf up the valley by moonlight. It is enormous, and it is waiting for you. It takes your spear arm in its jaws before you can strike, and you both roll down the hill. When it flees, you are bleeding, and Gwion is gone. The next morning, you hear, he left the inn before dawn with his harp and the villagers' ten marks paid in advance.
 [sk:Hunting | st:+Wounded]
 ?? rouse the village to hunt the wolf together | Warfare | 4
 ++ You go back into the inn and tell the villagers that their hero has a plan: a drive. You set the men in a long line with torches and pans, and the dogs behind them, and drive the wolf down the valley toward the sheepfold, where you wait with your spear and Gwion stands behind you, pale. The wolf breaks from the bracken straight at you. When it is over, the village carries Gwion home in triumph. He looks at you over their heads, ashamed and grateful.
-[d:3 | sk:Martial | rn:Villainy+1 | rn:Any+1]
+[d:3 | sk:Martial | rn:Villainy+1]
 -- You set the villagers in a long line with torches and pans, and they drive the wolf, but the line breaks at the stream, and the wolf goes through the gap and takes a ewe on its way. Everybody blames Gwion. Gwion blames you.
 [sk:Warfare | st:+Scorned]
 
@@ -46,7 +46,7 @@ You come upon a gallows on a hilltop outside a market town, where a woman's body
 [sk:Cunning | st:+Pursued]
 ?? cut her down and fight off the guard | Sword & Shield | 5
 ++ You cut the chains in full view of the gatehouse. Six soldiers come running down the hill. You put your horse between them and the gallows while Hob carries his wife away, and you hold them off with your sword until he has disappeared into the trees. Then you ride after him. The sheriff puts a price on your head, but it is not a very large one, and you bury Alis in a quiet churchyard by the river.
-[d:4 | sk:Martial | rn:Divinity+1 | rn:Villainy+1]
+[d:4 | sk:Martial | rn:Divinity/Villainy+1]
 -- You cut the chains in full view of the gatehouse, and six soldiers come running. You fight, but they are six, and one of them has a crossbow. You wake up in the sheriff's cellar. Hob, you hear later, got his wife away while they were busy with you.
 [sk:Sword & Shield | st:+Imprisoned]
 
@@ -88,12 +88,12 @@ The man pulls up when he sees you. "Please," he says. "I am Wat, a thief. I stol
 "Then the saint has chosen you," you say. "Let us go on, and see where he sends you." Wat laughs, and the boy laughs, and behind you, in the forest, you hear the monks' horses.
 ?? keep Wat ahead of the monks | Nature Lore | 3+L
 ++ You lead him off the track and through a stream and up over a ridge, and the monks go on down the valley, calling for a man on a donkey. For a month, you travel with Wat along the back roads of the Marches, and wherever he goes, something happens. A fever breaks. A well runs sweet. A mad woman is calm. At the end of the month, Wat takes the finger back to the abbey himself, and lays it on the altar, and walks away. "It was never mine," he says. "I only carried it."
-[d:L | sk:Wilderness | rn:Divinity+1 | rn:Villainy+1]
+[d:L | sk:Wilderness | rn:Divinity/Villainy+1]
 -- You lead him off the track and through a stream, but the monks have a hound. They catch you on the ridge, and take the finger, and take Wat, and take you too, for good measure, to be tried by the bishop for sacrilege.
 [sk:Nature Lore | st:+Imprisoned]
 ?? ride ahead of the monks with Wat up behind you | Mounted | 4
 ++ You pull Wat up behind your saddle, put the lame boy on the donkey, and ride. The monks' horses are old and fat. By nightfall you are two valleys ahead, and by the end of the week you are in the Marches, where nobody has heard of Saint Dyfrig. Wherever Wat goes, something happens: a fever breaks, a well runs sweet. At the end of a month, he takes the finger back to the abbey himself.
-[d:3 | sk:Martial | rn:Divinity+1 | rn:Villainy+1]
+[d:3 | sk:Martial | rn:Divinity/Villainy+1]
 -- You pull Wat up behind your saddle and ride, and your horse, carrying two, goes lame at the first ford. The monks come up with a bishop's warrant. Wat goes in chains, and you go with him.
 [sk:Mounted | st:+Imprisoned]
 
@@ -109,12 +109,12 @@ You come upon a man in the road with his hands clamped over his ears and a purse
 "Who was the lady?" you ask. Dicon points up at the hills. "She was very tall," he says. "And her dress was made of leaves. I should have known."
 ?? bargain with the fay lady for the thief's life | Magic | 5
 ++ You take Dicon up to the hill at dusk and call on the lady politely by all the names you can think of. At last she comes, tall and green-gowned and very angry. You speak for Dicon, and offer her an apology, and a new purse of your own, and a promise that he will never cut another purse again. The fay lady considers. Then she laughs, and the green purse unties itself from Dicon's belt and floats to her hand. "Never," she says to him. "Never again." He never does. He becomes, of all things, a baker.
-[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:3 | sk:Spiritual | rn:Divinity+1]
 -- You take Dicon up to the hill at dusk and call on the lady. She comes, and she is very angry, and when you try to bargain with her, she only laughs and points at you. The purse unties itself from Dicon's belt and ties itself to yours. It screams all the way down the hill, and for three days after, until you bury it in a churchyard.
 [sk:Magic | st:+Accursed]
 ?? return the purse with a knight's full apology | Honor | 5
 ++ You go up the hill alone and kneel at its foot, and lay the screaming purse on the grass, and apologise, not as a thief, but as a knight whose friend has wronged a lady. You take it on yourself. The hill is quiet a long while. Then a hand comes out of the turf, takes the purse and pats your head, once, like a dog. Dicon never sees the little people again. You see them, sometimes, at the edges of your eyes, but they are smiling.
-[d:3 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
 -- You kneel at the foot of the hill and apologise on Dicon's behalf. The hill is quiet. Then the purse leaps up and ties itself to your own belt. It screams for three days, until you bury it in a churchyard.
 [sk:Honor | st:+Accursed]
 
@@ -186,7 +186,7 @@ You kneel beside Rhys and put your hand on the sack. "Let me carry it back for y
 [sk:Piety | st:+Mad]
 ?? seal the barrow with the old words against the dead | Magic | 5
 ++ You do not go into the barrow. You walk three times round it at dusk, sunwise, with the sack on your shoulder, and lay the gold on the capstone, and speak the old words that close a grave. The standing stone hums. When you look again, the gold is gone, and the entrance to the barrow is grass. In the morning, Rhys is sane and weeping, and nothing walks from the barrow to the church again.
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+[d:4 | sk:Spiritual | rn:Divinity+1]
 -- You walk three times round the barrow and speak the old words, and get them the wrong way round. The barrow opens wider. That night, something walks from the barrow to your inn instead of the church.
 [sk:Magic | st:+Pursued]
 
@@ -217,12 +217,12 @@ Down the road, you hear the creak of wheels.
 "I will ride with you," you say. Maud grins with half her teeth. "Then take the front," she says. "When I whistle, you stop the horses."
 ?? lead the attack on the tax cart | Warfare | 4
 ++ When the cart rounds the bend, you ride out in front of it and seize the lead horse's bridle, and Maud's archers stand up in the bracken with their bows drawn. The escort takes one look and throws down its weapons. The cart holds nine hundred silver pennies. Maud gives you a hundred, and the rest goes back to the villages in sacks, left on doorsteps in the night. For years afterwards, in that country, people speak of the knight who robbed the sheriff.
-[d:4 | sk:Martial | rn:Villainy+1 | rn:Divinity+1 | tr:1]
+[d:4 | sk:Martial | rn:Divinity/Villainy+1 | tr:1]
 -- When the cart rounds the bend, you ride out in front of it, but the escort is twice as large as Maud said, and they have crossbows. The outlaws flee. You are dragged off your horse and taken to Shrewsbury in the tax cart, sitting on the sheriff's money.
 [sk:Warfare | st:+Imprisoned | rn:Villainy+1]
 ?? shoot the escort's horses from the bracken | Hunting | 4
 ++ You take a bow from one of Maud's men and lie in the bracken, and when the cart rounds the bend, you shoot the lead horse of the escort, and then the second. The cart stops. The escort, on foot and surrounded by bows, throws down its weapons. Nine hundred silver pennies go back to the villages in sacks, left on doorsteps in the night. Maud gives you a hundred of them.
-[d:4 | sk:Wilderness | rn:Villainy+1 | rn:Divinity+1 | tr:1]
+[d:4 | sk:Wilderness | rn:Divinity/Villainy+1 | tr:1]
 -- You lie in the bracken with a borrowed bow, and your first arrow goes into a tree, and the escort sees where it came from. They charge the bracken. The outlaws scatter, and you are left in the ditch with a sergeant sitting on you.
 [sk:Hunting | st:+Imprisoned | rn:Villainy+1]
 
@@ -235,7 +235,7 @@ You nod to Maud, and turn your horse, and ride back the way you came. When you a
 [sk:Mounted | st:+Imprisoned]
 ?? send the escort a false message to take the long road | Cunning | 4
 ++ You ride ahead, stop a pedlar on the road and pay him to tell the escort that the bridge by the wood is down. He does, with great conviction. The escort turns off by the long road through the hills, and Maud's outlaws wait in the bracken all afternoon for a cart that never comes. Nobody ever learns who sent the pedlar. You feel pleased with yourself for a week.
-[d:3 | sk:Courtly | rn:Villainy+1 | rn:Any+1]
+[d:3 | sk:Courtly | rn:Villainy+1]
 -- You pay a pedlar to tell the escort that the bridge is down. He tells them. He also tells them who paid him. The escort captain thinks you are one of Maud's men sending them into a trap, and arrests you.
 [sk:Cunning | st:+Imprisoned]
 

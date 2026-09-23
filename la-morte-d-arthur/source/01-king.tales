@@ -169,7 +169,7 @@ You come upon a king in the middle of the road, trying to make his horse kneel. 
 You take Tegau aside where the carter cannot hear. "The king means to propose," you tell her. "He is kind, but he is old, and I think your heart lies elsewhere." She glances at the carter, then back at you. "It does," she says, "and if I refuse a king, my father will lose the mill."
 ?? help Tegau and her carter find a way out | Cunning | 4
 ++ Between you, you hatch a plan. When the king arrives on his reluctant horse, he finds Tegau with her hair full of flour and her teeth blacked with soot, cackling at nothing. He goes very pale, makes his excuses and flees. A week later Tegau marries her carter, and the king, much relieved, sends them a wedding gift of a cartwheel with silver spokes. "Poor mad girl," he tells everyone. "I was lucky to escape." Tegau sends you a loaf every Easter for the rest of your life.
-[d:2 | sk:Courtly | rn:Romance+1 | rn:Villainy+1]
+[d:2 | sk:Courtly | rn:Romance/Villainy+1]
 -- Between you, you hatch a plan. When the king arrives, he finds Tegau with her hair full of flour and her teeth blacked with soot, cackling at nothing. Unfortunately, the carter bursts out laughing in the middle of it. The king looks from one to the other and then at you, and understands everything. "In the romances," he says stiffly, "the knight does not lie to the king." He rides off. You are left with a carter, a sooty miller's daughter and a lesson in keeping a straight face.
 [sk:Cunning | st:+Scorned]
 ?? persuade the king to give up the match | Diplomacy | 3+L
@@ -270,7 +270,7 @@ You thank the king for his offer and ride out of the camp slowly, counting banne
 [sk:Diplomacy | st:+Scorned]
 ?? remind Lot of Merlin's prophecy of his death | Wisdom | 5
 ++ "Merlin says," you tell him, "that the king who rises against the boy will die at the hand of a king who keeps a beast." Lot laughs, but his laugh is too loud. He knows the prophecy. Everyone does. You talk quietly, of his sons and his lands and his long life, and of how little a crown helps a dead man. At the end, Lot sends his levies home for the winter. "Not because of your wizard," he says. "Because of my boys."
-[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
 -- "Merlin says," you tell him, "that the king who rises against the boy will die." Lot's face goes cold. "Then Merlin can come and kill me himself," he says, "instead of sending messengers." You leave the camp to the sound of axes being sharpened.
 [sk:Wisdom | st:+Scorned]
 
@@ -345,7 +345,7 @@ You throw the purse back at his feet. "The High King's beard is not for sale," y
 [sk:Sword & Shield | st:+Wounded | st:+Enraged]
 ?? shame Rience before his own guests | Honor | 5
 ++ You turn from the king to his hall. "Eleven kings have given their beards to that mantle," you say, loudly. "Eleven kings sit here as his guests, and dare not ask for them back." There is a long silence. Then an old king at the end of the table stands up, and then another. Rience looks round his hall and sees faces he cannot beat. He takes off the mantle and throws it on the table. You leave with your chin intact.
-[d:4 | sk:Courtly | rn:Romance+1 | rn:Divinity+1]
+[d:4 | sk:Courtly | rn:Divinity/Romance+1]
 -- You turn to his hall and speak of shame. The guests look at their plates. Nobody stands. Rience laughs and throws a mutton bone at your head. You leave with a bruise and a strong opinion of kings who eat with their mouths open.
 [sk:Honor | st:+Scorned]
 
@@ -403,7 +403,7 @@ You push your horse through the crowd to the foot of the cart. "Sheriff," you sa
 [sk:Diplomacy | st:+Despairing]
 ?? invoke the High King's law to stay the hanging | Honor | 4
 ++ You draw your sword, reverse it and hold it up like a cross. "I claim the right of any knight of Logres," you say, "to stand surety for a prisoner until his king returns. If he runs, hang me." The crowd goes silent. The sheriff has never heard of any such right, but he has never heard of it not existing either. He takes the rope off Nentres and puts it around your wrist instead. Nentres does not run. When the High King returns, he hears the story and pardons you both.
-[d:3 | sk:Courtly | rn:Romance+1 | rn:Divinity+1]
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
 -- You draw your sword, reverse it and hold it up like a cross. "I claim the right of any knight of Logres to stand surety for a prisoner." The sheriff consults a clerk, who consults a book, who finds no such right. They take you into custody for disturbing the king's peace. Nentres hangs at noon while you watch from the gaol window. You learn, too late, that fine words need a law behind them.
 [sk:Honor | st:+Imprisoned]
 
