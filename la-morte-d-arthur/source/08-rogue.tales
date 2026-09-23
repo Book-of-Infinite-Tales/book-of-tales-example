@@ -1,0 +1,299 @@
+=== 1701
+You come upon an inn at a crossroads where a handsome young man in a peacock-blue doublet is standing on a table, singing to a harp about his own deeds. According to the song, he has slain a dragon, three giants and a wolf the size of a cart-horse.
+
+When the song ends, the villagers do not cheer. An old farmer stands up. "Gwion Silvertongue," he says, "there is a wolf that size in the Nant valley. It has taken nine sheep and a boy. You will go and kill it tonight, as you killed the other one, and we will pay you ten marks." The whole room agrees. Gwion goes very pale.
+
+He finds you in the stable an hour later. "I have never killed anything," he whispers. "I made it all up. It rhymes better." He clutches your arm. "Kill the wolf for me. I will give you the ten marks and put you in a song. Or they will find out. And they will hang me from that sign."
+
+> You may kill the wolf and let Gwion take the credit. -> r01a
+> You may expose Gwion Silvertongue to the villagers. -> r01b
+
+=== r01a
+"I will kill your wolf," you say. "But you are coming with me." Gwion looks as though he might faint. "Must I?" he says. "Someone must write it down," you say.
+?? hunt the great wolf of Nant | Hunting | 3+L
+++ You track the wolf up the valley by moonlight, with Gwion stumbling behind you, and find it on a ledge above the sheepfold. It is enormous. You kill it with your spear as it leaps, and Gwion, who has been hiding behind a rock, is sick. In the morning, the village carries him home in triumph with the wolf's pelt round his shoulders. He looks at you over their heads, ashamed and grateful. The ten marks are waiting in your saddlebag. So, by the next spring, is the song, which is very good, and quite true, apart from the names.
+[d:L | sk:Wilderness | rn:Villainy+1 | rn:Any+1 | tr:1]
+-- You track the wolf up the valley by moonlight. It is enormous, and it is waiting for you. It takes your spear arm in its jaws before you can strike, and you both roll down the hill. When it flees, you are bleeding, and Gwion is gone. The next morning, you hear, he left the inn before dawn with his harp and the villagers' ten marks paid in advance.
+[sk:Hunting | st:+Wounded]
+
+=== r01b
+You follow Gwion back into the inn. "Good people," you say, "before your hero goes out, I think he has something to tell you." Gwion looks at you with pure terror.
+?? persuade Gwion to tell the truth, and the village to forgive him | Diplomacy | 5
+++ Gwion confesses. It is the best song he has ever sung: halting, honest, and full of real fear. The villagers are angry, then disgusted, then, as he describes hiding under a hay-cart from a goose, helpless with laughter. By the end, they have forgiven him. "But the wolf is still there," says the old farmer. You go and kill it the next morning, and the village pays you instead, and Gwion writes a song about it that makes you sound twice as brave as you were.
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
+-- Gwion confesses, and the villagers are angry, and then very angry, and then they take him outside and throw him in the horse pond. They throw you in after him, for good measure, for bringing him there in the first place. The wolf takes three more sheep that night.
+[sk:Diplomacy | st:+Scorned]
+
+=== 1702
+You come upon a gallows on a hilltop outside a market town, where a woman's body swings in chains in the wind. A lean, bearded man in a hood is sitting beneath it, looking up at her.
+
+"Her name was Alis," he says. "My wife. I am Hob Redcap, an outlaw. You will have heard of me." You have not. "The sheriff could not catch me, so he took her instead, and said she had been hiding me. Which she had, God keep her." He does not weep. "She has hung here three weeks. The sheriff says she will hang until I give myself up, so that everyone can see what comes of loving an outlaw. I cannot cut her down. The gallows is watched from the gatehouse." He looks at you. "They would not stop a knight."
+
+> You may cut Alis down and help Hob give her a Christian burial. -> r02a
+> You may ride to the sheriff and demand that he release her body. -> r02b
+
+=== r02a
+"Wait here," you say. You ride up to the gallows in plain view, as if you have every right to be there. From the gatehouse, you see a soldier stand up and peer out.
+?? cut her down under the eyes of the gatehouse | Cunning | 4
+++ You call up to the gatehouse, in your most lordly voice, that you have come from the bishop, who is displeased that a Christian soul should hang unburied on a feast day. The soldier has no idea whether it is a feast day, and neither do you. He waves. You cut the chains, and carry Alis to Hob, who takes her in his arms. You bury her together in the churchyard of a village two miles away, and the priest asks no questions. Hob gives you a silver cup, which he says he came by honestly. You do not believe him.
+[d:3 | sk:Courtly | rn:Divinity+1 | tr:1]
+-- You call up to the gatehouse that you have come from the bishop. The soldier calls back that the bishop is dining with the sheriff tonight, and would you care to join them? You cut the chains anyway and flee with the body across your saddle, with half the garrison behind you. You and Hob bury her in the woods, in the dark, with no priest.
+[sk:Cunning | st:+Pursued]
+?? cut her down and fight off the guard | Sword & Shield | 5
+++ You cut the chains in full view of the gatehouse. Six soldiers come running down the hill. You put your horse between them and the gallows while Hob carries his wife away, and you hold them off with your sword until he has disappeared into the trees. Then you ride after him. The sheriff puts a price on your head, but it is not a very large one, and you bury Alis in a quiet churchyard by the river.
+[d:4 | sk:Martial | rn:Divinity+1 | rn:Villainy+1]
+-- You cut the chains in full view of the gatehouse, and six soldiers come running. You fight, but they are six, and one of them has a crossbow. You wake up in the sheriff's cellar. Hob, you hear later, got his wife away while they were busy with you.
+[sk:Sword & Shield | st:+Imprisoned]
+
+=== r02b
+You ride to the sheriff's hall. The sheriff is a small, precise man who dresses in black and counts his money at a table. "The outlaw's wife," he says. "Yes. She hangs until he comes in."
+?? shame the sheriff into releasing her | Honor | 5
+++ You tell him that no knight of the High King's court would leave a woman to the crows for the crime of loving her husband. You tell him that the High King himself would be interested to hear of it. You say it loudly, in front of his clerks. The sheriff purses his lips. At last he says, "Take her," and goes back to counting. You bring her to Hob. He takes her in his arms, and then he looks at you. "I will come in," he says. "Not to him. To you. Tell me where to go and I will go there." You send him to Camelot, to serve in the kitchens.
+[d:4 | sk:Courtly | rn:Divinity+2]
+-- You tell him that no knight of the High King's court would do this. The sheriff looks at you with interest. "Are you a knight of the High King's court?" he asks. When you admit that you are not, or not quite, he smiles and has you thrown out.
+[sk:Honor | st:+Scorned]
+
+=== 1703
+You come upon a thin, ragged man on a donkey, riding hard along a forest track, with a small box of carved bone clutched to his chest. A lame boy on crutches is limping after him, calling, "Master! Master Wat! Wait!"
+
+The man pulls up when he sees you. "Please," he says. "I am Wat, a thief. I stole this from the monks of Saint Dyfrig's last week. It is the saint's finger." He opens the box. Inside, on red silk, lies a small brown bone. "I meant to sell it. But when I touched it, the boy's leg began to straighten." The boy has caught up, and you see that his crutch is under the wrong arm; he is barely leaning on it. "And a blind woman in Hereford saw again. And a baby that was dying lived." Wat's voice cracks. "The saint works for me. For a thief. The monks are after me with a bishop's warrant. They want it back in its gold shrine, where nobody can touch it."
+
+> You may help Wat return the relic to the monks. -> r03a
+> You may help Wat keep the relic and carry it to those who need it. -> r03b
+
+=== r03a
+"It belongs to the monks," you say, gently. "Come. I will speak for you." Wat's face falls, but he nods.
+?? plead for Wat before the abbot of Saint Dyfrig's | Diplomacy | 5
+++ At the abbey, you lay the box before the abbot and tell him everything: the boy, the blind woman, the baby. The abbot listens, stony-faced. Then he opens the box and looks at the finger for a long time. "In forty years in its shrine," he says slowly, "it has never healed anyone." He closes the box. He gives it back to Wat. "Take him out to the roads," he tells you, "and bring him back at Easter, and tell me what the saint has done." Wat walks out of the abbey weeping, with the lame boy running beside him.
+[d:4 | sk:Courtly | rn:Divinity+2]
+-- At the abbey, you lay the box before the abbot and tell him everything. The abbot listens, stony-faced, and then has Wat put in chains. "A thief is a thief," he says, "and a saint is not a pedlar." The finger goes back into its gold shrine. The lame boy sits outside the abbey gate for three days, waiting, and then limps away.
+[sk:Diplomacy | st:+Despairing]
+
+=== r03b
+"Then the saint has chosen you," you say. "Let us go on, and see where he sends you." Wat laughs, and the boy laughs, and behind you, in the forest, you hear the monks' horses.
+?? keep Wat ahead of the monks | Nature Lore | 3+L
+++ You lead him off the track and through a stream and up over a ridge, and the monks go on down the valley, calling for a man on a donkey. For a month, you travel with Wat along the back roads of the Marches, and wherever he goes, something happens. A fever breaks. A well runs sweet. A mad woman is calm. At the end of the month, Wat takes the finger back to the abbey himself, and lays it on the altar, and walks away. "It was never mine," he says. "I only carried it."
+[d:L | sk:Wilderness | rn:Divinity+1 | rn:Villainy+1]
+-- You lead him off the track and through a stream, but the monks have a hound. They catch you on the ridge, and take the finger, and take Wat, and take you too, for good measure, to be tried by the bishop for sacrilege.
+[sk:Nature Lore | st:+Imprisoned]
+
+=== 1704
+You come upon a man in the road with his hands clamped over his ears and a purse of green silk tied to his belt. The purse is screaming. It is a high, thin, furious scream, like a hare in a trap, and it does not stop.
+
+"Take it off me!" the man shouts. "Take it off!" He is a sharp-faced fellow with a ferret's grin, or he was, before the screaming started. "I am Dicon, a cutpurse. I cut this from a lady at the Beltane fair. It is never empty. Every time you take a penny out, there is another penny." He pulls out a handful of silver to show you, and the scream goes up to a shriek. "But it screams! Every time I touch it! And there are little people following me. I see them at the edges of my eyes." He is almost weeping. "I cannot sleep. I cannot untie it. Please."
+
+> You may help Dicon return the purse to its fay owner. -> r04a
+> You may take the purse for yourself. -> r04b
+
+=== r04a
+"Who was the lady?" you ask. Dicon points up at the hills. "She was very tall," he says. "And her dress was made of leaves. I should have known."
+?? bargain with the fay lady for the thief's life | Magic | 5
+++ You take Dicon up to the hill at dusk and call on the lady politely by all the names you can think of. At last she comes, tall and green-gowned and very angry. You speak for Dicon, and offer her an apology, and a new purse of your own, and a promise that he will never cut another purse again. The fay lady considers. Then she laughs, and the green purse unties itself from Dicon's belt and floats to her hand. "Never," she says to him. "Never again." He never does. He becomes, of all things, a baker.
+[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- You take Dicon up to the hill at dusk and call on the lady. She comes, and she is very angry, and when you try to bargain with her, she only laughs and points at you. The purse unties itself from Dicon's belt and ties itself to yours. It screams all the way down the hill, and for three days after, until you bury it in a churchyard.
+[sk:Magic | st:+Accursed]
+
+=== r04b
+You look at the purse. You look at the silver in Dicon's hand. "Give it here," you say. "I will take care of it." Dicon stares at you. "You want it?" he says.
+?? cut the fay purse free and keep it | Cunning | 5
+++ You wrap your hand in a cloth, cut the strings with your dagger, and stuff the purse into a leather bag inside another leather bag, and tie it shut. The screaming is muffled. Dicon falls on his knees and thanks you. For a month, you are rich beyond your dreams. Then one night you wake to find three little people sitting on the end of your bed, looking at you. The next morning, the purse is gone. So is your horse, your cloak and your boots. But you still have most of the silver.
+[d:4 | tr:2 | rn:Villainy+2 | st:+Unhorsed]
+-- You wrap your hand in a cloth and cut the strings. The purse leaps out of Dicon's belt and into your hand, and clamps shut on your fingers like a trap, and screams directly into your face. You drop it. It rolls away into the long grass, and when you look for it, it is gone. So are your own purse and your dagger.
+[sk:Cunning | st:+Accursed | rn:Villainy+1]
+
+=== 1705
+You come upon a pair of young lovers on one horse, galloping toward you along a lane, looking back over their shoulders. The man is a handsome rogue in a torn shirt, with a grin as wide as the lane. The girl behind him has a silk gown hitched up to her knees and a sword across her lap.
+
+"Help!" he calls cheerfully, reining in. "Jack Fairweather, highwayman. This is Mererid, the Baron of Powys's daughter. I robbed her coach, and she robbed me back, and we fell in love." He looks back down the lane, where a great cloud of dust is rising. "Her father's men are after us. And her betrothed, who is sixty-three."
+
+"He has gout," says Mererid, "and seven dead wives." She looks at you levelly. "I came of my own will. I will not go back. There is a priest at Llanfair who will marry us if we reach him by noon."
+
+> You may help the lovers escape to the priest at Llanfair. -> r05a
+> You may return Mererid to her father for his reward. -> r05b
+
+=== r05a
+"Ride on," you say. "I will hold the lane." Jack salutes you, and Mererid blows you a kiss, and they gallop off. The dust cloud comes closer.
+?? delay the baron's men in the lane | Warfare | 4
+++ You fell a tree across the lane, which takes longer than you expected, and when the baron's men come up, you are standing on it with your sword drawn. You tell them there is a toll. You argue about the toll. You fight three of them, one at a time, while the others cut through the tree. By the time they are through, it is past noon. At Llanfair, they find the church door open and a new-married couple sitting on the step, eating bread and honey. The baron, when he hears, sends his men home and his daughter a wedding gift.
+[d:3 | sk:Martial | rn:Romance+2]
+-- You fell a tree across the lane, but the baron's men simply ride round it through the field. They catch the lovers a mile from Llanfair. Jack goes to the gallows. Mererid goes to the man with gout. You go on your way, having helped nobody.
+[sk:Warfare | st:+Despairing]
+?? lay a false trail for the pursuers | Hunting | 3+L
+++ You cut a branch and drag it behind your horse down a side track, making a trail that looks like two riders in a hurry. Then you drop Mererid's silk scarf at the fork. The baron's men take the side track with a great shout and go galloping off toward the mountains. You ride to Llanfair by the other road and arrive just in time to be a witness at the wedding.
+[d:L | sk:Wilderness | rn:Romance+1]
+-- You cut a branch and drag it down a side track to make a false trail, but the baron's huntsman is not a fool. He looks at the marks, looks at you, and sends half the men after the lovers and half after you. You spend the next two days hiding in a hayloft.
+[sk:Hunting | st:+Pursued]
+
+=== r05b
+You look at the dust cloud, and at the girl, and you make up your mind. "Your father will pay well for you," you say. Mererid's hand tightens on the sword.
+?? take the baron's daughter from the highwayman | Sword & Shield | 4
+++ Jack fights you, and he is good, but he is fighting with one arm round Mererid. You disarm him and pull her off the horse. She screams, and kicks, and bites your hand. Jack flees. The baron's men arrive and take her from you, and the baron pays you a fat purse of silver and a fine sword. Mererid does not look at you once. You hear, the following year, that she is widowed already, and very rich, and has put a price on your head.
+[d:4 | tr:2 | rn:Villainy+2]
+-- Jack fights you, and Mererid fights you too, and she is better with a sword than he is. When you wake up in the lane, they are gone, and the baron's men are standing over you, asking what happened. You tell them. They laugh.
+[sk:Sword & Shield | st:+Wounded | rn:Villainy+1]
+
+=== 1707
+You come upon a man sitting on the steps of a church, rocking back and forth, with his arms around a sack. He is filthy, and there is earth under his fingernails and in his hair. "Cunedda," he whispers. "Cunedda, Cunedda, Cunedda."
+
+The priest comes out and shakes his head. "Rhys the digger," he says. "A grave-robber. He broke into the old king's barrow on the hill three nights ago, the one with the standing stone. He came back like this. He will not let go of the sack, and he will not stop saying the old king's name." The priest lowers his voice. "And at night, something walks from the barrow to the church, and stands at the door, and waits."
+
+Rhys looks up at you with wild eyes. "He wants it back," he says. "He wants it back, and I cannot let go."
+
+> You may take the grave-goods back to the barrow and return them to the dead king. -> r07a
+> You may take the sack from Rhys and keep the treasure for yourself. -> r07b
+
+=== r07a
+You kneel beside Rhys and put your hand on the sack. "Let me carry it back for you," you say. For a long moment, his fingers stay clenched. Then, slowly, they open.
+?? return the treasure to the barrow and appease the dead king | Piety | 5
+++ You carry the sack up the hill at dusk. The barrow is open, a black mouth in the turf. Inside, in the dark, a tall figure sits on a stone throne, with a crown on its skull. You lay the gold before it: a torc, a cup, a sword with a hilt of red enamel. You pray for the old king's soul, and ask pardon for the thief. The skull does not move. But when you come out, the barrow closes behind you with a long sigh of earth. In the morning, Rhys is sane, and weeping, and swears he will dig nothing but turnips.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You carry the sack up the hill at dusk and into the black mouth of the barrow. Inside, a tall figure sits on a stone throne. You lay the gold before it and begin to pray, but the figure lifts one bony hand and points at you. You flee. The gold is back where it belongs. But you hear, all the way down the hill, a dry voice saying *Cunedda, Cunedda*, and it is saying it in your head.
+[sk:Piety | st:+Mad]
+
+=== r07b
+You reach for the sack. Rhys screams and clings to it. The priest steps back, crossing himself.
+?? wrest the treasure from the mad grave-robber | Endure Hardship | 4
+++ It takes all your strength to prise his fingers open, one by one. When they finally let go, Rhys falls back against the church door and goes limp, and sleeps for the first time in three days. You look in the sack. There is a gold torc, a gold cup and a sword with a hilt of red enamel. You take it and ride away quickly. That night, something walks from the barrow to your inn, and stands at the door, and waits. You leave before dawn. It follows you for a long time.
+[d:5 | tr:2 | rn:Villainy+2 | st:+Pursued]
+-- It takes all your strength to prise his fingers open. When they let go, you stagger back with the sack, and it is heavier than any sack could be, and it pulls you down onto the church steps. You cannot let go. You cannot let go. The priest has to bring a hammer.
+[sk:Endure Hardship | st:+Accursed | rn:Villainy+1]
+
+=== 1710
+You come upon a band of outlaws in a wood, crouching in the bracken above a road, with bows strung and faces smeared with mud. Their leader, a grizzled woman with one eye and a man's jerkin, rises when she sees you and puts a finger to her lips.
+
+"Maud o' the Wood," she whispers. "Do not make a sound. The Sheriff of Shrewsbury's tax cart comes this way at noon. Every penny in it was squeezed out of starving folk in the last month. We mean to take it back and give it where it belongs." She looks you up and down. "You have a horse and a sword. We have twelve bows and a grudge. Join us and take a share, or ride on and forget you saw us. But if you warn the sheriff, I will know it was you."
+
+Down the road, you hear the creak of wheels.
+
+> You may join Maud o' the Wood's ambush of the tax cart. -> r10a
+> You may warn the sheriff's escort of the ambush. -> r10b
+
+=== r10a
+"I will ride with you," you say. Maud grins with half her teeth. "Then take the front," she says. "When I whistle, you stop the horses."
+?? lead the attack on the tax cart | Warfare | 4
+++ When the cart rounds the bend, you ride out in front of it and seize the lead horse's bridle, and Maud's archers stand up in the bracken with their bows drawn. The escort takes one look and throws down its weapons. The cart holds nine hundred silver pennies. Maud gives you a hundred, and the rest goes back to the villages in sacks, left on doorsteps in the night. For years afterwards, in that country, people speak of the knight who robbed the sheriff.
+[d:4 | sk:Martial | rn:Villainy+1 | rn:Divinity+1 | tr:1]
+-- When the cart rounds the bend, you ride out in front of it, but the escort is twice as large as Maud said, and they have crossbows. The outlaws flee. You are dragged off your horse and taken to Shrewsbury in the tax cart, sitting on the sheriff's money.
+[sk:Warfare | st:+Imprisoned | rn:Villainy+1]
+
+=== r10b
+You nod to Maud, and turn your horse, and ride back the way you came. When you are out of sight of the wood, you circle round and come to the road ahead of the cart.
+?? warn the escort and turn the ambush | Mounted | 5
+++ You gallop up to the cart and tell the captain of the escort what is waiting in the wood. He turns the cart round and takes the long road, and the outlaws wait in the bracken all afternoon for a cart that never comes. The sheriff sends you a letter of thanks and a purse of silver. You wonder, later, whose silver it was.
+[d:4 | sk:Martial | rn:Villainy+1 | tr:1]
+-- You gallop up to the cart and tell the captain of the escort what is waiting in the wood. He does not believe you. He thinks you are one of them, and arrests you. Meanwhile, the outlaws take the cart. Maud, you hear, is very disappointed in you.
+[sk:Mounted | st:+Imprisoned]
+
+=== 1712
+You come upon an old woman sitting at a table outside a tavern with three walnut shells and a pea. A crowd of drovers stands round her. As you watch, a young drover puts down a penny, points at a shell, and loses. Then another. Then another.
+
+"Mag Pennyfeather," she introduces herself, when the drovers have gone, grumbling. She is wrinkled, merry and sharp-eyed, and her fingers move like spiders. "Sixty years at the shell game. Never lost to an honest man." She pushes the shells toward you. "One game, knight? If you win, I will give you a silver penny. If you lose, you give me your spurs." She grins. "Or if you have the patience, I will teach you. It takes about thirty years."
+
+> You may play Mag Pennyfeather's shell game. -> r12a
+> You may ask Mag Pennyfeather to teach you her tricks. -> r12b
+
+=== r12a
+You sit down across from her. Mag grins and puts the pea under the middle shell. Her hands begin to move.
+?? find the pea | Cunning | 6
+++ You do not watch the shells. You watch her hands, and her eyes, and on the third pass you see her palm the pea and slip it under her little finger. When she stops, you do not point at any shell. You take her wrist and turn her hand over. The pea drops onto the table. There is a long silence. Then Mag throws back her head and laughs until she weeps. "Sixty years," she says. "Sixty years!" She gives you a whole handful of silver pennies and a kiss on the cheek. "Never lost to an honest man," she says. "You are not one. I like you."
+[d:3 | sk:Courtly | rn:Any+1 | tr:1]
+-- You watch the shells. You watch them very carefully. When she stops, you point at the left one, confidently. She lifts it. Nothing. She lifts the middle one. Nothing. She lifts the right one. Nothing. The pea is behind her ear. You ride on without your spurs.
+[sk:Cunning | n:Lose 1 Treasure, if possible]
+
+=== r12b
+"Teach me," you say. Mag looks at you shrewdly. "It is not a knight's game," she says. "It is a game for people who have to eat." "Then teach me to see it," you say, "so I can keep the drovers from losing their pennies."
+?? learn the con-woman's craft | Wisdom | 5
+++ Mag spends an afternoon with you, and she shows you everything: the palm, the pass, the shill in the crowd who wins to encourage the others. She shows you how to tell a loaded die by its sound on the table, and how a card is marked with a fingernail. "Now you know," she says at the end. "Nobody will ever cheat you again. That is worth more than a silver penny." She is right. You never lose at dice after that, and you never play.
+[d:3 | sk:Spiritual | rn:Any+1]
+-- Mag spends an afternoon with you, and at the end of it, you know how the trick is done and still cannot see it. "You have honest eyes," she says, not kindly. "They want to see what is there." She charges you a silver penny for the lesson.
+[sk:Wisdom]
+
+=== 1713
+You come upon a market stall under a striped awning, with a sign reading *EXCALIBUR — The Sword of the King — As Drawn from the Stone*. Behind the stall stands a red-faced man in a green hat, and on the stall lie about thirty swords, all identical, all with the same gilt hilt and paste jewels.
+
+"Roll up!" he calls. "The true Excalibur, only ten shillings! Nobody can draw it but the rightful king of Britain!" He pulls one from its scabbard with a flourish. "Except me. And whoever buys it." The crowd is buying them by the armful. A little boy is clutching one twice his size and grinning. "Master Pym," the stallholder says, winking at you. "You look like a man who knows the value of a sword. Sell them with me in the next town. Knights sell better than pedlars."
+
+> You may expose Master Pym's false swords to the crowd. -> r13a
+> You may join Master Pym and sell his swords in the next town. -> r13b
+
+=== r13a
+You pick up one of the swords. "Good people," you say, "this sword is made of tin." Master Pym glares at you. "It is made," he says, "of legend."
+?? prove the swords worthless | Sword & Shield | 3
+++ You take the sword by the hilt and bring it down on the edge of the stall. It bends double. The crowd gasps. You take another and bend it round your knee. The crowd begins to shout. Master Pym grabs his cashbox and runs, and the crowd runs after him, waving tin swords. The little boy holds his up to you. "Is mine real?" he asks. You tell him that it is as real as he makes it, which he seems to find satisfactory.
+[d:2 | sk:Martial | rn:Any+1]
+-- You take one of the swords by the hilt and bring it down on the edge of the stall. It does not bend. It is, astonishingly, a perfectly good sword. The crowd laughs at you. Master Pym sells twelve more on the strength of it.
+[sk:Sword & Shield | st:+Scorned]
+?? trick Master Pym into drawing the "true" sword | Cunning | 4
+++ You ask Master Pym, very loudly, to prove the sword is Excalibur by driving it into a stone and drawing it out again, as the king did. The crowd loves this idea. They find a stone. Master Pym hammers the sword into a crack and then cannot, for all his heaving, get it out again. "Then you are not the rightful king of Britain!" cries a woman in the crowd. "And neither is my husband," says another, "and he bought three!" Master Pym is last seen leaving town in a hurry, and the sword is still in the stone.
+[d:3 | sk:Courtly | rn:Any+1]
+-- You ask Master Pym to prove the sword is Excalibur by driving it into a stone and drawing it out again. He does, easily, because the stone is soft sandstone, and the crowd cheers. You buy a sword, just to save face.
+[sk:Cunning]
+
+=== r13b
+"What share?" you ask. Master Pym beams. "A third," he says, "and you tell them you watched the king draw it yourself, and this is the very blade."
+?? sell the false swords as a knight of the High King's court | Diplomacy | 3+L
+++ You are very good at it. In the next town, you tell the story of the sword in the stone with such feeling that grown men weep, and then you sell them tin swords. In the town after that, you sell the rest. Master Pym gives you your third and a sword of your own, a real one, with a plain hilt. "In case anyone asks for their money back," he says.
+[d:L | tr:1 | rn:Villainy+2]
+-- You tell the story of the sword in the stone to the crowd in the next town. At the back of the crowd is a tall, heavy man in a plain brown cloak, listening with great interest. When you finish, he comes up and asks to buy a sword, and he asks you to describe the king, and you do, and he laughs. It is Arthur himself. He does not have you arrested. He only takes a sword, and pays for it, and walks away, still laughing. You feel smaller than you have ever felt.
+[sk:Diplomacy | st:+Scorned | rn:Villainy+1]
+
+=== 1715
+You come upon a highwayman sitting on a stone at a crossroads, with a mask pushed up on his forehead and a heavy sack at his feet. He looks exhausted.
+
+"Do not bother to stand and deliver," he says. "I am Black Owain, and I am done robbing. I have been walking for nine days. Every road I take brings me back to this crossroads." He kicks the sack. "Nine days ago, I robbed an old man on this road. A beggar in a grey cloak. He did not fight. He only laughed and said, *Go wherever you like.* I have been trying ever since." He looks up at the signpost. All four arms point to the crossroads.
+
+He opens the sack. It is full of strange things: a crystal ball, a silver star, a book bound in blue leather, a tiny golden harp. "I would give it back," he says, "but I cannot find him."
+
+> You may help Black Owain return his loot to the old man. -> r15a
+> You may try to lead the highwayman out of the enchanted crossroads. -> r15b
+
+=== r15a
+You look at the crystal ball, and the silver star, and the book of blue leather. "I think I know whom you robbed," you say. "And I think he is waiting for you to find him."
+?? find the old enchanter to return his things | Wisdom | 5
+++ You sit down at the crossroads and think. An old man who laughs when he is robbed. A curse that brings you back to where you started. "He is here," you say. "He always was." You stand up and bow to the signpost. "Master Merlin," you say, "the thief would like to return your things." The signpost laughs, and is an old man in a grey cloak, leaning on a staff. "Took you long enough," he says to Owain. He takes his sack. To you, he gives the tiny golden harp. "It plays by itself," he says. "Mostly lullabies." Owain walks away down the road, and does not come back.
+[d:4 | sk:Spiritual | rn:Any+1 | tr:1]
+-- You search the roads around the crossroads all day for an old man in a grey cloak. At sunset, you come back to the crossroads, having gone round in a circle. You try again, and again. Owain watches you with sympathy. You spend the night beside him on the stone.
+[sk:Wisdom | st:+Lost]
+
+=== r15b
+"Come," you say. "Take hold of my stirrup. We will walk out together." Owain shrugs and picks up his sack. "Many have tried," he says. "Well, one. Me."
+?? break the spell of the crossroads | Magic | 5
+++ You do not follow the roads. You turn your back to the signpost and walk straight out across the fields, through a hedge, over a ditch and through a pond. Owain follows, cursing. You keep going straight, through a farmyard and a barn and another hedge, and after an hour, you come out on a road you do not know. Owain falls on his knees and kisses it. Then he goes into the next village and sells everything in the sack and gives the money to the church. He says it is the only way to be sure.
+[d:3 | sk:Spiritual | rn:Divinity+1]
+-- You turn your back to the signpost and walk straight out across the fields. After an hour, you come to a crossroads, and there is a stone, and there is a signpost pointing to itself. Owain sits down on the stone. So do you.
+[sk:Magic | st:+Lost]
+
+=== 1720
+You come upon a crowd around a gallows at a market town, where a young thief stands on the cart with a rope round his neck. He is laughing and joking with the hangman, but when he sees you, his face changes and he calls out.
+
+"You! Knight! A last request!" The sheriff shrugs and lets him speak. "I am Dafydd Quickfingers. I robbed a widow in Ludlow last month. Mistress Anest, who keeps the bakehouse. I took her savings, forty silver marks, all she had." He looks down at you. "They never found it. It is buried under the third ash tree past the mill at Ludlow. She is starving. I did not know she had nothing else." He swallows. "Will you dig it up and take it back to her? It would be something to die with."
+
+The hangman is waiting. The rope is tight.
+
+> You may promise to return the thief's loot to the widow. -> r20a
+> You may promise, then take the silver for yourself. -> r20b
+> You may beg the sheriff for Dafydd's life. -> r20c
+
+=== r20a
+"I will do it," you say. Dafydd nods, and smiles. "Thank you," he says. They hang him a moment later. You ride to Ludlow.
+?? find the buried silver and bring it to the widow | Hunting | 3+L
+++ The third ash tree past the mill has a patch of turned earth at its foot. You dig, and find a leather bag with forty silver marks in it. You take it to the bakehouse. Mistress Anest, a small, thin woman with flour to her elbows, stares at the bag and then at you. When you tell her how you came by it, she sits down on the bakehouse floor and weeps, for the silver and for the thief. She bakes you a loaf, the best you have ever eaten, and asks you to pray with her for Dafydd's soul.
+[d:L | sk:Wilderness | rn:Divinity+2]
+-- The third ash tree past the mill has no turned earth at its foot. Nor does the second, or the fourth. You dig until dark and find nothing but roots. Either Dafydd lied, or someone found it first. You go to the bakehouse and tell Mistress Anest the truth, and give her what silver you have, which is not forty marks.
+[sk:Hunting | n:Lose 1 Treasure, if possible]
+
+=== r20b
+"I will do it," you say. Dafydd smiles at you with pure relief. "Thank you," he says. They hang him. You ride to Ludlow, and find the third ash tree past the mill, and dig.
+?? dig up the silver unseen | Cunning | 4
+++ It is there: a leather bag with forty silver marks, heavy in your hands. You ride away without going near the bakehouse. The silver buys you a new horse, new harness and a great deal of wine. You do not go back to Ludlow. Sometimes, when you eat bread, you think of a thin woman with flour on her hands.
+[d:5 | tr:2 | rn:Villainy+2 | rn:Divinity-1]
+-- It is there: a leather bag of silver. As you lift it out, a small, thin woman with flour to her elbows steps out from behind the mill. "Dafydd's brother told me he had buried it," she says. "I have been watching these trees for a week." She takes the bag out of your hands. She does not say anything else. She does not have to.
+[sk:Cunning | st:+Scorned | rn:Villainy+1]
+
+=== r20c
+You push your horse through the crowd to the cart. "Sheriff," you say, "he is sorry, and he has told you where the silver is. Is that not worth a life?"
+?? plead for the thief's life | Diplomacy | 6
+++ The sheriff frowns. But the crowd has heard Dafydd's request, and the crowd has begun to murmur, and a woman shouts "Let him go and dig it up himself!" The sheriff looks at the crowd, and at you, and at Dafydd. "He digs it up," he says at last, "under guard. He gives it back. And then he spends seven years in the High King's galleys." Dafydd laughs aloud. "Seven years!" he says. "I thought I had seven minutes." He gives Mistress Anest her silver with his own hands.
+[d:4 | sk:Courtly | rn:Divinity+2]
+-- The sheriff frowns. "He is sorry," he says, "because he is about to be hanged. If he were not about to be hanged, he would not be sorry." He nods to the hangman. You are too late even to hear where the silver is, and you ride away with that on your conscience.
+[sk:Diplomacy | st:+Despairing]

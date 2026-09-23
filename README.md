@@ -24,6 +24,8 @@ The book has about 1,100 passages. It has every passage the components file call
 
 The book uses the full reader schema: formula targets and Destiny, graded renown checks, category totals, "Divinity or Romance" rewards, and passage links for story-token gates. `scripts/validate.py` has been updated to accept these, to match the reader's own validation.
 
+The book is written in a compact text format in [`la-morte-d-arthur/source/`](la-morte-d-arthur/source/), and `book.json` is compiled from it. See that folder's README to edit and rebuild.
+
 ### The `aiGenerated` flag
 
 `La Morte d'Arthur` sets `"aiGenerated": true` in its `book.json`. The reader app surfaces this flag to players so they know the prose was written by an AI model rather than hand-authored.

@@ -1,0 +1,439 @@
+=== 2209
+You ride into Bath and find the townsfolk gathered at the edge of the old Roman baths, which lie in ruins at the heart of the town, full of green water and broken columns. Every night, they say, a soldier in Roman armour marches up and down the colonnade, calling out a watchword nobody understands, and every morning, somebody who went too close is found face-down in the water.
+
+"He guards the old treasury," the reeve tells you. "There is gold down there, from the Romans. Everyone knows. But nobody can get past him." He looks at the ruins nervously. "And now children have started daring each other to go in."
+
+At dusk, you hear it: the tramp of hobnailed sandals on stone.
+
+> You may face the Roman ghost and lay him to rest. -> m109a
+> You may slip past the ghost and search for the Roman gold. -> m109b
+
+=== m109a
+You wait by the colonnade as night falls. The soldier appears, grey and translucent, with a short sword at his hip. He stops in front of you and says something in Latin.
+?? answer the ghost's watchword and release him | Wisdom | 5
+++ You know a little Latin from the priests. He is asking for the watchword. You think about it for a long time. Then you say the only thing you can think of that a Roman soldier would want to hear: "The legion has gone home. You may go home too." The ghost stares at you. Then he takes off his helmet, and he is only a boy of eighteen, with a tired face. He salutes you, and walks into the green water, and is gone. The townsfolk never hear him again.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- You try to answer him in your little Latin, and get it wrong. The ghost draws his short sword. You wake face-down at the edge of the water, choking, with the reeve pulling you out.
+[sk:Wisdom | st:+Wounded]
+
+=== m109b
+You wait until the ghost has marched to the far end of the colonnade, and then you slip into the ruins behind him.
+?? creep past the ghost and find the treasury | Hunting | 6
+++ You find the treasury under a fallen arch, and in it a strong-box, rusted through, full of silver coins with a Roman emperor's face on them. You fill your helmet and slip out again. Behind you, the ghost is still marching, still calling the watchword. You wonder, riding away, how long he will go on guarding an empty box.
+[d:5 | tr:2 | rn:Villainy+1 | rn:Any+1]
+-- You find the treasury under a fallen arch, and reach for the box, and a cold hand closes on your shoulder. You flee. You are not sure how you got out, only that you did, and that you will not go back.
+[sk:Hunting | st:+Accursed]
+
+=== 2309
+You ride into a small city in the Grail year and find a crowd outside a ruined church, whose roof fell in a hundred years ago. A family of beggars has been living in the ruins, and the bishop's men are trying to drive them out. "This is holy ground!" the bishop's steward is shouting. "Joseph of Arimathea rested here with the Grail, on his way to Glastonbury! The bishop will rebuild it as a shrine, and pilgrims will come!"
+
+The beggar woman, a gaunt, fierce woman with four children, stands in the doorway. "We have lived here seven years," she says. "Nobody cared about the holy ground until the Grail came back into fashion."
+
+> You may defend the beggars' right to stay. -> m209a
+> You may search the ruined church for any sign of the Grail. -> m209b
+
+=== m209a
+You step between the bishop's men and the beggars. "If Joseph rested here," you say, "he rested among the poor."
+?? shame the bishop's men into leaving the family be | Piety | 4
+++ You remind the steward that the holy vessel was used at a meal for poor men, and that Joseph gave his own tomb away. You ask him what the Grail would think of a shrine built by throwing children into the street. The crowd murmurs. The steward goes red. When the bishop hears of it, he is annoyed, but he builds the shrine round the family instead, and gives the beggar woman the keeping of it. She does it very well, and charges the pilgrims nothing.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You remind the steward that the vessel was used at a meal for poor men. The steward reminds you that the bishop owns the land. The family is thrown out. You find them lodging in an inn, at your own cost.
+[sk:Piety | n:Lose 1 Treasure, if possible]
+
+=== m209b
+You go into the ruins with the beggar children, who know every corner. "Is there anything strange here?" you ask them. The smallest nods. "The warm stone," she says.
+?? find what lies beneath the warm stone | Wisdom | 5
+++ The children show you a flagstone in the floor of the old chancel that is always warm, even in winter. You lift it. Under it is a small stone chamber, empty except for a ring worn into the floor, as if something round had stood there for a very long time. There is a faint smell of roses. You put the flagstone back. You tell the bishop's steward nothing, and the beggar woman everything, and she keeps it secret for the rest of her life, and the children sleep on the warm stone every winter.
+[d:4 | sk:Spiritual | rn:Divinity+1 | st:+Blessed]
+-- The children show you a warm flagstone, and you lift it, and find nothing but earth and worms. The bishop's steward, who has been watching, has the family thrown out for hiding things.
+[sk:Wisdom]
+
+=== 2409
+You ride into the ruins of Silchester, a Roman town that Saxons burned a month ago. The walls still stand, but inside them, everything is ash. There is nobody. Then you hear, from a cellar under the old basilica, a sound like a child singing.
+
+You find her in the dark: a girl of seven or eight, filthy, thin, sitting on a pile of sacks, singing to a rag doll. "Everyone went away," she says. "The men with axes came, and my mother put me down here and said wait. I have been waiting." She looks up at you. "Is she coming back?"
+
+> You may search the burned town for the girl's mother. -> m309a
+> You may take the girl to safety. -> m309b
+
+=== m309a
+"Wait here a little longer," you say. "I will look for her." The girl nods seriously.
+?? search the ruins for the child's mother | Hunting | 3+L
+++ You search all day. At dusk, in a wood two miles from the town, you find a camp of survivors, and among them a woman who has been weeping for a month. When you say "a girl with a rag doll", she screams. You bring her back to the cellar. The girl looks up. "You were a long time," she says reproachfully, and her mother laughs and weeps and clutches her. You leave them in the ruins, holding each other, with the doll between them.
+[d:L | sk:Wilderness | rn:Divinity+2]
+-- You search all day, and find the survivors' camp, and ask about a girl with a rag doll. A woman looks at you, and then away. "Her mother," she says, "stayed behind to lead the Saxons off." You go back to the cellar. You do not know how to tell her.
+[sk:Hunting | st:+Despairing]
+
+=== m309b
+"Come with me," you say. "We will find your mother together, somewhere safe." The girl considers this for a long time, and then holds out her arms.
+?? carry the child through the war-torn country | Endure Hardship | 4
+++ You carry her on your saddle for five days, through a country full of Saxons and deserters, sleeping in hedges and eating what you can find. She sings the whole way. At last you reach a convent in the hills, where the nuns are taking in the children of the war. On the first evening, among the children, a woman comes running. It is her mother. You do not stay to watch. You have seen enough.
+[d:4 | sk:Wilderness | rn:Divinity+2]
+-- You carry her on your saddle for five days. On the fourth, she falls ill with a fever from the cellar. You get her to the convent in time, and the nuns save her, but you have caught it too.
+[sk:Endure Hardship | st:+Plague-Ridden]
+
+=== 2221
+As you ride through a forest in golden sunlight, you come upon a ruined temple in a clearing, with a ring of broken columns and no roof. When the wind blows through the columns, it makes a sound like voices. You stop to listen, and realise the voices are saying something.
+
+An old woman is sweeping the temple floor. "The Temple of the Voices," she says. "It was built by the Romans to their goddess of the hunt. The wind speaks true, if you ask it the right question. Most people do not like the answers." She leans on her broom. "Ask it something. Or help me sweep. The leaves never stop."
+
+> You may ask the wind in the ruined temple a question. -> m121a
+> You may help the old woman keep the temple. -> m121b
+
+=== m121a
+You stand in the middle of the ring of columns and ask your question aloud. The wind rises. The voices murmur.
+?? understand the answer of the wind | Wisdom | 5
+++ The voices speak all at once, and then one at a time, and at last you understand. It is not the answer you expected. It is better. You thank the temple. The old woman nods. "It likes you," she says. "It does not usually." She gives you a little bronze arrowhead from the temple floor, for luck.
+[d:4 | sk:Spiritual | rn:Any+1 | tr:1]
+-- The voices speak all at once, and you cannot make out a word. The old woman laughs. "Too many questions in you," she says. "Come back when you have only one."
+[sk:Wisdom]
+
+=== m121b
+"The leaves never stop," you say, "but I have a broom." The old woman laughs and hands you another.
+?? keep the temple through a day and a night | Endure Hardship | 3+L
+++ You sweep all day, and at night, the old woman shows you how to light the lamp in the centre of the temple, which has not gone out, she says, for a thousand years. You sit up with it all night. Toward dawn, the voices in the columns begin to sing, very softly, a hunting song in a tongue older than Latin. When you leave, the old woman gives you her blessing, in the goddess's name, which is not a name you know. You find, riding away, that you can hear the wind in the trees more clearly than before.
+[d:L | sk:Wilderness | rn:Any+1]
+-- You sweep all day, and at night, you sit with the lamp, and around midnight you fall asleep. When you wake, the lamp is out. The old woman is very angry. The voices do not sing.
+[sk:Endure Hardship | st:+Accursed]
+
+=== 2321
+As you ride through a forest in dappled sunlight, you come upon a ruined temple in a clearing, with a ring of broken columns and no roof. When the wind blows through the columns, it makes a sound like voices singing. You stop, and realise they are singing a psalm.
+
+A young hermit is kneeling in the middle of the temple, weeping. "I came here to drive out the old goddess," he says. "I built an altar to the true God in her temple. And the voices changed. They sing psalms now." He looks up at you with frightened eyes. "But they sing them in her voice. Is it a blessing? Or a mockery? I cannot tell."
+
+> You may pray in the ruined temple with the hermit. -> m221a
+> You may listen closely to the voices to learn what they are. -> m221b
+
+=== m221a
+You kneel beside the young hermit. The voices sing around you.
+?? pray until the voices' meaning becomes clear | Piety | 5
+++ You pray for a long time, and the voices sing, and slowly you find that you are not frightened. When you open your eyes, the young hermit is smiling. "It is not a mockery," he says. "She is only singing. She likes to sing." He stays at the temple for the rest of his life, and it becomes a place of great peace, where hunters come to pray before they hunt.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You pray, but the voices grow louder, and harsher, and the hermit covers his ears. At last, you both flee the temple. You do not know what you heard.
+[sk:Piety | st:+Despairing]
+
+=== m221b
+You stand very still in the middle of the ring of columns and listen.
+?? discern the nature of the singing voices | Magic | 5
+++ You listen until you can hear each voice. They are not one goddess. They are hundreds of people, all the people who ever prayed in this place, to whatever god they had, and the wind has kept their voices. You tell the hermit. He is quiet a long time. "Then I will add mine," he says, and begins to sing, and the voices sing with him.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- You listen until the voices fill your head, and then you cannot stop hearing them, even when you have ridden away. It is a week before they fade.
+[sk:Magic | st:+Mad]
+
+=== 2421
+As you ride through a forest in dim sunlight, you come upon a ruined temple in a clearing, and hear drums. A band of Saxons have made it a shrine to their own god, Woden. There is a great wooden idol in the middle of the broken columns, and before it, tied to a stake, are three British captives. A Saxon priest in a wolfskin is sharpening a knife.
+
+"Midsummer," one of the captives calls to you, desperately. "They offer three to Woden at midsummer. It is midsummer tomorrow."
+
+There are twenty Saxons. They are feasting, and drunk.
+
+> You may attack the Saxon shrine and free the captives. -> m321a
+> You may burn the Saxons' idol to break their courage. -> m321b
+
+=== m321a
+You wait until dark, and draw your sword.
+?? rescue the captives from the Saxon shrine | Sword & Shield | 5
+++ At midnight, the Saxons are asleep round their fires. You go into the temple on foot, cut the captives free, and give them the Saxons' own spears. The four of you are out of the clearing before anyone wakes. At dawn, you hear the drums start, and stop, and a great roar of Saxon anger. The captives laugh and weep. One of them is a priest, and he blesses you all the way home.
+[d:4 | sk:Martial | rn:Divinity+2]
+-- At midnight, you go into the temple, but the priest in the wolfskin is not asleep. He howls, and the Saxons wake. You fight your way out, alone.
+[sk:Sword & Shield | st:+Wounded | st:+Despairing]
+
+=== m321b
+You look at the great wooden idol, and at the Saxons, and you remember what an old soldier once told you: take away a man's god, and you take away his courage.
+?? set fire to the idol of Woden | Cunning | 5
+++ You creep into the temple at midnight and pour oil on the idol's feet, and set it alight. The Saxons wake to see their god burning. They cry out in terror. They think it is a sign. By the time the idol falls, they have fled into the forest, leaving their captives, their feast and their weapons. The captives walk out of the temple at dawn, blinking at the smoke.
+[d:4 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+-- You creep into the temple and pour oil on the idol's feet, but a guard sees you. The Saxons drag you before the idol. You spend a very long night tied to the stake beside the captives, and are rescued at dawn by a band of the old king's men.
+[sk:Cunning | st:+Imprisoned]
+
+=== 2233
+You come upon the ruins of a fortress on a hill in Snowdonia, where the walls have fallen into a pool at its heart. An old shepherd is sitting on the broken gatehouse. "Dinas Emrys," he says. "King Vortigern built a tower here, and every night it fell down. Merlin, when he was a boy, told him why: two dragons were fighting in the pool beneath, a red and a white." He points at the pool. "They say the dragons are still down there, asleep."
+
+As he speaks, the pool bubbles. Something red stirs under the water.
+
+> You may dive into the pool to see the sleeping dragons. -> m133a
+> You may ask the shepherd to tell you more of Merlin's prophecy. -> m133b
+
+=== m133a
+You strip off your armour and dive into the cold, dark pool.
+?? swim to the sleeping dragons and return | Endure Hardship | 6
+++ Down and down you go, through black water, until your lungs are bursting. At the bottom, in a cave of glittering stone, two dragons lie curled together, one red and one white, sleeping, with their tails intertwined. The red one opens one eye and looks at you. Then it closes it again. You swim back up, gasping. You tell the shepherd what you saw. He is silent a long time. "Curled together," he says. "Not fighting." He seems to find that hopeful.
+[d:5 | sk:Wilderness | rn:Any+2]
+-- Down and down you go, through black water, until your lungs are bursting, and you have to turn back without seeing anything. You come up choking. The shepherd hauls you out. "Nobody ever reaches the bottom," he says.
+[sk:Endure Hardship | st:+Plague-Ridden]
+
+=== m133b
+You sit down on the gatehouse beside the old shepherd. "What did Merlin say," you ask, "about the dragons?"
+
+"That the red dragon was Britain," says the shepherd, "and the white dragon was the Saxon, and that they would fight for a long time. The red would be beaten back and back, to the edge of the sea. And then a boar from Cornwall would come and tread the white dragon's neck." He scratches his chin. "That is the young king, they say. The boar from Cornwall. Born at Tintagel." He looks at the pool. "But Merlin also said the boar would die in the end, of a wound from his own blood, and the white dragon would come back." He shrugs. "Merlin says a great many things. Most of them come true."
+[d:1 | sk:Wisdom | rn:Any+1]
+
+=== 2333
+You come upon a ruined monastery on a mountainside, its roof long gone, where snow drifts through the empty windows of the church. In the ruined scriptorium, you find an old monk, the last of his brothers, sitting at a desk under the open sky, copying a book by the light of the snow.
+
+"The Gospel of Joseph," he says, without looking up. "The only copy. It tells where the holy vessel came to rest in this island. The Saxons burned the monastery sixty years ago. I saved the book. I have been copying it ever since, so there will be two." He looks up. His fingers are black with cold. "I will not finish before the winter. Unless someone helps me."
+
+> You may help the old monk finish copying the book. -> m233a
+> You may carry the old monk and his book down the mountain to safety. -> m233b
+
+=== m233a
+You sit down at the desk beside him. He shows you how to cut a quill and mix the ink.
+?? copy the ancient gospel through the winter | Wisdom | 5
+++ You work beside him for a month, from dawn until the light fails, in the snow. You learn to write a fair hand, and you read, as you copy, the story of Joseph and the vessel, and where it went. On the last day, the old monk writes the final word and lays down his pen. "Two," he says. He gives you the copy. "Take it to Glastonbury," he says. He dies that night, in his sleep, with the other copy in his arms.
+[d:4 | sk:Spiritual | rn:Divinity+2 | tr:1]
+-- You work beside him for a week, but your hand is not steady, and you spoil three pages. The old monk is patient. The winter is not. You leave before the snow closes the pass, and you do not know if he finishes.
+[sk:Wisdom]
+
+=== m233b
+"You will not survive the winter here," you say. "Come down with me, and finish your book by a fire." The old monk shakes his head. "I promised my brothers I would not leave." You lift him anyway.
+?? carry the monk and his book through the snow | Endure Hardship | 3+L
+++ You carry him down the mountain on your back through the snowdrifts, with the book wrapped in your cloak, and at the bottom, you find a village with a church and a fire. The old monk is angry for a day, and then he sits by the fire and finishes his copy in a month, warm, and gives it to the village church. They still have it.
+[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You carry him down the mountain on your back, but the snow is deep and the path is lost, and you spend a night in a drift. He dies in your arms before morning. You save the book.
+[sk:Endure Hardship | st:+Despairing]
+
+=== 2433
+You come upon the ruins of an old fort on a mountaintop, where a dozen of the old king's soldiers have taken refuge. They are ragged and wounded and starving. Their captain, a young knight with a bandaged head, is standing on the broken wall, looking down at the valley, where a Saxon war-band is camped. "They have been there a week," he says. "They know we are here. They are waiting for us to starve."
+
+"There is a way down the back of the mountain," says an old soldier. "A goat-path. But the wounded cannot climb it."
+
+> You may lead the fit men down the goat-path to fetch help. -> m333a
+> You may stay and hold the fort with the wounded. -> m333b
+
+=== m333a
+"I will go," you say. "And I will bring help." The young captain looks at you. "Go quickly," he says.
+?? climb down the mountain and bring back help | Endure Hardship | 5
+++ You climb down the goat-path in the dark with three of the fittest men, and walk all night and all the next day to the old king's nearest camp. You find the old knight in command, Sir Lucan, and bring him back with fifty men. The Saxons in the valley see the dragon banner coming over the hill, and flee. The young captain in the fort weeps when he sees you. Of his dozen men, eleven are still alive.
+[d:5 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+-- You climb down the goat-path in the dark, and one of the men with you falls. You go on, and reach the old king's camp, and come back with fifty men, but the Saxons have already stormed the fort.
+[sk:Endure Hardship | st:+Despairing]
+
+=== m333b
+"I will stay," you say. The young captain nods. "Then we will hold," he says.
+?? hold the ruined fort against the Saxons | Warfare | 6
+++ The Saxons come on the third night. You have used the time well: stones piled on the walls, the gate blocked with rubble, the wounded men set where they can throw spears without standing. The Saxons come up the hill in the dark, and the fort fights back from every stone. By dawn, the Saxons have gone back down the mountain, carrying their dead. They do not come again. A week later, the old king's men find you, and bring bread.
+[d:5 | sk:Martial | rn:Romance+2]
+-- The Saxons come on the third night, and they are too many. The fort falls. You and three others escape down the goat-path. You do not know what became of the rest.
+[sk:Warfare | st:+Wounded | st:+Despairing]
+
+=== 2245
+You come upon an old Roman road running straight across a wide plain, where a milestone stands beside the ruins of a marching camp. As the sun sets, you hear the tramp of feet, and along the road comes a column of Roman soldiers, ghostly, in rank upon rank, with their eagle held high. They march straight toward you.
+
+An old drover sitting by the milestone calls out, "Get off the road! The Ninth Legion. They march every Midsummer Eve. Anyone who stands on the road is taken with them." He is already dragging his cattle into the ditch.
+
+> You may stand your ground on the road and challenge the ghostly legion. -> m145a
+> You may step aside and follow the legion to see where it goes. -> m145b
+
+=== m145a
+You rein in on the road and raise your hand. "Halt!" you call. The ghostly column comes on.
+?? stand before the ghost legion | Divinity/Romance | 4
+++ The column stops, an arm's length from your horse. The centurion at its head looks at you. He is very young. "Who are you," he asks in Latin, "to stop the Ninth?" You tell him your name, and your king. He looks at you for a long time. Then he raises his hand in salute. "Rome is gone," he says. "Britain is yours now. Guard it well." The legion fades, rank by rank, into the dusk. The drover is staring at you with his mouth open.
+[rn:Any+2 | d:4 | st:+Determined]
+~~2 The column stops, an arm's length from your horse. The centurion looks at you, and does not speak, and then the legion marches round you, and on. You feel the cold of them as they pass.
+[d:2 | rn:Any+1]
+-- The column does not stop. It marches through you, rank upon rank, and every one of them is cold as ice. When it has passed, you fall out of the saddle.
+[st:+Accursed]
+
+=== m145b
+You step your horse off the road and let the column pass, and then fall in behind it, at a distance.
+?? follow the ghost legion without being taken | Hunting | 5
+++ You follow them all night along the old road, and at dawn, they march into a hill and are gone. When you look at the hillside where they vanished, you see the outline of an old ditch and rampart, and in the grass, glinting, a bronze eagle, very old, green with age. You take it. The drover, when you show it to him, crosses himself. "The Ninth's eagle," he says. "It has been lost for four hundred years."
+[d:4 | sk:Wilderness | rn:Any+1 | tr:1]
+-- You follow them along the old road, and at some point in the night, you find that you are marching in step with them, and cannot stop. You march until dawn. When the legion fades, you are thirty miles from where you started, and very footsore.
+[sk:Hunting | st:+Lost]
+
+=== 2345
+You come upon a ruined chapel on a wide plain, its roof fallen in, with a single tomb inside. On the tomb lies the carved figure of a knight, and on its side is an inscription in old letters: *Here shall lie the knight who will see the vessel bare. Let no other lie here.* The tomb is empty. Its lid lies beside it, pushed aside.
+
+A young knight is standing beside the empty tomb, trembling. "I was going to lie in it," he says. "To see if it was me. My friend dared me." He looks at you. "Should I? If it is not me, they say, the lid falls and crushes you."
+
+> You may dissuade the young knight from lying in the tomb. -> m245a
+> You may test the tomb yourself. -> m245b
+
+=== m245a
+"Do not," you say. "Not on a dare. Not like this." The young knight looks at you, and at the tomb, and back.
+?? talk the young knight out of his folly | Wisdom | 4
+++ You tell him that the knight who sees the Grail will not need to be dared into anything, and that pride is the surest way to lose the quest. You tell him what the hermits say: that the humble will see it, not the brave. He listens, and at last he laughs, shakily. "My friend will call me a coward," he says. "Your friend," you say, "is not here." He rides away with you. That night, you hear, the lid of the tomb moved of its own accord and closed.
+[d:3 | sk:Spiritual | rn:Divinity+1]
+-- You tell him that pride is the surest way to lose the quest. He flushes. "You think I am not worthy," he says, and climbs into the tomb. The lid falls. You pull him out with a broken arm.
+[sk:Wisdom | st:+Scorned]
+
+=== m245b
+"Let me go first," you say, "and see what it does." The young knight stares at you.
+?? lie in the tomb of the Grail knight | Divinity | 5
+++ You lie down in the tomb. It is cold, and it fits you. The lid does not fall. You lie there a long time, looking up at the sky through the broken roof, and you feel, very clearly, that it is not you, and that it does not matter, and that you are welcome to lie there as long as you like. When you climb out, the young knight is on his knees. You tell him the truth. He does not believe you.
+[rn:Divinity+1 | d:5 | st:+Blessed]
+~~3 You lie down in the tomb. The lid shivers, and slides a finger's width, and stops. You climb out quickly. It is not you. But it did not crush you either.
+[d:2 | rn:Divinity+1]
+-- You lie down in the tomb. The lid slides, and crashes down, and you roll out just in time, with your leg caught. The young knight pulls you free.
+[st:+Wounded]
+
+=== 2445
+You come upon a village on a wide plain that has been burned to the ground. The church is a shell. The houses are ashes. In the square, a handful of survivors are digging graves. "Mordred's men," says an old man, leaning on his spade. "Because the lord of the manor would not send his sons to the war. They burned the manor, and the church, and hanged the lord from his own gate."
+
+A young woman is kneeling beside the burned church, pulling stones out of the rubble with her bare hands. "The priest," she says. "He is under here. I heard him yesterday. I have not heard him today."
+
+> You may dig the priest out of the ruined church. -> m345a
+> You may track the raiders who burned the village. -> m345b
+
+=== m345a
+You kneel beside the young woman and begin pulling stones out of the rubble.
+?? dig the priest out of the ruins | Endure Hardship | 3+L
+++ You dig all day, until your hands bleed. At dusk, you find a hollow under the fallen beams, and in it, the old priest, alive, curled round the church's silver cross. He opens his eyes and says, "I knew someone would come." The young woman weeps. The survivors carry him out on a door. He lives, and the next Sunday, he says Mass in the ashes of his church, and the whole village comes.
+[d:L | sk:Wilderness | rn:Divinity+2]
+-- You dig all day, and at dusk, you find him, under the fallen beams. He is dead. He has been dead since morning. The young woman sits down in the rubble and does not move.
+[sk:Endure Hardship | st:+Despairing]
+
+=== m345b
+You look at the tracks of many horses leading away from the village. "Which way did they go?" The old man points north.
+?? hunt down the village-burners | Hunting | 5
+++ You follow the tracks for two days and find them camped by a river: twenty men in Mordred's colours, drinking and dividing the lord's silver. You do not attack them. You ride to the nearest of the old king's captains, and lead his men back to the river by night. By dawn, the raiders are prisoners. The silver goes back to the village. It is not enough to rebuild the church. It is enough to start.
+[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+-- You follow the tracks for two days and find them camped by a river, but they have set a watch, and they see you. You are chased for a day.
+[sk:Hunting | st:+Pursued]
+
+=== 2257
+As you pick your way through a marsh at low tide, you see, rising out of the mud, the roofs and towers of a drowned abbey. The sea took it a hundred years ago. At low tide, you can walk to it across the mud, and its door is open.
+
+A fisherman calls out to you. "Do not go in! Brother Anselm's ghost is in there! He was the abbot. He drowned trying to save the abbey's treasure, and he still guards it." He shivers. "The tide comes in fast. Anyone who is inside when it turns is drowned."
+
+Through the open door, you see something gold glittering in the mud.
+
+> You may search the drowned abbey for its treasure before the tide turns. -> m157a
+> You may speak with the drowned abbot's ghost. -> m157b
+
+=== m157a
+You wade across the mud to the abbey door. Inside, the nave is knee-deep in black water, and the gold is further in than you thought.
+?? find the treasure and escape the tide | Nature Lore | 5
+++ You watch the water, and the gulls, and you know when the tide is about to turn. You find the gold, a chalice and two candlesticks, in the sanctuary, and you are out of the door and across the mud with the water chasing at your heels. The fisherman stares at you. You take the chalice to the nearest church. The candlesticks, you keep.
+[d:4 | sk:Wilderness | rn:Divinity+1 | tr:1]
+-- You find the chalice in the sanctuary, and turn, and the tide is already at the door. You swim out through a window. You lose the chalice.
+[sk:Nature Lore | st:+Plague-Ridden]
+
+=== m157b
+You wade to the abbey door and stand on the threshold. "Brother Anselm," you call. A grey figure rises out of the water in the nave.
+?? lay the drowned abbot's spirit to rest | Piety | 5
+++ He is an old man, dripping, with a gold chalice in his hands. "I could not save it," he says. "I could not save any of it." You tell him that he tried, and that God knows it, and you pray with him until the tide begins to turn. At the last moment, he holds out the chalice. "Take it," he says. "Give it to a church that is not under the sea." You take it, and run. When you look back, the abbey is under the water, and the ghost is gone.
+[d:4 | sk:Spiritual | rn:Divinity+2 | tr:1]
+-- He is an old man, dripping, with a gold chalice in his hands. You begin to pray, but the tide turns, and you have to run. He is still in the nave when the sea comes in.
+[sk:Piety]
+
+=== 2357
+As you pick your way through a marsh, you come upon a ruined tower on an island, black and cracked, with a light burning in its highest window. At its foot, a young man is sitting on a rock, weeping. "My master," he says. "Master Blaise. He was a great scholar. He was Merlin's teacher, they say. He shut himself in the tower to find the Grail by magic, instead of prayer. That was a year ago. He will not come down, and he will not let me up." He points at the window. "Sometimes I hear him laughing. Sometimes screaming."
+
+> You may climb the ruined tower to confront the old sorcerer. -> m257a
+> You may break the enchantment that holds the tower. -> m257b
+
+=== m257a
+You climb the broken stair of the tower. At the top, in a room full of books and smoke, an old man with a white beard is staring into a bowl of water.
+?? break the old scholar's obsession | Wisdom | 6
+++ He shows you what he sees in the bowl: a cup, very far away, that recedes whenever he reaches for it. You look at it, and at him, and you understand. "You are looking for it," you say, "so it runs from you. The hermits say it comes to those who are not looking." The old man is silent a long time. Then he laughs, and tips the bowl out of the window, and comes down the stair with you. His pupil weeps with joy.
+[d:5 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- He shows you what he sees in the bowl, and you look, and you cannot stop looking. It is a week before his pupil drags you out of the tower.
+[sk:Wisdom | st:+Obsessed]
+
+=== m257b
+You walk round the foot of the tower, looking for the spell that holds it.
+?? unmake the sorcerer's tower-spell | Magic | 5
+++ You find it: a ring of runes carved in the stones at the tower's foot, a spell of binding, turned inward, so that the old man cannot leave. He has bound himself. You scratch out one rune, and the whole tower shudders, and the light in the window goes out. A moment later, the old scholar comes stumbling out of the door, blinking in the daylight, and falls into his pupil's arms.
+[d:4 | sk:Spiritual | rn:Divinity+1]
+-- You scratch out one rune, and the tower shudders, and a crack runs up its side, and it falls, slowly, into the marsh. The old man and his pupil are saved, but the books are lost.
+[sk:Magic | st:+Scorned]
+
+=== 2457
+As you pick your way through a marsh during the war, you come upon a ruined fort on a causeway, held by a single old soldier in the old king's colours. He is sitting on the gate with a spear, and he has been there, he says, for a month. "I was told to hold the causeway until relieved," he says. "Nobody has relieved me."
+
+Behind him, you hear horses. Mordred's men are coming down the causeway.
+
+"There are thirty of them," he says calmly. "I have held it against ten before. Not thirty."
+
+> You may stand with the old soldier to hold the causeway. -> m357a
+> You may persuade the old soldier that his duty is done. -> m357b
+
+=== m357a
+You dismount and take your place beside him on the gate. He looks at you and nods.
+?? hold the causeway against Mordred's riders | Warfare | 6
+++ The causeway is narrow. Mordred's men can only come two abreast. You and the old soldier hold it for an hour, and then another, and then Mordred's men decide the causeway is not worth it, and turn back. The old soldier sits down on the gate, very slowly. "Relieved," he says. "At last." You take him to the old king's camp, where they give him a new pair of boots and a pension.
+[d:5 | sk:Martial | rn:Romance+2]
+-- The causeway is narrow, but they are thirty. The old soldier falls in the first hour. You are driven back into the marsh.
+[sk:Warfare | st:+Wounded | st:+Despairing]
+
+=== m357b
+"You were told to hold until relieved," you say. "I am relieving you." The old soldier looks at you suspiciously.
+?? persuade the old soldier to leave his post | Honor | 5
+++ You tell him, formally, in the old king's name, that he is relieved, and that his duty is done. The old soldier stands up and salutes you. Then he walks away down the causeway, and you walk with him, and the horses come on behind you to an empty gate. Nobody holds a causeway nobody guards. You find him a place by a fire, and he talks about his wife for three hours.
+[d:3 | sk:Courtly | rn:Divinity+1]
+-- You tell him he is relieved. The old soldier looks at you. "By whom?" he asks. "I do not know you." He turns back to the causeway and lowers his spear. You cannot leave him. You cannot stay.
+[sk:Honor | st:+Despairing]
+
+=== 2269
+As you sail past Dover, you see the old Roman lighthouse on the cliff, half-ruined, with a light burning at the top of it. The fishermen say an old hermit lives there, keeping the light, so that ships will not wreck on the Goodwin Sands. But tonight, the light is flickering, and going out.
+
+"If it goes out," your captain says, "the whole Calais fleet will be on the Sands before morning."
+
+> You may climb up to the lighthouse and help the hermit keep the light. -> m169a
+> You may warn the ships at sea yourself. -> m169b
+
+=== m169a
+You land in the cove and climb the cliff to the lighthouse. Inside, the old hermit is lying at the foot of the stair with a broken leg.
+?? keep the lighthouse burning through the night | Endure Hardship | 3+L
+++ You carry wood up the stair all night, and feed the fire, and keep it burning. The old hermit lies at the foot of the stair, directing you. At dawn, you see the Calais fleet sailing safely past the Goodwin Sands, their sails bright in the sunrise. You set the hermit's leg. He blesses you. "Every ship that passes tonight owes you a prayer," he says.
+[d:L | sk:Wilderness | rn:Divinity+2]
+-- You carry wood up the stair all night, but you fall asleep near dawn. The light goes out. At sunrise, you see a ship on the Goodwin Sands.
+[sk:Endure Hardship | st:+Despairing]
+
+=== m169b
+You stay aboard and sail out toward the Sands with every lantern lit.
+?? guide the fleet away from the Sands | Warfare | 5
+++ You sail up and down the edge of the Sands all night, with every lantern blazing and your crew shouting through speaking-trumpets. The Calais fleet sees you and steers clear. At dawn, every ship is past the Sands. The fishermen of Dover tell the story for years.
+[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+-- You sail up and down the edge of the Sands, but the tide takes you onto them yourself. By dawn, you are aground, and so are two of the Calais ships.
+[sk:Warfare | st:+Plague-Ridden]
+
+=== 2369
+As you sail north along the coast in the Grail year, you come upon a ruined monastery on an island, where the Saxons burned the monks a hundred years ago. Its walls are black and roofless. But there is a light in the library.
+
+You row ashore and find a young woman sitting among the ruins with a great book on her knees, reading by candlelight. "Sister Hild," she says. "I came here to find this. The monks hid it in the wall when the Saxons came." She shows you the book: pages of gold and blue and red, illuminations so beautiful they seem to glow. "It is the Book of the Grail. It tells where the vessel goes when it leaves a land." She looks up. "But the pages are rotting. And there is a storm coming."
+
+> You may help Sister Hild save the book from the storm. -> m269a
+> You may help Sister Hild read the book before it rots. -> m269b
+
+=== m269a
+You wrap the book in your cloak and carry it down to your boat as the first drops of rain begin to fall.
+?? bring the rotting book through the storm | Endure Hardship | 5
+++ The storm catches you halfway to the mainland. You lie on the book in the bottom of the boat while the waves break over you, and let your own back take the rain. At dawn, you reach the shore, soaked to the bone, and the book is dry. Sister Hild takes it to a convent where the nuns know how to mend old books. They copy it. You are allowed to read one page, and you do not tell anyone what it says.
+[d:4 | sk:Wilderness | rn:Divinity+2]
+-- The storm catches you halfway to the mainland, and a wave washes the book out of your arms. You dive for it, and catch it, but half its pages are gone to the sea.
+[sk:Endure Hardship | st:+Despairing]
+
+=== m269b
+You sit down beside her. "Then let us read it," you say, "while we can."
+?? read the Book of the Grail | Wisdom | 5
+++ You read all night, by candlelight, while the storm howls round the ruins. The Latin is old and strange, but between you, you make it out. It tells where the Grail goes when it leaves a land: not away, but inward, into the hearts of those who wait for it. At dawn, the pages crumble in your hands, one by one. Sister Hild is weeping. "We have it," she says, tapping her head. "Here."
+[d:4 | sk:Spiritual | rn:Divinity+1 | st:+Blessed]
+-- You read all night, but the Latin is too old and strange, and you understand very little. At dawn, the pages crumble. Sister Hild says nothing.
+[sk:Wisdom]
+
+=== 2469
+As you sail along the coast of Cornwall during the war, you see the ruins of Tintagel on its rock, where the old king was born. Smoke is rising from the ruins. Saxons. A war-band has landed there and is using the old castle as a base, raiding the villages on the coast.
+
+A fisherman rowing beside you spits. "They want to take the old king's birthplace," he says, "and hold it, to shame him. And to have a harbour."
+
+> You may lead the fishermen in an attack on Tintagel. -> m369a
+> You may slip into Tintagel and burn the Saxons' ships. -> m369b
+
+=== m369a
+You call the fishing boats together and tell them your plan.
+?? retake Tintagel from the Saxons | Warfare | 6
+++ You come in at dawn, on the tide, with twenty fishing boats and a hundred angry Cornishmen. You land on the causeway, and the Saxons, who were expecting the villages to be frightened, find the villages coming for them. It is a hard fight in the ruins. By noon, the Saxons are in their ships, rowing away. The Cornishmen raise a cheer that echoes off the cliffs, and plant the old king's dragon on the highest wall.
+[d:5 | sk:Martial | rn:Romance+2]
+-- You come in at dawn with twenty fishing boats, but the Saxons are waiting on the causeway with a shield-wall. The fishermen are brave, but not soldiers. You fall back to the boats.
+[sk:Warfare | st:+Wounded | st:+Despairing]
+
+=== m369b
+You wait until night, and row alone to the cove below Tintagel, where the Saxon ships are drawn up on the beach.
+?? burn the Saxon ships in the cove | Cunning | 3+L
+++ The Saxons are feasting in the ruins above. You set fire to their ships, one by one, and slip back into your boat. By the time they see the flames, the fleet is burning. They run down to the cove, and the fishermen, who have been waiting in the dark, are on them. By dawn, the Saxons have surrendered. The Cornish are very proud of you.
+[d:L | sk:Courtly | rn:Romance+1 | rn:Any+1]
+-- You set fire to the first ship, but a Saxon on watch sees you, and raises the alarm. You escape back to your boat, but the other ships are saved.
+[sk:Cunning | st:+Pursued]

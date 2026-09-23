@@ -1,0 +1,454 @@
+=== 2208
+You are drinking in a tavern in Carleon when a hooded man slips past your table and down the cellar stairs. A moment later, another follows, and you glimpse under his hood the face of Sir Maldred, one of the High King's own stewards. The tavern-keeper sees you looking and goes pale.
+
+"Do not go down there," he whispers. "They meet every Friday. Men from the north. Orkney men, King Lot's men. And our own steward, God help us." He wipes the counter nervously. "They pay me well not to hear anything."
+
+Through the floorboards, you hear voices, and the chink of coins.
+
+> You may creep down and listen to the traitors' meeting. -> m108a
+> You may burst in and arrest the traitors. -> m108b
+
+=== m108a
+You slip down the cellar stairs in your stockinged feet and crouch behind a row of barrels.
+?? overhear the traitors' plot unseen | Hunting | 5
+++ You hear it all: Sir Maldred is to leave the postern gate of Carleon unbarred on Midsummer Night, and King Lot's men will come through it and seize the young king in his bed. The steward is to be paid a hundred marks and a castle in Lothian. You creep back up the stairs and ride for Camelot. On Midsummer Night, King Lot's men come through the postern, and find it guarded by a hundred of the king's knights. Maldred flees north. The High King thanks you in person.
+[d:5 | sk:Wilderness | rn:Romance+1 | rn:Any+1]
+-- You crouch behind the barrels, but you knock one with your elbow, and it rolls. Every man in the cellar draws his sword. You flee up the stairs and out into the night, and you have heard nothing worth hearing.
+[sk:Hunting | st:+Pursued]
+
+=== m108b
+You draw your sword and kick open the cellar door. The men at the table leap up.
+?? seize the traitor steward | Sword & Shield | 5
+++ There are four of them, and they are more used to plotting than fighting. You disarm two, and the others flee through a tunnel at the back of the cellar. Sir Maldred is one of the two. He gets down on his knees and begs. You take him to the High King, who listens to him weep for an hour, and then sends him to the Holy Land for the rest of his life. You are given his horse.
+[d:4 | sk:Martial | rn:Romance+1 | rn:Any+1 | tr:1]
+-- There are four of them, and one of them is very good with a sword. They escape through a tunnel. Sir Maldred is back in the High King's hall the next morning, looking innocent, and he looks at you across the room with pure hatred.
+[sk:Sword & Shield | st:+Pursued]
+
+=== 2308
+You are walking late at night through the cellars of Camelot, looking for a quiet place to pray, when you see a light under a door and hear two voices. One is sharp and dry. The other is soft and courteous.
+
+"The queen was seen in the garden again on Tuesday," says the dry voice. "I have written it down." You recognise Sir Agravain. "Good," says the soft voice. "Keep writing." That is Mordred. "One day my father will have to listen. And we will be ready." Mordred laughs gently. "Is someone there?" The door opens. Mordred looks at you with his warm grey eyes. "Friend," he says. "Come in. We have been hoping you would join us."
+
+> You may join Mordred and Agravain in their secret council. -> m208a
+> You may refuse Mordred and warn the High King. -> m208b
+
+=== m208a
+You step into the little room. On the table is a book, full of dates and times and places in Agravain's crabbed hand. Mordred pours you a cup of wine.
+[tok:12]
+?? win Mordred's confidence | Cunning | 4
+++ You sit with them long into the night. You laugh at Mordred's jokes and nod at Agravain's lists, and you tell them one or two things you have seen, true things, small things. By dawn, Mordred has taken you by the hand. "A friend," he says. "I knew it. We will not forget you." He gives you a ring from his own finger. You go out into the grey morning and wonder what you have done.
+[d:4 | sk:Courtly | rn:Villainy+2 | tr:1]
+-- You sit with them long into the night, but Agravain watches you with his cold eyes the whole time, and when you leave, he whispers something to Mordred. From then on, you notice, Mordred greets you with great warmth, and you are never again told anything.
+[sk:Cunning | rn:Villainy+1]
+
+=== m208b
+"No, Sir Mordred," you say. "I will not." Mordred's smile does not change. "A pity," he says softly, and closes the door.
+?? warn the High King of Mordred's plotting | Diplomacy | 5
+++ You go to the High King that same morning, and tell him, carefully, what you heard. The king listens with a heavy face. "Mordred," he says, "is my son." You say nothing. At last he nods. "I will watch," he says. "Thank you." Nothing changes, not yet. But the next time Agravain brings a list to the king, the king reads it, and burns it, in front of him. Mordred, watching, looks across the hall at you, and smiles.
+[d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+-- You go to the High King and tell him what you heard. The king's face darkens, but not at Mordred. "You spy on my son," he says, "in my own house?" You leave the hall in disgrace.
+[sk:Diplomacy | st:+Scorned]
+
+=== 2408
+You are hiding in London, which Mordred holds, when a baker slips a note into your loaf. *The Bell and Anchor, midnight. Come alone.* At midnight, in the back room of the tavern, you find a dozen men and women: a goldsmith, two monks, a sergeant of the watch, a laundress. "Friends of the old king," the goldsmith says. "When his army comes to London, we mean to open the Ludgate for him." He looks at you. "We need a knight to lead us on the night. And we need to know you are not one of Mordred's."
+
+If you have Story Token #12, turn immediately to [[m308x]].
+
+> You may lead the loyalists in opening the city gate. -> m308a
+> You may betray the loyalists to Mordred's men. -> m308b
+
+=== m308x
+The laundress looks at you, and her face changes. "I have seen you," she says, "with him. In the palace. Talking to him like a friend." The room goes very quiet. The goldsmith's hand goes to his knife.
+
+You get out of the Bell and Anchor alive, but only just, and with a gash across your arm. The loyalists scatter into the night. You do not know whether they will ever trust anyone again. You do not know whether Mordred will hear that you were there.
+[sk:Diplomacy | st:+Wounded | st:+Pursued]
+
+=== m308a
+"I am the old king's," you say. "Tell me when." The goldsmith grips your hand.
+?? seize the Ludgate for the old king | Warfare | 5
+++ When the old king's army is sighted from the walls, you lead the loyalists to the Ludgate at midnight. The sergeant of the watch has made sure his men are drunk. You overpower the rest, and throw open the gate, and the old king's vanguard pours into London with torches. By dawn, the city is his. The goldsmith weeps. The laundress kisses you on both cheeks. The old king, riding in at noon, stops his horse beside you and lifts his hand to you.
+[d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+-- When the old king's army is sighted, you lead the loyalists to the Ludgate, but Mordred's men are waiting. Someone talked. Half the loyalists are taken. You escape over the wall.
+[sk:Warfare | st:+Pursued | st:+Despairing]
+
+=== m308b
+You nod and smile, and agree to everything. Then, at dawn, you go to Mordred's steward at the palace.
+?? sell the loyalists to Mordred | Cunning | 3+L
+++ The steward listens, and smiles, and pays you in gold. The next night, the Bell and Anchor is raided. The goldsmith and the laundress and the rest are taken away. You do not ask where. Mordred himself sends for you, and thanks you, and calls you *friend*. It is a very warm word, in his mouth.
+[d:L | tr:2 | rn:Villainy+2 | tok:12]
+-- The steward listens, and smiles, and asks how he can know you are not lying. He has you held while the tavern is searched. It is empty. The loyalists were warned. You are held for a week and let go, empty-handed and despised by both sides.
+[sk:Cunning | st:+Imprisoned | rn:Villainy+1]
+
+=== 2220
+As you ride through a forest at midnight under a full moon, you see a ring of torches under a hollow oak. Twelve figures in hooded robes of green and white are standing in a circle, chanting in an old tongue, around a stone on which lies a sword, a golden bough and a very frightened white bull.
+
+One of them turns, and lowers her hood. She is an old woman with bright eyes. "A knight," she says. "Welcome. We are the last of the old priests of this land. We are praying for the young king, that his reign may be long." She smiles. "The bull is for the old gods. They like the young king too. But King Lot has sent men to stop us. They are coming through the wood now."
+
+You hear horses.
+
+> You may defend the old priests' rite from King Lot's men. -> m120a
+> You may stop the sacrifice of the white bull. -> m120b
+
+=== m120a
+You turn your horse to face the sound of the riders.
+?? hold off Lot's riders in the moonlit wood | Mounted | 3+L
+++ You meet them on the path, six riders in Orkney colours, and you ride through them and scatter them among the trees. While they are finding their horses, the chant behind you rises and falls, and ends. When you ride back to the oak, the old priests are gone, and the white bull is standing alone, garlanded, eating grass. The old woman's voice comes out of the dark: "The old gods thank you. They let the bull go. They liked your fighting better."
+[d:L | sk:Martial | rn:Any+2]
+-- You meet them on the path, and there are too many. You are driven back into the circle, and the rite is broken, and the priests flee. Lot's men take the bull.
+[sk:Mounted | st:+Wounded]
+
+=== m120b
+You ride into the circle. "No blood," you say. "Not in the young king's name."
+?? persuade the old priests to spare the bull | Wisdom | 5
+++ You tell them that the young king swore at Pentecost to give mercy to any who ask it. "The bull cannot ask," you say, "so I ask for it." The old woman looks at you for a long time. Then she laughs. "Then the bull goes free," she says, "in the king's name. The old gods will understand. They were always fond of a clever answer." She puts the golden bough in your hand. The riders never come.
+[d:4 | sk:Spiritual | rn:Divinity+1 | tr:1]
+-- You tell them about the young king's oath. The old woman shakes her head. "Your king's oath," she says, "is not our gods' oath." They send you out of the circle. You hear the chant end behind you, and then silence.
+[sk:Wisdom | st:+Accursed]
+
+=== 2320
+As you ride through a forest at midnight, you see a ring of torches under a hollow oak. Four figures in crowns sit on four stones around a fire: four queens. One is in black, one in white, one in red and one in kingfisher blue. You recognise the last. It is Morgan le Fay.
+
+"The scabbard," she is saying. "My brother's scabbard. Whoever wears it cannot bleed. I will have it, and then my brother will bleed like anyone else." The Queen of Northgalis laughs. "And then?" she asks. "And then," says Morgan, "we will see who the Grail was really for." She turns her head and looks straight at you through the trees. "Come in, little knight," she says. "We know you are there."
+
+> You may join the four queens' plot. -> m220a
+> You may break up the queens' meeting and warn Camelot. -> m220b
+
+=== m220a
+You walk into the ring of torches. Morgan pats the stone beside her. "Sit," she says. "Have you ever been to Camelot's treasury?"
+?? help the queens steal the scabbard | Cunning | 6
+++ You help them plan it. You tell them which guards drink and which do not, and which door of the treasury sticks. Two weeks later, the scabbard is gone from Camelot, and nobody knows how. Morgan sends you a gift: a cloak that keeps you warm in any weather, and a note that says, *My brother will bleed now. Thank you.* You wear the cloak. It is very warm. You try not to think about the note.
+[d:5 | tr:2 | rn:Villainy+2 | rn:Divinity-1]
+-- You help them plan it, but on the night, the treasury guard is Sir Kay, who is not drinking, and who knows your face. You flee Camelot, and the queens do not help you. Morgan, you hear, laughs.
+[sk:Cunning | st:+Pursued | rn:Villainy+1]
+
+=== m220b
+You draw your sword and step into the firelight. "The High King will hear of this," you say. The Queen of Northgalis shrieks. Morgan only smiles.
+?? break the queens' spell and escape | Magic | 5
+++ Morgan raises her hand, and the torches flare up green, and the air thickens like honey. You speak the only prayer you know against sorcery, loudly, and hold your sword-hilt up like a cross. The green fire gutters. The four queens are gone, in four directions, like smoke. You ride to Camelot through the night. The High King moves his scabbard to a new vault. Morgan, you hear, is very annoyed.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- Morgan raises her hand, and the torches flare green, and you forget what you were saying. You wake at dawn under the oak, alone, with no memory of what you heard, only a feeling that it mattered.
+[sk:Magic | st:+Ensorcelled]
+
+=== 2420
+As you ride through a forest at midnight, you see a ring of torches under a hollow oak. Two men sit on a log, talking in low voices. One wears Mordred's red and black. The other is a tall, fair-haired Saxon, with a gold torc round his neck. Between them, on the log, is a map, and a bag of gold.
+
+"Kent," the Saxon is saying, in heavy British. "And Sussex. And the Isle of Wight. Those are my king's terms." Mordred's man nods. "And your king will bring his fleet to the Medway at midsummer," he says, "and hold it against the old king's ships." They clasp hands over the map.
+
+Neither has seen you.
+
+> You may seize the map and the gold. -> m320a
+> You may follow the Saxon envoy back to his fleet. -> m320b
+
+=== m320a
+You ride out of the dark with your sword drawn. Both men leap to their feet.
+?? take the map from Mordred's envoy and the Saxon | Sword & Shield | 5
+++ Mordred's man runs. The Saxon does not. He draws a long knife and comes at you, and fights like a wolf. But you are mounted and he is not, and at last he goes down under your horse's hooves. You take the map and the gold to the old king's camp. The king's captains read the map and change their plans. When the Saxon fleet comes to the Medway at midsummer, the old king's ships are waiting for it.
+[d:5 | sk:Martial | rn:Romance+1 | rn:Any+1 | tr:1]
+-- Mordred's man runs, and the Saxon comes at you with a long knife, and gets under your guard. When you have fought him off, both men are gone, and the map with them.
+[sk:Sword & Shield | st:+Wounded]
+
+=== m320b
+You let them part, and follow the Saxon through the forest, keeping far back.
+?? shadow the Saxon envoy to his fleet | Hunting | 3+L
+++ You follow him for two days, through the forest and across the downs to the sea, where forty longships lie hidden in a creek. You count them, and mark the creek, and ride back to the old king's camp. The king's captains send fire-ships down the creek on a spring tide. By morning, the Saxon fleet is ash. The old king, grey and tired, gives you a gold ring from his own finger.
+[d:L | sk:Wilderness | rn:Romance+1 | rn:Divinity+1]
+-- You follow him through the forest, but on the second day, he doubles back, and you walk right into him. You get away, but he knows now that he was followed, and the fleet moves.
+[sk:Hunting | st:+Pursued]
+
+=== 2232
+You come upon two pavilions pitched on a high mountain meadow, one flying the banner of the King of North Wales and the other the banner of the King of South Wales. Their fathers have been at war for forty years. Between the pavilions, on a flat rock, sit the two young kings, alone, with a flask of wine, trying very hard not to look at each other.
+
+One of them sees you and waves you over urgently. "We need a witness," he says. "We have come to make peace, secretly, without our councils. But there must be a witness who is neither North nor South." The other king looks at you suspiciously. "And he must swear," he says, "to keep it secret until the peace is proclaimed."
+
+> You may witness the kings' secret peace. -> m132a
+> You may take word of the meeting to the High King. -> m132b
+
+=== m132a
+You sit down on the rock between them. "I will witness," you say, "and keep silent."
+?? keep the peace between the two young kings | Diplomacy | 5
+++ It takes all day. They argue about borders, and cattle, and a castle that each says is his, and twice one of them gets up to leave. Twice you talk him down. At sunset, they clasp hands, and you swear on your sword to keep silent until Michaelmas. You do. At Michaelmas, the peace is proclaimed, and there is dancing in both kingdoms. Both kings send you gifts, and neither says why.
+[d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1 | tr:1]
+-- It takes all day. They argue about borders, and cattle, and at last one of them calls the other's father a horse-thief, and the other throws the wine in his face. They ride away in opposite directions. The war goes on for another forty years.
+[sk:Diplomacy | st:+Despairing]
+
+=== m132b
+You look at the two young kings, and at their secret peace, and you think of the High King, who will want to know.
+?? carry word of the meeting to Camelot | Mounted | 3+L
+++ You ride down the mountain and to Camelot in two days. The High King hears of the meeting, and smiles, and sends Merlin himself to bless it. The two young kings are furious at first, and then flattered. The peace is signed at Camelot, before the Round Table, and the High King is its guarantor, and all Wales knows it.
+[d:L | sk:Martial | rn:Romance+1 | rn:Any+1]
+-- You ride down the mountain to Camelot, but the young kings, finding you gone, assume the worst. When the High King's messenger arrives, the peace is broken, and they each blame the other for the leak.
+[sk:Mounted | st:+Scorned]
+
+=== 2332
+You come upon a cave high on a mountain where seven hermits sit around a single candle, with their hoods over their heads, in silence. When you come to the entrance, one of them looks up. "Come in," he says. "We have been waiting for a knight. We are the seven hermits of the Grail. Every knight on the quest has come to one of us, to have his dreams read." He gestures at the others. "We meet once a year to compare what we have seen. This year, we have all dreamed the same dream."
+
+"A plain," says another. "A king and his son. Ravens." The seven look at you. "We cannot tell the king," says the first. "Kings do not listen to hermits. Will you?"
+
+> You may carry the hermits' warning to the High King. -> m232a
+> You may ask the hermits to read your own dreams. -> m232b
+
+=== m232a
+You take the warning, written on a scrap of vellum in seven hands. It is a long ride to Camelot.
+?? bring the hermits' warning to the king | Honor | 5
+++ The High King reads it in his solar, alone. He is silent a long time. "Merlin told me this," he says at last, "when I was a boy. Seven hermits tell me now." He puts the vellum in the fire. "I have always known," he says. "It does not help, knowing. But thank them for me." You ride away from Camelot knowing that you have given an old man a heavy thing to carry, and that he thanked you for it.
+[d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+-- The High King's chamberlain takes the vellum and promises to give it to the king. You learn later that it was given to Mordred instead.
+[sk:Honor | st:+Despairing]
+
+=== m232b
+You sit down in the circle. "Read my dreams," you say. The seven hermits look at you, and then at each other.
+?? open your dreams to the seven hermits | Wisdom | 5
+++ You tell them your dreams, and they tell you what they mean. Some are funny. Some are not. At the end, the oldest of them says, "You will be there, on the plain. But you will not be there at the end. You will be somewhere else, doing something better." You ask what. He shrugs. "That, you will choose." You ride away lighter than you came.
+[d:3 | sk:Spiritual | rn:Divinity+1 | st:+Determined]
+-- You tell them your dreams, and the seven hermits go very quiet, and one of them begins to weep. They will not tell you what they saw.
+[sk:Wisdom | st:+Doomed]
+
+=== 2432
+You come upon a camp on a mountainside at dusk, where a dozen knights in the black and gold of Orkney are gathered round a fire, swearing an oath on a sword. They are grim, hard men. Their leader, a grey-bearded knight, is speaking. "Gareth and Gaheris, unarmed, cut down at the stake," he says. "By Benwick's hand. We swear we will not rest until the house of Benwick is ash."
+
+He sees you. "You," he says. "Were you there? At the burning? Whose side were you on?" The Orkney knights turn, their hands on their swords.
+
+If you have Story Token #17, turn immediately to [[m332x]].
+
+> You may swear the Orkney oath of vengeance with them. -> m332a
+> You may try to turn the Orkney knights from their vengeance. -> m332b
+
+=== m332x
+The grey-bearded knight's eyes narrow. "I know your face," he says. "You fought Gaheris once. At a crossroads, over Lamorak." The Orkney knights draw their swords all at once.
+
+You fight your way out of the camp, down the mountainside, in the dusk, with Orkney steel all round you. You escape. The Orkney knights, you hear later, have added your name to the end of their oath.
+[sk:Sword & Shield | st:+Pursued | st:+Wounded]
+
+=== m332a
+You put your hand on the sword with theirs. "I was there," you say. "I saw Gareth fall." The grey-bearded knight nods slowly.
+?? swear the oath of vengeance and ride with Orkney | Warfare | 4
+++ You ride with them for a month, across the sea, to the siege of Benwick, and you fight beside them in the trenches before the castle walls. They are brave and bitter, and they trust you like a brother. When they go home, the grey-bearded knight gives you an Orkney brooch. "You are one of us now," he says. You are not sure that is a good thing.
+[d:4 | sk:Martial | rn:Villainy+1 | rn:Any+1 | tr:1]
+-- You ride with them to the siege of Benwick. In the first assault, the Orkney knights charge too early, in their rage, and are cut down under the walls. You are carried from the field.
+[sk:Warfare | st:+Wounded | st:+Despairing]
+
+=== m332b
+"Gareth," you say, "was the gentlest knight I ever knew. Would he have wanted this?" The grey-bearded knight's face twists.
+?? persuade the Orkney knights to lay down their vengeance | Piety | 6
+++ You talk to them of Gareth: his kitchen year, his pastry, his kindness to squires. You make them laugh, and then weep. You remind them that the High King is at Benwick already, and that more blood will only make the war longer and the realm weaker, with Mordred at home. At the end, the grey-bearded knight lays his sword down on the ground. "For Gareth," he says. "Not for Benwick. For Gareth." They ride home to Orkney. It is not the end of the war. It is the end of their part in it.
+[d:5 | sk:Spiritual | rn:Divinity+2]
+-- You talk to them of Gareth, and his kindness, and the grey-bearded knight listens, and then says, "Yes. And they killed him." You have only made it worse.
+[sk:Piety | st:+Scorned]
+
+=== 2244
+You come upon a ring of standing stones on a wide plain at dusk, where a young man and a young woman are standing in the middle, holding hands and whispering. They spring apart when they see you. The young woman is dressed richly; the young man is a shepherd.
+
+"Please," she says. "Do not tell. I am Gwenhwyfach, daughter of Lord Maelwas. This is Cian. We meet here every full moon. My father wants me to marry the Earl of Hereford, who is fifty. If he finds out about Cian, he will hang him." She takes Cian's hand again. "We mean to run away tonight. But the Earl's men are watching the roads."
+
+> You may help the young lovers escape the Earl's men. -> m144a
+> You may persuade the young lovers to go to her father with the truth. -> m144b
+
+=== m144a
+"Which way do you want to go?" you ask. Cian points west, toward the mountains. "My uncle has a farm," he says.
+?? get the lovers past the Earl's men | Hunting | 3+L
+++ You lead them off the road and across the plain by night, following a stream-bed, and through a wood, and past the Earl's men asleep by their fire. By dawn, you are in the hills. The young woman takes off her rich gown and puts on a shepherd's smock from Cian's pack, and laughs, and looks happier than any lady you have seen. You leave them at the uncle's farm. A year later, you hear that Lord Maelwas has a grandchild and has forgiven everyone.
+[d:L | sk:Wilderness | rn:Romance+2]
+-- You lead them off the road and across the plain, but the Earl's men have hounds. You are caught at the edge of the wood. Cian is taken. You and the young woman are sent back to her father.
+[sk:Hunting | st:+Despairing]
+
+=== m144b
+"Running will not make you happy," you say. "It will make you afraid. Let me speak to your father." The young woman laughs bitterly. "My father," she says, "does not listen."
+?? persuade Lord Maelwas to let his daughter choose | Diplomacy | 5
+++ Lord Maelwas does not listen, at first. But you tell him about the stone circle, and the full moons, and how the young woman looked when she held the shepherd's hand. You ask him whether his own wife chose him. He is silent a long time. "She did," he says. "Her father hated me." In the end, he does not give his daughter to the shepherd. But he does not give her to the Earl, either. And he gives Cian a farm.
+[d:3 | sk:Courtly | rn:Romance+1 | rn:Divinity+1]
+-- Lord Maelwas does not listen. He sends his men to the stone circle that night. Cian is not hanged. He is sent to the Holy Land. The young woman does not speak to you, or anyone, for a year.
+[sk:Diplomacy | st:+Scorned]
+
+=== 2344
+You come upon a ring of standing stones on a wide plain at dusk, where a nun in a grey habit and a knight in grey armour are standing together, not touching, in the middle of the circle. They turn as you approach, and the nun pulls her veil across her face.
+
+"Do not be alarmed," the knight says. "I am Sir Ector de Maris. This is Sister Eleri. We were betrothed before she took the veil and I took the Grail quest. We meet here once a year, and talk, and pray, and part. We have never broken our vows." He looks tired. "But her abbess has heard of it, and says she must be walled up as an anchoress. Tomorrow."
+
+> You may help Sister Eleri escape the abbess's punishment. -> m244a
+> You may speak for the two of them before the abbess. -> m244b
+
+=== m244a
+You look at the nun. "Do you want to be walled up?" you ask. She hesitates. "No," she whispers.
+?? spirit the nun away before the walling-up | Mounted | 3+L
+++ You take her up behind your saddle and ride through the night to a convent in the next county, where the abbess is a sensible woman who has no patience with walling-up. Sister Eleri is taken in. Sir Ector de Maris, riding beside you, grips your hand at the gate. "We will meet again next year," he tells her. She laughs. "Somewhere else," she says.
+[d:L | sk:Martial | rn:Romance+1 | rn:Divinity+1]
+-- You take her up behind your saddle and ride through the night, but the abbess's men are on the road. They take her back. The next day, the last stone is set in her wall.
+[sk:Mounted | st:+Despairing]
+
+=== m244b
+"Let me go with you to your abbess," you say. "An honest knight's word may count for something." Sister Eleri looks doubtful. Sir Ector nods.
+?? defend the nun's honour before her abbess | Honor | 5
+++ The abbess is a hard old woman, but not a stupid one. You tell her, with your hand on your sword, that you watched them in the stone circle and they did not so much as touch hands. Sir Ector swears the same. Sister Eleri swears it. The abbess looks at the three of you for a long time. "Once a year," she says at last. "In the chapel. With me present." Sister Eleri weeps with relief. Sir Ector laughs aloud.
+[d:3 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+-- The abbess is a hard old woman. When you swear to the nun's innocence, she asks you how you know, and you say you watched, and she asks you why a knight was watching nuns in the dark. It goes badly after that.
+[sk:Honor | st:+Scorned]
+
+=== 2444
+You come upon a ring of standing stones on a wide plain in the west. Inside the ring, under a white flag, two heralds are meeting: one in the old king's colours and one in Mordred's. Between them, on a stone, is a parchment. They look up as you ride in.
+
+"A parley," says the old king's herald. "Tomorrow, on the plain beyond. The king and Mordred will meet, each with fourteen men, to make terms. Every other man on both sides will stand back." He looks at you gravely. "The king has given one order: no man is to draw a sword while the parley is on, for any reason, or the armies will fall on each other." Mordred's herald nods. "The same order," he says, "from my king."
+
+Both heralds are uneasy. "We need a witness," says the old king's herald, "who will carry the order to the troops, and see that it is obeyed."
+
+> You may carry the order not to draw swords to the old king's army. -> m344a
+> You may carry the order to Mordred's army. -> m344b
+
+=== m344a
+You ride through the old king's camp from end to end, telling every captain: no man is to draw a sword while the parley is on. For any reason.
+?? make every man in the old king's host understand | Diplomacy | 5
+++ By dawn, every man in the old king's host has heard it from your own mouth. You have told them why: that this is the last chance, and that one drawn sword could end everything. The next day, you stand in the ranks and watch the parley in the distance. You watch an adder slide out of the heather. You watch a knight lift his sword to strike at it. You are already running. You reach him before the sword is clear of the scabbard, and seize his wrist. Across the plain, the armies stand still. The parley goes on.
+[d:5 | sk:Courtly | rn:Divinity+2 | st:+Esteemed]
+-- By dawn, you have told every captain. The next day, you watch the parley in the distance. You see an adder slide out of the heather. You see a knight lift his sword to strike at it. You are too far away. The sunlight catches the blade. Both armies see it. Both armies charge.
+[sk:Diplomacy | st:+Despairing | st:+Doomed]
+
+=== m344b
+You ride into Mordred's camp under a white branch, and are taken to his captains, and tell them: no man is to draw a sword while the parley is on.
+?? persuade Mordred's captains to keep the truce | Honor | 6
+++ Mordred's captains are hard, suspicious men, and they do not trust you. But you speak to them of their own lives, and of the Saxons who will take everything if the British kill each other. You tell them that no one on either side wants to die tomorrow. At the end, a grizzled old captain nods. "No swords," he says. "I will see to it." You do not know, riding away, whether the old king's men will be as careful. You hope so.
+[d:4 | sk:Courtly | rn:Divinity+1 | rn:Villainy+1]
+-- Mordred's captains listen to you in silence. Then one of them says, "And who will tell the adders?" and they all laugh. You do not understand the joke until the next day.
+[sk:Honor | st:+Despairing]
+
+=== 2256
+You come upon a fire on an island in a marsh at midnight, where three old women are sitting round a cauldron, cackling. They are witches, plainly: the eldest has a beard, the middle one has one eye, and the youngest has a raven on her shoulder. "Company!" cries the eldest. "Sit, sit. We are cooking a curse for the Abbot of Crowland. He called us hags."
+
+"You are hags," says the one-eyed one. "That is not the point," says the eldest. The raven laughs. They offer you a bowl of something green. "Help us with the curse," says the youngest, "and we will give you a gift. Or eat the soup. Most people do not survive the soup."
+
+> You may help the witches curse the Abbot of Crowland. -> m156a
+> You may persuade the witches to let the abbot be. -> m156b
+
+=== m156a
+"What has the abbot done?" you ask. "Besides calling you hags." The witches look at each other. "He burned our sister," says the eldest. The cackling stops.
+?? brew the witches' curse | Villainy | 3
+++ You tell them of your own villainies while they stir, and they listen with delight, and ask for more. By dawn, the curse is ready: the Abbot of Crowland will itch, all over, for a year. The witches thank you and give you a bone charm that will turn a blade once. "You are one of us," says the one-eyed witch, fondly. You find this less flattering than she means it.
+[rn:Villainy+1 | d:3 | tr:1]
+~~1 You tell them of your villainies. The witches are unimpressed. "Is that all?" says the eldest. But they let you stir.
+[d:1]
+-- You tell them of your villainies. The witches laugh at you until the raven falls off. "A saint!" cries the eldest. "We have a saint at our fire!" They throw you in the bog.
+[st:+Plague-Ridden]
+
+=== m156b
+"The abbot is a fool," you say, "but he is not worth a curse. Curses come home." The eldest witch narrows her eyes. "What do you know about curses?"
+?? talk the witches out of their curse | Diplomacy | 4
+++ You talk to them all night. You find out that the abbot burned their sister, and you promise to take it to the bishop, and you do. The bishop, who has had trouble with that abbot before, sends him to a monastery in the far north with very bad food. The witches send you a basket of eggs, very large ones, and a note that says *Thank you. Do not eat the brown ones.*
+[d:3 | sk:Courtly | rn:Divinity+1]
+-- You talk to them all night. At dawn, the eldest witch says, "You talk too much," and waves her spoon. You cannot speak for a week.
+[sk:Diplomacy | st:+Accursed]
+
+=== 2356
+You come upon a fire on an island in a marsh at midnight, where a woman in kingfisher blue is sitting with a man in rags. The man has a great wound in his thigh that will not close. You recognise the woman. It is Morgan le Fay. You do not recognise the man, until he looks up, and you see that he is a king, and that his eyes are full of an old, old pain.
+
+"This is King Pellam's brother," says Morgan, without surprise. "The one who struck the Dolorous Stroke. He came to me for healing. I am a very good healer." She smiles. "I will heal him if he tells me the way to Corbenic. I want to see this Grail everyone talks about. And then I want to see what happens if I take it." The wounded man looks at you in despair.
+
+> You may take the wounded man away from Morgan. -> m256a
+> You may bargain with Morgan for the wounded man's healing. -> m256b
+
+=== m256a
+You step into the firelight. "He comes with me," you say. Morgan laughs. "Does he?"
+?? wrest the wounded king from Morgan's power | Magic | 6
+++ Morgan lifts her hand, and the fire flares green, and the marsh around you begins to whisper. You speak the words you know against enchantment, and you take the wounded man by the arm, and you walk him out of the firelight, step by step, while Morgan watches, and the whispering grows fainter. At the edge of the island, she calls after you, almost fondly. "You cannot heal him, you know. Only the Grail can." You know. You take him to a hermit who can at least give him peace.
+[d:5 | sk:Spiritual | rn:Divinity+2]
+-- Morgan lifts her hand, and the fire flares green, and you find you cannot move your feet. She takes her time. When she lets you go, it is dawn, and the wounded man is gone, and so is she.
+[sk:Magic | st:+Ensorcelled]
+
+=== m256b
+"What would you take," you ask, "to heal him without the Grail's road?" Morgan looks at you with interest. "Oh," she says, "I like you."
+?? strike a bargain with Morgan le Fay | Cunning | 5
+++ You bargain with her all night. At the end, she heals the man's wound, not fully, but enough for him to walk, in return for a promise from you: that you will bring her one thing, one day, when she asks. She does not say what. The wounded man goes on his way, weeping with relief. Morgan kisses you on the forehead. "Do not forget," she says. You will not.
+[d:4 | sk:Courtly | rn:Villainy+1 | rn:Divinity+1 | tr:1]
+-- You bargain with her all night. At the end, she heals the man's wound, and he tells her the way to Corbenic, and she laughs, and is gone. You have given her what she wanted.
+[sk:Cunning | rn:Villainy+1]
+
+=== 2456
+You come upon a fire on an island in a marsh at midnight, where a dozen soldiers in the old king's colours are sitting in a huddle, whispering. You hear the word *captain*. You hear the word *knife*. A young soldier stands up as you approach, his hand on his sword. "Who goes?"
+
+When they see you are alone, they relax a little. Their spokesman, a scarred sergeant, speaks. "Our captain, Sir Grummore, has led us into three battles and lost them all. He hangs a man a day for cowardice. He will get us all killed. Tonight," he says, very quietly, "we are going to kill him, and go home." He looks at you. "Are you with us?"
+
+> You may join the soldiers' mutiny against their captain. -> m356a
+> You may talk the soldiers out of murder. -> m356b
+
+=== m356a
+You look at their faces. They are tired, frightened men. "Show me your captain," you say.
+?? lead the mutiny against the cruel captain | Warfare | 4
+++ You go to Sir Grummore's tent with them at midnight, and when he wakes up, it is to find his own men round his bed with their swords drawn, and a knight at their head. You do not kill him. You tie him to his own tent-pole and leave him for the old king's provosts. The soldiers go home. Sir Grummore, you hear, is sent to command a garrison on the Isle of Man, where there is nobody to hang.
+[d:4 | sk:Martial | rn:Villainy+1 | rn:Any+1]
+-- You go to the captain's tent at midnight, but he is awake, and he has guards. The mutiny fails. The next day, Sir Grummore hangs the sergeant. You escape into the marsh.
+[sk:Warfare | st:+Pursued | rn:Villainy+1]
+
+=== m356b
+"Murder your captain," you say, "and you are all outlaws. Go home, and you are deserters. Neither will bring you peace."
+?? persuade the soldiers to take their grievance to the king | Diplomacy | 5
+++ You talk to them all night. You tell them that the old king is a just man, that he does not know what Sir Grummore does, and that he would want to. In the morning, you go with the sergeant to the old king's camp, and he tells the story himself. The old king listens with his face growing grey. Sir Grummore is relieved of his command that day. The soldiers stay. They fight well, after that.
+[d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+-- You talk to them all night. At dawn, the sergeant says, "You are right," and they go home, all of them, without killing anyone. They are hanged as deserters a week later.
+[sk:Diplomacy | st:+Despairing]
+
+=== 2268
+You are sailing off the coast of Wales at night when your ship passes another, sailing without lanterns. As it slides past in the moonlight, you see its banner: the arms of the King of Ireland. And beyond it, waiting, another ship, flying the double-headed eagle of King Lot of Orkney.
+
+"A secret meeting," your captain mutters. "Irish and Orkney. That means war for the young king." He looks at you. "We could follow and see what they say. Or we could go on our way and pretend we saw nothing. Nobody likes the ones who see things."
+
+> You may board the ships and learn what they are plotting. -> m168a
+> You may race to Camelot to warn the young king. -> m168b
+
+=== m168a
+You put out a small boat and row across the dark water to the two ships, now lashed together.
+?? slip aboard and spy on the kings' meeting | Hunting | 5
+++ You climb the anchor-rope in the dark and hide among the coiled ropes on deck. Below you, in the cabin, you hear it: the King of Ireland will land at Anglesey at midsummer, while King Lot comes down from the north. You slip back into your boat. At Camelot, the young king hears you out with Merlin at his shoulder. "Anglesey," says Merlin, thoughtfully. "Well, well." When the Irish ships come to Anglesey at midsummer, the young king's army is waiting on the beach.
+[d:5 | sk:Wilderness | rn:Romance+1 | rn:Any+1]
+-- You climb the anchor-rope in the dark, but your foot slips, and you splash into the sea. Lanterns come on all over both ships. You swim for your life back to your own ship.
+[sk:Hunting | st:+Pursued]
+
+=== m168b
+"Make sail," you say. "Every scrap of canvas you have. We are going to Camelot."
+?? outrun the enemy ships to the coast | Endure Hardship | 3+L
+++ You crowd on sail and run before the wind, and at dawn, you are in the Severn estuary, and by noon, you are riding for Camelot. The young king hears your news and sends riders to every lord in the west. By the time the Irish and Orkney ships make their landing, the coast is watched. They turn back. The young king gives you a ring and his thanks.
+[d:L | sk:Wilderness | rn:Romance+1]
+-- You crowd on sail, but the wind drops, and you are becalmed for two days. By the time you reach Camelot, the young king has already heard from his own spies.
+[sk:Endure Hardship]
+
+=== 2368
+You are sailing to the Holy Land in the Grail year, aboard a pilgrim ship, when you see the captain meeting secretly at night with a hooded passenger in his cabin. You overhear them through the planks. "The relic is in the hold," says the hooded man. "A thorn from the Crown. Stolen from Glastonbury. The Emperor in Constantinople will pay a king's ransom for it." The captain laughs. "And the pilgrims?" "Sell them in Tunis," says the hooded man. "Who will ever know?"
+
+> You may take control of the pilgrim ship. -> m268a
+> You may find the stolen relic and keep it safe. -> m268b
+
+=== m268a
+You go up on deck and rouse the pilgrims, quietly, one by one: a blacksmith, two farmers, a stout nun, a Welsh archer.
+?? lead the pilgrims in seizing the ship | Warfare | 5
+++ At dawn, when the captain comes on deck, he finds his crew tied to the mast and a knight at the wheel and a stout nun holding a belaying pin. The hooded man jumps overboard and swims for a Genoese galley. You sail the ship back to Bristol, badly, with the blacksmith navigating. The thorn goes back to Glastonbury. The pilgrims go to the Holy Land the next spring, in a different ship, and send you a letter from Jerusalem.
+[d:5 | sk:Martial | rn:Divinity+2]
+-- At dawn, you try to seize the ship, but the crew are sailors and the pilgrims are not. The captain has you locked in the hold with the relic. You spend a very long week there before you are put ashore in Brittany.
+[sk:Warfare | st:+Imprisoned]
+
+=== m268b
+You go down into the hold at night and search among the cargo.
+?? find and hide the stolen thorn | Cunning | 4
+++ You find it in a barrel of salt fish: a small crystal box with a dark thorn inside. You take it and put a thorn from the ship's bramble-broom in its place. The hooded man sells his fake at Tunis to a Moorish merchant for a fortune, and nobody is ever the wiser. The real one goes back to Glastonbury in your pocket. You warn the pilgrims, and they get off the ship at the next port, all forty of them, and walk.
+[d:4 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+-- You find the barrel of salt fish, but the hooded man finds you. You wake up in the sea, clinging to a spar, and are picked up by fishermen off the Scillies. The ship is gone.
+[sk:Cunning | st:+Plague-Ridden]
+
+=== 2468
+You are sailing along the coast of Kent in the war when you see two ships meeting in the mouth of the Thames at dusk. One is a Saxon longship, dragon-prowed. The other flies Mordred's red and black. As you watch, a rowing boat crosses from Mordred's ship to the Saxon, carrying a man in a fine cloak and a heavy chest.
+
+"Gold for the Saxon king," says your captain grimly. "Mordred is paying them to fight. If that chest reaches the Saxon king, he will bring another thousand men."
+
+> You may intercept the rowing boat and take the gold. -> m368a
+> You may follow the Saxon longship back to its fleet. -> m368b
+
+=== m368a
+"Bring us alongside that boat," you say. Your captain swings the wheel.
+?? seize Mordred's gold before it reaches the Saxons | Mounted | 5
+++ You bring your ship down on the rowing boat before it can reach the Saxon, and leap down into it, and the man in the fine cloak throws up his hands. The chest is full of gold. The Saxon longship comes about to fight, but your captain has the wind, and you are away up the coast before they can catch you. You bring the gold to the old king. He uses it to pay his own army, which has not been paid in three months. You have never seen soldiers so happy.
+[d:5 | sk:Martial | rn:Romance+1 | rn:Any+1 | tr:1]
+-- You bring your ship down on the rowing boat, but the Saxon longship is faster than you thought. It comes between you, and its archers drive you off. The gold goes to the Saxon king.
+[sk:Mounted | st:+Wounded]
+
+=== m368b
+You let the rowing boat reach the longship, and then follow the longship, with no lanterns, keeping far behind.
+?? track the Saxon longship to its fleet | Hunting | 3+L
+++ The longship leads you north, round the coast, to a creek in the marshes where two hundred Saxon ships lie at anchor, waiting. You count them, and mark the creek on your chart, and turn for the old king's camp. The old king's admirals send fire-ships into the creek on the next spring tide. It is the greatest victory at sea in the war.
+[d:L | sk:Wilderness | rn:Romance+1 | rn:Divinity+1]
+-- You follow the longship through the night, but at dawn, you see that it has led you straight into the middle of the Saxon fleet. You turn and run, and just escape.
+[sk:Hunting | st:+Pursued]

@@ -1,0 +1,383 @@
+=== 1101
+You come upon a small party on the road: two elderly nuns on mules, and between them a tall old woman in a plain grey habit who sits her horse like a queen. She has a leather case on her knees and holds it as if it were full of eggs.
+
+"You are going toward Camelot?" she asks. "Then perhaps you will ride with us. The roads are not what they were." She studies your face. "I am Igraine. I was Queen of Cornwall, and then of all Britain, and now I am Sister Igraine of Amesbury. The High King is my son. I have not seen him since he was two hours old. Merlin took him from my arms in the night." She tightens her grip on the case. "His baby gown is in here, and a lock of his hair. He does not know I kept them. He does not know me at all. I am afraid," she says, very steadily, "that he will not want to."
+
+> You may escort Queen Igraine to Camelot and see her safely to her son. -> q01a
+> You may ride ahead to Camelot and prepare the High King for his mother's coming. -> q01b
+> You may ask Queen Igraine about the night her son was born. -> q01c
+
+=== q01a
+"You will not ride unguarded while I have a sword," you say. The nuns look relieved. Igraine only nods, as if she expected nothing less. The road to Camelot runs through the Forest of Arroy, and the forest is full of masterless men.
+?? guard the old queen through the forest | Warfare | 3+L
+++ On the second night, six men with cudgels come out of the trees. You put the nuns and the queen behind a fallen oak, set their mules in a ring, and hold the gap between them until the robbers lose heart. At Camelot, Igraine is brought into the hall. Arthur rises from the high table. For a long moment neither of them moves. Then the old queen opens her case and holds up a tiny linen gown, and the High King of Britain comes down from his dais and kneels at her feet.
+[d:L | sk:Martial | rn:Romance+2]
+-- On the second night, six men with cudgels come out of the trees. You drive them off, but in the confusion one of them snatches the leather case and runs. You chase him to a stream, where he throws it in, and the baby gown and the lock of hair go sailing away into the dark. Igraine says nothing at all for the rest of the journey. You resolve to guard what matters, not just who.
+[sk:Warfare | st:+Despairing]
+
+=== q01b
+"Let me go before you, my lady," you say. "No king should meet his mother in front of the whole court without warning." Igraine considers this and nods. "You are right," she says. "Tell him gently."
+?? find the right words for the High King | Honor | 5
+++ You wait until Arthur is alone in the mews with his hawks and tell him the whole thing plainly. He listens with a hooded falcon on his fist. "I was told she did not want me," he says. "Merlin told me." He puts the falcon back on its perch very carefully. "Bring her in by the little door," he says, "and let nobody else be there." Later, a page tells you that the king and the old nun sat together in the mews until dark, and that both of them wept.
+[d:3 | sk:Courtly | rn:Divinity/Romance+2]
+-- You wait until Arthur is at table and ask for a word. He waves you to his side, and you tell him in a whisper that the whole high table hears. Sir Kay chokes on his wine. Merlin looks at the ceiling. The king goes white and then red and walks out without a word. Igraine is received with every honour, but her son is formal and cold, and she goes back to Amesbury within the week.
+[sk:Honor | st:+Scorned]
+
+=== q01c
+Igraine is quiet for a long while. "My husband Gorlois was fighting Uther," she says at last. "He left me at Tintagel, which cannot be taken. And that night he came home. He came up the stair in his own armour and his own face, and he was very gentle, and he left before dawn." Her hands tighten on the case. "In the morning they told me that Gorlois had been killed at midnight in another castle ten miles away. I had been with Uther. Merlin had given him my husband's face." She looks at you with dry eyes. "I have been told that my son is a great king. I have been told that the price was fair. I have never been asked." She rides on beside you in silence to the next crossroads, and there she blesses you and turns toward Camelot.
+[d:1 | sk:Wisdom | rn:Divinity+1]
+
+=== 1102
+You come upon a strange procession on a moorland road: a cart hung with black cloth, drawn by two black oxen, with a lady walking beside it in mourning. In the cart, propped against a coffin, is a battered shield painted with a silver fish.
+
+"I am the Queen of the Waste Lands," the lady says. Her voice is hoarse from weeping. "The shield is my husband's. He was the brother of King Pellam of Corbenic, and he was killed by a knight who would not give his name, in a quarrel over a hound. The knight took my husband's horse and left his shield in a ditch." She lays her hand on the painted fish. "I will not bury my lord until someone carries this shield in honour and wins back what was taken. Every knight I have asked has found a reason to ride on." She looks at you. "What is your reason?"
+
+> You may take up the dead lord's shield and seek out the nameless knight. -> q02a
+> You may help the queen bury her husband now, with the honours he deserves. -> q02b
+
+=== q02a
+You lift the shield from the cart. It is heavier than it looks. "Tell me where he went," you say. The queen points north. "To the pavilions at the Red Ford," she says. "He boasts of it there."
+?? challenge the nameless knight at the Red Ford | Mounted | 5
+++ You find him drinking outside a pavilion at the Red Ford, on a tall grey horse that is not his. When he sees the silver fish on your shield, he goes pale and calls for his lance. You meet him on the ford itself, with the water splashing to your stirrups, and on the third pass you put him into the river. He gives up the horse and his name, which is Sir Garlon, and you lead the grey back to the black cart. The queen buries her husband at last, with the shield on his breast, and gives you his hound.
+[d:4 | sk:Martial | rn:Romance+2 | st:+Accompanied | n:Place a Hunting Skill Marker on your Accompanied Status Card]
+-- You find him drinking outside a pavilion at the Red Ford. When he sees the silver fish on your shield, he laughs and calls for his lance. You meet him on the ford, and on the first pass his lance shatters your shield, fish and all, into three pieces. You ride back to the black cart with the pieces in your hand. The queen takes them without a word.
+[sk:Mounted | st:+Unhorsed | st:+Despairing]
+?? track the nameless knight and win the horse back by stealth | Hunting | 3+L
+++ You follow the grey horse's hoofprints across the moor to a pavilion at the Red Ford, where the nameless knight lies snoring off a great deal of wine. You slip the grey's tether, lead it away through the shallows, and leave the silver fish shield propped against his tent-pole where he will see it when he wakes. The queen weeps when you lead the horse up to the black cart. "He will know," she says, "that he was not forgotten."
+[d:L | sk:Wilderness | rn:Any+1]
+-- You follow the grey horse's hoofprints across the moor to a pavilion at the Red Ford. You are halfway to the tether when the grey horse whinnies at you, loudly and happily. The nameless knight comes out of his tent with a sword in his hand, and you spend the next hour running across a bog with his men behind you.
+[sk:Hunting | st:+Pursued]
+
+=== q02b
+"Your lord has waited long enough, my lady," you say gently. "Let him rest." The queen looks at you for a long time. Then she nods.
+?? give the dead lord a burial fit for a king's brother | Endure Hardship | 4
+++ There is no churchyard for ten miles, so you dig the grave yourself on the hillside above the road, in stony ground, while the queen sings. It takes until nightfall. When it is done, you set the shield at the head of the grave. The queen kneels, and when she stands again, something in her face has eased. "I thought I needed vengeance," she says. "I needed to stop walking." She gives you a silver brooch shaped like a fish.
+[d:3 | sk:Wilderness | rn:Divinity+1 | tr:1]
+-- There is no churchyard for ten miles, so you begin to dig the grave yourself in the stony hillside. By nightfall your hands are bleeding and you have barely broken the ground. The queen watches you in silence, then turns the oxen and goes on down the road. "Another knight with a reason," she says. You resolve to learn the use of a spade.
+[sk:Endure Hardship | st:+Wounded]
+?? pray over the dead lord and give his widow comfort | Piety | 4
+++ You kneel beside the cart and pray for the dead man's soul, and for his widow, and for the knight who killed him. At the last, the queen gasps. "You pray for him? For that one?" "For him most of all," you say. She is silent a long while, and then she laughs through her tears. "My husband would have liked you," she says. The next village has a priest, and the lord is buried with bells.
+[d:2 | sk:Spiritual | rn:Divinity+2]
+-- You kneel beside the cart and pray. But when you pray for the knight who killed her husband, the queen rounds on you. "You would forgive him? You?" She drives the oxen on, and the black cart rumbles off toward the next knight who might ride by.
+[sk:Piety | st:+Scorned]
+
+=== 1103
+You come upon a stone well in a hollow of the hills, ringed by a hundred pilgrims waiting their turn. At the well itself sits a tall woman in a patched brown habit, with a bucket and a ladle and a thin gold circlet on her grey hair.
+
+"Another knight," she says. "Welcome. I am Heledd. I was Queen of Powys until I gave my crown to my cousin, who wanted it, in return for this well, which he did not." She ladles water into a pilgrim's cupped hands. "It heals. Whatever ails you. But it only heals those who first tell the truth about themselves, out loud, to me." She smiles at the line of pilgrims. "Most of them turn back when they reach the front. Will you drink?"
+
+A man near the back of the line is shouting that the well is a fraud, and that the old queen keeps the best cures for those who pay.
+
+> You may confess the truth of yourself to Queen Heledd and drink from the well. -> q03a
+> You may deal with the angry pilgrim before he stirs up the crowd. -> q03b
+
+=== q03a
+You kneel on the stone. Heledd waits, ladle in hand. The pilgrims fall silent to listen.
+?? confess your deeds openly and honestly | Piety | 5
+++ You tell her the truth, all of it: the deeds you are proud of and the ones you are not. It takes a long time. When you finish, the old queen hands you the ladle. The water is cold enough to hurt your teeth, and it tastes of iron and moss. You feel every ache you have gathered on the road simply leave you. Heledd nods. "That was well done," she says. "It is harder than fighting." Behind you, several of the pilgrims who had turned to go come back to the line.
+[d:3 | sk:Spiritual | rn:Divinity+2 | n:You may remove 1 unwanted Status Card]
+-- You tell her the truth, but not all of it. There is one deed you leave out, and you think nobody notices. Heledd hands you the ladle. The water tastes of nothing at all. "The well knows," she says quietly, "even when I do not." You rise and leave the line, and the pilgrims part to let you through.
+[sk:Piety | st:+Despairing]
+
+=== q03b
+You walk back down the line to the shouting man. He is a well-fed merchant with rings on every finger. "It's a trick!" he says. "She makes you shame yourself before a hundred people and then gives you well-water. I have a cough. I will pay for my cure."
+?? talk the merchant round | Diplomacy | 4
+++ You ask him about his cough, and his trade, and his wife. It comes out, slowly, that he has cheated his partner out of a warehouse in Chester, and that the cough started the week after. You do not say anything. You do not need to. The merchant goes quiet, then red, then white. He walks up to the well without another word and kneels before the old queen. When he comes back, he is not coughing. He presses a purse into your hand without meeting your eye.
+[d:3 | sk:Courtly | rn:Divinity+1 | tr:1]
+-- You ask him about his cough, and his trade, and his wife. He tells you to mind your own business and shoves you, and his servants join in. By the time the pilgrims have pulled you apart, you have a bloody nose and the merchant has ridden off, shouting that the well is a fraud to everyone he passes. You resolve to know when a man does not want to be helped.
+[sk:Diplomacy | st:+Wounded]
+?? test whether the well truly heals | Wisdom | 5
+++ You watch the well for a whole day, speaking with pilgrims before and after. A boy with a withered hand. A woman whose eyes were clouded. A soldier who had not slept in a year. You see enough to know the truth, and you tell the merchant so. "It is no fraud," you say. "But it is a hard cure." The merchant scowls, but he stays, and the next morning you see him at the front of the line, confessing in a very small voice.
+[d:2 | sk:Spiritual | rn:Divinity+1]
+-- You watch the well for a whole day, speaking with pilgrims before and after. Some seem healed. Some do not. You cannot tell which is which, or why. By evening you are no wiser than the merchant, and he rides off laughing. The old queen watches you go. "Some things," she calls after you, "you do not learn by watching."
+[sk:Wisdom]
+
+=== 1104
+You come upon a pavilion of green silk pitched beside a lake, with a table set before it for two. A lady in a gown the colour of a kingfisher's wing sits at the table, peeling a pear with a little silver knife. There is something of Arthur in her face, and something of the lake.
+
+"Sit down, little knight," she says. "I have been waiting all morning, and the pear is getting brown. I am Morgan. Queen of Gore, when it suits me. The High King's sister, when it suits him." She points the knife at a bundle on the grass: a mantle of cloth of gold, set with stones that glitter like frost. "I have a gift for my brother, and no one I trust to carry it. It is the finest thing I have ever made. Will you take it to him? I will owe you a favour. A favour from me," she adds, smiling, "is worth a great deal."
+
+> You may carry Morgan's mantle to Camelot as a gift for the High King. -> q04a
+> You may insist that Morgan's own messenger try the mantle on first. -> q04b
+> * You may stay and dine with Morgan and try to win her favour for yourself. -> q04c
+
+=== q04a
+You gather up the mantle. It is warm to the touch, and very light. "Good," says Morgan. "Now I owe you." She kisses her fingertips and blows the kiss at you, and you feel it land on your cheek like a snowflake.
+[tok:13]
+?? carry the mantle to Camelot and deliver it | Endure Hardship | 3+L
+++ It is a long ride, and the mantle grows heavier every mile. At night it whispers. You keep it wrapped in sacking and do not unwrap it. At Camelot, you lay it before the king, and as he stoops to lift it, the Lady of the Lake, who is visiting court, puts out her hand. "Let the bearer wear it first," she says. You shake your head. "I carried it," you say, "I did not make it." The Lady drapes it over a tree in the courtyard, and the tree burns to ash. Arthur embraces you. Morgan, you hear later, laughed when she heard.
+[d:L | sk:Wilderness | rn:Divinity/Romance+1]
+-- It is a long ride, and the mantle grows heavier every mile. At night it whispers, and on the fourth night you unwrap it to see what it says. You wake the next morning in a ditch with blistered hands and no mantle, and your horse is standing at a distance, trembling. Somewhere, you are sure, Morgan is laughing.
+[sk:Endure Hardship | st:+Accursed]
+
+=== q04b
+You look at the mantle, then at Morgan. "My lady," you say, "a gift for a king should be tried before it is given. Let your page put it on." Morgan's smile does not move. Her page, a pale boy of twelve, goes whiter still.
+?? see through Morgan's gift | Wisdom | 5
+++ You watch Morgan's face and the boy's face, and you know. "Never mind the boy," you say. "Put it on the table." Morgan shrugs and drapes the mantle over the table, and the table bursts into flame and burns to a heap of ash in a moment. Morgan sighs. "You are no fun at all," she says, and she and her pavilion and her page are gone, leaving only a scorched circle on the grass and a pear with one bite out of it. At Camelot, Arthur hears the tale and gives you a horse from his own stable.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You insist on the trial. Morgan sighs and nods, and the boy puts on the mantle. Nothing happens. He walks up and down, and it fits him very well. "Satisfied?" asks Morgan. She wraps it up and sends him off to Camelot with it, and you ride away feeling foolish. That night you hear that the page burned to death on the road at dusk. You should have trusted what you knew.
+[sk:Wisdom | st:+Despairing]
+?? unmake the enchantment in the mantle | Magic | 5
+++ You lay your hand on the mantle and feel it shiver, like an animal. There are words woven into its hem, fire-words in gold thread. You find the end of the thread and pull. The mantle comes apart in your hands in a long, hissing unravelling, and the gold falls on the grass as ash. Morgan watches with interest. "Where did you learn that?" she says. "I must be more careful." She vanishes with her pavilion, but she leaves the silver knife behind, and you keep it.
+[d:4 | sk:Spiritual | rn:Divinity+1 | tr:1]
+-- You lay your hand on the mantle and feel it shiver, like an animal. You look for the end of the spell and cannot find it. The mantle, it seems, has found you. Your hand is stuck to the cloth, and it is getting hotter. You tear yourself free, leaving skin behind. Morgan laughs until she cries. "Oh, little knight," she says. "Leave the weaving to the weavers."
+[sk:Magic | st:+Wounded]
+
+=== q04c
+You sit down across from her. Morgan cuts the pear in half and gives you the bigger piece. "So," she says. "Tell me why I should like you."
+??* win the enchantress's favour | Romance | 4
+++ You tell her of your deeds of love and daring, and Morgan listens with her chin on her hand, laughing in the right places. When you finish, she looks at you for a long moment. "Better than my brother's knights usually manage," she says. She forgets entirely about the mantle. You spend the afternoon in her company, and when she leaves she presses a ring into your palm. "For when you are bored of Camelot," she says.
+[d:3 | rn:Romance+1 | tr:Faerie Ring | n:If you are Betrothed, gain 1 Rank of Villainy]
+~~2 You tell her of your deeds, and Morgan listens politely. "Charming," she says, and pats your hand, and sends you on your way with a kiss on the cheek and nothing else. You feel as if you have been sized up and found to be a size too small.
+[d:1 | rn:Romance+1]
+-- You tell her of your deeds, such as they are. Morgan yawns. "Oh, little knight," she says. When she has gone, you find you cannot stop thinking about her, which is exactly what she intended.
+[st:+Smitten]
+
+=== 1105
+You come upon a lady in a hooded cloak sitting on a stile in the rain, with a basket of apples on her arm and a pair of fine jewelled slippers peeping out from under a mud-stained hem. She pushes back her hood. She is handsome, past her youth, with a laugh in her eyes and a crown of red-gold braids.
+
+"Oh, good," she says. "A knight. I am Morgause, Queen of Orkney. My husband is dead, and my sons are grown and very busy with their honour." She lowers her voice. "There is a knight called Lamorak who is waiting for me in a woodcutter's hut a mile from here, and I am late, and I have lost my way. Also, my son Gaheris has been following me since Carlisle." She looks back down the road, where a single rider is just coming into view. "He will kill Lamorak if he finds him. And me too, very likely. I would be so grateful if you would help me."
+
+> You may take Queen Morgause to her lover by a hidden way. -> q05a
+> You may delay Sir Gaheris on the road so that the queen can slip away. -> q05b
+> You may tell Sir Gaheris where his mother is going. -> q05c
+
+=== q05a
+"This way, my lady," you say. Morgause laughs and takes your arm. "I knew I could trust a face like yours," she says. "You will not tell anyone? Not a soul?"
+[tok:18]
+?? lead the queen through the woods by a path no rider can follow | Nature Lore | 3+L
+++ You lead her down a deer track and through a stream, and at the woodcutter's hut a huge, cheerful knight bursts out of the door and lifts the queen off her feet. "Lamorak," says Morgause, "this knight saved my life." Lamorak crushes your hand in his. "Then I owe you mine," he says. As you leave them, you hear them laughing. You hope, for their sakes, that Gaheris is a poor tracker.
+[d:L | sk:Wilderness | rn:Romance+1]
+-- You lead her down a deer track and through a stream, and straight into a bog. The queen loses both of her slippers and most of her temper, and it is dark by the time you reach the hut. Lamorak has gone, leaving a note. Morgause reads it, crumples it, and says something about knights that is not suitable for a queen.
+[sk:Nature Lore | st:+Scorned]
+
+=== q05b
+"Go, my lady," you say. "I will speak with your son." Morgause blows you a kiss and vanishes into the trees. The rider comes up: a lean young man in Orkney colours, his face pinched with anger. "Have you seen a woman in a hooded cloak?" he demands.
+[tok:18]
+?? keep Sir Gaheris talking | Cunning | 4
+++ You have seen, you tell him, a party of pilgrims, a pedlar, a woman with geese and a monk with a limp. Gaheris wants to know about all of them. You describe each in great detail, especially the geese. By the time he realises the geese are not relevant, the rain has washed out every track on the road. He curses you and rides back toward Carlisle. Two days later, a basket of Orkney apples arrives for you at the next inn with no note.
+[d:2 | sk:Courtly | rn:Romance+1]
+-- You tell him of pilgrims and pedlars and geese. Gaheris narrows his eyes. "You have seen her," he says, "and you are lying for her." He pushes past you into the wood. You hear him shouting his mother's name long after you have ridden on, and you do not know whether he found her.
+[sk:Cunning | st:+Scorned]
+?? bar the road to Sir Gaheris | Sword & Shield | 5
+++ You draw your sword and stand in the road. "You shall not pass this way today," you say. Gaheris does not ask why. He draws and comes at you, and you fight in the mud for a long, grim quarter-hour, until his sword flies out of his hand into the hedge. He stares at you, panting. "Who are you?" he asks. "Nobody who wishes you harm," you say. He goes back to Carlisle. You never learn if he guessed.
+[d:3 | sk:Martial | rn:Romance+1 | rn:Villainy+1]
+-- You draw your sword and stand in the road. Gaheris does not ask why. He draws and comes at you, and he is faster than he looks. The fight ends with you on your back in the mud and his sword at your throat. "You are protecting her," he says, "and I know who from." He leaves you lying there and rides into the wood.
+[sk:Sword & Shield | st:+Wounded]
+
+=== q05c
+You look at the queen and then at her son on the road. "My lady," you say, "I am sorry." Morgause's face goes very still. "Ah," she says. "One of those."
+?? tell Gaheris everything, and try to prevent bloodshed | Diplomacy | 5
+++ You ride to meet Gaheris and tell him everything, but you make him swear on his sword first that he will not harm his mother. He swears, grinding his teeth. At the woodcutter's hut, Lamorak comes out with his hands empty, and the two men stare at each other. Nobody draws. Morgause goes home to Orkney with her son that same day. You have kept the peace, but you do not think it will last.
+[d:2 | sk:Courtly | rn:Divinity+1 | rn:Villainy+1]
+-- You ride to meet Gaheris and tell him everything. He does not wait to hear the rest. He spurs into the wood, and by the time you catch up, the woodcutter's hut is on fire, Lamorak is gone, and Morgause is sitting on the stile weeping. Gaheris will not look at either of you. You have made an enemy of Orkney's queen, and you are not sure you made a friend of her son.
+[sk:Diplomacy | st:+Pursued | rn:Villainy+1]
+
+=== 1107
+You come upon a grey beach where a line of soldiers stand in the surf, flogging the waves with whips. Each time a wave comes in, they lash it, and a woman on a rock above them counts the strokes aloud. She is a big, fierce queen in blue war-paint, with a bronze torc at her throat and her hair shorn short in mourning.
+
+"Three hundred and six," she says. "Three hundred and seven." She sees you. "You. Knight. I am Anna, Queen of the Picts. This sea drowned my husband and both my sons in a single night. So I have sentenced it to a thousand strokes, and then it will be pardoned." Her voice cracks. "Three hundred and eight. What do you want? If you have come to tell me the sea cannot feel it, I have heard that."
+
+The soldiers look exhausted. One of them catches your eye, desperate.
+
+> You may help Queen Anna finish punishing the sea. -> q07a
+> You may try to comfort Queen Anna in her grief. -> q07b
+> You may slip into the queen's undefended camp and help yourself to her treasure. -> q07c
+
+=== q07a
+"A thousand strokes is a heavy sentence, my lady," you say. "Your men are tired. Let me lay on the rest." The queen looks at you with sudden, desperate gratitude. She holds out her own whip.
+?? lash the waves until the sentence is done | Endure Hardship | 5
+++ You wade into the cold sea and lash the waves as the queen counts. Your arm aches by five hundred and burns by eight hundred. At nine hundred and ninety, a wave comes in that is taller than the rest, and you strike it, and it falls at your feet like a dog lying down. At one thousand, the queen rises from her rock. "It is pardoned," she says. Then she sits down on the sand and weeps at last, properly, like a woman and not a queen. Her soldiers bring you dry clothes and a torc of bronze.
+[d:3 | sk:Wilderness | rn:Romance+1 | tr:1]
+-- You wade into the cold sea and lash the waves as the queen counts. At six hundred, a wave knocks you off your feet, and you swallow half the sea. The soldiers drag you out, choking. The queen looks down at you from her rock. "You see," she says. "It fights back." She orders the flogging to go on.
+[sk:Endure Hardship | st:+Plague-Ridden]
+
+=== q07b
+You climb the rock and sit beside her without speaking. She goes on counting. After a while, you ask her what her sons' names were.
+?? draw Queen Anna out of her madness | Piety | 4
+++ She tells you. Brude and Talorc. She tells you how Talorc could not swim and Brude went back for him. She tells you about her husband's laugh, which could be heard across a hall. Somewhere in the telling, she stops counting. The soldiers, one by one, put down their whips and wade out of the sea. When she has finished, the queen stands and looks at the water. "Tell them to stop," she says, though they already have. She gives you her own mourning ring.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- She tells you. Brude and Talorc. Then, halfway through, she looks at you and sees that you pity her, and her face hardens. "Get off my rock," she says. "Four hundred and twelve." You go back to your horse with the sound of whips in your ears.
+[sk:Piety | st:+Despairing]
+?? tell her a story of someone who lost as much and lived | Wisdom | 5
+++ You tell her of a widow in Carleon who lost four sons in the Saxon wars and went on to found a hospital for sailors. Anna listens. "Sailors," she says. "The sea took hers too?" "Two of them," you say. The queen is quiet for a long time. Then she stands and calls her men out of the water. "We will build a tower on this headland," she says, "with a light in it, so no more ships are lost here." It is standing still, many years later.
+[d:4 | sk:Spiritual | rn:Divinity/Romance+1]
+-- You tell her of a widow in Carleon who lost four sons in the Saxon wars. "And did she whip the sea?" Anna asks. "No," you admit. "Then she was a fool," says the queen, and turns back to her count. You have misjudged her grief, and you leave the beach knowing it.
+[sk:Wisdom]
+
+=== q07c
+Every soldier the queen has is on the beach, and the camp above the dunes is guarded by one old man asleep against a tent-pole.
+?? steal from the queen's tent | Cunning | 3+L
+++ The queen's tent is full of bronze, amber and gold, the treasure of a whole kingdom packed for a journey that will never happen now. You fill a saddlebag and walk out past the old man, who snores. Down on the beach, the counting goes on, "Six hundred and one. Six hundred and two," and nobody looks up. You ride away rich and do not look back.
+[d:L | tr:2 | rn:Villainy+2]
+-- The queen's tent is full of bronze and amber. You are filling your saddlebag when the old man, who was not asleep, puts a spear to your back. They take you down to the beach and make you stand in the surf beside the soldiers. "You will take the thief's share," the queen says. "The sea's strokes are yours now." You are there until nightfall, and the soldiers do not let you forget it.
+[sk:Cunning | st:+Imprisoned | rn:Villainy+1]
+
+=== 1110
+You come upon a hunting party resting in a glade, where three queens sit on a spread cloak eating cherries. They are dressed in black, white and red, and their ladies keep a respectful distance. The queen in red spits a stone into the grass and beckons you with one finger.
+
+"I am the Queen of Northgalis," she says. "These are the Queens of Eastland and of the Out Isles. We have a grievance, and you look like a knight who could settle it." She smiles without warmth. "There is a knight called Sir Breunor, who lives in the castle at the head of this valley. He came to our court last Candlemas, danced with each of us in turn, promised each of us his heart, and left in the night with our three best horses. We want his shield hung upside down in our hall. We will pay you in gold, or in something better."
+
+The Queen of the Out Isles adds, "He is very handsome. Try not to spoil his face."
+
+> You may ride to Sir Breunor's castle and take his shield for the three queens. -> q10a
+> You may ride ahead and warn Sir Breunor that three queens want his shield. -> q10b
+> * You may court the Queen of Northgalis and make her forget Sir Breunor. -> q10c
+
+=== q10a
+"I will bring you his shield," you say. The Queen of Northgalis tosses you a cherry. "Upside down," she says. "Remember."
+?? challenge Sir Breunor at his gate | Sword & Shield | 5
+++ Sir Breunor comes out to meet you in fine armour, with a shield painted with three silver hearts, which you think is a little much. He fights well, but he fights like a man who has always won, and when you drive him back against his own gatehouse he yields in astonishment. "The queens sent you," he says bitterly. "I was going to give the horses back." You bring the shield to the glade. The three queens hang it upside down from a branch and pelt it with cherry stones, and pay you handsomely.
+[d:4 | sk:Martial | rn:Villainy+1 | rn:Romance+1 | tr:1]
+-- Sir Breunor comes out to meet you with a shield painted with three silver hearts. He fights like a man who has always won, and it turns out that he usually has. When you come to, he is sitting on the grass beside you, polishing his shield. "Tell the ladies I am sorry," he says, "and that I will send the horses back." The three queens are not pleased with your message.
+[sk:Sword & Shield | st:+Wounded]
+?? steal the shield from Sir Breunor's hall | Cunning | 3+L
+++ You go to the castle dressed as a travelling tinker, offering to mend pans. Breunor's steward lets you into the kitchen. By nightfall you have mended three pans and stolen one shield painted with silver hearts, and are well down the valley before anybody notices. The queens are delighted. "Upside down!" cries the Queen of Northgalis, and hangs it herself, and the Queen of Eastland kisses you on both cheeks.
+[d:L | sk:Courtly | rn:Villainy+1 | tr:1]
+-- You go to the castle dressed as a travelling tinker. Breunor's steward lets you in, watches you mend a pan very badly, and calls the guard. They throw you into the moat. Breunor comes to the wall to watch you climb out. "The queens sent you," he calls. "Tell them I am very sorry and the horses are coming." You go back to the glade dripping, and the queens laugh for a quarter of an hour.
+[sk:Cunning | st:+Scorned]
+
+=== q10b
+You leave the queens in their glade and ride hard up the valley. Sir Breunor is in his orchard, trimming a pear tree. He listens to your warning with growing horror. "Three of them?" he says. "All together? I thought they did not speak."
+?? persuade Sir Breunor to make amends to the queens | Diplomacy | 4
+++ "Return the horses," you tell him, "and go on your knees. And bring them pears." Breunor, who is not a bad man, only a foolish one, does exactly that. You ride with him down the valley and watch him kneel in the glade with a basket of pears and three horses on a string. The queens make him wait a long time before they forgive him. Afterwards, the Queen of Northgalis tells you that you are wasted on errantry. "You should be a steward," she says. It is a compliment, you think.
+[d:3 | sk:Courtly | rn:Divinity/Romance+1]
+-- "Return the horses," you tell him, "and go on your knees." Breunor considers this for a long moment and decides it is simpler to go to Ireland. He is gone by nightfall. When the queens hear who warned him, they send their knights after you, and you spend an uncomfortable week avoiding them.
+[sk:Diplomacy | st:+Pursued]
+
+=== q10c
+You kneel before the Queen of Northgalis. "My lady," you say, "a knight who would leave you in the night is not worth a shield. Surely there are others." The queen looks you up and down. Her companions giggle.
+??* woo the Queen of Northgalis | Honor | 5
+++ You spend the afternoon with the three queens, and by evening the Queen of Northgalis has entirely forgotten Breunor. "You dance better," she decides, "and you have not stolen anything yet." She gives you a green sleeve to wear at the next tournament and invites you to her court at Candlemas. The other two queens are jealous, which pleases her more than anything.
+[d:3 | sk:Courtly | rn:Romance+2 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
+-- You spend the afternoon with the three queens, but your dancing is worse than Breunor's and your compliments are worse still. "I am not a pear tree," says the Queen of Northgalis, "to be praised for my shape." The queens ride off without you, and you sit alone in the glade among the cherry stones.
+[sk:Honor | st:+Smitten]
+
+=== 1112
+You come upon a great crowd in the courtyard at Camelot, gathered around a knight kneeling in chains. Queen Guinevere sits on a chair beneath the cloister, with her ladies about her. She is very beautiful and very angry.
+
+"This is Sir Gromer," a squire whispers to you. "He met a maiden in the forest and took her by force. The High King would have had him hanged, but the queen asked for his life. She has set him a riddle instead. If he answers it within a year, he lives."
+
+The queen's clear voice rings across the courtyard. "What is it that women most desire? You have a year and a day to find out, Sir Gromer. Ask everyone. And if you cannot answer, you will hang, and deserve to." She looks up and sees you. "You. You may ride with him, if you like, and see that he asks honestly. Or you may tell me that I am being too merciful, as my husband's knights have been doing all morning."
+
+> You may ride with Sir Gromer and help him find the answer. -> q12a
+> You may argue before the queen that Sir Gromer should hang now. -> q12b
+
+=== q12a
+"I will ride with him, my lady," you say. "And I will see that he listens." Gromer looks at you with loathing. The maiden he wronged, a miller's daughter named Tanwen, is standing among the queen's ladies. She does not look at him at all.
+?? seek the answer to the queen's riddle | Wisdom | 5
+++ You ride through a long year, asking. Some say gold, some say beauty, some say a husband, some say none. Then, in a cottage on the edge of a moor, an old woman with a face like a walnut gives you the answer. "Their own way," she says. "In all things. The same as men." When Gromer speaks it at Camelot, the queen is silent for a moment. "That is the answer," she says. "Now you know it. Remember it." Tanwen is given his lands in recompense. Gromer is given his life and nothing else.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+-- You ride through a long year, asking. You collect a hundred answers and cannot choose between them. At Camelot, Gromer guesses "flattery", and the queen's ladies laugh aloud. "Then you have learned nothing," says the queen. He hangs the next morning, and you watch, knowing that you did not help him learn.
+[sk:Wisdom | st:+Despairing]
+?? teach Sir Gromer what the riddle means | Honor | 6
+++ You do not give Gromer the answer. You make him earn it. You make him carry water for a widow, and dig a ditch for a nun, and listen to Tanwen's mother tell him exactly what he has done, for an hour, without answering back. By the end of the year he is thinner and quieter. When he stands before the queen, he gives no clever answer. "Their own will," he says, "which I took from Tanwen. I cannot give it back." The queen studies him for a long while. "No," she says. "But you may try." She lets him live.
+[d:5 | sk:Courtly | rn:Divinity+2]
+-- You do not give Gromer the answer. You try to make him earn it. He escapes in the night in the third week, stealing your horse, and is never seen again. The queen is not pleased. "I asked you to see that he asked honestly," she says. "Not to lose him." You resolve to watch a prisoner as closely as you would guard a friend.
+[sk:Honor | st:+Unhorsed]
+
+=== q12b
+"My lady," you say, "a year is a long time. Tanwen must live with what he did every day of it." Tanwen looks up at you for the first time. The queen's eyes narrow.
+?? argue for the maiden's justice before the court | Diplomacy | 5
+++ You speak plainly. The law of the realm is that such a man hangs. The queen's mercy is a fine thing, but it was not the queen he wronged. When you have finished, the queen turns to Tanwen. "What do you want?" she asks. The miller's daughter stares at her, astonished. "His lands," she says at last. "For my family. And for him to go on a pilgrimage and never come back." The queen smiles, very slightly. "That," she says, "is the answer to my riddle." Gromer leaves for Jerusalem the next morning.
+[d:4 | sk:Courtly | rn:Divinity/Romance+1]
+-- You speak plainly. The law of the realm is that such a man hangs. The queen hears you out with a stony face. "The law of the realm," she says, "is my husband's. The mercy is mine. Do not tell me which to prefer." She dismisses you from her presence, and the court is cool toward you for a season.
+[sk:Diplomacy | st:+Scorned]
+
+=== 1113
+You come upon a fishwife at a quayside in the west, gutting herring on an upturned boat. She has a coarse apron, a coarse shawl and a coarse voice, and the finest hands you have ever seen on a fishwife. Beneath the herring in her basket, something gleams gold.
+
+"Don't stare," she says, without looking up. "People notice when knights stare. I am Orlaith, Queen of Leinster, and this is my crown. My husband used it as a stake in a game of dice with the King of Munster last Samhain and lost it, and I will not have it said that I was queened with a gambler's forfeit. So I took it back." She flicks a fish-head into the water. "The Munster men are searching every ship for Ireland. I need a knight to carry the basket aboard. They will not search a knight."
+
+> You may smuggle the queen's crown aboard ship past the Munster men. -> q13a
+> You may take the crown from Queen Orlaith and sell it to the King of Munster's men. -> q13b
+
+=== q13a
+"I will carry your herring, my lady," you say. The queen grins, which makes her look ten years younger. "Carry it like a man who hates fish," she says. "Nobody searches a man who hates fish."
+?? bluff your way past the Munster searchers | Cunning | 4
+++ At the gangplank, a Munster sergeant asks what is in the basket. "Herring," you say, "for my lord's table, God help him," and you hold it out so that the smell hits him full in the face. He waves you through, coughing. Orlaith follows you aboard with her shawl over her head. When the ship is out of the harbour, she takes the crown out of the fish and puts it on, scales and all, and laughs at the Munster shore. She gives you a gold ring she was saving for a bribe.
+[d:3 | sk:Courtly | rn:Romance+1 | tr:1]
+-- At the gangplank, a Munster sergeant asks what is in the basket. "Herring," you say, and hold it out. The sergeant is a fisherman's son, and he knows that herring does not clink. They seize the crown, and the queen, and you. Orlaith spends the voyage to Munster in the hold beside you, telling you exactly what you did wrong.
+[sk:Cunning | st:+Imprisoned]
+?? get the basket aboard by main strength | Endure Hardship | 3+L
+++ The quay is too crowded for a knight to walk through, so you join the dock porters and carry the basket aboard on your back, with ten others, in a long sweating line. Nobody searches a porter. By the time you set it down in the hold, your back will never be the same, but the crown is safe. Orlaith presses a kiss on your forehead. "A knight who carries," she says. "There's a thing you don't see."
+[d:L | sk:Wilderness | rn:Romance+1]
+-- The quay is too crowded for a knight to walk through, so you join the dock porters and carry the basket on your back. Halfway up the gangplank, your foot slips on a fish-scale, and you and the basket go into the harbour together. The crown sinks. The queen stands on the quay, silent as stone, and then turns and walks away into the town.
+[sk:Endure Hardship | st:+Scorned]
+
+=== q13b
+You look at the basket, and at the Munster men in the harbour, and you make up your mind. Orlaith sees it in your face. "Ah," she says, and her hand goes to her gutting-knife.
+?? seize the crown from the queen | Sword & Shield | 4
+++ You catch her wrist before the knife comes up and take the crown from the basket. She spits at you in Irish. The Munster sergeant pays you a bag of silver and a gold cup for the crown, and has Orlaith led away. You hear, later, that she escaped on the way to Munster and has sworn to have your ears. You keep them covered in Irish company.
+[d:4 | tr:2 | rn:Villainy+2 | st:+Pursued]
+-- You reach for the crown, but her knife is quicker, and the gutting-knife opens your arm from wrist to elbow. By the time you have bound it, the queen has gone, and so has the basket. The Munster men laugh at you. "She did the same to our king," says the sergeant.
+[sk:Sword & Shield | st:+Wounded | rn:Villainy+1]
+
+=== 1115
+You come upon a lady sitting on a tree root in a green wood, with a garland of may blossom slipping over one eye. She is very beautiful and very muddy. Beside her stands a page of about ten, holding two horses and trying not to cry.
+
+"Good knight," the lady says, straightening the garland. "I am Guinevere. The queen. You may not recognise me in this state." She is trying hard to sound calm. "We came a-maying this morning, ten knights and ten ladies, all in green. Sir Meliagaunt of Gore and a hundred men rode out of the trees and took them. My knights had no armour, only green silk. They fought with branches." Her voice shakes. "I told this boy to ride with me and I told the others I would bring help. Now Meliagaunt is taking them to his castle, and I do not know the way home."
+
+> You may escort Queen Guinevere safely back to Camelot. -> q15a
+> You may ride after Sir Meliagaunt and free the captive knights and ladies. -> q15b
+
+=== q15a
+"You are safe now, my lady," you say. "We will get you home." The queen does not look safe. She looks at the trees on every side as though Meliagaunt's men might come out of them. The page, whose name is Aled, holds her bridle.
+?? find the way back to Camelot through the woods | Nature Lore | 3+L
+++ You find a stream and follow it downhill, knowing it must reach the river, and the river must reach Camelot. By dusk you can see the towers. The queen's knights are brought home within the week, when the High King marches on Gore. Guinevere does not forget. She sends for you on the next feast day and seats you among her own household. "You kept your head," she says, "when I had lost mine."
+[d:L | sk:Wilderness | rn:Romance+2]
+-- You find a stream and follow it downhill, but it runs into a marsh, and you spend the night in it with the queen, the page and two very unhappy horses. You bring her home at noon the next day, wet and furious. The High King thanks you. The queen does not.
+[sk:Nature Lore | st:+Plague-Ridden]
+
+=== q15b
+"Wait here with the boy, my lady," you say. "I will bring them back to you." The queen grips your arm. "He has a hundred men," she says. "Be careful." Meliagaunt's trail is easy enough: a hundred horses and twenty prisoners leave a great deal of trampled may-blossom.
+?? attack Sir Meliagaunt's column at the river crossing | Warfare | 6
+++ You ride ahead of the column and wait at the river crossing, where the road narrows between high banks. When Meliagaunt's men are strung out across the water, you ride out of the trees, shouting orders to an army that isn't there. The captives, hearing you, fall on their guards with their bare hands. In the confusion, half the prisoners escape, and the rest are freed within the week. Meliagaunt himself flees to Gore. The queen weeps when her ladies come home, and sends you a sleeve embroidered with may blossom.
+[d:5 | sk:Martial | rn:Romance+2 | tr:1]
+-- You ride ahead of the column and wait at the river crossing. But Meliagaunt has archers, and they have seen you. An arrow takes your horse, and before you can get to your feet you are surrounded. You spend the next week in Meliagaunt's cellars, next to the queen's knights, all of whom have opinions about your tactics.
+[sk:Warfare | st:+Imprisoned]
+?? follow the column and slip the captives free at night | Hunting | 5
+++ You follow at a distance until they camp. When the fires are low, you creep between the sleeping guards and cut the ropes of the nearest prisoners. They cut the ropes of the next, and so on, until twenty knights and ladies in green silk are slipping away through the trees. You bring them to the queen at dawn. She embraces each one, and then, to the page's astonishment, embraces you.
+[d:4 | sk:Wilderness | rn:Romance+2]
+-- You follow at a distance until they camp. When the fires are low, you creep between the sleeping guards, but one of them is only pretending to sleep. You are dragged before Meliagaunt, who laughs and adds you to his collection.
+[sk:Hunting | st:+Imprisoned]
+
+=== 1120
+You come upon a town square in Dyfed where a stake has been driven into the ground and faggots piled around it. A queen stands chained to the stake. She is young, pale and composed, dressed in a white shift, with her dark hair unbound. A crowd stands around her, silent.
+
+A herald reads from a scroll. "Queen Aeronwen, accused by her husband's brother Prince Cadell of killing King Rhodri by witchcraft. She has no champion. By the law of Dyfed, she burns at sunset."
+
+Prince Cadell, a handsome man in black velvet, stands beside the herald with his hand on the hilt of his sword. When he sees you, his face tightens.
+
+The queen raises her head. "I did not kill my husband," she says clearly. "He died of a fever. Cadell wants his throne, and there is no one left to say so." She looks straight at you. "Is there?"
+
+> You may stand as Queen Aeronwen's champion against Prince Cadell. -> q20a
+> You may seek out the truth of King Rhodri's death before sunset. -> q20b
+> You may let the law of Dyfed take its course. -> q20c
+
+=== q20a
+You ride into the square and throw down your gauntlet at Cadell's feet. "I will stand for the queen," you say. The crowd breaks into a roar. Cadell smiles thinly and calls for his armour.
+?? fight Prince Cadell in trial by combat | Sword & Shield | 6
+++ Cadell is a strong swordsman, and he fights for a crown, but you fight for a life. The combat lasts until the sun is touching the hills. Then Cadell overreaches, and you beat his sword down and put your point to his throat. "Confess," you say. He confesses, in front of the whole town, that the queen is innocent. Aeronwen is unchained. She walks to where you stand, takes your hand and kisses it. "I will not forget," she says. The men of Dyfed carry you round the square on their shoulders.
+[d:5 | sk:Martial | rn:Romance+2 | rn:Divinity+1 | st:+Esteemed]
+-- Cadell is a strong swordsman, and he fights for a crown. The combat lasts until the sun is touching the hills. Then your foot slips on the cobbles, and his sword opens your side. You fall. The herald declares the queen guilty. As they carry you out of the square, you see the smoke begin to rise. You will carry that smoke with you for the rest of your life.
+[sk:Sword & Shield | st:+Wounded | st:+Despairing]
+?? charge Prince Cadell on horseback in the lists | Mounted | 3+L
+++ The townsfolk clear the square, and you and Cadell ride at each other with lances across the cobbles. On the second pass, your lance takes him on the helm and lifts him out of the saddle, and he lands in the piled faggots at the queen's feet. He does not get up for some time. When he does, he confesses. Aeronwen is freed and restored to her throne, and Cadell is sent over the sea in a boat with no oars.
+[d:L | sk:Martial | rn:Romance+2]
+-- The townsfolk clear the square, and you and Cadell ride at each other across the cobbles. Your horse shies at the smell of pitch from the faggots, and Cadell's lance takes you in the chest. You go down among the kindling. By the time you have been dragged clear, the herald has declared the queen guilty, and they are lighting the torches.
+[sk:Mounted | st:+Unhorsed | st:+Despairing]
+
+=== q20b
+You dismount and seek out the late king's physician, an old man hiding in his house with the shutters closed. There is not much time.
+?? uncover the truth before the fire is lit | Wisdom | 5
+++ The physician is terrified, but you talk to him gently, and at last he shows you what Cadell ordered him to burn: the dead king's cup, with a white crust in the bottom that smells of almonds. It was poison, not witchcraft, and the cup was Cadell's gift. You run to the square with it as the torches are being lit. When you hold it up before the crowd, Cadell draws his sword and flees, and the townsfolk run him down in the road. The queen is freed. She gives you the dead king's own ring.
+[d:4 | sk:Spiritual | rn:Divinity+2 | tr:1]
+-- The physician is terrified and will not speak. You search his house and find nothing. By the time you give up, the sun is on the hills, and you can hear the crowd. You reach the square as the fire catches. The queen looks at you through the smoke, and she does not look angry. She only looks tired.
+[sk:Wisdom | st:+Despairing]
+
+=== q20c
+You rein in at the edge of the square. This is not your country, and not your law. The queen watches you turn your horse. She does not call out.
+
+You ride out of the town at a walk. You are on the far side of the valley when the bell starts to ring, and you do not look back to see the smoke.
+[mv:1 | st:+Despairing]

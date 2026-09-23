@@ -1,0 +1,305 @@
+=== 1601
+You come upon a fat friar in a brown habit standing on an upturned bucket at a village crossroads, with a tray of little lead badges hung round his neck and a crowd of villagers around him.
+
+"Pardons!" he cries. "Pardons from the Holy Father in Rome, sealed with his own seal! A penny for a small sin, a shilling for a large one! And here," he lifts a small glass box with great reverence, "is a knucklebone of the blessed Saint Petroc himself, which cures the ague, the gout, the murrain and the evil eye. A farthing to touch it!" The villagers are pressing forward with their pennies.
+
+You look at the knucklebone. It is very clearly a knucklebone from a pig. The friar catches your eye over the heads of the crowd, and winks. "Brother Cadoc," he says quietly, when you ride close. "Of no fixed abbey. You look like a sensible knight. There is plenty here for two."
+
+> You may expose Brother Cadoc's false relic to the village. -> e01a
+> You may join Brother Cadoc's trade and share his takings. -> e01b
+
+=== e01a
+"Good people," you say loudly, "that is a pig's knuckle." The crowd goes quiet. Brother Cadoc's smile does not flicker. "Blasphemy!" he says. "Who will you believe, a knight or a man of God?"
+?? prove the relic false before the crowd | Wisdom | 4
+++ You ask for the relic, and hold it up, and ask whether any of them has ever butchered a pig. Half the village has. They crowd round and look, and the murmuring turns to anger. The blacksmith's wife snatches the tray of pardons and finds they are cut from the lead of the church roof. Brother Cadoc is chased out of the village with a pitchfork behind him, and the villagers get their pennies back. The priest thanks you. His roof has been leaking for a month.
+[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- You ask for the relic and hold it up and ask whether any of them has ever butchered a pig. But Brother Cadoc is quicker. He cries out that you have defiled the saint with your unclean hands, and falls on his knees weeping, and the villagers believe him. They drive you out of the village with stones. You resolve to be a little less certain in front of a crowd.
+[sk:Wisdom | st:+Scorned]
+?? shame the friar into confessing | Piety | 5
+++ You get down from your horse and kneel in the road before Brother Cadoc, and ask him, very seriously, to pray over you with the saint's relic, since you have sinned greatly. Cadoc has to. He lifts the pig's knuckle and opens his mouth to pray, and you look him in the eye, and he cannot do it. His face crumples. "I cannot," he says. "God forgive me, I cannot." He confesses to the whole village. They are so astonished that they forgive him. He goes to the nearest monastery to do penance, taking nothing but the knuckle, which he says he will keep to remind himself.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You kneel in the road and ask Brother Cadoc to pray over you with the relic. He does, beautifully, with tears streaming down his face. The villagers are moved. You are sure he is laughing inside. When he finishes, he charges you a shilling.
+[sk:Piety]
+
+=== e01b
+You lean down from your saddle. "What share?" you ask. Cadoc beams. "A third," he says, "and you stand beside me looking holy and warlike, and swear you were healed by the saint of a lance wound at Carleon."
+?? play the healed knight for Brother Cadoc's crowds | Cunning | 3+L
+++ You travel with Brother Cadoc for a fortnight, village to village. You are very good at being healed. You limp in, touch the knuckle, throw away your crutch and weep. The pennies pour in. At the end of it, Cadoc divides the money fairly and gives you a lead badge as a keepsake. "Stamped from a bishop's roof," he says proudly. "You have a gift, my son. If you ever tire of the sword, come and find me."
+[d:L | tr:1 | rn:Villainy+2 | rn:Divinity-1]
+-- You travel with Brother Cadoc for a week. In the fifth village, you throw away your crutch with such enthusiasm that it hits the reeve on the head. The reeve is not in a forgiving mood. He has Brother Cadoc and you put in the stocks, and the villagers throw rotten turnips until sundown.
+[sk:Cunning | st:+Imprisoned | rn:Villainy+1]
+
+=== 1602
+You come upon a river, wide and fast, with no bridge and no boat. On the near bank stands a hut of reeds, and a lean old man with a staff comes out of it, bent almost double. "You wish to cross?" he says. "I carry travellers on my back. It is my penance. I am Julian." He looks at the water with a kind of weary love. "But today my back is broken. I cannot carry you, and I cannot carry him." He points.
+
+On a stone by the river sits a leper in rags, with his face wrapped in a cloth, holding out a wooden bowl. "He came at dawn," says Julian. "He must reach the hospital on the far side before nightfall, or die in the open. Nobody will touch him. Every traveller today has ridden upstream to the ford instead." The old man sits down heavily. "I would ask you to carry him, but I know what I am asking."
+
+> You may carry the leper across the river on your own back. -> e02a
+> You may ask the hermit Julian what his penance is for. -> e02b
+
+=== e02a
+You get down from your horse and go to the leper. He shrinks away from you. "You will catch it," he says. "Everyone says so." You lift him onto your back. He weighs almost nothing.
+?? carry the leper across the flood | Endure Hardship | 5
+++ The water comes up to your chest, then your chin, and the current pulls at your legs. With every step, the leper seems to grow heavier, as though you are carrying a man, then a horse, then a whole church. Halfway across, you think you will drown. You do not put him down. On the far bank, you set him on the grass, and he unwraps the cloth from his face. There are no sores. His face is shining. "You carried more than you know," he says, and he is gone. On the near bank, old Julian is on his knees, weeping.
+[d:5 | sk:Wilderness | rn:Divinity+2 | st:+Blessed | n:Lose all Ranks of Villainy]
+-- The water comes up to your chest, then your chin, and with every step, the leper grows heavier. Halfway across, your courage fails. You turn back. You set him down on the near bank, gasping, and he looks at you with eyes full of pity. Then he gets up and walks into the river himself, and does not sink, and walks across it to the far bank. You kneel on the stones and cannot rise.
+[sk:Endure Hardship | st:+Despairing]
+
+=== e02b
+Julian looks at the river for a long time before he answers.
+
+"I was a knight," he says. "I hunted, and loved it more than God. One day I cornered a great stag, and it turned and spoke to me. It said, *You will kill your father and your mother.* I fled to the other end of the world so I could not. I married. I prospered. And one night I came home and found two strangers in my bed, and I thought my wife was false, and I killed them both in the dark." He is quiet for a long while. "They were my father and my mother. They had come looking for me, and my wife had given them her own bed. So I came here. I carry travellers across the water. I have carried eleven thousand, three hundred and six. I do not know how many it will take." He smiles faintly. "Perhaps one more."
+
+While you are talking, the leper has risen from his stone and gone. You did not see him go. Julian blesses you before you ride on to the ford.
+[d:1 | sk:Wisdom | rn:Divinity+1]
+
+=== 1603
+You come upon a small church on a hill, with a tiny stone cell built against its north wall. There is no door to the cell, only a narrow window with a wooden shutter, and a stone ledge where passers-by leave bread. The shutter opens as you ride past.
+
+"You have come a long way," says a woman's voice from inside. It is old and very clear. "I am Mother Elen. I was walled in here forty years ago, and I will be carried out when I die. I pray for everyone who passes." A thin white hand comes out of the window and rests on the ledge. "I pray for you already. I have been praying for you since you came over the hill. Would you like my blessing? It is not free. You must tell me honestly what you most need to be forgiven for." The hand turns palm-up. "Or you may leave me some bread. That is also a kindness."
+
+> You may kneel at the anchoress's window and ask for her blessing. -> e03a
+> You may ride to the village and bring the anchoress food and firewood for the winter. -> e03b
+
+=== e03a
+You kneel on the cold stones beneath the window. Mother Elen waits. You can hear her breathing, slow and quiet.
+?? open your heart to the anchoress | Piety | 5
+++ You tell her. It comes out slowly at first, and then all at once. When you are done, there is a long silence. Then the white hand comes out of the window and rests on your head. It is warm. Mother Elen speaks a blessing so simple that a child could have said it, and something you have carried for a very long time is lifted from you. "Keep this," she says, and presses a small wooden cross into your hand. "When you are in great trouble, give it away, and your trouble will go with it."
+[d:3 | sk:Spiritual | rn:Divinity+2 | tok:22 | n:While you hold Story Token #22, you may discard it at any time to lose one unwanted Status]
+-- You tell her, but when you come to the thing you most need to be forgiven for, you find you cannot say it. You say something smaller instead. The hand on the ledge is still. "That is not it," says Mother Elen gently. "Come back when you can say it." The shutter closes.
+[sk:Piety]
+
+=== e03b
+"It is winter soon," you say. "You should not be cold." Mother Elen laughs, a small dry sound. "I am always cold," she says. "But I would not say no to firewood."
+?? gather food and firewood for the anchoress | Endure Hardship | 3+L
+++ You spend two days in the wood below the hill, cutting and hauling timber, and a day in the village persuading the miller to part with a sack of flour. At the end of it, the ledge beside her window is piled high. Mother Elen puts her hand out and touches the logs. "Nobody has done this for thirty years," she says. "They bring bread. They never think of wood." She blesses you and your journey. That winter, you hear, she is the only soul in the parish who does not have a cough.
+[d:L | sk:Wilderness | rn:Divinity+1]
+-- You spend two days in the wood below the hill, cutting timber, and on the second day, the axe-head flies off the handle and cuts your foot. You limp back to the cell with half a load. Mother Elen thanks you kindly, but you know you have done her little good.
+[sk:Endure Hardship | st:+Wounded]
+
+=== 1604
+You come upon a hermit standing in the middle of a meadow in his nightshirt, holding a candle, looking very cross. There is a square of bare earth at his feet, as though a small building has recently been lifted off it.
+
+"It has happened again," he says. "I am Brother Fychan. I built myself a cell in this meadow. Every night I go to sleep in it, and every morning I wake up somewhere else. Last week I woke up in the middle of the river. Yesterday on top of the church tower. This morning," he points with the candle, "the cell is up that tree, and I was not in it. I am in the meadow. In my nightshirt." He glares at the tree, where a small wooden hut is wedged in the branches. "It is the fair folk. I told them their dancing kept me awake. Now they will not leave me alone."
+
+From somewhere in the long grass, you hear a high giggle.
+
+> You may help Brother Fychan make his peace with the fair folk. -> e04a
+> You may help Brother Fychan play a trick on the fair folk in return. -> e04b
+
+=== e04a
+"Perhaps," you say, "the fair folk would like an apology." Brother Fychan splutters. "Apology? From me? They moved my cell into a river!"
+?? make peace between the hermit and the fair folk | Magic | 4
+++ You persuade the hermit to leave a bowl of milk and a honeycake on the square of bare earth that night, with a note that says *Sorry about the dancing*. In the morning, the cell is back in its place. The milk and the cake are gone. On the doorstep there is a small bunch of primroses, though it is autumn. Brother Fychan sleeps in his cell every night after that, and says that the dancing, when you get used to it, is really quite beautiful.
+[d:3 | sk:Spiritual | rn:Divinity+1]
+-- You persuade the hermit to leave out a bowl of milk and a honeycake, with a note. In the morning, the milk has been drunk, and the cake eaten, and there is a second note in the bowl in a tiny, spiky hand. It says *Not good enough*. The cell is on the roof of the village inn. So is your horse.
+[sk:Magic | st:+Accursed]
+
+=== e04b
+You grin. "There is an old trick," you say. "The fair folk cannot bear the smell of iron."
+?? outwit the fair folk | Cunning | 5
+++ That night, you help Brother Fychan nail horseshoes to every corner of his cell, and put an iron pot over the chimney. In the morning, the cell is exactly where he left it, and there are tiny angry footprints all round it in the dew. The hermit is delighted. For good measure you hang a string of iron nails across the door. The fair folk leave him alone after that. They do not, however, leave you alone, and for a week you keep finding your boots on the wrong feet.
+[d:3 | sk:Courtly | rn:Any+1]
+-- That night, you help Brother Fychan nail horseshoes to every corner of his cell. In the morning, the cell is exactly where he left it. The meadow is not. You wake up, both of you, in the cell, on top of a mountain three counties away.
+[sk:Cunning | st:+Lost]
+
+=== 1605
+You come upon a hermit sitting on the bank of a river, dropping a wooden bowl into the current. It floats away downstream, and as it goes, you see a folded parchment in the bottom of it.
+
+He sees you watching and blushes to the roots of his tonsure. "I am Brother Hugh," he says. "That was a letter." He points across the river, where a small nunnery stands among apple trees. "To the Abbess Gwenfrewi. We were betrothed when we were young, and then her father sent her to the nuns and mine sent me to the monks. That was thirty years ago. She lives over there. I live over here. Every Sunday she floats me a letter in a bowl, and every Wednesday I float her one." He looks at you. "The bishop is coming on Saturday. He has heard something. If he finds the letters, we will both be sent away. To opposite ends of Britain."
+
+> You may help the hermit and the abbess keep their letters from the bishop. -> e05a
+> You may persuade the bishop to release them both from their vows. -> e05b
+
+=== e05a
+"Where are the letters?" you ask. Brother Hugh leads you into his hut and lifts a floorboard. Beneath it are thirty years of letters, tied in bundles with river-weed.
+?? hide the letters from the bishop's men | Cunning | 4
+++ You pack the letters into an empty barrel labelled *Pickled Herring* and roll it into the nunnery's cellar with the abbess's help, among forty other barrels of pickled herring. When the bishop comes, he searches both hut and nunnery from top to bottom, and finds nothing but herring. He leaves disappointed and faintly nauseated. The next Wednesday, you see a wooden bowl floating downstream with a letter in it, and on the far bank, among the apple trees, an old woman waving.
+[d:3 | sk:Courtly | rn:Romance+2]
+-- You pack the letters into a barrel labelled *Pickled Herring* and roll it into the nunnery cellar. When the bishop comes, he is hungry, and asks for herring. They open the wrong barrel. Brother Hugh is sent to a monastery in the north. The abbess, you hear, weeps for a month.
+[sk:Cunning | st:+Despairing]
+
+=== e05b
+"Thirty years is long enough," you say. "Let me speak to the bishop." Brother Hugh goes white. "You would tell him?" "I would ask him," you say.
+?? plead for the old lovers before the bishop | Diplomacy | 6
+++ The bishop is a brisk, hard-faced man who does not like knights. You meet him on the road and ride beside him for two days, talking. You talk about vows, and about what was done to two young people thirty years ago against their will. You talk about mercy. On the second evening, the bishop sighs and rubs his eyes. "I was betrothed once too," he says. "She died." On Saturday, he releases Brother Hugh and the Abbess Gwenfrewi from their vows. They are married by the river on Sunday, and they float a bowl downstream with a letter in it for you.
+[d:5 | sk:Courtly | rn:Divinity+1 | rn:Romance+2]
+-- The bishop is a brisk, hard-faced man who does not like knights. You meet him on the road and try to talk to him about mercy. He listens for a quarter of an hour and then says, "So it is true." On Saturday, Brother Hugh is sent north, and the abbess is sent south. You do not see the wooden bowl again.
+[sk:Diplomacy | st:+Scorned]
+
+=== 1607
+You come upon a ragged monk standing on a hill in a strong wind, preaching at the top of his voice to a field full of crows. The crows are listening. Every one of them faces him.
+
+"The king will fall!" he shouts. "The son will strike the father and the father the son! The table will be split for firewood! The sword will go back into the water!" He sees you and points a bony finger. "You! You will be there! I have seen you there, on the plain, in the rain!" The crows turn their heads, all together, to look at you.
+
+He climbs down from his hill, and up close, he is only an old man, trembling. "I am Brother Aldhelm," he says. "I was a monk at Glastonbury. Then I started to see things. They put me out. Now I tell the crows, because they are the only ones who will listen." He grips your arm. "Will you listen?"
+
+> You may listen to Brother Aldhelm's prophecy. -> e07a
+> You may try to bring Brother Aldhelm back to his abbey at Glastonbury. -> e07b
+
+=== e07a
+You sit down on the hillside beside him, among the crows. "Tell me," you say.
+
+He tells you everything. He tells you about a queen and a knight and a fire. About a king who crosses the sea to fight his friend and comes home to find his son on his throne. About a plain in the west, in May, with a thousand ravens circling. About an adder in the heather, and a sword drawn to kill it, and two hosts that see the sword and charge. About a one-handed knight throwing a great sword into a lake, and an arm coming up to catch it. About a black barge with three queens in it, and a king who is not dead, only sleeping. "He will come back," the old monk says, weeping, "when Britain needs him most. But not for a very long time."
+
+When he has finished, the crows rise all together and fly away west. Brother Aldhelm is asleep in the grass. You cover him with your cloak and ride on, and you cannot get the adder out of your mind.
+[d:2 | sk:Wisdom | rn:Divinity+1]
+
+=== e07b
+"Come," you say. "Glastonbury is not far. They will take you back if I speak for you." Brother Aldhelm shakes his head. "They will not," he says. "They are afraid of what I see." But he lets you help him onto your horse.
+?? persuade the abbot to take him back | Honor | 5
+++ The Abbot of Glastonbury is a stern man, but you speak honestly to him. The old monk is not mad, you say. He is only frightened, and he has nowhere else to go. You offer to pay for his keep for a year. The abbot looks at Brother Aldhelm for a long time. Then he sighs. "He may keep bees," he says, "and he may talk to them. But not in chapel." Brother Aldhelm is happier with bees than with crows, and his prophecies, the brothers say, have become much more cheerful.
+[d:3 | sk:Courtly | rn:Divinity+2]
+-- The Abbot of Glastonbury will not see you. His porter says the old monk is a shame to the house. When you leave, Brother Aldhelm gets down from your horse and walks away up the hill, toward a field of crows.
+[sk:Honor]
+?? calm the old man's visions with prayer | Piety | 4
+++ At Glastonbury, you do not go to the abbot. You go to the chapel and kneel beside Brother Aldhelm all night. Toward dawn, he stops trembling. "It is quieter," he says, surprised. "They have stopped shouting." When the brothers come in for Matins, they find him kneeling in his old place, singing the psalm with them. Nobody says a word. The abbot, when he hears, lets him stay.
+[d:3 | sk:Spiritual | rn:Divinity+1]
+-- You kneel beside Brother Aldhelm all night, praying. Toward dawn, he grips your arm and whispers, "I see you there. On the plain. In the rain." And for a moment, so do you. You leave Glastonbury in a hurry, and the vision goes with you.
+[sk:Piety | st:+Mad]
+
+=== 1610
+You come upon a village where the wells have all gone bad. The water comes up black and stinks of rotten eggs. The villagers are thin and sullen. In the churchyard, what was once a small chapel is a blackened ruin, and beside it, in a shelter of branches, a hermit sits in the ashes with his arms folded.
+
+"I cursed them," he says, before you can ask. "I am Brother Cynan. They burned my chapel. I had kept it forty years. I prayed for them every day." His voice is quite calm. "The reeve said I was hiding silver under the altar. I was not. They burned it anyway, to make me tell. So I cursed their wells, and God, it seems, agreed with me." He looks at you with pale, steady eyes. "Their children are sick now. I am sorry for the children. But I will not lift the curse until they rebuild my chapel with their own hands, stone by stone, and the reeve kneels in it."
+
+The reeve, a thick-set man with a beard, is standing in the lane with his arms folded too.
+
+> You may try to lift the hermit's curse on the wells. -> e10a
+> You may persuade the villagers to rebuild the chapel. -> e10b
+
+=== e10a
+You go to the nearest well and look down into the black water. Behind you, Brother Cynan laughs. "You think you can undo what God has done?" he says.
+?? cleanse the village wells | Piety/Magic | 6
+++ You kneel at the well and pray. You pray for the village, and for the children, and for the reeve, and for the hermit, who has been wronged. You pray for a long time. Toward evening, the hermit comes and kneels on the other side of the well. He does not say anything. He only prays too. At dusk, the water in the well goes clear. Brother Cynan weeps. "I did not want to hate them," he says. The next day, without being asked, the villagers begin to clear the ruins of the chapel.
+[d:5 | sk:Spiritual | rn:Divinity+2 | n:Lose 1 unwanted Status Card, if you have one]
+-- You kneel at the well and pray, and chant the words for cleansing water. The well stays black. Behind you, Brother Cynan shakes his head. "It is not the water," he says. "It is them." The children are still coughing when you leave.
+[sk:Piety | st:+Despairing]
+
+=== e10b
+You walk down the lane to the reeve. "Your children are sick," you say. "It is time to put this right." The reeve scowls. "He is an old fool," he says. "There was silver."
+?? persuade the reeve and villagers to rebuild the chapel | Diplomacy | 5
+++ You talk to the villagers, and they talk to each other, and slowly it comes out: there was no silver. The reeve's own debts were the reason. The villagers turn on him, and then they turn to the ruins. They rebuild the chapel in a fortnight, stone by stone, working all day. On the last day, the reeve is made to kneel in it. Brother Cynan comes to the door, looks at the reeve for a long time, and lifts his hand in blessing. That night, the wells run clear.
+[d:4 | sk:Courtly | rn:Divinity+2]
+-- You talk to the villagers, but the reeve is a powerful man in that village, and nobody dares speak against him. The children go on coughing. You ride on, and the black water stays black.
+[sk:Diplomacy]
+?? rebuild the chapel with your own hands | Endure Hardship | 3+L
+++ You do not argue. You roll up your sleeves, find a trowel, and start laying stones. By the end of the first day, three villagers have come to help you, out of shame. By the end of the week, the whole village is there. The reeve holds out for ten days, and then even he comes, and carries stones, and at the end, he kneels in the rebuilt chapel without being asked. Brother Cynan lifts his curse. He lifts it, he says, for you.
+[d:L | sk:Wilderness | rn:Divinity+2]
+-- You roll up your sleeves and start laying stones. Nobody comes to help you. At the end of a week, you have built a wall knee-high, and the villagers are laughing at you from the lane. You ride on with blistered hands.
+[sk:Endure Hardship | st:+Scorned]
+
+=== 1612
+You come upon a beggar sitting under a thorn tree at a crossroads, wrapped in a filthy grey cloak, with a staff across his knees and a bowl at his feet. His beard is white and his eyes are very bright, and he is peeling an apple with his thumbnail in one unbroken spiral.
+
+"Alms," he says, without looking up. "Alms for an old man who knows too much." He finishes the apple and holds up the peel, one long curl. "Do you know what this is? It is a man's life. One long piece, and you cannot tell where it will end until you get there." He looks up, and his eyes are much too bright for a beggar's. "Or can you?" He grins. "I will make you a bargain. Give me a riddle and I will give you one. The better your riddle, the better mine."
+
+You have a very strong feeling that you have seen this old man before, at the High King's elbow.
+
+> You may trade riddles with the old beggar. -> e12a
+> You may give the old beggar alms and ask for nothing. -> e12b
+
+=== e12a
+You sit down under the thorn tree. The old man settles back, delighted. "You first," he says.
+[tok:3]
+?? match wits with the old beggar | Wisdom | 6
+++ You give him the best riddle you know. He laughs aloud and answers it, but he has to think first, which pleases him enormously. "Now mine," he says. "*I taught a girl everything I knew, and she used it to put me in a box. What am I?*" You think for a long time. "A fool," you say at last. The old man's grin fades. "Yes," he says quietly. "Yes, I suppose I am." He stands, and for a moment he is very tall and not a beggar at all. "Remember that answer," he says. "One day, someone will need it." He is gone. His bowl is full of gold.
+[d:4 | sk:Spiritual | rn:Any+1 | tr:1]
+-- You give him the best riddle you know. He answers it at once, and yawns. "Now mine," he says. "*I taught a girl everything I knew, and she used it to put me in a box. What am I?*" You guess, and guess again, and cannot get it. He laughs, but his eyes are sad. "No," he says. "Nor could I, when I was your age. Keep it. Perhaps you will guess it later." When you look up, he is gone, and there is an apple peel curled on the grass.
+[sk:Wisdom]
+
+=== e12b
+You drop a coin in his bowl. "I have no riddles, old man," you say. "Only this." The beggar looks at the coin, and then at you, and his grin softens.
+
+"No riddle? No bargain? Nothing?" He shakes his head. "They all want something. Arthur wanted a sword. Uther wanted a woman. Lot wanted a crown." He picks up the coin and turns it in his fingers. "I will give you something anyway. *A lady by a lake will ask you to hold a door. Do not.*" He stands up, and for a moment, he is very tall, and his cloak is not grey but midnight blue. "That is the riddle. You may not understand it for years." Then he is only a beggar again, limping away down the road, and your coin is back in your purse.
+[d:2 | sk:Wisdom | rn:Divinity+1 | tok:3]
+
+=== 1613
+You come upon a hermitage in a lonely valley, with a small chapel and a garden and a white-bearded hermit sitting at the gate. He rises with a smile and holds out his hands.
+
+"A traveller! Come in, come in. I am Father Emyr. You are welcome to my fire and my bread." He takes your horse's bridle and leads you through the gate. "The road ahead is dangerous. There are outlaws in the pass. Stay the night here, and in the morning, I will show you a safe way round."
+
+He is very kind. But his hands, as he unbuckles your saddle, are as hard and callused as a soldier's, and there is a scar across his knuckles. While he is in the chapel fetching bread, you notice that the chapel bell is tied to a long rope that runs away up the hillside, toward the pass.
+
+> You may confront the false hermit and expose him. -> e13a
+> You may play along and turn the hermit's trap against the outlaws. -> e13b
+
+=== e13a
+When Father Emyr comes back with the bread, you are standing in the doorway with your sword drawn. "Ring your bell, father," you say, "and I will cut the rope before it sounds." The hermit's face changes. He is not old at all.
+?? overpower the false hermit before he can warn his friends | Sword & Shield | 4
+++ He goes for a knife hidden in the bread. You are faster. After a brief, ugly struggle on the chapel floor, he is tied to his own altar rail with his own bell-rope, cursing. You ride on up the pass at dawn, and when the outlaws come down to meet you, expecting a sleepy traveller, they find a wide-awake knight instead. They scatter. In the next town, the reeve pays you a bounty for the false hermit, whose name is Emyr the Knife.
+[d:3 | sk:Martial | rn:Any+1 | tr:1]
+-- He goes for a knife hidden in the bread. You are faster, but he is stronger, and in the struggle he gets a hand on the bell-rope and gives it one long pull. You hear the bell ring up on the hillside. You flee through the back of the chapel just as twenty men come down from the pass with torches. They keep your horse.
+[sk:Sword & Shield | st:+Unhorsed | st:+Pursued]
+
+=== e13b
+You say nothing, and eat his bread, and thank him. That night, when he thinks you are asleep, you hear him slip out of the chapel. You follow.
+?? lay a trap for the outlaws in the pass | Warfare | 3+L
+++ The false hermit rings his bell, and the outlaws come down from the pass with torches to rob his guest. You have already moved your horse, stuffed your blankets with straw, and cut half-through the rope bridge above the chapel. When they are all on it, you cut the rest. Twelve outlaws go into the river. The survivors flee. The hermit, you find in the morning, has fled too. You take his chapel's bell to the next church, where it is still rung every Sunday.
+[d:L | sk:Martial | rn:Divinity+1 | rn:Any+1]
+-- The false hermit rings his bell, and the outlaws come down from the pass. You try to take them by surprise in the dark, but there are too many, and one of them has a dog. You spend the night in a thicket with the dog barking outside it.
+[sk:Warfare | st:+Pursued]
+
+=== 1615
+You come upon a small chapel in a forest clearing, with its door hanging off its hinges and moss growing on the altar. An old hermit is sitting on the chapel steps, drinking from a leather bottle. He looks up at you with red eyes.
+
+"Come to pray?" he says. "Do not bother. Nobody is listening." He takes another drink. "I am Brother Seisyll. I have prayed in this chapel for twenty-two years. Every day, three times a day. And last winter the plague came to the village below and took my sister's children, all four, and I prayed and prayed, and they died anyway." He laughs. "So I stopped. And last night, my old abbot came and stood at the end of my bed. He has been dead nine years. He did not say anything. He only looked at me." He shivers. "He is coming back tonight. I know he is."
+
+In the chapel, behind the moss-covered altar, you see the glint of a silver chalice and candlesticks.
+
+> You may keep vigil with Brother Seisyll through the night. -> e15a
+> You may take the chapel's silver while the hermit is drinking. -> e15b
+
+=== e15a
+"I will stay with you," you say. "We will face your abbot together." Brother Seisyll looks at you for a long moment. Then he puts the cork in his bottle.
+?? keep faith with the hermit through the night | Piety | 5
+++ At midnight, a figure in a black habit stands in the chapel doorway. It looks at Brother Seisyll, and then at you, and it does not speak. Seisyll's hands are shaking. "Say something," you murmur. He swallows. "Father," he says, "I am angry." The dead abbot nods, slowly, as though that is the right answer, and the first thing that the old hermit has said honestly in a year. Then he is gone. In the morning, Seisyll sweeps the moss from the altar. "It is a start," he says.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- At midnight, a figure in a black habit stands in the doorway. Brother Seisyll screams and flees into the forest. You stand there alone with the dead abbot. He looks at you for a long time, and then he turns and follows his monk into the dark. You do not sleep again that night.
+[sk:Piety | st:+Despairing]
+?? speak with the dead abbot on the hermit's behalf | Wisdom | 5
+++ At midnight, a figure in a black habit stands in the chapel doorway. You rise and bow to it. "Father," you say, "your monk has lost his faith, because God did not answer him. What should he do?" The dead abbot looks at you. Then, for the first time, he speaks, very softly. "He should keep asking," he says. He is gone. Brother Seisyll weeps, but in the morning, he is praying again. He says it is a kind of arguing.
+[d:3 | sk:Spiritual | rn:Divinity+1]
+-- At midnight, a figure in a black habit stands in the chapel doorway. You rise and speak to it, but it does not answer. It only looks at you, and you have the feeling that you have said entirely the wrong thing. When it goes, it takes the hermit's courage with it.
+[sk:Wisdom]
+
+=== e15b
+Brother Seisyll is well into his bottle. The chapel door hangs open. You step inside quietly.
+?? steal the chapel silver | Cunning | 4
+++ You wrap the chalice and the candlesticks in your cloak and walk out past the hermit, who is humming to himself. He does not look up. You are a mile away before you let yourself breathe. That night, at the inn, you dream of a figure in a black habit standing at the end of your bed, looking at you. You sell the silver in the morning, for a very good price, and you do not dream of him again. Mostly.
+[d:4 | tr:2 | rn:Villainy+2 | rn:Divinity-1]
+-- You wrap the chalice in your cloak. When you turn, there is a figure in a black habit standing in the doorway. It is broad daylight. It does not speak. It only looks at you. You put the chalice back on the altar and walk out past it, and it turns its head to watch you all the way to your horse.
+[sk:Cunning | st:+Accursed | rn:Villainy+1]
+
+=== 1620
+You come to a village where every door is marked with a cross in white chalk. The street is empty. From a barn at the end of it comes the sound of coughing, many voices, and a single voice praying above them.
+
+A hermit comes out of the barn, a tall, gaunt man with his sleeves rolled up and a cloth tied over his face. "Do not come in," he says. "It is the plague. I am Father Mabon. I came down from my hermitage when it started. The priest fled. The lord fled." He pulls down the cloth. His face is grey with exhaustion. "There are thirty sick in there. Eleven dead in the churchyard, and nobody to bury them. And no physician within three days' ride." He looks at you. "I am not asking you to come in. I am only telling you, so that somebody knows."
+
+> You may stay and nurse the sick with Father Mabon. -> e20a
+> You may ride for a physician as fast as you can. -> e20b
+> You may bury the dead so that the sickness spreads no further. -> e20c
+
+=== e20a
+You get down from your horse and roll up your sleeves. Father Mabon looks at you and says nothing. He hands you a cloth for your face.
+?? tend the sick through the worst of the plague | Nature Lore | 5
+++ You stay a fortnight. You boil water and burn rushes and bathe fevered faces and carry bowls. You learn which herbs cool a fever and which ease a cough. Of the thirty sick, twenty-two live. On the last day, Father Mabon sits down in the straw beside you, with a child asleep on his lap. "I could not have done it alone," he says. When you ride away, the whole village is at the doors to watch you go, and some of them are weeping.
+[d:5 | sk:Wilderness | rn:Divinity+2 | st:+Blessed]
+-- You stay a week. You do everything Father Mabon tells you. But on the fifth day, you wake up shivering, and by the seventh, you are lying in the straw among the others. You live. Many do not. When you ride away, you are weak and thin, and you carry the sickness with you for a long time.
+[sk:Nature Lore | st:+Plague-Ridden]
+
+=== e20b
+"I will fetch a physician," you say. Father Mabon nods. "The nearest is the Abbey of Saint Asaph," he says. "Three days' ride. Two, if you do not sleep."
+?? ride to the abbey and back without rest | Mounted | 3+L
+++ You ride through the night, and the next day, and the next night. At the abbey, you drag the infirmarian out of his bed and put him on a fresh horse, and you ride back. It takes you four days in all. When you arrive, Father Mabon is still on his feet, but only just. The infirmarian knows what to do. Of the thirty sick, eighteen live. The infirmarian says it would have been none, without you.
+[d:L | sk:Martial | rn:Divinity+1 | rn:Any+1]
+-- You ride through the night, and at dawn, your horse falls, exhausted, and cannot get up. You walk the rest of the way. By the time you reach the abbey and return with the infirmarian, it has been a week, and there is nobody left in the barn to cough.
+[sk:Mounted | st:+Unhorsed | st:+Despairing]
+
+=== e20c
+"The dead must be buried," you say, "or there will be more." Father Mabon closes his eyes. "Thank you," he says. "I have not had the strength."
+?? dig graves for the plague dead | Endure Hardship | 5
+++ You dig for two days, from dawn until dark. You bury eleven people, and then three more who die while you are digging. You say what prayers you know over each of them. At the end, you are black with earth to your elbows, and too tired to stand. Father Mabon brings you water. "They will be remembered," he says. The sickness, whether by God's mercy or because the dead are in the ground, begins to ebb.
+[d:4 | sk:Wilderness | rn:Divinity+2]
+-- You dig for a day. On the second morning, you wake with a fever. You dig on anyway, because there is nobody else, until you fall into the grave you are digging and cannot climb out. Father Mabon finds you there and drags you into the barn with the others.
+[sk:Endure Hardship | st:+Plague-Ridden]

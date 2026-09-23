@@ -1,0 +1,325 @@
+=== 1501
+You hear it before you see it: a noise like thirty couple of hounds baying, coming from inside something that is running. A great beast crashes across the road in front of you. It has the head of a serpent, the body of a leopard, the haunches of a lion and the feet of a hart, and the baying comes from its belly. It is gone into the trees before your horse has finished rearing.
+
+A moment later, an old knight gallops up on a lathered grey, with a crown tied to his helm with string. "Which way?" he gasps. "Which way did it go?" You point. He nods and pats his horse. "Hear that, Bellerus? Left. Always left. It is always left." He turns to you. "Pellinore. King of the Isles. I have been hunting the Questing Beast for eleven years. Nobody but a Pellinore can catch it, you know. Family tradition. But nobody said a Pellinore could not have help." He looks at you hopefully. "It is very fast."
+
+> You may ride with King Pellinore after the Questing Beast. -> h01a
+> You may ask King Pellinore why he hunts the beast at all. -> h01b
+
+=== h01a
+"Lead on, my lord," you say. Pellinore's face creases into a delighted smile. "Splendid!" he cries. "Bellerus, we have a companion!" The horse does not seem pleased.
+[tok:2]
+?? chase the Questing Beast through the forest | Mounted | 3+L
+++ You ride all day, through thickets and over streams, following the baying. Twice you see the beast ahead of you, and twice it vanishes. At dusk, you corner it at last in a ravine. It turns and looks at you with sad, intelligent eyes, and the baying stops. Then it leaps the ravine in one bound and is gone. Pellinore sits on his horse, breathless and grinning. "Closest I have been in three years," he says. "You have the gift. Same time next year?" He gives you a hunting horn with a questing beast carved on it.
+[d:L | sk:Martial | rn:Romance+1 | tr:1]
+-- You ride all day, following the baying. At noon, your horse puts its foot in a rabbit hole and goes down, and you go over its head into a bramble bush. By the time you are out, Pellinore is a speck on the horizon. You hear his voice, very faint, calling "Left! Always left!"
+[sk:Mounted | st:+Unhorsed]
+?? track the beast to its lair | Hunting | 5
+++ While Pellinore gallops off after the baying, you look at the ground. The beast's feet are a hart's feet, and harts go to water at dusk. You find the pool where it drinks, and you and Pellinore wait in the rushes. At sunset it comes, and drinks, and lifts its serpent's head and looks straight at you. Pellinore does not move. After a while he whispers, "I do not want to catch it, you know. Not really. What would I do then?" The beast finishes drinking and pads away. Pellinore wipes his eyes and shakes your hand.
+[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+-- While Pellinore gallops off after the baying, you look at the ground. You find hart's tracks, and follow them all afternoon, and at dusk you find a hart. An ordinary one. It looks at you in surprise and bounds away. Somewhere far off, the baying goes on.
+[sk:Hunting]
+
+=== h01b
+Pellinore looks at you as though no one has ever asked him that before. "Why?" he says. "Well. My father hunted it. And his father. It came out of a king's daughter, you know, who loved her own brother and was refused, and gave herself to a devil, and the devil got the Beast on her. So the Beast is a kind of sin, running round Britain with hounds in its belly, barking." He scratches his beard. "Merlin says only a knight of my blood can catch it. Merlin says a lot of things. He also said a son of mine will see the Grail. I would like that. I have a lot of sons." He brightens. "Anyway, it gives a man something to do." He gallops off to the left, calling to his horse. You find his spare gauntlet on the road, and keep it.
+[d:1 | sk:Wisdom | rn:Any+1]
+
+=== 1502
+You come upon a hunting lodge at the edge of a forest, where a huntsman is standing in the yard with a drawn sword. A great grey wolfhound crouches at his feet with blood all over its jaws and chest, wagging its tail uncertainly.
+
+"Stand back," the man says hoarsely. "I am Llywarch, the king's huntsman. I left my son asleep in his cradle and the dog to guard him. I came home and found the cradle overturned and blood on the floor, and the dog, like this." His voice breaks. "Cafall. Best dog I ever had. He has killed my son." He raises the sword. The dog whines and licks his hand.
+
+From inside the lodge, very faintly, you think you hear something. It could be a baby crying. It could be the wind.
+
+> You may stay the huntsman's hand and search the lodge. -> h02a
+> You may track the blood trail from the lodge into the forest. -> h02b
+
+=== h02a
+You catch Llywarch's wrist. "Wait," you say. "Listen." He tries to pull away. The dog whines.
+?? hold the grieving father back | Endure Hardship | 4
+++ Llywarch is strong with grief, and you have to wrestle him to the ground in the yard and hold him there while he sobs and curses. It takes a long time before he stops fighting you. Then you both hear it clearly: a baby crying, somewhere under the overturned cradle. Llywarch runs inside. He comes out with his son in his arms, whole and roaring. Behind the cradle lies a dead wolf, as big as a pony, with its throat torn out. The huntsman kneels in the yard and puts his arms round the dog's neck and weeps into its fur.
+[d:4 | sk:Wilderness | rn:Divinity+2]
+-- Llywarch is strong with grief, and he throws you off before you can hold him. The sword comes down. It is only afterwards, when he goes inside, that he finds his son alive under the cradle and the dead wolf behind it. He comes back out into the yard and looks at the dog, and at you. He does not say anything. He does not have to.
+[sk:Endure Hardship | st:+Despairing]
+?? reason with the huntsman until he sees the truth | Wisdom | 5
+++ "Look at the dog," you say. "Does he look like a dog who has killed a child? Look at the blood on the doorstep. It goes out, not in." Llywarch stares at the doorstep. His sword arm drops. From inside, the crying comes again, louder. He runs in and comes out with his son, safe and bawling. The dead wolf lies behind the cradle. Llywarch drops his sword and falls on his knees beside Cafall. "Forgive me," he whispers. Then he looks up at you. "I will name the boy for you," he says.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+-- "Look at the dog," you say. "Look at the blood." But Llywarch is not listening. You go on talking, reasoning, arguing, and all the while he is looking at the dog, and at last he screams and brings the sword down. Later, he finds his son alive. You wish you had used your hands and not your tongue.
+[sk:Wisdom | st:+Despairing]
+
+=== h02b
+You see what he does not: a trail of blood leading away from the lodge, across the yard and into the trees. "Wait," you say. "Before you kill him, let me follow this."
+?? follow the blood trail into the forest | Hunting | 3+L
+++ The trail leads to a thicket, where a second wolf lies wounded, the mate of whatever came into the lodge. It is dying, its flank torn open by a dog's teeth. You finish it and ride back. Llywarch is standing in the lodge doorway, holding his son. The baby is unhurt. Behind the cradle, he has found the first wolf. He looks at you with his whole heart in his face. "If you had not stopped me," he says. He cannot finish. He gives you the best pup of Cafall's next litter.
+[d:L | sk:Wilderness | rn:Divinity+1 | st:+Accompanied | n:Place a Hunting Skill Marker on your Accompanied Status Card]
+-- The trail leads into a thicket and you lose it among the roots. When you ride back to the lodge, the yard is silent. Llywarch is sitting on the step with his son alive in his arms and his dead dog across his knees. He does not look up as you ride away.
+[sk:Hunting | st:+Despairing]
+
+=== 1503
+You come upon a hunter kneeling in a forest glade with his bow on the ground beside him, weeping. He is a big, sunburnt man in green leather, with an arrow still nocked in his fingers.
+
+"I saw it," he says. "I am Eustace, a forester of the Duke of Cornwall. I was hunting a white stag, the finest I ever saw, and I had it cornered on a rock, and I drew my bow. Then it turned and looked at me, and between its antlers there was a cross of light." He shakes his head. "I have killed a thousand deer. I have never thought twice. I cannot draw a bow now. My hands will not do it." He looks up. "The stag went that way. Into the old forest. I think it wants me to follow. I think if I do not, I will never know what it meant."
+
+> You may follow the white stag with Eustace. -> h03a
+> You may help Eustace find a hermit to hear his confession. -> h03b
+
+=== h03a
+"Then we will follow it together," you say. Eustace picks up his bow, looks at it, and leaves it lying in the grass. "I will not need it," he says. You go into the old forest on foot.
+?? follow the white stag into the old forest | Nature Lore | 5
+++ The stag leads you through the forest all day, always just ahead, never quite out of sight. At dusk, you come to a ruined chapel with a spring in its floor. The stag drinks from the spring and vanishes. Inside the chapel, an old priest is waiting for you. "He sent you," he says. "He always does." He baptises Eustace in the spring. Eustace stays, and becomes the priest's helper. When you leave, he blesses you, and you feel the blessing like warm water.
+[d:3 | sk:Wilderness | rn:Divinity+2 | st:+Blessed]
+-- The stag leads you through the forest all day. At dusk, you lose it. You and Eustace sit down on a log, exhausted and lost. "Perhaps," says the forester at last, "it was not meant for you." In the morning he goes on alone. You find your way out of the forest a day later.
+[sk:Nature Lore | st:+Lost]
+?? keep faith with the stag through a night of trial | Piety | 5
+++ The stag leads you to a rock in the middle of the forest and stops there. When you come near, it vanishes. Night falls. You and Eustace kneel on the rock, and all night long you hear things moving in the forest around you: wolves, and worse. Neither of you moves. At dawn, the stag is back, standing on the rock beside you, with the cross of light between its antlers. It bows its head to Eustace, then to you, and walks away. Eustace laughs aloud. "It is enough," he says. "It is enough."
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- The stag leads you to a rock and vanishes. Night falls. All night long you hear things moving in the forest. Toward midnight, your courage fails, and you draw your sword and rush into the dark. When you come back, shamefaced, Eustace is still kneeling. You do not see the stag again. He does.
+[sk:Piety | st:+Despairing]
+
+=== h03b
+"You need a priest, not a stag," you say. "There is a hermitage at the edge of this forest." Eustace looks doubtful, but he goes with you.
+?? persuade the forester to make his peace | Diplomacy | 4
+++ The hermit is a sharp old woman named Mother Tanwen, who was once a nun at Amesbury. She listens to Eustace's story and then asks him about every deer he has ever killed. It takes three days. At the end of it, Eustace is lighter than he has been in years. "I think I will be a gamekeeper," he says, "and not a hunter." Mother Tanwen nods. "That," she says, "is the right answer." She gives you her blessing for bringing him.
+[d:2 | sk:Courtly | rn:Divinity+1]
+-- The hermit is a sharp old woman who listens to Eustace's story and then says it was a trick of the light. Eustace is furious. He storms off into the old forest after the stag, and you never learn what he found.
+[sk:Diplomacy]
+
+=== 1504
+You are riding at dusk along a lonely track across a heath when you hear horns, and hounds, and hoofbeats in the sky. A huntsman appears on the track ahead of you. He is tall as a tree, with a great pair of antlers growing from his head and a chain of rusted iron round his neck. Behind him, in the clouds, you see riders with hollow faces.
+
+"I am Herne," he says. His voice is like a stag bellowing. "My hunt rides tonight. Ride with us, knight, and you will run down such quarry as no mortal has hunted." He grins, and his teeth are very white. "Or stand aside. It is all one."
+
+A man comes running along the track toward you, a thin, ragged peasant, looking back over his shoulder in terror. "Help me," he gasps. "They are after me. I cut a branch from Herne's oak for firewood. They are after me!"
+
+> You may ride with Herne's wild hunt. -> h04a
+> You may protect the peasant from the wild hunt. -> h04b
+
+=== h04a
+"I will ride with you," you say. Herne laughs and blows his horn. Your horse screams and leaps into the air, and you are galloping over the clouds, among the hollow-faced riders, with the hounds baying below.
+?? keep pace with the wild hunt | Mounted | 6
+++ You ride all night, over forests and rivers and sleeping towns, and you keep up with Herne at every leap. You do not look to see what you are hunting. At cockcrow, the hunt plunges down to earth, and you find yourself sitting on your horse on the heath where you started. There is frost on your armour. Herne leans down from his saddle and hangs a horn round your neck. "You rode well," he says. "Ride with us again." He is gone. The peasant, you find, is lying in the heather, asleep, unhurt. The hunt has taken something else.
+[d:5 | sk:Martial | rn:Villainy+1 | tr:1 | st:+Accursed]
+-- You ride all night, and at midnight your horse falters. You fall from the clouds and land in a bog. In the morning, you drag yourself out of the bog and find your horse's hoofprints leading away across the heath. You do not find the horse. You hear, from far away, a long, mocking blast on a horn.
+[sk:Mounted | st:+Unhorsed | st:+Accursed]
+
+=== h04b
+You pull the peasant up behind your saddle. "Herne," you say, "this man is under my protection." Herne's eyes narrow. The riders in the clouds stop.
+?? ward the peasant against the hunt | Magic | 5
+++ You draw your sword and hold it up like a cross, and draw a circle round you and the peasant in the heather with the point. "Iron and ash," you say, remembering what an old woman once told you. Herne laughs, but his hounds will not cross the circle. They whine and circle. At last, Herne blows his horn, and the whole hunt goes up into the clouds and away. The peasant weeps with relief. "I will put the branch back," he says. "I will never cut an oak again." You believe him.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You draw a circle round you and the peasant in the heather with the point of your sword. Herne looks at it and laughs. "That," he says, "is for boggarts." His hounds come over the circle and seize the peasant, and he is gone. The last thing you hear is Herne's horn, fading into the clouds.
+[sk:Magic | st:+Accursed | st:+Despairing]
+?? offer Herne a better bargain than the man | Cunning | 4
+++ "He cut your oak," you say. "What will you do with him? He is too thin to be good sport. I will give you better." Herne tilts his antlered head, interested. You tell him of a black boar in the forest to the north, which has killed three knights and ravaged a dozen farms. Herne's eyes gleam. "A better quarry," he says. He sounds his horn, and the whole hunt goes streaming away over the trees to the north. The peasant kisses your hand. Next week, the boar is found torn to pieces, and the farmers rejoice.
+[d:3 | sk:Courtly | rn:Any+1]
+-- "He cut your oak," you say. "I will give you better sport." Herne tilts his head. "You are right," he says. "I will take you." He blows his horn, and you ride with the hunt all night, whether you want to or not. At dawn, you find yourself on the heath, with the peasant beside you, both of you covered in frost and shaking.
+[sk:Cunning | st:+Accursed]
+
+=== 1505
+You come upon a young woman in green leather sitting on a fallen oak with a longbow across her knees, feathering arrows. A dead stag lies at her feet. A few paces away stands a richly dressed young lord with a hawk on his wrist, looking at her with devotion and exasperation in equal measure.
+
+"This is Rhian," says the lord. "She is the best archer in the Marches. I am Bran of Maelor, and I want to marry her. She says she will marry any man who can outshoot her." He throws up his hands. "I cannot outshoot her. Nobody can outshoot her. My mother says she must give up hunting and learn to sew if she marries me."
+
+"I will not," says Rhian, without looking up. She nocks an arrow and, without seeming to aim, shoots a pinecone off a branch fifty yards away. "I will marry a man who can shoot, or I will marry no one." She glances at you. "Can you shoot, knight?"
+
+> You may help Lord Bran win the archery contest. -> h05a
+> You may help Rhian keep her freedom from Lord Bran. -> h05b
+> * You may challenge Rhian to a shooting match yourself. -> h05c
+
+=== h05a
+"He cannot outshoot you," you say to Rhian. "But perhaps he can do something else as well." Bran looks at you with desperate hope.
+?? teach Lord Bran to track as well as Rhian shoots | Hunting | 5
+++ You take Bran into the forest for a week, and teach him everything you know about tracking: how to read a bent blade of grass, a turned leaf, a smell on the wind. At the end of it, you set a match: Rhian to shoot a deer, Bran to find it first. Bran finds three deer before Rhian finds one. She is astonished, and then delighted. "He can find them," she says, "and I can shoot them. That will do." They are married at midsummer, and his mother is given a pair of very fine gloves.
+[d:3 | sk:Wilderness | rn:Romance+2]
+-- You take Bran into the forest for a week and teach him to track. He is a poor pupil, and on the fourth day, he tracks a wild boar straight to its lair, and it chases you both up a tree. Rhian finds you there two hours later and shoots it. She laughs until she cries. Bran does not propose again.
+[sk:Hunting | st:+Scorned]
+
+=== h05b
+You turn to Bran. "My lord," you say, "you want to marry the best archer in the Marches, and then stop her shooting?"
+?? persuade Lord Bran to love Rhian as she is | Diplomacy | 4
+++ You talk to Bran long into the evening. By the end of it, he has realised that he fell in love with her the first time he saw her shoot. "My mother," he says weakly. "Your mother," you say, "can learn archery." He laughs, despite himself. The next morning, he goes to Rhian and tells her he does not care if she never touches a needle as long as she lives. She looks at him for a long time. "You still cannot shoot," she says. "No," says Bran. "Then you will have to watch," she says, "and learn."
+[d:3 | sk:Courtly | rn:Romance+2]
+-- You talk to Bran long into the evening, but he is a young lord, and he does not like being told things. "You think I am a fool," he says stiffly. "I am a lord of Maelor." He rides away, and Rhian's family is fined for her shooting on his land.
+[sk:Diplomacy]
+
+=== h05c
+You dismount and string your own bow. Rhian grins and stands up. Bran looks aghast.
+??* outshoot the huntress | Hunting | 6
+++ She shoots first, and hits a knot on a tree at a hundred paces. You shoot second and split her arrow down the middle. The forest goes silent. Rhian stares at the tree. Then she turns to you with a look you have never seen on anyone's face before. "Nobody has ever done that," she says. Bran, very quietly, rides away. That night, by her fire, Rhian tells you she did not mean it about marrying the man who could outshoot her. "But I might," she says, "if you asked."
+[d:4 | sk:Wilderness | rn:Romance+2 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
+-- She shoots first and hits a knot on a tree at a hundred paces. You shoot second and hit the tree. The wrong tree. Rhian laughs so hard she has to sit down. "Better than Bran," she says generously. "Just."
+[sk:Hunting | st:+Smitten]
+
+=== 1507
+You come upon a hunter crouched by a stream, staring at the far bank with bloodshot eyes. His clothes are in rags, his beard reaches his belt, and he has more scars than skin. Beside him lies a great spear with a head as long as your forearm.
+
+"Shh," he hisses. "He comes here to drink. Twrch Trwyth. The great boar. He was a king once, and God made him a boar for his sins. Between his ears he carries a comb, a razor and a pair of shears." The hunter's eyes gleam. "I am Iddawg. I have hunted him for seven years. He killed my brothers and my father and my dogs. I will have that comb if it kills me." He grips your arm with a hand like a claw. "You are a knight. You have a horse. With a horse, I could catch him. Help me."
+
+Across the stream, something huge moves in the bracken.
+
+> You may join Iddawg's hunt for the great boar. -> h07a
+> You may try to free Iddawg from his obsession. -> h07b
+
+=== h07a
+"I will help you," you say. Iddawg laughs, a high, cracked laugh. The bracken parts, and the boar walks out onto the far bank. It is the size of a bull, grey and bristled, and between its ears something glints.
+?? bring down the great boar | Warfare | 6
+++ Iddawg drives the boar out of the bracken, and you ride it down along the stream, and when it turns at bay against a rock, you both strike at once. It is a long, terrible fight. At the end, the boar lies dead in the water, and Iddawg sits beside it, weeping and laughing. He takes the comb, the razor and the shears from between its ears. The comb he keeps. The shears he gives to you. "Seven years," he says. "And now what?" He sits by the dead boar all night, and in the morning, he is gone.
+[d:5 | sk:Martial | rn:Any+2 | tr:1]
+-- Iddawg drives the boar out of the bracken, and you ride it down along the stream. But when it turns at bay, it is faster than anything that size has any right to be. Its tusk rips your horse's belly, and you are thrown. When you get up, the boar is gone, and so is Iddawg, running after it. You find your way home alone. You dream of the boar, afterwards, every night, and wake with your hands clenched.
+[sk:Warfare | st:+Wounded | st:+Obsessed]
+
+=== h07b
+"Seven years," you say. "Your brothers are dead. Your dogs are dead. What will the comb give you?" Iddawg looks at you blankly, as though you have spoken in a foreign tongue.
+?? talk Iddawg back to himself | Piety | 5
+++ You sit with him by the stream all night. You ask about his brothers. You ask about his father. You ask about his dogs, one by one, and their names. He tells you. Some time before dawn, he stops watching the far bank. At sunrise, the boar comes down to drink, and Iddawg watches it and does not reach for his spear. "It is only a pig," he says wonderingly. "It is only a very big pig." He walks away from the stream and does not look back. You take the great spear and hang it in the nearest church.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You sit with him by the stream all night, talking. At dawn the boar comes down to drink, and Iddawg is on his feet and across the water before you can stop him. You hear the fight, and then you hear nothing.
+[sk:Piety | st:+Despairing]
+?? learn the boar's ways so that Iddawg can let it go | Nature Lore | 3+L
+++ You spend a day watching the boar with Iddawg, and you show him things he never noticed: how it limps from an old wound, how it lies down beside a sow in the bracken, how it has three piglets. "It is not a king," you say. "It is only an old boar with a family." Iddawg watches the piglets tumbling in the mud for a long time. Then he puts down his spear. "Seven years," he says. "I never looked." He leaves the forest that evening.
+[d:L | sk:Wilderness | rn:Divinity+1]
+-- You spend a day watching the boar with Iddawg, and you try to show him how old and tired it is. But the boar smells you, and charges out of the bracken, and you are knocked flat. Iddawg is already running after it, shrieking with joy.
+[sk:Nature Lore | st:+Wounded]
+
+=== 1510
+You come upon a forester in a green hood sitting on the branch of an oak above a road, with an arrow on the string. He puts a finger to his lips as you ride underneath. "Get off the road, knight," he whispers. "Lord Fulk is coming."
+
+You dismount, curious, and he drops down beside you. He is lean and weather-beaten, with a hard, sad face. "Cadfan," he says. "Lord Fulk hanged my brother last Martinmas for taking a deer in the famine winter. His children were starving. Fulk had a hundred deer, and a full larder, and he hanged him from that very oak." He nods up at the branch. "Every year Fulk rides this road to Chester at this time. This year, he will not arrive." In the distance, you hear horses.
+
+> You may help Cadfan take his revenge on Lord Fulk. -> h10a
+> You may stop Cadfan and bring Lord Fulk to justice another way. -> h10b
+
+=== h10a
+You look at the oak, and at the forester's face. "I will help you," you say. Cadfan nods once, and climbs back into the tree.
+?? ambush Lord Fulk's party from the trees | Hunting | 5
+++ Fulk rides into view with four men-at-arms and a hawk on his wrist. Cadfan's arrow takes him in the throat before he has seen the oak. His men draw their swords, but you come out of the trees at them, and they flee. Cadfan climbs down and stands over the dead lord for a long time. Then he takes the rope that hangs from the oak, which has hung there since his brother died, and drapes it over Fulk's body. "Now it is finished," he says. He gives you Fulk's hawk, and vanishes into the forest.
+[d:5 | sk:Wilderness | rn:Villainy+2 | tr:1 | st:+Pursued]
+-- Fulk rides into view with four men-at-arms, and one of them sees the forester in the tree. Cadfan's arrow goes wide. The men-at-arms come at you both, and you are dragged to Chester in chains. Fulk is very pleased to see you. So is the hangman.
+[sk:Hunting | st:+Imprisoned | rn:Villainy+1]
+
+=== h10b
+You put your hand on Cadfan's bow. "Let me go to him first," you say. "If he will not hear me, then do as you will." The forester stares at you. "He will not hear you," he says. "But go."
+?? confront Lord Fulk on the road | Honor | 5
+++ You ride out into the road and bar Fulk's way, and before his men, you tell him what he did. You do not raise your voice. When you finish, Fulk is white with anger. "You dare?" he says. But his own men are looking at him, and one of them, you see, is weeping. "I had a brother too," the man says. Fulk looks at them all. At last he takes off his rich cloak and throws it on the road. "Give it to the widow," he says, and rides on. Cadfan comes down from the tree and picks it up, and stands there holding it, and does not know what to do with his anger.
+[d:3 | sk:Courtly | rn:Divinity+2]
+-- You ride out into the road and bar Fulk's way. Fulk laughs in your face. "A knight-errant," he says, "defending poachers." His men ride you down, and he goes on toward Chester. You lie in the road. From the oak above, you hear a bowstring sing.
+[sk:Honor | st:+Wounded]
+?? take Cadfan's case to the Earl of Chester | Diplomacy | 3+L
+++ You and Cadfan ride to Chester by the back roads and reach the Earl's court the day before Fulk does. You tell the Earl the whole story, with Cadfan standing beside you in his green hood, and the Earl, who has little love for Fulk, listens. When Fulk arrives, he finds himself answering charges. He is made to pay the widow a hundred marks, and every deer in his forest is declared free to the poor in a famine year. Cadfan does not smile, but he shakes your hand.
+[d:L | sk:Courtly | rn:Divinity+1]
+-- You and Cadfan ride to Chester by the back roads and reach the Earl's court. But the Earl is Fulk's cousin, and he listens to your tale with a bored look. "The poacher was hanged according to law," he says. Cadfan leaves the court without a word. You hear, a week later, that Fulk has been found dead on the Chester road with an arrow in his throat.
+[sk:Diplomacy]
+
+=== 1512
+You come upon an old woman sitting outside a turf hut at the edge of a forest, skinning a hare. Around her, on every branch and post, hang snares, traps, drying pelts and bunches of herbs. A tame crow sits on her shoulder. She squints up at you. "Going to rain," she says. "About noon. You will want to be under cover."
+
+The sky is perfectly blue. She laughs at your face. "I am Mother Gwyar," she says. "I have trapped this forest for sixty years. I know when it will rain and when the deer will move and where the wolves are denning, and I can tell a man's business from the way he sits his horse." She points her skinning knife at you. "Yours is trouble. Sit down. I will teach you something, if you like. Or I will tell you a story. The crow prefers the story."
+
+> You may ask Mother Gwyar to teach you the craft of the woods. -> h12a
+> You may ask Mother Gwyar to tell you a story of the forest. -> h12b
+
+=== h12a
+"Teach me," you say. Mother Gwyar grins toothlessly. "Put your boots by the fire," she says. "You will be here a while."
+?? learn the old trapper's lore | Nature Lore | 5
+++ You stay with her for three days. She shows you how to read the clouds, and the ants, and the way a spider spins its web before a storm. She shows you how to set a snare that will not break a hare's neck, and how to find water on a hillside by looking at the ferns. On the first day, it rains at noon. On the third day, you tell her it will rain at dusk, and it does. She cackles. "Now you know one thing," she says. "Only another thousand to go."
+[d:3 | sk:Wilderness*2 | rn:Any+1]
+-- You stay with her for three days, and at the end of it you can tell a raven from a crow, and not much else. She shakes her head. "You listen with your ears," she says. "You have to listen with your feet." It rains at noon on the first day, as she said it would, and you are caught in it.
+[sk:Nature Lore]
+?? prove your hardiness to the old woman | Endure Hardship | 4
+++ "First," she says, "you sleep out. No fire. No cloak." You spend the night in the forest in the rain, with nothing but your shirt, and in the morning, she finds you shivering under a holly bush and looks satisfied. "Good," she says. "Now you know what a deer knows." She teaches you for the rest of the day, and you learn more than you thought possible.
+[d:3 | sk:Wilderness | rn:Any+1]
+-- "First," she says, "you sleep out. No fire. No cloak." You last until midnight, and then you creep back to her hut and knock on the door. She lets you in without a word, and gives you broth, and does not teach you anything at all.
+[sk:Endure Hardship | st:+Plague-Ridden]
+
+=== h12b
+Mother Gwyar puts down the hare and wipes her knife. "When I was a girl," she says, "there was a knight who came to this forest to hunt a white hart. He was very young and very beautiful. My mother said I should keep away from him. I did not." She laughs. "He chased the hart for a year and a day, and he never caught it, and one morning he came to our hut and said he was tired, and asked for water. My mother gave it to him. He drank it and lay down under that oak, there, and went to sleep. He is still there." She points. There is a long mound under the oak, grown over with moss and violets. "He was a king's son, they say. Nobody ever came to look for him. The hart comes and stands by him sometimes, at dusk. I think it is sorry." The crow croaks. She feeds it a scrap of hare. "That is the story," she tells you. "It is going to rain." At noon, it does, and you are glad of her roof.
+[d:1 | sk:Nature Lore | rn:Romance+1]
+
+=== 1513
+You come upon a man in a patched green tunic by a fire in a hollow, turning a haunch of venison on a spit. He is grinning, freckled and unrepentant. The rest of the deer is hanging from a branch behind him, with the High King's mark branded on its flank.
+
+"Ah," he says. "Caught me. Tom Ash. Poacher, by trade." He waves the carving knife cheerfully. "The High King has ten thousand deer and I have a wife and six children. It seems fair to me." He cuts a slice and holds it out to you on the point of the knife. "Share and share alike. You take a haunch and ride on, and nobody need ever know. Or you can take me to the king's verderer, who will cut off my hand." He grins wider. "Your choice, sir knight."
+
+> You may share the poacher's venison and let him go. -> h13a
+> You may arrest Tom Ash and take him to the king's verderer. -> h13b
+
+=== h13a
+You take the slice. It is very good. "Share and share alike," you say. Tom laughs. "A knight after my own heart," he says. "Now help me get the rest of it home before the verderer comes by."
+?? smuggle the deer past the king's foresters | Cunning | 3+L
+++ You wrap the deer in your cloak, sling it over your saddle, and ride through the forester's lodge with Tom walking at your stirrup, chatting to the foresters about the weather. Nobody questions a knight. At Tom's cottage, his wife and six children fall on the venison with cheers. Tom presses a purse of silver on you, which he says was a gift from a gentleman who did not know he was giving it. You do not ask.
+[d:L | tr:1 | rn:Villainy+1]
+-- You wrap the deer in your cloak and ride past the forester's lodge. Unfortunately, the deer's hind leg slips out from under the cloak and dangles there, with the king's brand clearly visible. The foresters are very interested. Tom escapes into the trees. You do not.
+[sk:Cunning | st:+Imprisoned | rn:Villainy+1]
+
+=== h13b
+You shake your head. "The law is the law, Tom," you say. Tom sighs and puts down the knife. "They always say that," he says. "Right up until it's them."
+?? bring the poacher before the verderer | Hunting | 4
+++ Tom runs, of course. You chase him through the forest, and he is fast and knows every path, but you are faster, and you catch him at a stream. You bring him to the verderer, a fat man who cannot wait to take his hand. But you speak for Tom, and point out that the deer was old and lame, and in the end the verderer settles for a fine, which you pay. Tom stares at you. "You are a strange sort of knight," he says. He sends you a pheasant every Michaelmas for twenty years. You never ask where they come from.
+[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- Tom runs, of course, and he knows every path in the forest, and you do not. You lose him in the first ten minutes. When you go back to the hollow, the venison has gone too.
+[sk:Hunting]
+
+=== 1515
+You come upon a hunting party in a forest clearing: six huntsmen with hounds and a young lord in green, all sitting on their horses in a circle, staring at each other in bewilderment.
+
+"Thank God," says the young lord. "Someone real. I am Owain of Rheged. We were chasing a white hart, the whitest I ever saw, since dawn. And we followed it into this wood, and now we cannot get out. We have ridden in every direction and we always come back here." He points at the trees. "The trees move. I am certain of it. And the hart keeps coming back to look at us." At the edge of the clearing, a white hart stands watching you with eyes like stars.
+
+> You may lead the hunting party out of the enchanted wood. -> h15a
+> You may follow the white hart deeper into the wood to learn what it wants. -> h15b
+
+=== h15a
+"Follow me," you say, though you are not at all sure where you are going. Owain and his huntsmen fall in behind you gratefully.
+?? find the way out of the moving wood | Nature Lore | 3+L
+++ You do not trust your eyes. You trust your nose, and follow the smell of woodsmoke. You trust your ears, and follow the sound of running water. When the trees seem to lean in front of you, you walk straight at them, and they lean away. At sunset, the whole party comes out of the wood onto a hillside above Owain's own castle. He whoops. His huntsmen cheer. The white hart watches from the edge of the trees, and then it is gone. Owain gives you a ring with a lion on it.
+[d:L | sk:Wilderness | rn:Any+1 | tr:1]
+-- You do not trust your eyes. You follow the smell of woodsmoke, and it leads you to a charcoal-burner's hut, and the charcoal-burner is very old and very strange and will not let you leave until you have played a game of chess with him. You lose. When you come out, it is two days later, and the huntsmen are gone.
+[sk:Nature Lore | st:+Lost]
+?? keep the frightened huntsmen together | Warfare | 4
+++ You get the huntsmen dismounted and roped together, each to the next, so that no one wanders off. Then you set one hound loose at a time and follow it, and when a hound comes back to the clearing, you know that way is closed. The sixth hound does not come back. You follow its tracks, all of you roped together, and come out of the wood at nightfall. Owain says it is the best-organised hunt he has ever been on, and the only one where he did not catch anything.
+[d:3 | sk:Martial | rn:Romance+1]
+-- You get the huntsmen dismounted and roped together. It works until one of the hounds spots the white hart and bolts, dragging its handler after it, who drags the next man, who drags the next. When you have picked yourselves up, you are all in a different clearing, no better off than before.
+[sk:Warfare | st:+Lost]
+
+=== h15b
+You leave the huntsmen in their clearing and walk toward the white hart. It does not run. It turns and walks into the trees, and looks back, and waits for you.
+?? follow the white hart to its secret | Magic | 5
+++ It leads you to a pool in the heart of the wood, where a lady in white sits on a stone. "You did not try to shoot it," she says. "That is the first time in a hundred years." She tells you that the hart is her brother, turned into a beast by a jealous witch, and that the wood holds any hunter who chases him. "But you only followed," she says. She touches the hart's head, and for an instant you see a young man standing there, laughing. Then he is a hart again. "Not yet," she says. "But one day." She releases the hunting party for your sake.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+-- It leads you deeper and deeper into the wood, and you follow it for what seems like an hour. When you come out, the hunting party is gone, and so is the autumn. It is spring. You do not know where the months went.
+[sk:Magic | st:+Lost]
+
+=== 1520
+You hear a man shouting for help in the forest, and ride toward the sound. You find a clearing churned to mud, a dead horse, and a huntsman clinging to the branch of an oak with his leg bent at a terrible angle. Beneath the tree, a great black boar is pacing, grunting, tearing at the roots with its tusks.
+
+"Don't come closer!" the huntsman shouts. "I am Rhodri. He has killed my horse and my dogs, and broken my leg. He has been waiting down there all day." He is grey with pain. "The branch is cracking. When it goes, I go. If you have a spear, for the love of God, use it. If not, run."
+
+The boar turns and sees you. It lowers its head.
+
+> You may fight the great boar to save the huntsman. -> h20a
+> You may draw the boar away so the huntsman can be carried to safety. -> h20b
+
+=== h20a
+You dismount and set your spear. The boar charges.
+?? kill the boar with your spear | Sword & Shield | 3+L
+++ It comes at you like a thunderbolt, and you set the butt of your spear against a root and let it run onto the point. The shock throws you backward, but the spear holds. The boar screams and thrashes and drives itself up the shaft toward you, and then it is still. Rhodri lets go of the branch and falls into your arms. "I have hunted boar for twenty years," he gasps, "and never seen that done." You carry him home to his lodge, and his wife feeds you for a week.
+[d:L | sk:Martial | rn:Romance+1 | rn:Any+1]
+-- It comes at you like a thunderbolt. You set the spear, but the ground is soft, and the butt slips, and the boar's tusk opens your leg from knee to hip. You drag yourself up beside Rhodri in the tree. The two of you wait there until dawn, when the boar at last loses interest and trots away.
+[sk:Sword & Shield | st:+Wounded]
+?? hold the boar at bay until nightfall | Endure Hardship | 5
+++ You have no spear. You put your back to the oak and your shield in front of you and keep the boar off with your sword for hour after hour, as it charges and charges again. Your arm goes numb. Your shield splits. At dusk, the boar gives a grunt of disgust and trots off into the forest. You help Rhodri down from the tree and carry him home on your back. His family give you their best cloak and more thanks than you can bear.
+[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You put your back to the oak and your shield in front of you. The boar charges again and again, and after an hour, your arm gives out, and you drop the shield, and you have to scramble up the tree beside Rhodri. The branch cracks under your weight. You both fall.
+[sk:Endure Hardship | st:+Wounded]
+
+=== h20b
+You ride at the boar, shouting, and wheel away as it charges, drawing it after you into the trees.
+?? lure the boar away and lose it in the forest | Mounted | 4
+++ The boar chases you for a mile, and you let it get close enough to smell your horse, and then you lead it into a bog, and it sinks to its belly and bellows. You ride back to the oak and help Rhodri down and put him across your saddle and take him home. That night, he and his sons go out with spears to the bog. They bring back enough meat for the whole village.
+[d:3 | sk:Martial | rn:Divinity+1]
+-- The boar chases you into the trees, and it is faster than your horse. It catches you in a thicket, and your horse screams and throws you and bolts. You climb a tree. Now there are two of you up trees, a mile apart, shouting at each other.
+[sk:Mounted | st:+Unhorsed]
+?? lay a false scent to draw the boar off | Hunting | 5
+++ You kill a hare and drag it on a string through the forest, laying a trail of blood. The boar lifts its snout, snorts, and trots off after the scent. By the time it has found the hare, you have Rhodri down from the tree and are riding away with him. His family welcomes you like a lost son.
+[d:3 | sk:Wilderness | rn:Divinity+1]
+-- You kill a hare and drag it through the forest, but the boar is not interested in hares. It is interested in you. You spend the afternoon up a tree, beside Rhodri, listening to him describe the other boars he has known.
+[sk:Hunting]

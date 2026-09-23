@@ -1,0 +1,451 @@
+=== 2205
+You ride into Chester and find the market square empty and silent. Every door is barred. In the middle of the square, beside the town well, three men lie on the cobbles, turned to grey stone, with looks of surprise on their faces.
+
+A voice hisses at you from a shuttered window. "Do not look at the well! There is a basilisk in it. A cockerel's egg, hatched by a toad, that is what the priest says. It looks out at noon, and whoever it looks at is stone." A frightened face appears at the crack. "The mayor has offered a hundred marks to anyone who kills it. Nobody can get near it without looking."
+
+The sun is climbing toward noon.
+
+> You may kill the basilisk in the well. -> m105a
+> You may trap the basilisk so it can be taken away. -> m105b
+
+=== m105a
+You take your shield, which is polished bright, and walk backwards toward the well, watching it in the shield's face.
+?? strike the basilisk by its reflection | Sword & Shield | 6
+++ At noon, a head rises from the well: a cockerel's comb, a serpent's neck, eyes like hot coals. You see it in your shield. You strike backwards over your shoulder, blind, and feel the blade bite. There is a scream like a hen being strangled, and a splash, and silence. When you dare to turn round, there is a dead thing floating in the well, and the three stone men are blinking and stretching and asking what time it is. The mayor pays you his hundred marks.
+[d:5 | sk:Martial | rn:Any+2 | tr:1]
+-- At noon, a head rises from the well. You see it in your shield and strike backwards, and miss. The basilisk hisses. For a moment, out of the corner of your eye, you glimpse it directly. Your arm goes grey and heavy to the elbow. You stagger away. The feeling comes back, slowly, over a month.
+[sk:Sword & Shield | st:+Wounded]
+
+=== m105b
+"Every beast has a bane," you say. "Find me a weasel." The frightened face stares at you. "A weasel?" "And a cockerel," you say.
+?? use the old lore to trap the basilisk | Wisdom | 4
+++ The bestiaries say that the basilisk dies at a cockerel's crow and fears the weasel above all things. You lower the weasel down the well in a basket and set the cockerel on the well-head. At noon, the cockerel crows, and something in the well screams, and the weasel comes up in the basket, very pleased with itself, and the basilisk does not come up at all. The three stone men turn back into men. You give the weasel to the mayor's daughter, who names it after you.
+[d:3 | sk:Spiritual | rn:Any+1]
+-- You lower a weasel down the well in a basket and set a cockerel on the well-head. At noon, the cockerel does not crow. It looks at the well, and turns to stone. So does the weasel. You decide the bestiaries were written by men who never met a basilisk.
+[sk:Wisdom]
+
+=== 2305
+You ride into Wells in the Grail year and find the cathedral doors wide open and the whole town crowded in the square outside, whispering. Inside, lying on the stone floor before the high altar, is a unicorn. It is white as milk, with a horn like twisted ivory, and it will not move.
+
+The bishop comes out, wringing his hands. "It walked in at Matins," he says. "It lay down and it will not leave. We cannot say Mass. The canons say it is a sign. The huntsmen say its horn is worth a kingdom and cures all poisons." He lowers his voice. "The Earl of Somerset's huntsmen are outside now, with nets. They say they will take it tonight."
+
+> You may protect the unicorn from the Earl's huntsmen. -> m205a
+> You may approach the unicorn and learn why it has come. -> m205b
+
+=== m205a
+You stand in the cathedral door with your sword drawn. The Earl's huntsmen, a dozen hard men with nets and spears, stop on the steps.
+?? stand guard over the unicorn through the night | Warfare | 3+L
+++ You close the great doors and bar them, and set the canons to guard the side-doors with candlesticks, and stand at the main door yourself all night. The huntsmen try twice to break in and are driven back. At dawn, the unicorn rises, walks past you out into the square and through the silent crowd, and away toward the hills. Nobody moves to stop it. Where it lay, on the altar step, there is a single white flower. The bishop puts it in a reliquary.
+[d:L | sk:Martial | rn:Divinity+2]
+-- You close the great doors and bar them, but the huntsmen come in through the crypt. By the time you reach the altar, they have their nets over the unicorn. It screams. You fight them, and it breaks free and runs, bleeding, into the night. You do not know if it lives.
+[sk:Warfare | st:+Despairing]
+
+=== m205b
+You walk down the long nave. The unicorn lifts its head and looks at you with dark, sad eyes.
+?? kneel beside the unicorn with a pure heart | Divinity | 4
+++ You kneel beside it on the cold stone. The unicorn lays its head in your lap, as the old books say it only does for the pure. You sit with it until dawn. Then it rises, and touches your forehead with its horn, and walks out of the cathedral, and the crowd parts before it. The huntsmen do not raise a net. You feel, all that day, as though something has been washed out of you.
+[rn:Divinity+1 | d:4 | st:+Blessed]
+~~2 You kneel beside it. It looks at you for a long time, and then lays its head back down on the altar step. It does not come to you. But it lets you stay. In the morning, it is gone, and you do not know where.
+[d:2 | sk:Piety]
+-- You kneel beside it. The unicorn gets up and moves away from you to the far side of the altar. You feel every eye in the cathedral on you as you walk back down the nave.
+[st:+Despairing]
+
+=== 2405
+You ride into Carlisle as it burns. Mordred's men have taken half the town, and the old king's men hold the castle. In the streets between, among the fires, something is roaring. A lion runs past the end of the lane, and then another, a lioness, with blood on her jaws.
+
+A boy in the red livery of the royal menagerie is hiding in a doorway. "The king's lions," he gasps. "The fighting smashed their cage. They are terrified. They are killing anything that moves. They were the old king's own lions. He fed them with his own hands." He looks up at you. "They will be shot. Unless someone can get them back into the stable."
+
+> You may hunt down the frightened lions before they kill again. -> m305a
+> You may try to calm the lions and lead them to safety. -> m305b
+
+=== m305a
+You follow the roars through the burning streets, spear in hand.
+?? hunt the escaped lions through the burning town | Hunting | 6
+++ You corner the lioness in a smithy yard and bring her down with your spear. It is terrible to see. The lion you find in the church, lying before the altar, bleeding from a soldier's arrow. He does not rise when you come in. You kneel beside him and end it, quickly. The boy from the menagerie weeps. The townsfolk come out of their houses and thank you, and the old king's men in the castle send you a gift, and you do not feel as if you have done anything worth thanks.
+[d:4 | sk:Wilderness | rn:Any+1 | tr:1]
+-- You corner the lioness in a smithy yard, and she comes at you like a thunderbolt. You wake in the smithy with your arm in a sling. The lions are gone, somewhere in the smoke.
+[sk:Hunting | st:+Wounded]
+
+=== m305b
+"What did the king feed them?" you ask. The boy stares. "Mutton," he says. "And he sang to them. The same song. It is a drinking song. It is very rude."
+?? lead the lions home with the king's song | Nature Lore | 5
+++ You carry a leg of mutton through the burning streets, singing the old king's drinking song at the top of your voice, with the boy beside you, until the lioness comes out of an alley and stops and stares at you. Then the lion. They follow you, growling low, all the way to the castle stables, and walk in, and lie down. The boy shuts the door on them and bursts into tears. The garrison on the walls, who have heard every word of the song, are laughing too hard to shoot.
+[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+-- You carry a leg of mutton through the streets, singing. The lioness comes out of an alley, and stops, and stares at you. Then she takes the mutton, and then she takes a swipe at you, and then she is gone into the smoke.
+[sk:Nature Lore | st:+Wounded]
+
+=== 2217
+As you ride through a forest in golden sunlight, a pure white hind breaks from the trees ahead of you, with a golden collar round her neck. A white hound runs at her heels, and behind them both, a lady on a white palfrey, shrieking. "My hound! Somebody catch my hound!" Behind her again, a knight in black gallops out of the trees, snatches up the hound as it passes, and rides away laughing.
+
+The lady reins in beside you, flushed and furious. "That was my brachet," she says. "A wedding gift for the queen. The white hind was a gift too. Now they are both gone." She points in two directions at once. "The hind that way. The thief that way. I cannot follow both."
+
+> You may ride after the knight who stole the hound. -> m117a
+> You may hunt down the white hind with the golden collar. -> m117b
+
+=== m117a
+You spur your horse after the black knight. He hears you coming and turns, grinning, with the white hound under his arm.
+?? catch and unhorse the hound-thief | Mounted | 4
+++ You catch him at a ford. He drops the hound to take up his lance, and you meet him in the water, and he goes in backwards with a great splash. The hound shakes itself on the bank and trots over to you as though it has always been yours. You bring it back to the lady. She kisses the hound, and then you. "The queen will hear of this," she says. "Both of these."
+[d:3 | sk:Martial | rn:Romance+2]
+-- You catch him at a ford. He drops the hound to take up his lance, and you meet him in the water, and you go in backwards. When you come up, he is gone, and so is the hound, which seems to have gone with him willingly.
+[sk:Mounted | st:+Unhorsed]
+
+=== m117b
+You turn your horse the other way, after the white hind. She is already far ahead, a flash of white between the trees.
+?? track the white hind to where she rests | Hunting | 3+L
+++ You follow her for hours, through bracken and over streams, until you find her lying in a glade, exhausted, with her golden collar caught on a briar. You free the collar gently. She does not run. She lets you lead her back by it, all the way to the lady, who has found her hound again, carried back by a sheepish knight in black. The lady gives you the golden collar. "The hind," she says, "should go free." You agree.
+[d:L | sk:Wilderness | rn:Romance+1 | rn:Any+1 | tr:1]
+-- You follow her for hours, deeper and deeper into the forest, and at last she stops, and turns, and looks at you. Then she is gone, as though she had never been. You are a long way from anywhere you know.
+[sk:Hunting | st:+Lost]
+
+=== 2317
+As you ride through a forest in dappled sunlight, you hear a sound like thirty couple of hounds baying, coming from inside something that runs. The Questing Beast crashes out of the bracken ahead of you, with its serpent's head held low. It stops in the path and looks at you.
+
+If you have Story Token #2, turn immediately to [[m217x]].
+
+Behind it, a young knight on a grey horse comes crashing after, with the arms of the Isles on his shield. "Did you see it?" he calls. "I am Lamorak, son of Pellinore. My father hunted it all his life. The Orkney brothers killed him, and now it is mine to hunt." His face is grim. "Help me take it, and I will give you a share of the glory."
+
+The beast looks at you. The baying in its belly has stopped.
+
+> You may help Sir Lamorak hunt down the Questing Beast. -> m217a
+> You may let the Questing Beast go. -> m217b
+
+=== m217x
+The Questing Beast does not run. It walks up to you, slowly, with its serpent's head lowered, and it lays its head against your horse's neck, and it sighs.
+
+You understand. Pellinore is dead. The Orkney brothers killed him by a ford, you learn later, and the beast has been searching for someone to chase it ever since. It knows you. You rode after it once, beside him.
+
+You ride after it all that day, not trying to catch it, only following, the way he used to. At dusk, it stops at a pool and drinks, and looks back at you, and goes on into the dark. You find yourself weeping for a foolish old king who talked to his horse.
+[d:4 | sk:Wilderness | rn:Romance+1 | rn:Divinity+1 | st:+Obsessed | n:Lose Story Token #2]
+
+=== m217a
+"I will ride with you," you say. Lamorak nods, and the two of you gallop after the beast as it springs away into the trees.
+?? run the Questing Beast to bay | Mounted | 3+L
+++ You chase it all day, and at dusk you corner it against a cliff. Lamorak raises his spear. Then he lowers it. "My father would have wanted to catch it," he says slowly. "Not kill it. Only catch it." He laughs, a little brokenly. "We have caught it. That is enough." The beast leaps the cliff and is gone. Lamorak gives you his father's hunting horn. "He would have liked you," he says.
+[d:L | sk:Martial | rn:Romance+1 | tr:1]
+-- You chase it all day, and at dusk you lose it, and Lamorak, and your way, all at once. It is two days before you find a road.
+[sk:Mounted | st:+Lost]
+
+=== m217b
+You rein in and do not follow. Lamorak stares at you, then gallops on alone. The beast lingers a moment longer, looking at you with strange, intelligent eyes. Then it turns and goes, and the baying starts again in its belly, fading into the trees.
+
+You sit in the quiet forest for a long time. You do not know why, but you feel that you have been thanked.
+[d:1 | sk:Nature Lore | rn:Divinity+1]
+
+=== 2417
+As you ride through a forest in dim sunlight, with the smoke of the war drifting between the trees, you find a great beast lying in a clearing. It has the head of a serpent, the body of a leopard, the haunches of a lion and the feet of a hart. It is very old, and very still, and an arrow is sticking out of its side.
+
+If you have Story Token #2, turn immediately to [[m317x]].
+
+It lifts its serpent's head and looks at you. From its belly comes a faint sound, like one tired hound baying, far away. Across the clearing, a Saxon archer is nocking another arrow.
+
+> You may drive off the Saxon archer and tend the wounded beast. -> m317a
+> You may finish the Questing Beast yourself, and take its head. -> m317b
+
+=== m317x
+You know this beast. You rode after it once with a foolish old king, calling *left, always left*. You draw your sword and ride at the Saxon, who flees without loosing his arrow.
+
+Then you kneel beside the Questing Beast and pull the arrow out of its side, and bind the wound with your own cloak. It watches you all the while. When you are done, it gets to its feet, slowly, and walks away into the trees, and at the edge of the clearing, it stops and looks back. From its belly comes the sound of hounds, and it is almost like laughing.
+[d:5 | sk:Wilderness | rn:Divinity+2 | st:+Blessed | n:Lose Story Token #2]
+
+=== m317a
+You ride at the Saxon with your sword up. He looses his arrow wild and runs. Then you kneel beside the beast.
+?? tend the ancient beast's wound | Nature Lore | 5
+++ You draw out the arrow and pack the wound with moss and bind it. The beast watches you with eyes that seem very old and very tired. When you are done, it rises, and nuzzles your hand with its serpent's head, and walks away into the forest, and you hear, fading behind it, the baying of its hounds. You wonder who will chase it now.
+[d:4 | sk:Wilderness | rn:Divinity+2]
+-- You draw out the arrow, but the wound is deep, and the beast is very old. It lays its head down on the leaves and sighs, and the baying in its belly goes quiet. You sit beside it until dark.
+[sk:Nature Lore | st:+Despairing]
+
+=== m317b
+You draw your sword. The beast watches you come. It does not try to rise.
+?? slay the Questing Beast | Sword & Shield | 4
+++ It is over very quickly. The beast does not fight. When it is dead, the baying in its belly stops, and the forest is very quiet. You take its serpent's head. It will make you famous. Every hall in Britain will want to hear how you killed the Questing Beast. You find, riding away, that you do not want to tell them.
+[d:5 | tr:1 | rn:Villainy+1 | rn:Any+1 | rn:Divinity-1]
+-- You raise your sword. The beast looks at you, and in its eyes you see, for a moment, an old king laughing, and you cannot do it. When you look again, it is gone, arrow and all, into the smoke.
+[sk:Sword & Shield]
+
+=== 2229
+You come upon a village at the foot of a mountain where the people are nailing their chickens into their henhouses. High above them, on a ledge, is a nest the size of a haystack, woven from whole trees, and on its rim sits a griffin, with an eagle's head and a lion's body, glaring down.
+
+"The Lord of Dinas has offered a fortune for its eggs," says the headman. "Griffin eggs are worth their weight in gold. His huntsmen went up yesterday. The griffin threw them off the mountain." He looks up at the nest. "Now she is angry, and she takes our sheep. We just want her to calm down."
+
+> You may climb to the nest and take the griffin's eggs. -> m129a
+> You may climb to the nest and make peace with the griffin. -> m129b
+
+=== m129a
+You wait until the griffin flies off to hunt, then start up the cliff with a sack over your shoulder.
+?? climb the cliff and steal the griffin's eggs | Endure Hardship | 6
+++ It is a terrible climb. Your fingers bleed and your arms shake. But you reach the nest while the griffin is still away, and there are two eggs in it, golden and warm, each the size of a man's head. You put one in the sack and leave one, because you are not a monster. You are halfway down when the griffin comes back, and screams, and dives, and you fall the last twenty feet into a hayrick. The Lord of Dinas pays you a fortune. The griffin circles the valley for a month.
+[d:5 | tr:2 | rn:Villainy+2 | st:+Pursued]
+-- It is a terrible climb, and you are only halfway up when the griffin comes back. She knocks you off the cliff with one sweep of her wing. You land in a stream. The villagers pull you out and tell you, with feeling, that they did not ask you to do that.
+[sk:Endure Hardship | st:+Wounded]
+
+=== m129b
+You climb up the mountain by the long path, and come out on the ledge beside the nest. The griffin turns her head and looks at you with one great golden eye.
+?? calm the angry griffin | Nature Lore | 5
+++ You do not look her in the eye. You sit down on the ledge with your back to her, as you would with an angry hawk, and wait. After an hour, she stops hissing. After two, she comes over and looks at you. You offer her a leg of mutton from your pack. She takes it. By sundown, she has settled on her eggs again, and the villagers can hear her crooning. The Lord of Dinas's huntsmen do not come back. You hear, a year later, that two young griffins have been seen over the mountain, and that the village is very proud of them.
+[d:4 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You sit down on the ledge with your back to her. The griffin picks you up by your belt, carries you down to the valley, and drops you in the village pond.
+[sk:Nature Lore | st:+Scorned]
+
+=== 2329
+You come upon an eagle sitting on a crag on the top of Snowdon, so old that its feathers are white and its beak is worn down to a stub. It turns its head as you climb up to it, and speaks.
+
+"I am the Eagle of Gwernabwy," it says. "I have sat on this rock so long that I have pecked the stars from the sky at night and watched them grow back. There was a hill here once, and I wore it down to this with my claws." It blinks slowly. "Everyone who climbs up asks me where the Grail is. I do not know. But I know older things. Ask me one of those."
+
+> You may ask the ancient eagle what it knows of the oldest things. -> m229a
+> You may ask the eagle to carry you somewhere no one else can reach. -> m229b
+
+=== m229a
+"Tell me," you say, "the oldest thing you know." The eagle is quiet a long time. Then it speaks.
+
+"Before the kings, there was a salmon in the Llyn Llyw that knew everything, because it had swum there since the first water fell. Before the salmon, there was the Stag of Rhedynfre, who saw an acorn become an oak and the oak become a stump. Before the stag, there was nothing but the sea and the stones and a voice over the water." It ruffles its white feathers. "The voice is the oldest thing I know. I heard it once, when I was young. I think the vessel you are all chasing is only a cup that it drank from." It closes its eyes. "Go down now. I am tired." You go down the mountain with the wind at your back, feeling very young.
+[d:2 | sk:Wisdom | rn:Divinity+1]
+
+=== m229b
+"Can you carry me," you ask, "to where the Grail has gone?" The eagle laughs, a harsh cawing sound. "No," it says. "But I can carry you somewhere else. Hold on."
+?? hold on as the ancient eagle flies | Endure Hardship | 5
+++ It takes you in its claws and flies. You see all of Britain below you: the mountains and the rivers and the sea, and the little towns, and the smoke of Camelot. It flies until you are numb with cold, and then it sets you down on a hilltop you have never seen, beside a little chapel with a light in it. "There," it says, and flies away. The chapel is empty. But you sleep in it that night and dream a dream so clear that you remember it for the rest of your life.
+[d:4 | sk:Wilderness | rn:Divinity+1 | mv:free]
+-- It takes you in its claws and flies. Halfway across the sky, your hands go numb and you slip. The eagle catches you, but by the leg, and upside down, and you do not enjoy the rest of the flight. It drops you in a bog.
+[sk:Endure Hardship | st:+Lost]
+
+=== 2429
+You come upon a column of refugees struggling up a mountain pass in the rain: women, children, carts, goats. They are fleeing the fighting in the valleys. Halfway up, the column has stopped. On a rock above the pass crouches a wyvern, black and leathery, with a barbed tail, eating a goat.
+
+"It came down this morning," says a woman carrying a baby. "It took two goats and a boy. It will not let us through. The Saxons are behind us." She looks back down the valley, where smoke is rising. "We cannot go back."
+
+> You may drive the wyvern away from the pass. -> m329a
+> You may lead the refugees over the mountain by another way. -> m329b
+
+=== m329a
+You dismount and walk up the pass toward the wyvern, with your shield up and your sword drawn.
+?? fight the wyvern on the mountain pass | Sword & Shield | 6
+++ The wyvern drops its goat and comes at you, stinging and snapping. You take the sting on your shield, and the barb goes through it and stops a finger's width from your arm. You cut off its tail. It screams and takes to the air, and flies away over the mountain, trailing black blood. The refugees file past you, one by one, and every one of them touches your arm as they go. You find the boy on the far side of the rock, alive, clinging to a ledge.
+[d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+-- The wyvern drops its goat and comes at you. Its sting goes through your shield and into your arm. You fall, and the poison burns. The refugees drag you back down the pass. You are sick for a week, and they have to go back into the valley.
+[sk:Sword & Shield | st:+Wounded | st:+Despairing]
+
+=== m329b
+You look up at the mountain. There is a shepherds' track, you think, over the shoulder of the hill, if you can find it in the rain.
+?? find a hidden way over the mountain | Nature Lore | 3+L
+++ You find it: a sheep-track, faint and steep, winding up through the rocks where no wyvern would look for goats. You lead the column up it, one cart at a time, all afternoon. The wyvern watches from its rock but does not follow. At dusk, you are over the top, and the valley on the other side is green and quiet, with no smoke. The woman with the baby names her daughter after the track.
+[d:L | sk:Wilderness | rn:Divinity+2]
+-- You find a sheep-track and lead the column up it, but halfway up, it ends at a cliff. You have to turn them round and bring them down again in the dark. By morning, the wyvern has gone, but so has one of the carts, over the edge.
+[sk:Nature Lore | st:+Despairing]
+
+=== 2241
+You come upon a herd of cattle lying dead on a wide plain, all facing the same way. A little further on, grazing beside a stream, is a beast like a black buffalo, with a head so huge and heavy that it droops to the ground. Its eyes are hidden under a mane of matted hair.
+
+A cowherd is hiding behind a gorse bush. "The catoblepas," he whispers. "Do not let it look at you. Its eyes kill. It can hardly lift its head, praise God, but when it does…" He points at the cattle. "It lifted its head yesterday. I was behind the bush. The Earl says it must be killed before it wanders into the village."
+
+> You may kill the catoblepas without meeting its eyes. -> m141a
+> You may drive the catoblepas away across the plain. -> m141b
+
+=== m141a
+You lower your visor and look only at the ground in front of your horse. You can see the beast's feet, and nothing else.
+?? slay the catoblepas without looking at it | Hunting | 5
+++ You ride toward the sound of its breathing, with your eyes on the grass, until you see its feet. It grunts and begins to lift its enormous head. You drive your lance in under the heavy neck before the head can come up. It falls with a groan that shakes the plain. When you dare to look, its eyes are closed. The cowherd kisses your stirrup. The Earl sends you a cow.
+[d:4 | sk:Wilderness | rn:Any+2]
+-- You ride toward the sound of its breathing with your eyes on the grass. The beast lifts its head. You feel its gaze on the top of your helmet like a cold hand, and everything goes dark. You wake an hour later behind the gorse bush, where the cowherd dragged you. You cannot see properly for a week.
+[sk:Hunting | st:+Wounded]
+
+=== m141b
+You look at the beast's great drooping head. It is not wicked. It is only what it is.
+?? drive the beast gently away from the village | Mounted | 3+L
+++ You ride in a wide circle round behind it, shouting and clattering your sword on your shield. The catoblepas lumbers away from you, its head dragging in the grass, too heavy to lift while it walks. You herd it for a whole day, across the plain and into the marshes to the south, where there are no villages. It lies down in the reeds with a groan of contentment. The cowherd tells everyone that you drove the catoblepas like a cow.
+[d:L | sk:Martial | rn:Divinity+1 | rn:Any+1]
+-- You ride round behind it, shouting. The catoblepas stops. Then, very slowly, it begins to lift its head. You gallop away across the plain without looking back.
+[sk:Mounted | st:+Scorned]
+
+=== 2341
+You come upon a fight on a wide plain: a lion and a great serpent, locked together. The serpent has wound itself round the lion's body and is crushing it, and the lion is roaring, and its roars are growing weaker. The grass is torn up all around them.
+
+A hermit is watching from a rock, telling his beads. "Every day they fight," he says. "Every day at noon. The lion is the soul. The serpent is sin. So the preachers say." He shakes his head. "I think it is only a lion and a serpent. But I have never seen the lion lose before."
+
+> You may help the lion kill the serpent. -> m241a
+> You may leave the beasts to their battle and pray over them. -> m241b
+
+=== m241a
+You draw your sword and run at the serpent. The lion's eyes find you over the serpent's coils.
+?? strike the serpent and free the lion | Sword & Shield | 5
+++ You hack at the serpent's coils where they are wound round the lion, and the serpent lets go to turn on you, and the lion is free. It springs, and between you, you finish the serpent. The lion stands over it, panting, and looks at you. Then it lies down at your feet and puts its head on your boot. When you ride away, it follows you. It follows you for three days, and on the fourth, it is gone, but you hear its roar, sometimes, when you are in danger.
+[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1 | st:+Accompanied | n:Place a Sword & Shield Skill Marker on your Accompanied Status Card]
+-- You hack at the serpent's coils, and it lets go of the lion to turn on you, and wraps round you instead. You are crushed until your ribs crack. The lion saves you, which is humiliating.
+[sk:Sword & Shield | st:+Wounded]
+
+=== m241b
+You kneel beside the hermit and pray, for the lion and for the serpent and for yourself.
+?? pray until the struggle is ended | Piety | 5
+++ You pray until your knees ache. Toward evening, the lion gives one great heave and throws off the serpent, which slithers away into the grass. The lion lies down, bloody and panting. The hermit looks at you. "It has never won before," he says. "Never. Not in thirty years." He looks at you very strangely all evening.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You pray until your knees ache, and the lion's roars grow weaker and weaker. At dusk, the serpent unwinds itself and slithers away, and the lion does not rise. The hermit tells his beads. "Tomorrow," he says, "there will be another."
+[sk:Piety | st:+Despairing]
+
+=== 2441
+You come upon a great horse running wild across a wide plain after a battle, among the dead. It is a black destrier in the old king's caparison, torn and bloody, and it is screaming and lashing out at anyone who comes near. A dozen soldiers from both sides stand in a ring round it, not daring to go closer.
+
+"That is Llamrei," says an old groom. "The old king's own mare. She threw her rider in the charge. She will not let anybody near. The Saxons want to kill her before she kills someone. Mordred's men want to catch her and give her to Mordred." He looks at you pleadingly. "She has carried the king for twenty years."
+
+> You may tame the old king's mare. -> m341a
+> You may fight off the soldiers who want the mare for Mordred. -> m341b
+
+=== m341a
+You walk out into the ring, alone, without your sword. The mare stops screaming and looks at you, with her ears back.
+?? calm the maddened war-horse | Mounted | 6
+++ You do not rush. You stand still until she stops trembling. Then you walk closer, slowly, talking to her, saying her name. She lets you touch her neck. She lets you take the bridle. She stands, shaking, while you check her wounds, and then she follows you out of the ring, with her head on your shoulder. The old groom weeps. You lead her back to the old king's camp. He is not there, but his steward takes her, and thanks you in the king's name.
+[d:5 | sk:Martial | rn:Romance+1 | rn:Divinity+1]
+-- You stand still until she stops trembling, and walk closer, and she rears and strikes you with a hoof. You go down. She gallops away over the plain and is not seen again.
+[sk:Mounted | st:+Wounded]
+
+=== m341b
+You draw your sword and step between the mare and the soldiers in red and black. "She is the king's," you say.
+?? drive off Mordred's men from the king's mare | Warfare | 4
+++ You call to the old king's men among the ring, and they come to your side, and together you drive Mordred's soldiers back across the plain. The Saxons, who have no quarrel with a horse, wander away. When the plain is clear, the old mare comes of her own accord and stands beside you, and the groom leads her home.
+[d:4 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+-- You call to the old king's men, but there are not enough of them. Mordred's soldiers throw a rope over the mare, and drag her away screaming, and there is nothing you can do.
+[sk:Warfare | st:+Wounded | st:+Despairing]
+
+=== 2253
+You come upon a lake at the edge of a marsh, still and black, where a village of reed huts stands on the shore. The villagers are standing in the water up to their knees, holding hands in a long line, as if to stop something coming out.
+
+"The afanc," says an old woman. "It lives in the lake. It is like a beaver as big as an ox, with teeth like a saw. It comes out at night and drags people into the water. It took my grandson." She tightens her grip on her neighbour's hand. "They say it can only be taken by a maiden it falls asleep on, and then dragged out with chains by oxen. We have no maiden brave enough. We have no oxen."
+
+> You may fight the afanc in its lake. -> m153a
+> You may lure the afanc out and trap it. -> m153b
+
+=== m153a
+You wade into the black water with your sword drawn. Something stirs in the depths.
+?? battle the afanc in the black lake | Sword & Shield | 6
+++ It comes at you from below, enormous, with its saw-teeth snapping. You fight it in the water, waist-deep, and it drags you under twice, and twice you come up. The third time, you drive your sword into its throat. It thrashes, and the water goes red, and then it floats. The villagers haul it out with ropes. In its den under the bank, they find the old woman's grandson, alive, very cold and very frightened. She carries him home in her arms.
+[d:5 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+-- It comes at you from below and drags you under, and under, and under. You come up gasping on the far side of the lake, without your sword, and it is a long walk back.
+[sk:Sword & Shield | st:+Wounded]
+
+=== m153b
+"Chains," you say. "And a very large bait." The old woman looks at you doubtfully.
+?? trap the afanc with chains and cunning | Hunting | 3+L
+++ You borrow every chain in the village and the smithy's anchor, and build a snare on the bank, baited with a whole sheep. At midnight, the afanc comes out of the water, sniffing. When it seizes the sheep, you pull the pin, and the chains fall on it, and the whole village hauls on the ropes. It thrashes all night. In the morning, it is lying on the bank, exhausted and furious and very securely chained. They find the boy in its den, alive. The villagers sell the afanc to a lord in Gwent who keeps a menagerie.
+[d:L | sk:Wilderness | rn:Divinity+1 | tr:1]
+-- You build a snare on the bank baited with a sheep. The afanc comes out of the water, and looks at the sheep, and at the chains, and at you. Then it takes you instead, and drags you into the lake. You get away, but not your dignity.
+[sk:Hunting | st:+Wounded]
+
+=== 2353
+As you pick your way through a marsh at dusk, a little blue flame rises from the reeds ahead of you and dances away across the water. Then another, and another, until the marsh is full of them, bobbing and weaving. A voice calls from somewhere among them: "Help! Help me! This way!"
+
+You see, far off across the marsh, a pilgrim in a grey hood, following the lights. He is walking straight toward deep water. "The Grail!" he cries. "I see it! It is leading me!"
+
+> You may chase down the pilgrim before he drowns. -> m253a
+> You may follow the will-o'-the-wisps to see where they lead. -> m253b
+
+=== m253a
+You spur your horse through the reeds toward the pilgrim. The lights dance in front of you, trying to lead you astray.
+?? reach the pilgrim through the treacherous marsh | Nature Lore | 3+L
+++ You do not look at the lights. You look at the reeds, and the water, and the way the bog bubbles, and you ride where the ground is firmest. You reach the pilgrim as he is stepping into the deep water, and haul him back by his hood. He fights you. "The Grail!" he weeps. "It was the Grail!" You turn his face toward the lights, and as you watch, they wink out, one by one. "It was the bog," you say. He is silent all the way to dry ground.
+[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You ride toward the pilgrim, and the lights dance before you, and before you know it, your horse is up to its belly in the bog. By the time you have freed it, the pilgrim is gone, and so are the lights.
+[sk:Nature Lore | st:+Plague-Ridden | st:+Despairing]
+
+=== m253b
+You watch the dancing lights. There is something in them, a pattern, like a hand beckoning.
+?? follow the lights without losing your way | Magic | 5
+++ You follow them, carefully, speaking the old charm against false fire under your breath. They lead you deeper and deeper into the marsh, to a little island with a ruined chapel on it, and in the chapel is the pilgrim, sitting on the floor, alive, staring at the wall. On the wall, painted by some long-dead monk, is a picture of a cup. The lights hover over it, and then go out. The pilgrim looks at you. "It was only a painting," he says. But he is smiling.
+[d:4 | sk:Spiritual | rn:Divinity+1]
+-- You follow the lights, and they lead you round and round the marsh, until dawn, when you find yourself back where you started, soaked and freezing. The pilgrim is never seen again.
+[sk:Magic | st:+Lost]
+
+=== 2453
+You come upon a marsh where the ravens are gathering. Hundreds of them. They sit on every dead tree and every tussock, black and silent, looking east, toward the war. In the middle of them stands a raven taller than a man, with eyes like red coals, and it turns its head and looks at you.
+
+"Knight," it says, in a voice like tearing cloth. "I am the Raven of Owain. I and my kin will feed well this year. We are waiting for the great battle." Its beak opens in something like a smile. "I can tell you where and when it will be. For a price. Or you can go away and let us wait in peace."
+
+> You may bargain with the great raven for its knowledge. -> m353a
+> You may drive the ravens from the marsh. -> m353b
+
+=== m353a
+"What price?" you ask. The raven cocks its head. "An eye," it says. "Only one. You will not miss it."
+?? outbargain the raven | Cunning | 6
+++ You laugh, and tell it that a knight with one eye is no use to ravens, since he cannot fight, and so will not die in the battle, and so will not feed them. The raven considers this. "A drop of blood, then," it says, sulkily. You give it a drop from your thumb. It tells you: in May, on a plain in the west, where two armies will meet to parley and an adder will ruin everything. You ride away knowing more than you want to.
+[d:4 | sk:Courtly | rn:Any+1 | st:+Determined]
+-- You try to bargain it down, but the raven only laughs, and takes its price anyway, by pecking your hand to the bone. It tells you nothing. The ravens laugh as you ride away.
+[sk:Cunning | st:+Wounded]
+
+=== m353b
+You draw your sword and ride into the marsh, shouting. The ravens rise in a black cloud.
+?? scatter the ravens and their master | Magic | 5
+++ You shout the old words against carrion birds and swing your sword, and the ravens scatter, cawing. The great raven stands its ground until the last, glaring at you, and then it too flaps heavily into the air. "We will be back," it croaks. "In May." It flies east. But the marsh is quiet after that, and the people of the village nearby say that for the first time in a year, they can sleep.
+[d:3 | sk:Spiritual | rn:Divinity+1]
+-- You shout and swing your sword, and the ravens rise, and they come at you, all of them, in a black storm of beaks and claws. You flee the marsh with your face bleeding.
+[sk:Magic | st:+Wounded | st:+Accursed]
+
+=== 2265
+As you sail along a rocky coast, the sea ahead of you begins to boil. A huge head rises out of the water, green and scaled, with a mane of seaweed, and it looks at your boat. The sailors scream. The head sinks again, and a moment later, you see, under the clear water, the drowned roofs of a village, with a church tower, and the serpent coiled round it.
+
+"Porth Llys," says the old captain, shaking. "Drowned a hundred years ago. The serpent guards it. It sinks every boat that passes over." He looks at you. "Unless it is fed. We used to throw it a sheep. We have no sheep today."
+
+> You may fight the sea serpent. -> m165a
+> You may dive to the drowned village to learn why the serpent guards it. -> m165b
+
+=== m165a
+You stand in the bow with a spear. The serpent rises again beside the boat, its jaws wide.
+?? drive your spear into the sea serpent | Warfare | 6
+++ You take the captain's harpoon and the ship's rope and wait until the serpent rises, and throw. The harpoon goes deep behind its eye. The serpent screams and dives, and the rope runs out so fast it smokes, and the whole boat is dragged across the bay. You hold on. At last the rope goes slack, and the serpent floats up, dead. The sailors cheer until they are hoarse. When you sail home, the drowned village is still there under the water, and its church bell, very faintly, is ringing.
+[d:5 | sk:Martial | rn:Any+2 | tr:1]
+-- You throw the harpoon, and it glances off the serpent's scales. The serpent's tail sweeps the deck, and you are in the sea. The sailors haul you out. The boat limps home.
+[sk:Warfare | st:+Wounded]
+
+=== m165b
+You take off your armour and tie a rope round your waist. "If it pulls twice," you tell the captain, "haul." Then you dive.
+?? dive to the drowned village | Endure Hardship | 5
+++ The water is cold and clear. You swim down to the church tower and look in through the belfry. Inside, in the green light, lies a coffin, and the serpent is coiled round it, and when you touch the coffin, the serpent does not attack. It only watches. On the coffin is carved a name, *Gwenno*, and a date a hundred years old. You pull twice, and come up gasping. The captain knows the name. "The serpent's wife," he says. "It was a man once. It drowned the town the day she died." You tell the village priest. The next spring, they say a mass for Gwenno over the water, and the serpent is never seen again.
+[d:4 | sk:Wilderness | rn:Divinity+2]
+-- The water is cold and clear. You swim down to the church tower, and the serpent comes out of the belfry, and looks at you, and you pull twice. You are hauled up with its breath on your heels.
+[sk:Endure Hardship | st:+Pursued]
+
+=== 2365
+As you sail west in the Grail year, looking for islands that are not on any map, you come upon an island with no trees and no rocks, only smooth black ground and a little chapel. A dozen monks are standing on it, singing Mass. Their abbot waves to your ship. "Come ashore!" he calls. "We have been here since Easter! We are waiting for Pentecost!"
+
+As you row closer, the island shivers, and a great spout of water shoots up from its far end. The monks do not seem to notice. The sailors do. "That is no island," the helmsman whispers. "That is a whale."
+
+> You may go ashore and join the monks' Mass on the whale. -> m265a
+> You may warn the monks and bring them off before the whale dives. -> m265b
+
+=== m265a
+You climb onto the island. It is warm under your feet, and it rises and falls, slowly, like breathing. The abbot hands you a candle.
+?? keep faith through the Mass on the living island | Piety | 5
+++ You kneel with the monks, and sing with them, and when the abbot raises the host, the whale lies perfectly still, as if it too were listening. The Mass ends. The abbot turns to you and smiles. "It is Jasconius," he says. "We know. He has carried us since Easter. Every year he lets us say Mass on his back. Every year, he brings us to the land of promise, a little nearer." The whale blows again, gently. You go back to your ship feeling as if you have been in a very large church.
+[d:4 | sk:Spiritual | rn:Divinity+2 | st:+Blessed]
+-- You kneel with the monks, but halfway through, the whale blows, and you jump to your feet and nearly overturn the altar. The abbot looks at you with great sorrow. "You did not trust him," he says. You go back to your ship alone.
+[sk:Piety]
+
+=== m265b
+"Abbot!" you shout. "That is a whale!" The abbot waves cheerfully. "We know," he calls. "He is very comfortable."
+?? bring the monks safely off the whale | Warfare | 4
+++ You bring your ship alongside and throw them ropes. The abbot does not want to go, but the younger monks do, and while you argue, the whale decides the matter for you by beginning, slowly, to sink. The monks scramble aboard with their chalice and their candles, and the abbot comes last, dripping. The whale sinks, and rises again a hundred yards away, and blows, and swims away west. "He will come back for us," says the abbot, rather crossly. "Next Easter." You are sure he will.
+[d:3 | sk:Martial | rn:Divinity+1 | rn:Any+1]
+-- You bring your ship alongside and throw them ropes, and the whale, disturbed, dives. The monks, the chapel and very nearly your ship go down in a great swirl. You fish out six of them. The rest you never find.
+[sk:Warfare | st:+Despairing]
+
+=== 2465
+As you stand on a beach looking out at the sea, with the old king's army embarking in boats behind you, a white horse comes up out of the waves and walks toward you across the sand. It is beautiful, with a mane of foam and eyes like the sea. It kneels in front of you.
+
+An old fisherman grabs your arm. "Do not touch it," he says. "It is a kelpie. It will carry you into the sea and drown you." The horse looks at you. It speaks, in a voice like the tide. "I will carry you across to the king's camp faster than any boat. The war will not wait for boats."
+
+> You may ride the kelpie across the sea. -> m365a
+> You may bind the kelpie with a bridle and make it serve you. -> m365b
+
+=== m365a
+You swing up onto the white horse's back. Its skin is cold and wet, and it rises beneath you and turns toward the sea.
+?? master the kelpie on the open sea | Mounted | 6
+++ It plunges into the waves and gallops across them, and you cling to its mane. Halfway across, it tries to dive, and you haul its head up with all your strength, and speak to it the way you would speak to any horse that tries something foolish: firmly, and without fear. It does not dive again. It sets you down on the far shore, at the king's camp, a day before the boats. Then it looks at you, almost respectfully, and goes back into the sea.
+[d:5 | sk:Martial | rn:Any+2 | mv:free]
+-- It plunges into the waves, and halfway across, it dives, and takes you with it. You fight your way free of its mane and come up, half-drowned, and are picked up by a fishing boat. You reach the camp three days after the boats.
+[sk:Mounted | st:+Plague-Ridden]
+
+=== m365b
+You take a bridle from your saddlebag, a plain iron one, and hold it up. The kelpie's eyes widen.
+?? bridle the kelpie with cold iron | Magic | 5
+++ You slip the iron bit into its mouth before it can move. It screams like the sea in a storm, and then stands still, trembling, bound. "Now you will carry me," you say, "and not drown me." It carries you across the sea in half a day. On the far shore, you take the bridle off. The kelpie looks at you with hatred and something else, and goes back into the waves. You keep the bridle. It is still wet.
+[d:4 | sk:Spiritual | rn:Villainy+1 | rn:Any+1 | mv:free]
+-- You try to slip the iron bit into its mouth. The kelpie seizes your arm in its teeth and drags you into the surf. The fisherman and three soldiers pull you out.
+[sk:Magic | st:+Wounded]

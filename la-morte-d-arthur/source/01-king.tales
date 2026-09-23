@@ -1,0 +1,379 @@
+=== 1001
+You come upon a king sitting on a milestone with a long roll of parchment across his knees, reading it aloud to his horse. He is a big, sunburnt man with a gold circlet pushed back on his head like a farmer's hat.
+
+"Good knight!" he calls. "You may be able to help me. I am Bagdemagus, King of Gore, and I have been passed over for the Round Table three Pentecosts running. Three! Men half my age sit there now." He shakes the parchment. "So I have bought a list of adventures from a pedlar at Sarum. Forty adventures, a penny each. The first one says there is a knight in a copper tower two leagues from here who keeps a lady in a cage. If I free her, they will have to give me a seat." He squints at you. "Unless you mean to free her first. Is that it? Are you after my adventure?"
+
+> You may ride with King Bagdemagus to the copper tower and help him free the lady. -> k01a
+> You may challenge King Bagdemagus to a joust for the right to the adventure. -> k01b
+> You may ask the king how a man comes to be passed over three times. -> k01c
+
+=== k01a
+"The adventure is yours, my lord," you say. "I only mean to hold your horse." Bagdemagus beams and rolls up his list. The copper tower turns out to be a mill with a green copper roof, and the lady in the cage turns out to be a very large parrot. Its owner, Sir Hebes the miller-knight, comes out with a flail and a face like thunder.
+?? keep the peace between the king and the miller | Diplomacy | 4
+++ Sir Hebes swears the bird is his, bought honestly from a Genoese sailor. Bagdemagus swears the pedlar's list cannot lie. You step between them before the flail and the sword meet. "My lord," you say to the king, "a king who frees parrots will be laughed at. A king who buys one for the queen at Camelot will be remembered." The king considers this, pays the miller twice what the bird is worth, and rides away with it on his wrist. It learns to say "Bagdemagus" before sundown. "Not a seat at the Table," he says, "but a start."
+[d:2 | sk:Courtly | rn:Romance+1]
+-- Sir Hebes swears the bird is his, bought honestly from a Genoese sailor. Bagdemagus swears the pedlar's list cannot lie. You step between them and suggest they split the bird's price, which offends both men at once. The miller's flail catches you across the shoulder, and the king rides off with his list in a sulk. You rub your shoulder and resolve to choose your compromises more carefully.
+[sk:Diplomacy | st:+Wounded]
+?? stand as the king's champion against the miller-knight | Sword & Shield | 3+L
+++ Sir Hebes will not hear a word. He swings his flail, and you take it on your shield and drive him back against his own millwheel until he yields. Bagdemagus claps so hard his circlet falls off. "Well struck! Well struck for Gore!" The miller sulkily hands over the parrot and a sack of flour besides. The king insists on telling the whole story at the next inn, and in his version he did most of the fighting. You let him.
+[d:L | sk:Martial | rn:Any+1]
+-- Sir Hebes will not hear a word. He swings his flail, you raise your shield too slowly, and the next thing you know you are lying in the millrace looking up at the parrot. "Yield," it says. Bagdemagus hauls you out and pays the miller for his trouble. You squelch away, having learned a great deal about flails.
+[sk:Sword & Shield | st:+Wounded]
+
+=== k01b
+"If the adventure is worth having," you say, "it is worth a joust." Bagdemagus goes red with delight. "Now that," he cries, "is the first sensible thing anyone has said to me all year!" He lowers his visor and backs his horse to the far end of the road.
+?? meet the king's charge | Mounted | 4
+++ Bagdemagus rides like a man with something to prove. His lance catches the edge of your shield and skids away, and yours takes him square on the chest. He goes over his horse's tail and lands sitting up in a puddle. For a moment he says nothing. Then he laughs until he wheezes and hands you the list. "Forty adventures," he says. "Tell them at Camelot that it was the King of Gore who gave you your start." You find three of them are real.
+[d:3 | sk:Martial | rn:Romance+1 | tr:1]
+-- Bagdemagus rides like a man with something to prove. You aim for his shield, but his horse swerves at the last moment and his lance takes you under the arm. You land in the ditch. The king leans down from the saddle, genuinely sorry. "Bad luck," he says. "Horses. You never know with horses." He rides off whistling. You resolve to watch the horse next time, not the man.
+[sk:Mounted | st:+Unhorsed]
+
+=== k01c
+Bagdemagus sighs and pats his horse's neck. "They say I lose my temper. Once, at a tournament, I lost it at a man who had lost his first, and I was the one they remembered. And once I said the queen's hounds were fat, which they were." He rolls up the list slowly. "A king cannot be a knight of the Round Table on the strength of being a king, you see. He has to be a knight first. Arthur says so. It is a fine rule, and I hate it." He mounts, shakes your hand and rides off to find the copper tower. You think, as he goes, that he may be the most honest king in Britain.
+[d:1 | sk:Honor]
+
+=== 1002
+As you ride along the cliffs near Tintagel in a hard wind, you see a man in old-fashioned armour standing at the edge, looking out to sea. The rain passes straight through him.
+
+"Do not be afraid," he says, without turning. "I have been dead a long while and have lost the knack of hurting anyone. I am Uther, who was called Pendragon. I was king here once." His voice is tired. "I took a woman from her husband by a trick of Merlin's, and got a son on her the same night her husband died. I never told her I was sorry. I never told the boy anything at all. Now he is king, and I cannot leave this cliff until one of them hears it from me." He turns at last. His face is Arthur's face, older and harder. "Will you carry it for me?"
+
+> You may carry King Uther's apology to the court at Camelot. -> k02a
+> You may pray over the ghost of King Uther and try to lay him to rest here. -> k02b
+
+=== k02a
+"I will carry it," you say. The ghost tells you what to say, word by word, and makes you repeat it until you have it right. Then he gives you a sign that only his son will understand: a verse of a lullaby that his nurse sang, which he says Arthur's nurse must also have known.
+?? deliver the message faithfully to the king | Honor | 5
+++ It takes you a month to be admitted to the king alone. When you are, you tell him every word, and sing the verse, badly. Arthur stares at you for a long while. "My nurse sang that," he says. "I had forgotten it." He asks you to tell it again, and then a third time. When you return to the cliff at Tintagel, there is nobody there, only a gull standing where the ghost stood. The king does not speak of it afterwards, but from then on he greets you by name.
+[d:3 | sk:Courtly | rn:Divinity/Romance+2]
+-- It takes you a month to be admitted to the king. By then you have told the story to so many stewards and chamberlains that half the court has heard it, and it has grown in the telling. Arthur hears it first from Sir Kay, as a joke. When you are finally brought before him, his face is cold. "My father's shame is mine to know," he says, "not the buttery's." You leave the hall knowing you have served the dead man poorly.
+[sk:Honor | st:+Scorned]
+?? find the dowager Queen Igraine's convent and deliver it to her | Nature Lore | 3+L
+++ Queen Igraine lives now in a small convent on the Somerset levels, reached by paths that flood twice a day. You find the one dry way through the reeds and knock at the gate in the late afternoon. The old queen hears the apology with her hands folded. "He was always sorry afterwards," she says. "Tell him I know." When you ride past the cliff at Tintagel a season later, the ghost is gone, and the wind is only the wind.
+[d:L | sk:Wilderness | rn:Divinity+1]
+-- Queen Igraine lives now in a small convent on the Somerset levels, reached by paths that flood twice a day. You take a path that looks dry and spend the night up to your waist in brown water with your horse screaming. By the time you reach the convent, the queen has gone on pilgrimage to Glastonbury, and no one will say when she will return. You leave the message with the portress, who is deaf, and hope.
+[sk:Nature Lore | st:+Plague-Ridden]
+
+=== k02b
+"You have waited long enough," you say, and kneel on the wet rock. The ghost looks down at you with something between hope and scorn. "Priests have tried," he says.
+?? pray for the soul of King Uther | Piety | 5
+++ You pray until your knees are numb and the rain has stopped. Somewhere in the middle of it, the ghost kneels beside you. You hear him say the words he wanted to say, not to Arthur or to Igraine, but to Heaven. When you open your eyes the cliff is empty. A little way off, a fisherman's wife is staring at you. "The crying's stopped," she says. "Twenty years he's cried on that cliff, and it's stopped." The village sends you away with bread, cheese and a great deal of gratitude.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You pray until your knees are numb, but the words keep sticking. The ghost watches you with his son's eyes, and you cannot stop thinking about what he did. At last he turns away. "You judge me," he says. "They all do." He walks back to the edge of the cliff and resumes his watch. You ride away with his grief heavy on you, and it does not lift for many days.
+[sk:Piety | st:+Despairing]
+
+=== 1003
+You come upon a small abbey in a fold of the hills, with an iron bell that rings by itself as you pass. The monks bring you in to see their oldest brother, who is lying on a bed beside the altar.
+
+He is the oldest man you have ever seen. His skin is as thin as candle-smoke and his eyes are milky white. A crown lies on the altar beside him, black with age. "I am Evelake," he says, in a voice like dry leaves. "I was a king in Sarras across the sea, and I came to this island with Joseph of Arimathea when your grandfathers' grandfathers were children. I pressed too near the holy vessel and was struck blind. I asked God to let me live until I could touch the knight who will see it. I have been asking for three hundred years." A hand like a bundle of twigs lifts toward you. "Come here. Let me touch your face."
+
+> You may kneel and let King Evelake touch your face. -> k03a
+> You may ask the old king to tell you of Joseph and the vessel. -> k03b
+> You may take the ancient crown from the altar while the monks are at prayer. -> k03c
+
+=== k03a
+You kneel beside the bed. Evelake's fingers are cold and light. They move over your brow and your cheeks for a long time, while the monks hold their breath.
+?? bear his searching with a clean heart | Divinity | 4
+++ At last Evelake sighs. "Not you," he says. "But you are of the company, I think. The one I wait for will ride with knights like you." He lays his hand on your head and blesses you in a language you do not know. The monks hurry to give you food, a fresh horse-blanket and a flask of water from their spring, which they say has not failed in three hundred years.
+[rn:Divinity+1 | d:3 | st:+Blessed]
+~~2 At last Evelake sighs. "Not you," he says. "There is something unfinished in you. Go and finish it." He blesses you briefly and turns his face to the wall. The monks see you to the gate politely.
+[d:1 | sk:Piety]
+-- Evelake's hand stops on your cheek. "There is blood on you," he says, "that has not been repented." The monks look at you, and you find you cannot meet their eyes. You leave the abbey without being asked to stay. At the gate, the bell rings again, all by itself, as though tolling someone out.
+[sk:Piety | st:+Despairing]
+
+=== k03b
+"Tell me of Joseph," you say. The old king's face lights up, and you realise nobody has asked him in a hundred years.
+
+"He was a rich man, and he gave his own tomb for the Lord's body," Evelake says. "Afterwards they put him in a prison without windows, and he did not starve, because the vessel fed him. Forty years he was in that place. When they let him out he thought it had been three days." He laughs, a papery sound. "We came over the sea on his shirt. He spread it on the water and we stood on it, a hundred of us, and it carried us here. You do not believe me. No matter. The one who comes after you will believe it." He tells you of the lance that bleeds, the maimed king who guards the vessel, and the castle that can only be found by those who are not looking for it. When he falls asleep in the middle of a sentence, the abbot shows you out and gives you his blessing.
+[d:1 | sk:Wisdom | rn:Divinity+1]
+
+=== k03c
+You wait until the monks file out to sing their office. The crown is black with age, but where your thumb rubs it, it shines red gold, and there are stones in it the size of hazelnuts. Evelake has not stirred.
+?? lift the crown and slip out unseen | Cunning | 5
+++ You slide the crown under your cloak and walk out past the chanting monks, bowing your head as you go. Nobody looks up. You are a league away before the bell starts ringing behind you, fast and furious, and it keeps ringing until you are out of earshot. The crown fetches a very good price from a goldsmith in Winchester who asks no questions. You do not sleep well for a week.
+[d:4 | tr:1 | rn:Villainy+2 | rn:Divinity-1]
+-- You slide the crown under your cloak. "Put it back," says Evelake, quite clearly, from the bed. He has not moved. "It was taken from me once before. It did not go well for the man who took it." You put it back. When you turn, the abbot is standing in the doorway, and his face tells you that the old man was not the only one watching. The monks do not raise a hand to you, but they walk you to the gate in silence, and the bell tolls all the while.
+[sk:Cunning | rn:Villainy+1 | st:+Accursed]
+
+=== 1004
+As you ride through a village at noon, the people scatter from you, crossing themselves. Only one man stays in the market square: a stooped king in a stained purple cloak, standing in full sunlight. He casts no shadow.
+
+"You see it too," he says bitterly. "I am Carados of the Marches, and my people think I am a ghost. Three nights ago a piper came to my hall and played so sweetly that I danced until dawn. When the sun came up, my shadow was dancing after him down the road, and it has not come back." He shudders. "My steward has taken the keys. My wife will not let me into her chamber. My own dogs howl at me. A king without a shadow, they say, is a king without a soul."
+
+> You may help King Carados win his shadow back from the piper. -> k04a
+> You may track down the piper and take the king's shadow by force. -> k04b
+
+=== k04a
+"Where did the piper go?" you ask. Carados points to a round green hill beyond the village, where a thin, merry tune drifts on the wind. "There," he says. "He sits on top of it every noon, and my shadow dances round him." Sure enough, when you climb the hill you find a thin man in green piping away, and a king's shadow capering around the hilltop without any king to cast it.
+?? bargain with the fay piper | Magic | 5
+++ You sit down cross-legged opposite the piper, which seems to amuse him. "A shadow is a poor thing to keep," you say, "since it only does what you do. Give it back, and I will teach you a song you have never heard." The piper cocks his head. You sing him a marching song the Carleon footmen use, full of rude words about Saxons. He laughs so hard he drops his pipe, and the shadow runs straight down the hill and back to its king. Carados weeps and gives you a ring from his own hand.
+[d:3 | sk:Spiritual | rn:Divinity+1 | tr:1]
+-- You sit down cross-legged opposite the piper, which seems to amuse him. "A shadow is a poor thing to keep," you say. The piper grins and plays three bright notes. Your own shadow twitches, then stretches, then starts to tap its foot on the grass. You leap up and flee down the hill with it straining behind you, and do not stop until you are back in the village. The piper keeps the king's shadow. You never quite trust your own again.
+[sk:Magic | st:+Ensorcelled]
+?? play the piper at his own game | Cunning | 4
+++ You wait until the piper pauses for breath, then clap loudly. "Very fine," you say, "but anyone can make a shadow dance. I bet you cannot make one stand still." The piper, stung, plays a slow, heavy tune, and the king's shadow stops dead. You step onto it before he can play again. A shadow pinned under a knight's boot cannot follow a tune, and the piper knows it. He curses in a language like wind in reeds and vanishes, and you walk the shadow home.
+[d:2 | sk:Courtly | rn:Any+1]
+-- You wait until the piper pauses for breath, then clap loudly. "Very fine," you say, "but I bet you cannot make one stand still." The piper looks at you with pity. "I would not take that bet," he says, "from one who is already dancing." You look down. Your feet are moving. You dance down the hill and through the village and all the way to the next parish before you can stop, with the village children running after you and laughing. You resolve to be more careful whom you challenge.
+[sk:Cunning | st:+Scorned]
+
+=== k04b
+"A thief is a thief," you say, "whatever country he comes from." Carados points you toward the green hill, where a thin tune drifts on the wind, and wrings his hands as you go.
+?? stalk the piper through the long grass and seize him | Hunting | 3+L
+++ You come up the back of the hill on your belly, through grass that seems to lean aside for the piper and lean in on you. When you are close enough to hear him breathe between notes, you spring. He is light as a bundle of twigs. He shrieks and bites, and the shadow flees down the hill to its master. When you open your hands, you are holding a bundle of twigs. The king rewards you well, but you notice, riding away, that the grass on that hill bends away from your footsteps.
+[d:L | sk:Wilderness | rn:Any+1 | st:+Accursed]
+-- You come up the back of the hill on your belly. The tune stops. When you raise your head, the hilltop is empty, and the sun is going down. You have been creeping through the grass for the whole afternoon, though it felt like minutes. When you come down, the village has its lanterns lit and nobody remembers seeing you arrive. You set off in what you hope is the right direction.
+[sk:Hunting | st:+Lost]
+
+=== 1005
+You come upon a king in the middle of the road, trying to make his horse kneel. He is an elderly man with a white beard braided with ribbons, dressed in a new doublet so tight he can barely breathe.
+
+"Ah! A knight!" he cries. "Perfect. I am Leodegrance, King of Cameliard. You may know that my daughter is to marry the High King, and I am to send her with the finest wedding gift in Christendom: a round table where a hundred and fifty knights may sit." He lowers his voice. "Now that she is leaving, I find the hall very quiet. So I intend to marry again. There is a miller's daughter in the next village, Tegau, who is the handsomest woman in Cameliard. I want to kneel to her properly, on horseback, as they do in the romances, but the horse will not cooperate." He looks at you hopefully. "Would you carry my proposal to her first? To prepare the ground?"
+
+> You may carry King Leodegrance's proposal to Tegau and plead his case. -> k05a
+> You may warn Tegau privately that the old king means to have her. -> k05b
+> * You may go to Tegau and court her on your own account. -> k05c
+
+=== k05a
+"I will speak for you, my lord," you say. You find Tegau at the millrace with her sleeves rolled up, arguing with a young carter about the price of oats. She hears the words "King Leodegrance" and puts her hands on her hips.
+?? plead the old king's case with courtesy | Honor | 5
+++ You speak of the king's kindness, his wealth and his loneliness, and you are honest about his age and his ribbons. Tegau laughs, but she listens. "He is a good man," she admits. "He paid my father's fine for him when the river flooded." She sends back an answer: she will not marry him, but she will come and dine at his hall every Sunday and argue with him about oats. When you bring this to Leodegrance, he claps his hands like a boy. "A courtship! A proper courtship, as in the romances!"
+[d:3 | sk:Courtly | rn:Romance+1]
+-- You speak of the king's kindness, his wealth and his loneliness, but you get carried away and describe his beard as "silver as a lake at dawn". Tegau laughs until she has to sit down. The young carter laughs too, and so do the millhands, and by nightfall the whole village is calling the king "Old Lake-at-Dawn". Leodegrance hears of it within a day. You resolve to leave poetry to poets.
+[sk:Honor | st:+Scorned]
+
+=== k05b
+You take Tegau aside where the carter cannot hear. "The king means to propose," you tell her. "He is kind, but he is old, and I think your heart lies elsewhere." She glances at the carter, then back at you. "It does," she says, "and if I refuse a king, my father will lose the mill."
+?? help Tegau and her carter find a way out | Cunning | 4
+++ Between you, you hatch a plan. When the king arrives on his reluctant horse, he finds Tegau with her hair full of flour and her teeth blacked with soot, cackling at nothing. He goes very pale, makes his excuses and flees. A week later Tegau marries her carter, and the king, much relieved, sends them a wedding gift of a cartwheel with silver spokes. "Poor mad girl," he tells everyone. "I was lucky to escape." Tegau sends you a loaf every Easter for the rest of your life.
+[d:2 | sk:Courtly | rn:Romance+1 | rn:Villainy+1]
+-- Between you, you hatch a plan. When the king arrives, he finds Tegau with her hair full of flour and her teeth blacked with soot, cackling at nothing. Unfortunately, the carter bursts out laughing in the middle of it. The king looks from one to the other and then at you, and understands everything. "In the romances," he says stiffly, "the knight does not lie to the king." He rides off. You are left with a carter, a sooty miller's daughter and a lesson in keeping a straight face.
+[sk:Cunning | st:+Scorned]
+?? persuade the king to give up the match | Diplomacy | 3+L
+++ You ride back to Leodegrance and tell him, gently, that Tegau loves another man. "She fears you, my lord," you say, "because you are a king. If you release her, she will bless your name." The old king is silent for a long moment. Then he takes off his tight new doublet with a sigh of relief. "Tell her I release her," he says, "and that I will stand godfather to her first child." He fetches out a flagon of good wine, and the two of you drink it on the roadside while his horse finally kneels, of its own accord, to eat the grass.
+[d:L | sk:Courtly | rn:Divinity/Romance+1]
+-- You ride back to Leodegrance and tell him that Tegau loves another man. The old king goes purple. "A carter? A carter?" He mounts his horse at the first attempt, which surprises you both, and gallops off to the mill. By the time you catch up, the carter is locked in the village stocks and Tegau is in tears. You spend a long day talking the king down, and he releases the man at last, but nobody in that village thanks you.
+[sk:Diplomacy | st:+Scorned]
+
+=== k05c
+You find Tegau at the millrace with her sleeves rolled up. She takes one look at you, and at your horse, and raises an eyebrow. "You have come from the old king," she says. "Or have you?"
+??* court the miller's daughter | Honor | 5
+++ You tell her the truth: the king sent you, and you have come for yourself. Tegau laughs, which you take as a good sign, and then asks you to help her lift a sack. By sundown you have lifted a great many sacks, and she has decided you are worth knowing. The old king is heartbroken for an afternoon and then consoles himself by planning your wedding feast, which he insists on paying for.
+[d:3 | sk:Courtly | rn:Romance+2 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
+-- You tell her the king sent you, and that you have come for yourself. "So you would steal an old man's sweetheart before he has even asked her," Tegau says. "What would you do to me, then, when someone younger came riding by?" The carter, who has been listening from the cart, cracks his whip. You ride away with your ears burning.
+[sk:Honor | st:+Smitten]
+
+=== 1007
+You come upon a line of carts stopped at a bridge on the Cornish border, while a troop of soldiers pulls them apart. Bales of wool are slit open. A cask of wine is staved in. A priest's vestments lie in the mud. Overseeing it all, on a black horse, sits a thin, gaunt king in a crown too large for him, muttering.
+
+If you have Story Token #18, turn immediately to [[k07x]].
+
+"He is here somewhere," the king says. "I know it. Every cart. Every cask." He turns red-rimmed eyes on you. "Mark. King of Cornwall. You will have heard of me, and of my wife. You will have heard what they say. There is a knight who loves her, and I will find him if I have to unpick every bale in Britain." He leans closer. "Are you he? No. He is taller. But you might know him. Every knight knows every other knight."
+
+The carters look at you imploringly. One of them, a woman with a wool bale, has started to weep.
+
+> You may try to talk King Mark out of his madness. -> k07a
+> You may offer to join King Mark's search and see where it leads. -> k07b
+
+=== k07x
+"You!" King Mark's face changes when he sees you. "You were seen at Orkney, carrying messages for a queen who is not your own. I know your kind." He pulls his horse around. "Seize that knight!"
+
+You do not wait to find out what happens to knights who are seized in Cornwall. You spur your horse over the bridge and away, with Mark's soldiers clattering behind you. They follow you for three days.
+[st:+Pursued | sk:Mounted]
+
+=== k07a
+"My lord," you say, "the man you seek is not in a cask of wine." Mark laughs, a short, ugly laugh. "You have not met him," he says.
+?? reason with the jealous king | Wisdom | 5
+++ You ask him what he will do when he finds the man. Mark opens his mouth and shuts it. You ask him what his queen will think of a king who stops wool carts at bridges. You ask him who will buy Cornish wool next year. By the end, he is staring at the slashed bales as if he has just woken. "Put it back," he mutters to his captain. "Pay them." He rides away without looking at you. The carters kiss your hands, and the weeping woman presses a length of fine blue cloth on you.
+[d:3 | sk:Spiritual | rn:Divinity+1]
+-- You ask him what he will do when he finds the man. "Hang him from this bridge," Mark says at once, and smiles, and you realise he has thought of little else for years. When you try to argue, he decides you are too interested in the matter and has you searched as well. His soldiers take your purse "for the investigation". You ride on lighter and wiser.
+[sk:Wisdom | n:Lose 1 Treasure, if possible]
+?? shame the king before his own soldiers | Piety | 4
+++ You get down from your horse, pick the priest's vestments out of the mud, and hold them up. "Is this what Cornwall's king makes war on?" you ask, loudly enough for every soldier to hear. The men look at their feet. The captain, a grey-bearded man named Andred, quietly orders them to repack the carts. Mark rages, but his men have stopped listening, and at last he rides off alone. Captain Andred thanks you under his breath. "I have wanted someone to do that for a year," he says.
+[d:2 | sk:Spiritual | rn:Divinity+2]
+-- You get down from your horse, pick the priest's vestments out of the mud, and hold them up. "Is this what Cornwall's king makes war on?" Mark looks at you with pure hatred. "It is what Cornwall's king makes war on today," he says. "Tomorrow it may be you." His soldiers throw you into the river to cool your piety, and your horse bolts. By the time you have caught it, the search has moved on.
+[sk:Piety | st:+Unhorsed]
+
+=== k07b
+"I will help you look, my lord," you say. Mark's eyes narrow, then brighten. "At last," he says. "A knight with sense." He gives you a list of names, most of them crossed out, and a description of the man that would fit half the knights in Britain.
+?? search the carts and the countryside with the king's men | Hunting | 4
+++ You spend a hard week on the moors with Mark's soldiers. You find no lover, but you do find a band of wreckers who have been lighting false beacons on the cliffs. Mark is delighted to hang somebody, and for a while he forgets his wife. He gives you a purse of Cornish silver and calls you the only honest knight in Britain. You are not sure you want to be his favourite, but the silver spends well.
+[d:3 | sk:Wilderness | rn:Villainy+1 | tr:1]
+-- You spend a hard week on the moors with Mark's soldiers, and find nothing at all. On the seventh day Mark decides that your failure is suspicious, and that a knight who cannot find a lover must be hiding one. You leave Cornwall by night, with his soldiers hunting the moor behind you.
+[sk:Hunting | st:+Pursued]
+
+=== 1010
+You come upon a camp spread across a whole valley, with the banners of eleven kings snapping above it. At its heart stands a pavilion of black and gold, and before it a tall, grey-eyed king is hacking at a practice post with a battle-axe.
+
+He stops when he sees you and wipes his forehead. "A knight of Logres," he says. "Good. I am Lot of Orkney and Lothian, and I will not kneel to a boy who pulled a sword out of a stone at a fair." He spits. "Who is his father? Uther, they say. Uther, who got him on another man's wife the night her husband died. And Merlin rocked the cradle. Is that a king? I have fought for this island since before that boy was born." He holds out the axe, handle first. "Come and ride with me. You will have land, and I pay in gold, not promises. Or go back and tell Arthur that Lot of Orkney is coming."
+
+> You may join King Lot's rebellion against Arthur. -> k10a
+> You may slip away and warn Arthur of the size of Lot's host. -> k10b
+> You may try to persuade King Lot to make peace with the young king. -> k10c
+
+=== k10a
+You take the axe. Lot grins like a wolf. "I knew it," he says. "There are more of us than he thinks." He sets you to work that same afternoon.
+[tok:1]
+?? lead a raid on the young king's supply wagons | Warfare | 4
+++ You take thirty of Lot's horsemen down the old Roman road by night, fall on Arthur's wagons at a ford, and drive off the oxen before the guards have their boots on. Lot laughs aloud when he sees the plunder. "Now that," he says, "is how an Orkney man makes war." He gives you a share of it, and your name is spoken with respect around the fires. It is spoken differently at Camelot.
+[d:4 | sk:Martial | rn:Villainy+2 | tr:1]
+-- You take thirty of Lot's horsemen down the old Roman road by night. But the wagon guards are awake, and Merlin, it seems, has told them you were coming. You lose half the men in the dark and ride back empty-handed with an arrow in your leg. Lot is not pleased. "The boy has a wizard," he growls. "I have you." You resolve to plan more carefully next time, if Lot gives you a next time.
+[sk:Warfare | st:+Wounded | rn:Villainy+1]
+?? carry Lot's secret letters to the kings of the north | Cunning | 3+L
+++ Lot gives you a sealed bundle and a password. You ride north in a pedlar's cloak, pass three of Arthur's patrols with a sack of ribbons and a foolish grin, and deliver the letters to King Urien in Gore and King Nentres in Garlot. Both send their men. When you return, Lot embraces you like a son. "The boy will learn," he says, "that the north does not forget."
+[d:L | sk:Courtly | rn:Villainy+1 | tr:1]
+-- Lot gives you a sealed bundle and a password. You ride north in a pedlar's cloak, but at the second patrol a sergeant asks to see your ribbons and finds the letters instead. You fight your way free, but the letters are lost, and Arthur's captains now know exactly who is marching with Lot. You return to the camp to find yourself less welcome than before.
+[sk:Cunning | st:+Pursued]
+
+=== k10b
+You thank the king for his offer and ride out of the camp slowly, counting banners as you go. Once the camp is behind you, you turn for Camelot and put your spurs in.
+?? ride through the night to reach Arthur before Lot moves | Mounted | 3+L
+++ You ride all night and half the next day, change horses twice, and come into Camelot on a lathered mount as the watch is changing. Arthur hears you out standing, with Merlin at his shoulder. "Eleven banners," he says. "Merlin said ten." Merlin shrugs. "I said ten would come," he says. "I did not say the eleventh would stay." Arthur gives you a new horse and a place at his council fire.
+[d:L | sk:Martial | rn:Romance+1 | st:-Unhorsed]
+-- You ride all night, but your horse goes lame on the Roman road, and you must walk the last ten miles leading it. By the time you reach Camelot, Arthur has already heard from his own scouts. "You meant well," says Sir Kay, eyeing your boots. "Your horse did not." You spend two days in the stables nursing it back to health.
+[sk:Mounted | st:+Unhorsed]
+?? count every man and horse in the camp before you leave | Wisdom | 4
+++ You ride out slowly, stopping to water your horse and chat with the cooks. By the time you leave, you know how many men Lot has, how much bread they eat, and which two kings are quarrelling over the best pasture. Arthur hears it all in silence, then turns to his captains. "Two kings who quarrel over grass," he says, "will run when the grass is on fire." He grips your hand. "You have saved more lives than you know."
+[d:3 | sk:Spiritual | rn:Divinity/Romance+1]
+-- You ride out slowly, stopping to water your horse and chat with the cooks. One of the cooks, it turns out, is Lot's cousin. By the time you are clear of the camp, there are ten horsemen following you. You shake them off in a wood, but you have learned nothing that Arthur's scouts will not tell him first.
+[sk:Wisdom | st:+Pursued]
+
+=== k10c
+"My lord," you say, "you are a great king. That is why the young king needs you." Lot laughs. "Needs me? He needs a nursemaid. Go on, then. Tell me why I should kneel."
+?? persuade Lot that a united Britain needs him | Diplomacy | 6
+++ You talk long into the night, by the fire outside his pavilion. You speak of Saxon ships on the east coast, of the Irish in the west, and of Orkney's sons, who will inherit whatever Lot leaves them. At that, the king goes quiet. "My boys," he says. "They would like him, I think. They like everyone." He does not agree to kneel, but he agrees to hold his army back until after harvest. You carry his terms to Camelot, and for one summer, at least, no one dies.
+[d:4 | sk:Courtly | rn:Divinity/Romance+2]
+-- You talk long into the night, by the fire outside his pavilion. But every time you mention the young king, Lot hears Uther's name, and his temper rises. At last he throws his cup into the fire. "Get out," he says, "before I remember that you came here as his friend." You leave with the whole camp jeering at your back.
+[sk:Diplomacy | st:+Scorned]
+
+=== 1012
+You come upon an alehouse at a crossroads where a big man in a plain brown cloak sits among the drovers, asking questions. What do they think of the new taxes? Is the king too young? Would they fight for him? He listens hard to every answer.
+
+When he sees you, he grins and makes room on the bench. You realise, with a jolt, that you have seen that face before, on a coin and at the high table. It is Arthur, the High King. He puts a finger to his lips.
+
+"They tell me the truth in here," he says quietly. "They never do at court." He leans close. "You can help me. King Nentres of Garlot rebelled against me last year and lost. He is in my prison at Carleon. My council says hang him, as an example. My heart says let him go, and he will be grateful. Which is right? I have asked eleven men and got eleven answers."
+
+> You may counsel the king to show King Nentres mercy. -> k12a
+> You may counsel the king to make an example of King Nentres. -> k12b
+> You may ask the king why he goes among his people in disguise. -> k12c
+
+=== k12a
+"Let him go, my lord," you say. "But not for nothing." The king raises his eyebrows. "Go on."
+?? advise the king on terms that will bind Nentres to him | Wisdom | 5
+++ You suggest the king free Nentres, give him back his lands, and ask for nothing but his eldest son to be fostered at Camelot as a squire. "Not a hostage," you say. "A friend. In ten years he will love you like a brother, and his father will know it." Arthur stares at you, then laughs and thumps the table so hard the ale jumps. "I will do it," he says. The drovers cheer, without knowing why. Years later, Nentres's son is one of the king's most loyal knights.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You suggest the king free Nentres and trust in his gratitude. Arthur nods slowly. The next spring, Nentres rides out of Garlot with a thousand men. When you next see Arthur, he does not blame you, which is somehow worse. "Mercy is not a plan," he says. "I should have known that." You resolve to think harder before you advise a king.
+[sk:Wisdom | st:+Despairing]
+?? speak for mercy with all your heart | Piety | 4
+++ You speak of the oath the king made at Pentecost: mercy to any who ask it. "Has Nentres asked?" says Arthur. "He will," you say, "if you give him the chance." Arthur is silent for a long moment. Then he nods. "Then I will go to Carleon myself and give him the chance." He pays for everyone's ale, including the drovers', and leaves at a gallop. The alewife asks who he was. You tell her he was a wool merchant.
+[d:3 | sk:Spiritual | rn:Divinity+1]
+-- You speak of the oath the king made at Pentecost. "Mercy to any who ask it," says Arthur. "Nentres has not asked. He has cursed my name every day he has been in that cell." He finishes his ale. "I will think on it." You never learn what he decided, and the not knowing gnaws at you.
+[sk:Piety]
+
+=== k12b
+"Hang him, my lord," you say, "or the next king who rebels will know he risks nothing." Arthur grimaces, but he nods. "Kay says the same. So does Merlin, though Merlin says it more politely."
+?? argue for justice before the king and his drovers | Diplomacy | 4
+++ The drovers join in. They have lost cattle to Nentres's raids, and a brother, and a barn. By the end of the evening Arthur knows exactly what the rebellion cost the people who never saw a battlefield. "Then he will not hang," the king says at last, "but he will pay. Every cow, every barn." It is not quite what you asked for, but it is justice, and the drovers carry you home on their shoulders.
+[d:3 | sk:Courtly | rn:Any+1]
+-- The drovers turn on you. They want the war over, not another hanging, and they think a hanged king means another rebellion from his sons. By the end of the evening you have been shouted down by an ox-driver, and Arthur is laughing at you both. "You see?" he says. "Eleven answers." You leave with your ears ringing.
+[sk:Diplomacy]
+
+=== k12c
+Arthur leans back against the wall. "Because I was a nobody until I was fifteen," he says. "Sir Ector's foster-son. I mucked out stables. I fetched Kay's sword. I was sent back for it once and could not find it, and I took the first sword I saw, and that was the one in the stone." He grins. "Everyone kneels now. Nobody tells me anything. So once a month I put on this cloak and come here, and a man called Hob tells me his taxes are a disgrace, and I go home and lower them." He points across the room. "That is Hob. Buy him an ale. He has earned it." You do, and spend a merry evening learning more about the cattle trade than you ever wanted to know.
+[d:1 | sk:Diplomacy | rn:Any+1]
+
+=== 1013
+You come upon a hall hung with a great mantle of fur, trimmed all along its edge with human beards, black, red, brown and grey. Beneath it, on a carved throne, sits a big, black-bearded king eating a leg of mutton.
+
+"Admiring my mantle?" he asks, with his mouth full. "I am Rience of North Wales. Every king I have beaten has given me his beard for the trim. Eleven so far." He points to a gap at the end. "There is room for one more. I want Arthur's. He does not have much of one yet, but it will be a curiosity." He tosses the mutton bone to a hound and leans forward. "I will pay you its weight in gold, knight. Its weight in gold. How you get it is your affair."
+
+> You may accept King Rience's commission, and plan to bring him a beard. -> k13a
+> You may refuse King Rience and challenge him for the insult to the High King. -> k13b
+
+=== k13a
+"A beard for gold," you say. "Agreed." Rience roars with delight. You ride away with a purse of expenses and a plan that becomes more foolish the more you think about it.
+?? deliver the king a beard that is not Arthur's | Cunning | 5
+++ In a village three days away you find a goatherd with a magnificent red beard and pay him a silver penny for it. You bring it back to Rience, wrapped in a silk cloth, and describe at length how you crept into the king's chamber. Rience weighs it on a scale, pays you in gold, and sews it onto his mantle himself. When word reaches Camelot, Arthur laughs so hard he has to be helped from the table. "My beard is brown," he says, "but let him have it."
+[d:4 | sk:Courtly | rn:Villainy+1 | tr:1]
+-- In a village three days away you find a goatherd with a magnificent red beard and pay him a silver penny for it. You bring it back to Rience, who holds it up to the light and then to his nose. "This," he says, "smells of goat." His guards throw you down his front steps, and Rience keeps your purse. You resolve to wash your forgeries next time.
+[sk:Cunning | st:+Wounded]
+?? steal into Camelot and cut a lock of the king's own beard | Hunting | 6
+++ You climb the kitchen wall at Camelot on a moonless night and creep up to the royal chamber past a sleeping page. Arthur sleeps on his back, snoring. You cut a single lock from his chin with your knife and slip away. Rience pays you its weight in gold, which is very little gold, and sews it onto his mantle in pride of place. You never tell anyone, and Arthur never notices. But from then on you cannot look him in the eye.
+[d:5 | sk:Wilderness | rn:Villainy+2 | tr:1]
+-- You climb the kitchen wall at Camelot on a moonless night. Halfway up, a hand closes on your ankle. It belongs to Sir Kay, who is out raiding the larder. "Well, well," says Kay. By dawn you are in the king's own dungeon, explaining yourself. Arthur, when he hears the story, laughs until he cries, and then leaves you there for a week anyway.
+[sk:Hunting | st:+Imprisoned | rn:Villainy+1]
+
+=== k13b
+You throw the purse back at his feet. "The High King's beard is not for sale," you say, "and neither am I." Rience stands up slowly. He is taller than you thought. "Then I will add yours," he says, "to the collection."
+?? fight King Rience in his own hall | Sword & Shield | 5
+++ Rience fights like a bear, all weight and fury, and his first blow splits your shield to the boss. But he is slow, and he has eaten a great deal of mutton. You wear him out round the long table, dodging, until he stops to breathe, and then you put your sword to his throat. He yields with bad grace. "Take the mantle, then," he snarls. You take it. At Camelot, the eleven beards are returned to eleven very grateful kings.
+[d:4 | sk:Martial | rn:Romance+2 | tr:1]
+-- Rience fights like a bear, all weight and fury, and his first blow splits your shield to the boss. His second knocks you under the table. When you wake up, you are in the road outside, and your chin is sore. Your hand goes to it. You have been shaved, very badly, with a dagger. You ride away sure of only one thing: you will not be the twelfth beard on that mantle.
+[sk:Sword & Shield | st:+Wounded | st:+Enraged]
+
+=== 1015
+You come upon a king sitting under an oak tree in the middle of the forest, with his crown in his lap and his boots off, soaking his feet in a stream. He is round, rosy and very cheerful.
+
+"Hello!" he says. "Clariance, King of Northumberland. I have lost my army." He waves a hand vaguely at the trees. "Four hundred men. We were marching to join the High King against the Saxons, and I went ahead to look for a place to camp, and when I came back they had gone. Or I had. It is hard to say, in a forest." He wriggles his toes. "I am sure they are looking for me. I have the pay chest." He pats a small iron box beside him. "I should very much like to find them before the Saxons do."
+
+> You may help King Clariance find his lost army. -> k15a
+> You may lead King Clariance into an ambush and take the pay chest. -> k15b
+
+=== k15a
+"We will find them, my lord," you say. Clariance puts his boots on the wrong feet and cheerfully climbs onto his horse. "Splendid! Which way?"
+?? read the forest and follow the army's trail | Nature Lore | 3+L
+++ Four hundred men leave a great many signs. You find trampled bracken, broken branches and the remains of a very large breakfast. By noon you can hear them: four hundred Northumbrians, all shouting "Clariance!" in different directions. The king rides into the middle of them beaming. "There you all are," he says. "I have been looking everywhere." His captain looks at you with heartfelt gratitude and gives you a fine hunting horn.
+[d:L | sk:Wilderness | rn:Any+1 | tr:1]
+-- Four hundred men should leave a great many signs, but the forest floor has been churned by wild pigs, and you follow the wrong trail for a day. You come out on a hillside just in time to see the Northumbrians marching away on the far side of the valley. Clariance waves happily at them. They do not see him. You spend another two days catching them up, and the king talks the whole way.
+[sk:Nature Lore | st:+Lost]
+?? take command of the search as the army's captain would | Warfare | 4
+++ You climb the tallest oak and look for smoke. When you see it, you blow three long blasts on your horn, the signal every army in Britain uses to rally. Within the hour, a troop of Northumbrian horsemen comes crashing through the undergrowth, swords drawn. Clariance is so pleased he makes you an honorary captain of his army, and his men give you a cheer that sends every bird in the forest into the air.
+[d:3 | sk:Martial | rn:Romance+1]
+-- You climb the tallest oak and look for smoke. You see it, and blow three long blasts on your horn. Within the hour, horsemen come crashing through the undergrowth, swords drawn. Unfortunately, they are Saxons. You and the king escape by hiding in the stream, up to your necks, while they search the bank. By the time they leave, you are both very cold and very quiet.
+[sk:Warfare | st:+Pursued]
+
+=== k15b
+"This way, my lord," you say, and turn your horse toward the part of the forest where you know outlaws camp. Clariance follows, humming.
+?? lead the king into the outlaws' hands and take the chest | Cunning | 4
+++ The outlaws are waiting in a hollow. You tell them the king is worth a ransom and the chest is yours. They agree to the split. By nightfall, Clariance is in a cage chattering happily to his captors, and you are riding away with a heavy iron box on your saddle. You never hear what became of the king. Some say he talked the outlaws into joining his army. You try not to think about it.
+[d:5 | tr:2 | rn:Villainy+2]
+-- The outlaws are waiting in a hollow. You tell them the king is worth a ransom and the chest is yours. The outlaw chief grins. "Why share?" he asks, and his men close in on you too. By nightfall you and Clariance are in the same cage. The king seems pleased to have company. It is three days before his army finds you both, and by then you have heard every story he knows.
+[sk:Cunning | st:+Imprisoned | rn:Villainy+1]
+
+=== 1020
+You come upon a crowd outside the walls of Carleon, gathered around a gallows. A king stands on the cart beneath it, with his hands tied and a rope already around his neck. He is a lean, hawk-faced man, and he is laughing at the hangman.
+
+"Nentres of Garlot," a woman in the crowd tells you. "He rode with King Lot against the High King. The High King is away in the north and left orders. At noon, they hang him."
+
+The king catches your eye across the crowd. "You!" he calls. "You have an honest face. Do you think a man should hang for fighting for his own country? I lost. That is my crime. If I had won, I would be the one with the rope." His men-at-arms, bound in a line behind the cart, murmur agreement. The sheriff, a fat man with a staff, looks nervous. The sun is climbing.
+
+> You may speak for King Nentres before the sheriff and demand a delay. -> k20a
+> You may cut King Nentres loose and help him escape. -> k20b
+> You may hear the king's last confession before he hangs. -> k20c
+
+=== k20a
+You push your horse through the crowd to the foot of the cart. "Sheriff," you say, "the High King swore to give mercy to any who ask it. Has anyone asked?"
+?? argue that the High King must hear the case himself | Diplomacy | 5
+++ The sheriff sweats. You speak of the king's oath, of the king's honour, and of what the king will say if he returns to find a fellow king hanged in his absence without a hearing. The crowd begins to murmur. At last the sheriff gives way and orders the rope taken off. "Three days," he says. "If the High King does not send word in three days, I hang him and you with him." Word comes on the second day: Nentres is to be spared. The captive king shakes your hand. "I owe you a life," he says.
+[d:4 | sk:Courtly | rn:Divinity+2]
+-- The sheriff sweats. You speak of the king's oath and the king's honour, but Nentres interrupts to call the sheriff a fat coward, and the crowd laughs, and the sheriff's face sets like stone. "Noon," he says. They hang Nentres at noon. He dies laughing. You ride away without looking back, and the laugh stays with you.
+[sk:Diplomacy | st:+Despairing]
+?? invoke the High King's law to stay the hanging | Honor | 4
+++ You draw your sword, reverse it and hold it up like a cross. "I claim the right of any knight of Logres," you say, "to stand surety for a prisoner until his king returns. If he runs, hang me." The crowd goes silent. The sheriff has never heard of any such right, but he has never heard of it not existing either. He takes the rope off Nentres and puts it around your wrist instead. Nentres does not run. When the High King returns, he hears the story and pardons you both.
+[d:3 | sk:Courtly | rn:Romance+1 | rn:Divinity+1]
+-- You draw your sword, reverse it and hold it up like a cross. "I claim the right of any knight of Logres to stand surety for a prisoner." The sheriff consults a clerk, who consults a book, who finds no such right. They take you into custody for disturbing the king's peace. Nentres hangs at noon while you watch from the gaol window. You learn, too late, that fine words need a law behind them.
+[sk:Honor | st:+Imprisoned]
+
+=== k20b
+You catch Nentres's eye and nod toward your saddle. He understands at once. When the sheriff turns to read the sentence, you spur your horse at the cart.
+?? cut him down and ride for the forest with him | Mounted | 3+L
+++ Your sword severs the rope as you pass. Nentres drops onto your horse's rump like a sack of meal, and you are through the crowd and away before the sheriff has finished his sentence. You ride hard for the forest with arrows humming after you. That night, by a small fire, Nentres gives you a gold ring from his own hand. "Garlot remembers its friends," he says. "And its enemies. Arthur will not forget this." He rides north at dawn.
+[d:L | sk:Martial | rn:Villainy+2 | tr:1 | st:+Pursued]
+-- Your sword severs the rope as you pass, but Nentres, with his hands tied, cannot grab hold. He falls between your horse's hooves, and the sheriff's men are on you both before you can turn. You spend the night in the gaol at Carleon. Nentres hangs at noon the next day, and they make you watch.
+[sk:Mounted | st:+Imprisoned | rn:Villainy+1]
+
+=== k20c
+You climb onto the cart. The hangman lets you. Nentres raises an eyebrow. "A priest in armour," he says. "Well. Why not."
+
+He tells you of battles he won and lost, of a wife in Garlot who is King Lot's sister-in-law, and of a son he has not seen in two years. He tells you that he burned a church at Caerwent in the war, with no one in it, and has been sorry ever since. At the end he asks you to carry his ring to his son and tell the boy to keep the peace. At noon, they hang him. He does not laugh at the end.
+
+The ring is heavy in your pocket all the way to Garlot. When you give it to the boy, he looks at you with his father's eyes and says nothing at all.
+[d:2 | sk:Piety | rn:Divinity+1]

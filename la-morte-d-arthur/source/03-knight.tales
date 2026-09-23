@@ -1,0 +1,359 @@
+=== 1201
+As you come down to a ford, a lanky knight in battered armour hails you from the bank, where he sits eating an apple with his helmet beside him. He has a long, clever face and a nose that has been broken at least twice.
+
+"Stop!" he calls. "Before you cross, hear me. I am Dinadan, and I am here to save your life." He points the apple across the river, where a huge knight in black armour sits a huge black horse beside a tree hung with shields. "That is Sir Tarquin. He has sworn to fight every knight of Arthur's court who crosses this ford. He has sixty-four of them in his dungeon. Their shields are on that tree." He takes another bite. "I have been sitting here for two days, thinking of reasons not to cross. I have forty. Would you like to hear them? Or I have a plan. It is not a good plan, but it is better than being shield sixty-five."
+
+> You may cross the ford and challenge Sir Tarquin. -> n01a
+> You may join Sir Dinadan's plan to trick Sir Tarquin. -> n01b
+
+=== n01a
+"I thank you for your counsel," you say, and lower your visor. Dinadan sighs. "They all say that," he says. "Shall I hold your purse? For your heirs?" You ride into the ford. On the far side, Tarquin laughs and levels his lance.
+?? joust with Sir Tarquin in the ford | Mounted | 6
+++ Tarquin's lance is as thick as a young tree, but his horse labours in the ford, and you meet him before he has his speed. Your lance takes him on the helm. He sways, and you ride on and turn and come again, and the second time he goes into the water. He yields in a great spray of mud and curses. The sixty-four knights are released from his dungeon that evening, and every one of them insists on buying you wine. Dinadan comes over the ford at last. "I would have done that," he says, "on the forty-first reason."
+[d:5 | sk:Martial | rn:Romance+2 | st:+Esteemed]
+-- Tarquin's lance is as thick as a young tree. It takes you on the shield and throws you over your horse's tail into the river, and the current rolls you downstream. Dinadan fishes you out with a branch a quarter-mile below. "Shield sixty-five," he says sadly, and points: Tarquin is hanging it on the tree.
+[sk:Mounted | st:+Unhorsed]
+?? fight Sir Tarquin on foot in the river | Sword & Shield | 5
+++ You dismount in midstream, and so, with a snort of contempt, does Tarquin. In the water his great weight is against him. The current drags at his legs, and every blow he swings nearly takes him off his feet. You keep him turning until he is gasping, then strike his sword from his hand. The dungeon is opened by nightfall. Dinadan wades across and shakes your hand. "Remarkable," he says. "Do not do it again."
+[d:4 | sk:Martial | rn:Any+2]
+-- You dismount in midstream, and so, with a snort of contempt, does Tarquin. He is stronger than any man you have ever fought, and the first blow of his sword beats your shield down onto your own head. When you wake, you are lying on the bank beside Dinadan. "He threw you back," he says. "He says you are too small to keep."
+[sk:Sword & Shield | st:+Wounded | st:+Scorned]
+
+=== n01b
+"Tell me your plan," you say. Dinadan brightens. "It is very simple. Tarquin hates one knight above all others: the queen's champion of the house of Benwick, who is not here. So one of us rides up in that knight's colours, blue and white, and challenges him, and when he charges, the other one lets his horse out of the paddock. A man cannot joust without a horse."
+?? play your part in Dinadan's trick | Cunning | 4
+++ Dinadan borrows a blue and white surcoat from somewhere and rides up to the ford, trumpeting like a herald. Tarquin roars and charges straight into the river, and you slip round behind the paddock and loose every horse he owns. Tarquin's charger, hearing its fellows, turns in midstream and bolts after them. Tarquin is left sitting in the ford up to his waist, bellowing. You and Dinadan open the dungeon while he is still catching horses. "Chivalry," says Dinadan, "is overrated."
+[d:3 | sk:Courtly | rn:Any+1 | rn:Villainy+1]
+-- Dinadan borrows a blue and white surcoat and rides up to the ford, trumpeting like a herald. Tarquin looks at him for a long moment and bursts out laughing. "I know that knight," he calls, "and he is a head taller." Meanwhile, the paddock has a guard you did not see, and you are marched across the ford at spear-point. Dinadan escapes, still apologising.
+[sk:Cunning | st:+Imprisoned]
+
+=== 1202
+You come upon a knight lying on his back in the grass outside a castle wall, staring at the sky. His horse grazes nearby, and his armour is rusted where the dew has been at it for many nights.
+
+"Go away," he says, before you can speak. "Or stay, if you like. I am Pelleas. I love the Lady Ettarde, who lives in that castle. I won the golden circlet for her at the tournament at Carlisle, and she gave it to another lady out of spite. I have lain here every night since, in the hope that she will look out of her window." He smiles faintly. "She does, sometimes. She sends her knights out to beat me. I let them. It is something." A shutter opens high above, a pale face looks down, and the shutter slams.
+
+> You may go into the castle and plead Sir Pelleas's case to Lady Ettarde. -> n02a
+> You may shake Sir Pelleas out of his misery and take him away from here. -> n02b
+> * You may go into the castle and court Lady Ettarde for yourself. -> n02c
+
+=== n02a
+You ride to the castle gate and ask to see the Lady Ettarde. She receives you in her hall with her ladies about her. She is very lovely and very bored. "Pelleas," she says, before you can speak. "You have come about Pelleas. Everyone does."
+?? speak for Pelleas with honesty and grace | Honor | 6
+++ You do not praise Pelleas. You tell her plainly that he is a fool, and that he has lain in the wet grass for a month for her sake, and that most ladies go their whole lives without being loved so badly. Ettarde laughs, despite herself. "So badly," she repeats. She goes to the window and looks down at him for a long time. "Tell him," she says at last, "that he may come to supper. Once. And if he brings that circlet back, I may wear it." You are not sure that you have done Pelleas a kindness. He is sure.
+[d:4 | sk:Courtly | rn:Romance+2]
+-- You praise Pelleas's courage and his skill and his devotion, and with every word Ettarde's lip curls further. "If he is so fine," she says, "why does he need a stranger to say so?" Her knights escort you out, and that night they beat Pelleas harder than ever.
+[sk:Honor | st:+Scorned]
+
+=== n02b
+You haul Pelleas to his feet by his surcoat. "Enough," you say. "There are other windows in Britain."
+?? rouse Pelleas from his despair | Piety | 4
+++ You sit him down by a fire and make him eat, then you make him pray with you, for the first time in a month. Afterwards he stares into the flames. "I have been praying to a window," he says. By morning, he has scrubbed the rust from his armour. He rides away east with you as far as the crossroads, and there he grips your hand. "If I hear of you in need," he says, "I will come." You hear later that he has married a lady of the Lake, and is happy.
+[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+-- You sit him down by a fire and make him eat. But as dawn breaks, the shutter opens above, and a pale face looks down, and Pelleas is on his feet and back at the wall before you can stop him. You leave him there. You cannot save a man who does not want to be saved.
+[sk:Piety]
+?? drag him away by main force | Endure Hardship | 3+L
+++ Pelleas will not come, so you tie him across his own saddle like a sack of flour and lead his horse away. He curses you for ten miles, weeps for another five, and falls asleep. In the morning, he is quieter. "I am hungry," he says, surprised. "I have not been hungry in a month." He leaves you at the next town with a gruff thanks and his best spurs.
+[d:L | sk:Wilderness | rn:Any+1]
+-- Pelleas will not come, so you try to tie him across his own saddle. He fights like a wildcat, and Ettarde's knights come out to see what the noise is. When they see you trying to carry off their lady's favourite nuisance, they beat you both impartially.
+[sk:Endure Hardship | st:+Wounded]
+
+=== n02c
+You ride to the castle gate and ask to see the Lady Ettarde. She receives you with a spark of interest. "You are not here for Pelleas," she says, "are you?"
+??* court Lady Ettarde | Romance | 4
+++ You tell her of your deeds and your loves, and she listens, and laughs, and asks you to stay. By the third day, you are sure she loves you. On the fourth, you look out of her window and see Pelleas lying in the grass below, looking up. He sees you. He does not move. The next morning he is gone, and his circlet lies on the grass. You have won the lady, and you have done something that you will not boast of.
+[d:4 | rn:Romance+1 | rn:Villainy+1 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
+~~2 You tell her of your deeds, and she listens with half an ear. "Pelleas has done more for me," she says, "and I do not want him either." She sends you away with a cup of wine and a yawn.
+[d:1 | rn:Romance+1]
+-- You tell her of your deeds, and she laughs in your face. "Come back when you have lain in the grass for a month," she says.
+[st:+Smitten]
+
+=== 1203
+At a crossroads in a dark wood you come upon a knight kneeling in the road, praying aloud with his eyes squeezed shut. He is a broad, plain-faced man in grey, and he is counting on his fingers as he prays. "Seven. Eight," he mutters. "Lord, show me. Nine."
+
+He opens his eyes as you ride up. "Thank God," he says. "I am Bors of Ganis. Look." He points down the left-hand road, where two knights are dragging a bound man along behind their horses and beating him with thorn branches. "That is my brother Lionel." He points down the right-hand road, where a knight on a grey horse is carrying off a struggling maiden, who is screaming for help. "And that is a lady who needs me. I cannot save both. I have been praying for a sign. I think you are the sign." He gets up. "Choose. I will take the other."
+
+> You may ride to rescue Sir Lionel from his captors. -> n03a
+> You may ride to rescue the maiden from the knight on the grey horse. -> n03b
+
+=== n03a
+"Your brother," you say. Bors closes his eyes for a moment. "God keep him," he says, and wheels his horse toward the maiden. You ride hard down the left-hand road.
+?? charge the two knights and free Sir Lionel | Mounted | 5
+++ You come on them in a clearing and ride straight through them, scattering them into the bracken. Lionel is bruised and bloody and half-conscious, but alive. When he can speak, he asks where his brother is. You tell him. Lionel's face darkens. "He left me," he says, "for a stranger." You get him home, and Bors comes back that evening with the maiden safe. The two brothers do not speak. But Lionel lives, and the maiden lives, and that is two more than the crossroads meant to allow.
+[d:4 | sk:Martial | rn:Divinity/Romance+2]
+-- You come on them in a clearing and charge, but your horse stumbles on a root, and you go down in the bracken. By the time you are up, the two knights have gone, and Lionel with them. You follow their track until it is dark and lose it in a stream. When you find Bors, he has saved the maiden. He looks at your face and asks nothing.
+[sk:Mounted | st:+Despairing]
+?? track them into the wood and free Lionel by stealth | Hunting | 3+L
+++ You follow the trail of broken thorn to a charcoal-burner's hut, where the two knights have tied Lionel to a post and are arguing over his ransom. You wait until they are drunk, cut through the back wall of the hut with your dagger, and bring Lionel out on your shoulder. When Bors comes to find you, the brothers embrace. "God sent you," says Bors, and Lionel, for once, does not argue.
+[d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+-- You follow the trail of broken thorn to a charcoal-burner's hut. But the two knights have left a man on watch, and he sees you coming. You fight him, but by the time he is down, the other two have fled with their prisoner into the dark. You resolve to watch a camp longer before you go in.
+[sk:Hunting | st:+Pursued]
+
+=== n03b
+"The lady," you say. "Your brother would want you to save him." Bors nods once, hard, and spurs away to the left. You ride after the grey horse.
+?? catch the knight on the grey horse and fight him | Sword & Shield | 5
+++ The grey horse is carrying two, and you catch it in a quarter-mile. The knight drops the maiden in the road and turns on you, and you fight him on foot among the roots until he flees. The maiden, whose name is Elyn, is the daughter of a lord who swore allegiance to Arthur that morning. Her father embraces you both. When you meet Bors again, he has Lionel, bruised but alive, and his face is shining. "Twice," he says. "Twice today, God answered."
+[d:4 | sk:Martial | rn:Divinity/Romance+2]
+-- The grey horse is carrying two, and you catch it quickly. But its rider is a far better swordsman than you expected. He cuts you twice before you can find your guard, and rides away with the maiden while you bind your wounds. You find Bors at nightfall, with his brother on the saddle behind him. You tell him you failed. "No," says Bors. "You tried. So did I."
+[sk:Sword & Shield | st:+Wounded]
+?? call on the knight to release the lady for shame | Piety | 5
+++ You catch up with the grey horse and ride alongside it. "Put her down," you say, "in God's name, or answer for it at the Judgement." The knight laughs, but then he looks at you, and something in your face stops the laugh. He sets the maiden on the road and rides away without a word. The maiden, whose name is Elyn, walks home with you, holding your stirrup. She tells you, later, that the knight took the cross the following spring.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You catch up with the grey horse and ride alongside it. "Put her down, in God's name." The knight laughs and strikes you across the face with his gauntlet. Before you have your sword out, he is gone into the trees. You search until night, and do not find the lady.
+[sk:Piety | st:+Despairing]
+
+=== 1204
+As you ride down a wide green ride in the forest, you hear hoofbeats behind you, very heavy and very slow. A knight overtakes you on a horse the colour of beech leaves in May. The knight is green too: green hair, green beard, green skin, and a coat of green silk embroidered with birds. He carries no shield, only a holly branch in one hand and a great axe in the other.
+
+"Good day," he says pleasantly. His voice is deep and courteous. "I am looking for sport. Not a joust. I have no taste for jousting. A game." He holds out the axe, handle first. "Strike me one blow with this, as hard as you like, and I will not raise a hand to stop it. In return, you will let me strike you one blow in a year and a day, at my chapel in the north. That is all. Is there any knight in this country who has the courage to play?"
+
+> You may take the axe and play the Green Knight's game. -> n04a
+> You may refuse the game and demand to know who the Green Knight is. -> n04b
+
+=== n04a
+You take the axe. It is beautifully balanced and very sharp. The Green Knight dismounts, kneels, and lifts his green hair from his neck. "When you are ready," he says.
+[tok:14]
+?? strike the Green Knight's blow | Endure Hardship | 4
+++ You swing with all your strength. The axe goes clean through his neck, and his head rolls in the grass. You stand staring at it. Then the body gets up, walks over, picks up the head by its hair, and climbs back into the saddle. The head opens its eyes. "A good blow," it says. "A year and a day. The Green Chapel. Do not forget." The Green Knight rides away with his head under his arm, whistling. You notice your hands are steady, and you are proud of that.
+[d:3 | sk:Wilderness | rn:Any+1 | st:+Determined]
+-- You swing with all your strength, but your hands are shaking. The axe bites deep, and the head rolls in the grass. Then the body gets up and picks up the head, and it opens its eyes and looks at you. You drop the axe. The head laughs. "A year and a day," it says. "Try not to shake like that at the chapel." You ride away, and for many nights you dream of green.
+[sk:Endure Hardship | st:+Doomed]
+
+=== n04b
+"First tell me who you are," you say, "and what chapel you keep." The Green Knight tilts his head. "A reasonable question," he says, "and an unreasonable time to ask it."
+?? see through the Green Knight's enchantment | Magic | 5
+++ You look at him closely. The green is not paint. It runs through him the way sap runs through a tree. "You are no man," you say, "but you are no devil either. You are the old wood itself, testing whoever walks through it." The Green Knight laughs, a sound like wind in a whole forest. "Near enough," he says. "You have passed a better test than the axe." He gives you his holly branch, which never withers, and rides away.
+[d:3 | sk:Spiritual | rn:Divinity+1 | tr:1]
+-- You look at him closely, trying to see what he is. The Green Knight looks back at you. After a moment you realise that you cannot remember why you wanted to know, or where you were riding, or which way the road runs. When you come to your senses, he is gone, and the ride has disappeared, and you are deep in a wood you do not know.
+[sk:Magic | st:+Lost]
+?? refuse him with courtesy and hold your ground | Honor | 4
+++ "I will not play a game whose rules I do not know," you say, "but I will not run from you either. If you want a fight, you shall have one, fairly, today." The Green Knight looks at you for a long while. Then he smiles. "Courtesy and caution in one knight," he says. "I have not met that often." He bows from the saddle and rides away. That night, at the inn, you find a green silk purse in your saddlebag, full of silver.
+[d:2 | sk:Courtly | rn:Romance+1 | tr:1]
+-- "I will not play a game whose rules I do not know," you say. The Green Knight sighs. "Then you are not the knight I was told of," he says, loudly enough for the woodcutters at the edge of the ride to hear. They are laughing as he goes. By the next town the story has arrived before you: the knight who would not take the axe.
+[sk:Honor | st:+Scorned]
+
+=== 1205
+You come upon a knight in the courtyard of an inn, pacing up and down with a scrap of parchment. He is tall, sharp-nosed and cross-looking, and you recognise him at once as Sir Kay, the High King's seneschal.
+
+"Ah," he says. "You. You will do. You have a courtly look." He thrusts the parchment at you. "I am in love. With Nest, who does the laundry at Camelot. She has arms like a blacksmith and a laugh like a horse and she is the only person at court who does not flinch when I speak. I have written her a poem." He looks at it with disgust. "It is terrible. You will read it to her and tell her it is good. If you laugh," he adds, "I will have you put on latrine duty until Michaelmas."
+
+The poem begins: *O Nest, thou art as white as linen, and as starch'd.*
+
+> You may help Sir Kay win the heart of Nest the laundress. -> n05a
+> You may play a prank on Sir Kay with his own poem. -> n05b
+> * You may court Nest the laundress yourself. -> n05c
+
+=== n05a
+"I will do what I can," you say. Kay looks at you suspiciously, as he looks at everything. "Nothing clever," he says. "She hates clever."
+?? read the poem to Nest, and speak well of Sir Kay | Honor | 5
+++ You find Nest at the wash-house with her sleeves rolled up. You read the poem with a straight face, which takes every ounce of your courage. Then you tell her what you have seen of Kay: that he is sharp because he is afraid of looking foolish, that he has never missed a day's duty in twenty years, and that he rewrote this poem eleven times. Nest laughs her horse's laugh until she has to sit on the mangle. "Tell him," she says, "he may take me to the Lammas fair. And he may leave the poem at home." Kay, told this, turns bright red and says nothing at all for an hour.
+[d:3 | sk:Courtly | rn:Romance+2]
+-- You find Nest at the wash-house and read her the poem. At *starch'd*, your voice cracks, and you have to stop, and she sees your face. "Is this a joke?" she asks. You swear it is not, but she has seen the laugh in your eyes. When Kay hears that Nest threw the poem in the copper, he is quite sure whose fault it is. You spend a fortnight on latrine duty.
+[sk:Honor | st:+Scorned]
+
+=== n05b
+You fold the poem carefully. "I will see it reaches the right hands," you say. As soon as Kay has gone, you head for the great hall, where Sir Dinadan is holding court among the young knights.
+?? have the poem read aloud at the high table | Cunning | 4
+++ Dinadan sets the poem to the tune of a drinking song, and at supper he sings it before the whole court, with the young knights joining in on the chorus: *as starch'd, as starch'd*. Kay goes purple. The High King laughs until he cries. Then Nest the laundress stands up at the back of the hall, and walks the whole length of it, and kisses Kay full on the mouth in front of everybody. "That," she says, "was the best poem anyone ever wrote me." The court is silent. Kay is speechless. You are not sure whether the joke is on him or on you.
+[d:3 | sk:Courtly | rn:Villainy+1 | rn:Romance+1]
+-- Dinadan sets the poem to the tune of a drinking song, but he has had too much wine before supper, and when he stands up to sing, he points at you and announces that you wrote it. The court roars. Nest the laundress stands up at the back of the hall and says loudly that it is the worst poem she has ever heard, and that she would not walk out with its author for a sack of silver. Kay laughs at you for a month.
+[sk:Cunning | st:+Scorned]
+
+=== n05c
+You go to the wash-house to deliver the poem. Nest looks up from her tub, blows a wisp of hair out of her eyes and grins at you. "Who are you, then?" she asks.
+??* court Nest the laundress | Honor | 4
+++ You never do read her the poem. You roll up your sleeves and help her wring out the High King's shirts instead, which makes her laugh, and by the end of the afternoon you are good friends and possibly more. Kay finds out within the week. He is too proud to be angry. He only says, "Well. She always did have poor taste," and goes to bed early. You feel badly about Kay. You feel less badly about Nest.
+[d:3 | sk:Courtly | rn:Romance+1 | rn:Villainy+1 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
+-- You never read her the poem. Instead you tell her that she is as lovely as the dawn. Nest looks at you with pity. "Sir Kay," she says, "wrote me a poem this morning. It was terrible. You are worse." She turns back to her tub.
+[sk:Honor | st:+Smitten]
+
+=== 1207
+You come upon a knight crouched beside a stream, drinking from it with his face in the water, like a dog. He is naked but for a torn shirt, and very hairy, and when he raises his head you see his eyes are yellow.
+
+He bares his teeth at you, then seems to remember himself. He stands up, and bows, very correctly. "Forgive me," he says hoarsely. "I am Sir Marrok. I was a knight of the Round Table, seven years ago, before my wife stole my clothes." His hands shake. "I am a werewolf, you understand. When I take off my clothes, I become a wolf, and I cannot come back until I put them on again. She knew. She hid them. She married my steward." He laughs, and it turns into a howl, and he stops it. "A priest found my clothes last week and I am a man again. Mostly. And I am going home to my wife."
+
+> You may go with Sir Marrok to confront his faithless wife. -> n07a
+> You may try to restrain Sir Marrok and find a cure for what is left of the wolf in him. -> n07b
+
+=== n07a
+"I will come with you," you say, "and see that justice is done, and nothing more." Marrok looks at you with his yellow eyes. "Justice," he says. "Yes." His manor is a day's walk away, and he will not ride, because horses will not carry him.
+?? see that Marrok's wife faces justice before the lord of the manor | Diplomacy | 5
+++ At the manor, the steward goes white as milk, and the lady drops her cup. You make Marrok wait outside while you go to the lord of the shire and lay out the whole thing before him, slowly and plainly. The lady is stripped of the manor and sent to a convent; the steward is exiled. Marrok walks in through his own front door for the first time in seven years. He sits by his own fire and weeps. Then he bows to you, very correctly. "You kept me a man," he says.
+[d:4 | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+-- At the manor, the steward goes white as milk, and the lady drops her cup. Before you can speak, Marrok is across the room. You pull him off the steward, but not before the man's arm is broken, and the lady has fled screaming into the night. The shire reeve arrives in the morning and takes Marrok away in chains. He goes quietly.
+[sk:Diplomacy | st:+Despairing]
+?? stand between Marrok and his wife when the wolf rises | Sword & Shield | 4
+++ At the manor, the lady screams, and Marrok's lips pull back from his teeth. You step between them, sword drawn. "Marrok," you say. "You are a knight." He stops. He shakes. After a long moment, he straightens. "I am a knight," he says. He turns his back on his wife and her steward and asks for his old sword and his old horse. When he rides away, the horse carries him, for the first time in seven years. He takes you with him as far as Camelot, and there he tells the High King you saved his soul.
+[d:4 | sk:Martial | rn:Divinity+2]
+-- At the manor, the lady screams, and Marrok leaps. You step between them. Marrok's teeth close on your forearm, and there is a long moment when he does not let go. Then he does, and flees howling into the dark. You bind your arm. It aches at every full moon, afterwards.
+[sk:Sword & Shield | st:+Wounded | st:+Accursed]
+
+=== n07b
+"You are not ready to go home," you say gently. "Not yet." Marrok growls, but he does not attack you. You think, perhaps, he knows you are right.
+?? draw the last of the wolf out of him | Magic | 5
+++ You build a fire of rowan wood and sit with him through a long night, burning dock leaves and speaking the old words over him that a wise woman once taught you. Toward dawn he shudders violently, and something grey and shadowy slips out of him and runs away into the trees. Marrok's eyes are brown. He weeps for a long while. Then he says, "I think I will not go home after all. I think I will go to the Round Table instead," and he does.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- You build a fire of rowan wood and sit with him through a long night, speaking the old words over him. Toward dawn he shudders violently, and something grey and shadowy slips out of him and runs straight into you. You spend the next three days snarling at your own horse. Marrok, now fully a man, nurses you through it, and is very apologetic.
+[sk:Magic | st:+Beast Form]
+?? keep him in the woods until he is himself | Nature Lore | 3+L
+++ You camp with him in the woods for a week. You hunt together, and he is a better hunter than you. You cook the meat, and after the first day, he eats it cooked. By the end of the week he no longer drinks from streams, and his eyes have faded from yellow to hazel. "I am ready," he says. When he goes home, he does not break down the door. He knocks.
+[d:L | sk:Wilderness | rn:Divinity+1]
+-- You camp with him in the woods for a week. On the fourth night the moon is full, and Marrok is gone when you wake. You follow his tracks to his manor, and from a distance you hear the screaming. You ride away without learning how it ended.
+[sk:Nature Lore | st:+Despairing]
+
+=== 1210
+You come upon a knight in the colours of Orkney, sharpening his sword at a crossroads with long, angry strokes. He is lean and dark, with his family's hard grey eyes. You recognise Sir Gaheris.
+
+If you have Story Token #18, turn immediately to [[n10x]].
+
+"Have you seen Sir Lamorak?" he asks. "Big man. Laughs too much." He tests the edge with his thumb. "He has been visiting my mother. My mother, a queen, a widow, a grandmother. He has shamed our house before all Britain. My brother Agravain has written it down on his list, and my brothers are all agreed that the thing must be ended." He stands up. "I know he rides this road. When he does, I will kill him. If you are his friend, you had best ride on."
+
+Far down the road, you hear someone singing, very loud and very cheerful.
+
+> You may help Sir Gaheris ambush Sir Lamorak. -> n10a
+> You may take Sir Lamorak's side and fight Sir Gaheris. -> n10b
+> You may try to reconcile Sir Gaheris and Sir Lamorak. -> n10c
+
+=== n10x
+Gaheris stops sharpening and stares at you. "I know you," he says slowly. "You were on the road the day my mother went to meet him. You helped her." His sword comes up. "Agravain was right. Everyone knew but us."
+
+There is no talking to him. He comes at you across the crossroads, and you fight for your life in the dust, and when you have beaten him off and ridden away, you know that the house of Orkney has another name on its list.
+[tok:17 | sk:Sword & Shield | st:+Pursued]
+
+=== n10a
+"I will help you," you say. Gaheris grins without humour. "Good. He is strong. It will take two." You hide in the hedge on either side of the road, and the singing comes closer.
+?? spring the ambush on Lamorak | Warfare | 4
+++ Lamorak rides into the crossroads with his helmet off and his head thrown back in song. You and Gaheris burst out of the hedge on either side. Lamorak fights like a bear, and laughs while he fights, but two is too many. He goes down under Gaheris's sword. For a long moment Gaheris stands over him, breathing hard. Then he cleans his blade on the grass. "It is done," he says. "Orkney thanks you." He gives you Lamorak's horse. It is a fine horse. You find it hard to look at.
+[d:4 | sk:Martial | rn:Villainy+2 | tr:1]
+-- Lamorak rides into the crossroads singing. You and Gaheris burst out of the hedge on either side, but Lamorak hears you coming. He knocks Gaheris out of the saddle with one blow and rides you down with the next. When you wake, he is sitting on a milestone, bandaging Gaheris's head. "Tell your mother," he says to the groaning Gaheris, "I am sorry I will be late."
+[sk:Warfare | st:+Wounded | rn:Villainy+1]
+
+=== n10b
+"You will not kill a man from a hedge," you say, "while I am here." Gaheris's face goes hard as stone. "Then I will start," he says, "with you."
+[tok:17]
+?? fight Sir Gaheris at the crossroads | Sword & Shield | 5
+++ Gaheris fights like his whole family is watching. He is fast and furious, but fury is not skill. You wear him down, and when Lamorak comes singing round the bend, he finds you standing over the young Orkney knight with your sword at his chest. "Well met!" says Lamorak, delighted. "Who is this?" You let Gaheris go. He rides away without a word. Lamorak takes you to supper and insists on paying. "You have made an enemy of Orkney," he says cheerfully. "Welcome."
+[d:4 | sk:Martial | rn:Romance+2]
+-- Gaheris fights like his whole family is watching. He is faster than you, and angrier, and after a few minutes you are on the ground with his sword at your throat. Lamorak comes singing round the bend and stops dead. "Let the knight go," he says, "and fight me." Gaheris does. You lie in the road and watch them go at it. It ends with both of them bloody and nobody dead, and Gaheris swears to finish it another day.
+[sk:Sword & Shield | st:+Wounded]
+
+=== n10c
+"Wait," you say. "Let me speak to him first. If he will give up your mother, will you let him live?" Gaheris hesitates. "He will not," he says. "But try, if you like. I have waited long enough to wait a little longer."
+?? bring Lamorak and Gaheris to terms | Diplomacy | 6
+++ You ride to meet Lamorak and tell him everything. He listens, and for once he does not laugh. "I love her," he says simply. "But I do not want her sons to kill me, or me them." Between the three of you, standing in the crossroads, you work out a peace. Lamorak will go on pilgrimage for a year. Morgause will be told nothing about it. Gaheris will tell his brothers the matter is closed. It will not hold forever. It holds for now.
+[d:4 | sk:Courtly | rn:Divinity/Romance+2]
+-- You ride to meet Lamorak and tell him everything. He roars with laughter. "Let him try!" he says, and gallops past you to the crossroads, and the fight is on before you have turned your horse. You pull them apart eventually, but not before Gaheris has sworn on his father's grave to finish it. Gaheris blames you for the warning. Lamorak blames you for the delay.
+[sk:Diplomacy | st:+Scorned]
+
+=== 1212
+You come upon a little manor house in a valley, with an orchard where an old knight is chasing a pig. The pig is winning. The knight is stout and white-haired and red in the face, and he is laughing so hard that he has to stop and hold on to a tree.
+
+"Ho!" he calls, when he sees you. "Help an old man. That pig is the fattest in the shire and it has eaten every windfall I own. I am Ector, by the way. I raised the High King." He wipes his eyes. "Raised him on this very farm. He was a good lad. Clumsy. Kay was always the clever one. Kay was always the one I thought would do something." He looks at the pig, which is regarding him insolently from beneath a pear tree. "I suppose you want to hear about him, as a boy. Everyone does. Or you could catch that pig."
+
+> You may ask old Sir Ector to tell you how he raised the High King. -> n12a
+> You may help Sir Ector catch his fugitive pig. -> n12b
+
+=== n12a
+Ector sits down under the pear tree and pats the grass beside him. "Merlin brought him on a wet night," he says, "wrapped in a cloak. I asked whose he was, and Merlin said, *Yours, now.* So he was." He smiles. "I did not know he was Uther's son. I was not told. I raised him like my own, with Kay, and I beat them both when they needed it, which was often. When they grew, I made Kay my heir, because he was my blood, and I made Arthur his squire. Arthur never once complained." The old man's eyes are wet. "When he drew the sword, I knelt to him. He wept and begged me to get up. He said, *You are my father. You will always be.* And then he made Kay seneschal of all Britain, for my sake." He shakes his head. "Kay was always the clever one. But the boy was the kind one. I did not know, then, which would matter more." The pig trots up and lies down beside him, and he scratches its ears.
+[d:1 | sk:Wisdom | rn:Romance+1]
+
+=== n12b
+"Leave it to me," you say, and dismount. The pig watches you. It has a look in its eye that you do not like.
+?? outwit the pig | Hunting | 3
+++ You do not chase it. You sit down under the pear tree, as far from the pig as you can get, and wait. After a long while, the pig becomes curious and wanders closer. After a longer while, it decides you are not dangerous. Then you seize it by the back leg and hold on while it screams like a devil and drags you twice around the orchard. Ector laughs until he falls over. "That is how the boy did it," he gasps. "Exactly how he did it." He gives you a ham at Christmas, every Christmas, for the rest of his life.
+[d:2 | sk:Wilderness | rn:Any+1]
+-- You do not chase it. You sit down and wait. The pig sits down too. After an hour, Ector goes indoors for his dinner. After two hours, it starts to rain. After three hours, the pig gets up and walks away into the woods, and you realise it has been waiting for you to give up. You resolve never again to underestimate a pig.
+[sk:Hunting]
+?? tackle the pig with all your strength | Endure Hardship | 4
+++ You chase the pig round the orchard three times, over the wall and into the duckpond, and finally bring it down in the mud with a flying leap. You are covered head to foot. Ector is helpless with laughter. "Kay would never have done that," he wheezes. "Kay would have sent a servant." That night he feeds you roast pork, which seems hard on the pig, and tells you stories of the High King as a boy until the fire is out.
+[d:2 | sk:Wilderness | rn:Romance+1]
+-- You chase the pig round the orchard three times and into the duckpond. The pig swims better than you do. You come out covered in weed with the pig nowhere to be seen. Ector gives you a towel and a cup of cider. "It got away from Arthur too," he says. "Twice."
+[sk:Endure Hardship | st:+Plague-Ridden]
+
+=== 1213
+You come upon a knight sitting alone beside a small fire on a winter evening, reading a letter. He is slight and pale and handsome, with dark hair and grey eyes, and he looks up at you with a warm smile.
+
+"Friend," he says. "Come and warm your hands. I am Mordred." He folds the letter and puts it inside his jerkin. "You have heard of me, perhaps. They say I am the High King's nephew. Some say worse." He shrugs as if it does not matter. "Everyone at court has an opinion of me, and hardly anyone has ever spoken to me." He passes you a cup of warm wine. "I wonder if you would do me a small kindness. I have a letter for my mother, Queen Morgause, in Orkney. It is private. Family matters. I cannot trust the court's messengers not to open it." He looks at you steadily. "I think I can trust you."
+
+> You may carry Mordred's letter to Orkney, sealed and unread. -> n13a
+> You may accept the letter and read it in secret on the road. -> n13b
+> You may politely refuse Mordred's request. -> n13c
+
+=== n13a
+"I will carry it," you say. Mordred's face lights up. He grips your hand. "Thank you, friend," he says. "I will not forget it. I never forget anything."
+[tok:12]
+?? ride north to Orkney through the winter | Endure Hardship | 3+L
+++ It is a hard road north in winter, over the high moors and across the sea from Caithness in an open boat. Queen Morgause receives the letter in her hall and reads it with an unreadable face. Then she burns it. "Tell my son," she says, "that I understand." When you return, Mordred thanks you warmly and gives you a fine grey horse. You never learn what was in the letter. But from then on, Mordred greets you at court as a friend, and others notice it.
+[d:L | sk:Wilderness | rn:Any+1 | tr:1]
+-- It is a hard road north in winter. On the high moors, a blizzard catches you, and you spend two nights in a shepherd's hut with your fingers turning black. By the time you reach Orkney, Morgause has already gone south. You leave the letter with her steward. Mordred thanks you anyway, warmly. "It is the thought," he says.
+[sk:Endure Hardship | st:+Wounded]
+
+=== n13b
+You take the letter with thanks. Two nights later, alone in an inn, you hold it over a candle and ease the seal loose with a hot knife.
+?? read the letter and reseal it without trace | Cunning | 5
+++ The letter is short. *Mother, it is as you said. My father knows what I am. He has not yet decided what to do about it. I have begun to make friends. Burn this. M.* You reseal it perfectly and carry it to Orkney, and nobody is any the wiser. But from then on you watch Mordred at court, and you notice how many friends he has begun to make.
+[d:3 | sk:Courtly | rn:Villainy+1 | n:Gain 1 Rank of Divinity if you warn the High King of this letter at the next City you visit]
+-- The seal cracks in two. You try to mend it with candle wax, and it looks exactly like a seal that has been mended with candle wax. When you give it to Queen Morgause, she looks at it for a long moment and then at you. "My son will be interested to hear of this," she says. You never learn what the letter said. Mordred, when you next see him, is as warm as ever. That is what frightens you.
+[sk:Cunning | st:+Pursued | rn:Villainy+1]
+
+=== n13c
+"Forgive me, Sir Mordred," you say. "I am bound elsewhere." Mordred smiles and nods. "Of course, friend," he says. "Of course." He goes back to his fire. You feel his eyes on your back until you are out of sight. When you reach the next town, you find that you have been talked about already, and not kindly.
+[mv:1 | st:+Scorned]
+
+=== 1215
+You come upon a knight sitting on his horse in the middle of a field, alone, facing a wooden post with a shield hung on it. He charges it. He misses. He goes back to the start, and charges it again. He misses again.
+
+"Oh, good," he says when he sees you, and rides over. He is a sandy-haired knight with a freckled, honest face and a great deal of rust on his armour. "Sir Griflet. Of Camelot. Or I was." He sighs. "Three years ago, a squire unhorsed me at the ford at Tinmouth. A squire! In front of the queen's ladies! I swore not to go back to court until I had overthrown ten knights in fair joust. I have done nine." He looks at you hopefully, then at the post. "I have been practising. Would you be the tenth? I would be very much obliged. I am so tired of this field."
+
+> You may joust with Sir Griflet fairly. -> n15a
+> You may persuade Sir Griflet that his vow has been kept well enough. -> n15b
+
+=== n15a
+"I will joust with you," you say, "but I will not let you win." Griflet looks shocked. "I should hope not," he says. "What would be the good of that?"
+?? joust with Sir Griflet | Mounted | 4
+++ Griflet has practised well. His lance takes your shield squarely, and yours takes his, and both shatter, and you both stay in the saddle. You try again. On the third pass, your lance catches him just below the gorget, and he goes over his horse's tail into the grass. He lies there looking at the sky. "Well," he says eventually, "that is nine, then, still." But he is laughing. You ride with him to the next town and stand him a supper. The next week you hear that he beat a knight at Carlisle, and has gone home.
+[d:3 | sk:Martial | rn:Romance+1]
+-- Griflet has practised well. His lance takes you squarely, and you go over your horse's tail into the grass. He is so delighted he gets down and helps you up and embraces you. "Ten!" he says. "Ten!" He rides off toward Camelot singing. You are left in the field with a bruised back and the wooden post, which seems to be looking at you.
+[sk:Mounted | st:+Unhorsed]
+
+=== n15b
+"Sir Griflet," you say, "no one at court remembers that squire. But they have missed you." Griflet looks doubtful. "Do you think so?" he asks.
+?? convince Griflet his honour is restored | Diplomacy | 4
+++ You tell him that nine knights in fair joust is more than most of the Round Table manage in three years. You tell him the queen's ladies have been asking after him, which may be true. You tell him that a vow kept so faithfully is kept, even if the number is short by one. Griflet's face brightens with every word. By the end, he is packing his tent. "Nine," he says. "Nine is a good number. Nine is a holy number, isn't it?" He rides for Camelot with a light heart.
+[d:2 | sk:Courtly | rn:Divinity/Romance+1]
+-- You tell him that nine is nearly ten. Griflet's face falls. "A vow is a vow," he says stiffly, and goes back to charging his post. You leave him there, missing it.
+[sk:Diplomacy]
+?? swear yourself to his vow and ride with him to find the tenth | Honor | 5
+++ "Then I will ride with you," you say, "until we find the tenth." Griflet is overjoyed. You ride together for a week, and on the seventh day you meet a proud knight at a bridge who refuses to let anyone pass. Griflet rides him down on the first pass. He is so happy afterwards that he weeps. You ride back to Camelot together, and at the gate he says, "I would never have done it alone." He is wrong, but you do not say so.
+[d:3 | sk:Courtly | rn:Romance+1 | st:+Accompanied]
+-- "Then I will ride with you," you say, "until we find the tenth." You ride together for a week, and on the seventh day you meet a proud knight at a bridge, who takes one look at Griflet's rusty armour and laughs. Griflet charges him and is thrown into the river. You haul him out. He sits on the bank, dripping. "Eight," he says miserably.
+[sk:Honor]
+
+=== 1220
+You come upon a tower on an island in a lake, joined to the shore by a narrow causeway. A knight sits at the landward end of the causeway with two swords at his belt, staring at the tower. He looks as if he has not slept in days. A crowd of ladies stands on the tower's battlements, watching.
+
+If you have Story Token #19, turn immediately to [[n20x]].
+
+"They tell me," the knight says without looking at you, "that the custom of this island is that any knight who comes here must fight the knight who keeps it. They have given me a new shield, since mine was too small. They took away my own, with my arms on it." He laughs, a dry, cracked laugh. "I am Balin. I am cursed. Everything I touch goes wrong. I struck a blow once, at Corbenic, that laid a whole land waste." He nods at the island, where a knight in red armour, with a plain shield, is riding down to the causeway. "I do not know who that is. But I think I am meant to kill him, or he me."
+
+> You may take Sir Balin's place and fight the red knight of the island yourself. -> n20a
+> You may persuade the red knight to unlace his helm before he fights. -> n20b
+
+=== n20x
+Balin looks at you, and his face changes. "You drew it," he says. "The damsel's sword. I saw it on your belt in a dream." He takes one of his own swords from his belt. It is the twin of the one you carry. "Then it is not only me." He grips your hand. "Listen. The knight in red is my brother Balan. I know it now. The curse wanted us to kill each other. Take my sword, so there are two of them together, and the curse is split between us." You do. For a moment the air shivers. The red knight on the causeway stops, lifts his visor and cries out his brother's name. They meet in the middle of the causeway and embrace, and the ladies on the battlements begin, very slowly, to weep.
+[d:5 | rn:Divinity+2 | sk:Spiritual | st:+Accursed | n:Lose Story Token #19]
+
+=== n20a
+"Rest," you say. "I will fight him." Balin looks up at you, astonished. "It is not your curse," he says. "No," you say. "That may help."
+?? meet the red knight on the causeway | Sword & Shield | 6
+++ The red knight fights hard, but he does not fight like a man trying to kill you. After a long, grim bout on the narrow stones, you beat down his guard, and he yields and unlaces his helm. He is a young man with Balin's face. "I am Balan," he says. "I was told my brother was dead." Balin, on the shore, makes a sound you will never forget. He runs across the causeway to his brother, and the ladies on the battlements are silent. You have turned a curse aside, for once.
+[d:5 | sk:Martial | rn:Divinity+2 | st:+Blessed]
+-- The red knight fights hard, and he fights like a man with nothing to lose. His sword finds the joint of your armour, and you go down on the stones. Before he can strike again, Balin has run across the causeway and thrown himself between you. You are carried to the tower. From a window, bleeding, you watch the two knights fight to the death on the causeway. Afterwards, when they unlace their helms, they are brothers. You close your eyes.
+[sk:Sword & Shield | st:+Wounded | st:+Despairing]
+
+=== n20b
+You ride out onto the causeway and raise your hand. The red knight stops. "Sir," you call, "before any blood is shed, will you show your face?"
+?? persuade the red knight to unlace his helm | Wisdom | 5
+++ "There is a knight on the shore," you say, "who does not know who you are, and has been given a shield that is not his own. Someone has taken pains that you should not know each other. Why?" The red knight says nothing for a long time. Then, slowly, he unlaces his helm. He is a young man with Balin's face. On the shore, Balin cries out. The two brothers meet on the causeway, and above them, the ladies of the tower draw back from the battlements and disappear inside.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- "Sir, there is a knight on the shore who has been given a shield that is not his own." The red knight laughs. "It is the custom of the island," he says. "Everyone has a shield that is not his own." He rides past you. You cannot stop what follows. When it is over, the two dead knights lie together on the causeway, and when their helms are unlaced, they are brothers.
+[sk:Wisdom | st:+Despairing]

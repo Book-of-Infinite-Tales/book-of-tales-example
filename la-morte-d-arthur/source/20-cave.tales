@@ -1,0 +1,448 @@
+=== 2201
+As you walk your horse through the back lanes of Carleon, a boy in a torn smock grabs your stirrup. "Sir! Sir! They took my sister down the old well behind the tanner's yard." He drags you to a dry well in a courtyard, where a rope ladder hangs down into darkness. From below you hear voices, the chink of metal and a girl crying.
+
+"The Rat King's men," the boy whispers. "They have tunnels under the whole town. They steal from the churches and melt it down there. My sister saw them with the bishop's candlesticks, so they took her." He looks at you. "The sheriff will not go down. He says there are a hundred of them."
+
+> You may climb down the well and rescue the girl from the thieves' tunnels. -> m101a
+> You may fetch the town watch and lead them against the thieves. -> m101b
+
+=== m101a
+You climb down the rope ladder into the dark. At the bottom, a tunnel runs away under the town, lit here and there by candle-stubs stuck in old Roman brickwork.
+?? creep through the tunnels and bring the girl out | Hunting | 3+L
+++ You follow the voices through the tunnels, keeping to the shadows, until you find a vault where a dozen thieves are melting silver over a brazier. The girl is tied in a corner. You wait until they are arguing over the shares, then slip in, cut her loose and lead her out by the way you came. She is up the ladder before the thieves notice she is gone. The boy hugs her until she squeaks. The bishop, when he hears where his candlesticks went, sends you a reward.
+[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You follow the voices through the tunnels, but the tunnels branch and branch again, and your candle gutters out. You wander in the dark for hours before you find daylight, through a grating in the fish market. The girl, you learn later, was let go the next morning, frightened into silence.
+[sk:Hunting | st:+Lost]
+?? fight your way to the girl through the thieves | Sword & Shield | 5
+++ You go straight down the tunnel toward the voices and burst into a vault where a dozen thieves are melting silver. They are not fighters. You scatter them with the flat of your sword, and a small, rat-faced man in a velvet hat flees down a side passage, squeaking orders. You untie the girl and carry her out. The watch, finally roused, comes down behind you and finds a whole church's worth of silver in the vault.
+[d:4 | sk:Martial | rn:Romance+1 | rn:Any+1]
+-- You go straight at the voices and burst into the vault, but there are more thieves than you counted, and one of them knocks over the brazier. In the smoke and molten silver, you are burned and driven back. You climb out empty-handed.
+[sk:Sword & Shield | st:+Wounded]
+
+=== m101b
+You ride to the watch-house and hammer on the door. The captain of the watch, a fat man in a leather jerkin, does not want to go down any well.
+?? rouse the watch and lead the raid on the tunnels | Warfare | 4
+++ You shame the captain, cajole his men and recruit three butchers and a smith from the tavern next door. You send men down the well, down the grating in the fish market and down the old cellar under the church, all at once. The thieves, caught from three sides, surrender without a fight. The girl is found safe. The Rat King, a small man in a velvet hat, is caught trying to leave in a barrel of eels. The town gives you a feast.
+[d:4 | sk:Martial | rn:Any+2]
+-- You rouse the watch and lead them down the well, but the thieves hear you coming a long way off. By the time you reach the vault, it is empty, and the tunnels beyond it go on for miles. The girl is let go the next day. The watch captain tells everyone it was a waste of a good evening.
+[sk:Warfare]
+
+=== 2301
+As you walk your horse through the crooked streets of London in the Grail year, you see a crowd of pilgrims queuing at a low door in the side of Saint Paul's churchyard. A monk is letting them in two at a time. "The Shrine of the Hidden Light," says a woman in the queue. "Down in the old caves. There is a monk there who saw the Grail pass through Camelot, and his eyes have shone ever since."
+
+The pilgrims coming up the steps are pale and trembling. One old man is weeping with joy. Another is weeping with something else. A young priest standing apart from the queue catches your arm. "It is a fraud," he says urgently. "I am sure of it. He takes their money in the dark and gives them a candle and a lie."
+
+> You may go down into the cave-shrine to see the shining monk for yourself. -> m201a
+> You may help the young priest expose the shrine as a fraud. -> m201b
+
+=== m201a
+You pay your penny and go down the steps into a cave hung with candles. At the far end, a thin monk sits on a stone, and his eyes do glow, faintly, in the dark, like a cat's.
+?? discern whether the vision is true | Wisdom | 5
+++ You kneel before him and look for a long time. He does not ask for money. He only says, "It was covered. It is always covered," and weeps. You understand then that his eyes were burned by what he saw and have been glowing ever since, and that the monks upstairs are selling his grief by the penny. You go up and throw the money-box into the street. The pilgrims fall on it. The young priest takes the old monk away to a quiet house, where he can see his light in peace.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You kneel before him and look, but you cannot tell whether his eyes glow or whether it is only the candles. He does not speak. You come up the steps no wiser, and a penny poorer.
+[sk:Wisdom]
+
+=== m201b
+"Show me," you say. The young priest leads you round to a grating in the alley behind the church, where you can look down into the cave from above.
+?? catch the shrine-keepers in their fraud | Cunning | 4
+++ You watch through the grating for an hour. The shining monk is real enough, an old man who sits and prays and speaks to no one. But between visitors, the monks who keep the shrine are counting coins and laughing, and one of them is dabbing oil of phosphor on a cloth to make the cave shine brighter. You and the priest go down with the bishop's sergeant. The keepers are taken away. The old monk, it turns out, never knew about the phosphor. He goes on praying in the dark, alone, and the priest brings him bread every day.
+[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+-- You watch through the grating for an hour and see nothing but an old man praying. When you go to the bishop with your suspicions, the shrine-keepers produce a letter of approval from the Archbishop. The young priest is sent to a parish in the Fens.
+[sk:Cunning | st:+Scorned]
+
+=== 2401
+As you walk your horse through the half-empty streets of London, now under Mordred's banner, you hear a knocking from beneath the cobbles: three knocks, a pause, three knocks. A woman selling turnips looks away quickly. When you kneel by a drain, a voice comes up through it. "For the love of God, who is there?"
+
+"We are knights of the old king," the voice says. "Mordred's men brought us down here from the Tower. There are thirty of us in the caves under the city. They have left us no water for three days." A pause. "There is a way in through the crypt of Saint Martin's. There are guards."
+
+> You may break into Mordred's cave-prison and free the captive knights. -> m301a
+> You may find a way to get water and food to the prisoners. -> m301b
+
+=== m301a
+You go to Saint Martin's after dark. Two of Mordred's soldiers are dicing by a door in the crypt, beside a lantern.
+?? overpower the guards and lead the prisoners out | Martial | 5
+++ You come on the guards before they can reach for their spears and put them both down on the crypt floor. Beyond the door, in the caves, thirty men lie in the dark, weak with thirst. You bring them out a few at a time, through the crypt and the churchyard and down to the river, where a fisherman who remembers the old king ferries them across. The last of them, an old knight with a white beard, grips your hand. "The king will hear of this," he says, "if he lives." You hope he does.
+[d:5 | sk:Martial | rn:Divinity+1 | rn:Romance+1 | st:+Pursued]
+-- You come on the guards, but one of them gets to the bell-rope before you can stop him. The crypt fills with soldiers. You flee through the churchyard. Behind you, the prisoners are knocking, three knocks and a pause, and you cannot go back.
+[sk:Martial | st:+Pursued | st:+Despairing]
+
+=== m301b
+You cannot free thirty men alone. But you can keep them alive until someone else can.
+?? smuggle water to the prisoners through the drains | Endure Hardship | 3+L
+++ For a week, you crawl through the city's drains every night, dragging skins of water and bags of bread through filth to the grating above the caves. You hear the prisoners weeping when the first skin comes through. On the eighth night, a band of the old king's men takes the city gate, and the prisoners are freed. They come up out of the caves into daylight, blinking, and every one of them asks for the knight who crawled through the drains. You are, by then, very ill.
+[d:L | sk:Wilderness | rn:Divinity+2 | st:+Plague-Ridden]
+-- You crawl through the city's drains with a skin of water, but the drains are a maze, and you cannot find the right grating. You come out at dawn, filthy and exhausted, by the river. The knocking goes on for two more days, and then it stops.
+[sk:Endure Hardship | st:+Plague-Ridden | st:+Despairing]
+
+=== 2213
+As you ride through the forest in golden sunlight, you hear a child crying behind a waterfall. You dismount and push through the curtain of water, and find yourself in a cave, where a little girl of four sits on a rock with her knees drawn up. Beside her, curled asleep on a heap of bones and bracken, is a brown bear the size of a haycart.
+
+The girl sees you and puts her finger to her lips. "Shh," she whispers. "You will wake him. I am Nia. I got lost and he found me and he brought me here. He gives me honey." She looks at the bear with great affection. "But I want to go home now. My mother will be cross."
+
+The bear's nose twitches. It opens one small, dark eye.
+
+> You may snatch Nia away from the bear. -> m113a
+> You may coax the bear to let Nia go. -> m113b
+
+=== m113a
+You take a slow step forward, then another. The bear raises its head.
+?? grab the child and run before the bear can stop you | Mounted | 4
+++ You scoop Nia up under one arm and run for the waterfall. The bear roars and lumbers after you. You burst through the water, throw the girl onto your saddle and leap up behind her, and your horse, which has smelled the bear, needs no spurs. You gallop out of the forest with the bear crashing behind you, until it gives up at the edge of the trees and sits down, and watches you go, and moans. Nia waves to it. Her mother, when you bring her home, faints.
+[d:3 | sk:Martial | rn:Romance+1]
+-- You scoop Nia up and run, but the cave floor is slippery with spray, and you go down on your back, and the bear stands over you. It sniffs you. Then it takes Nia gently by the back of her smock, carries her back to her rock, and lies down in front of her. You back out of the cave. You will have to think of something else.
+[sk:Mounted | st:+Wounded]
+
+=== m113b
+You sit down very slowly on the cave floor. The bear watches you. Nia watches you. You begin to hum.
+?? win the bear's trust | Nature Lore | 3+L
+++ You hum until the bear lays its head down again. Then you take a honeycomb from the ledge beside it, very slowly, and hold it out. The bear sniffs it, and licks it, and licks your hand. You stay there until dusk, humming and feeding it honey, until it falls asleep. Then you take Nia by the hand and walk her out through the waterfall. At the edge of the wood, she turns and waves. "Goodbye, bear," she calls. You hear, from the forest, a low, contented grunt.
+[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You hum. The bear listens, and then it gets up, and comes over to you, and sniffs you all over, and sits on you. It is a very long afternoon. When it finally gets up, you are bruised all over, and Nia is asleep.
+[sk:Nature Lore | st:+Wounded]
+
+=== 2313
+As you ride through the forest in dappled sunlight, you hear someone singing a psalm behind a waterfall. You dismount and push through the curtain of water into a cave. A knight in a hair shirt is kneeling on the bare rock, with his sword laid before him and his armour in a heap. His back is raw from a scourge.
+
+"Sir Melias," he says, without turning. "I was on the Grail quest. I came to a crossroads and a crown lay in the road. I took it. It was not mine. A knight came out of the trees and struck me down, and a hermit told me that the crown was my pride, and the knight was my sin." He lifts the scourge. "So I am doing penance. Until the Grail forgives me."
+
+He is very thin. There are blood-stains on the rock that are weeks old.
+
+> You may kneel beside Sir Melias and help him complete his penance. -> m213a
+> You may persuade Sir Melias that his penance is done. -> m213b
+
+=== m213a
+You unbuckle your sword and kneel beside him on the rock. He looks at you in surprise. "You have no need," he says. "Everyone has need," you say.
+?? share the knight's vigil and penance | Piety | 5
+++ You pray beside him for three days and nights, without food. On the third night, the sound of the waterfall changes, and there is a light in the water like a lamp behind a curtain, and a smell of roses. Sir Melias drops his scourge. Neither of you sees anything. Neither of you needs to. In the morning, he puts on his armour, very slowly, and thanks you, and goes back to the quest. You feel light and clean, and very hungry.
+[d:4 | sk:Spiritual | rn:Divinity+2 | st:+Blessed]
+-- You pray beside him for three days. On the third day, you faint from hunger, and when you wake, Sir Melias is feeding you broth and looking at you with great pity. "It is not for everyone," he says. You ride away ashamed.
+[sk:Piety]
+
+=== m213b
+"You took a crown that was not yours," you say, "and you were struck down for it. God has already punished you. Is it not pride, to punish yourself further?" Sir Melias turns and looks at you.
+?? reason with the penitent knight | Wisdom | 5
+++ He argues. You argue back. You talk of the prodigal son, and of the thief on the cross, and of what the Grail is for, if not for mercy. By sundown, Sir Melias is silent. Then he laughs, a cracked, rusty laugh. "Pride," he says. "Even here. You are right." He lets you bind his back, and eats bread, and in the morning, he rides away with you as far as the edge of the forest, talking about horses.
+[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- He argues. You argue back. At last he says, "You are very clever. The devil is clever too." He turns back to the rock and picks up his scourge. You leave him there.
+[sk:Wisdom]
+
+=== 2413
+As you ride through the forest in dim sunlight, with smoke drifting through the trees from a village burning somewhere to the east, you hear groaning behind a waterfall. You dismount and push through the curtain of water into a cave. It is full of wounded men.
+
+There are twenty of them, lying on the bare rock in bloody bandages, and a single young woman going from one to the next with a bucket. "Saxons burned Cilgerran yesterday," she says. "These are the men who held the bridge so the women could get away. I brought them here." She wipes her forehead. "I have no more bandages, no more food, and the Saxons are searching the woods. If they find the waterfall, they will kill them all."
+
+Outside, faintly, you hear a horn.
+
+> You may lead the Saxons away from the waterfall. -> m313a
+> You may help the woman tend the wounded and hide the cave. -> m313b
+
+=== m313a
+You go back through the waterfall and mount your horse. The horn sounds again, nearer. You ride toward it.
+?? draw the Saxon search-party away from the cave | Mounted | 3+L
+++ You find the Saxons in a clearing: a dozen men with axes, following a hound. You ride across the clearing in full view, shouting, and wheel away into the trees. They come after you, hallooing. You lead them for five miles through the forest, over streams and through thickets, until they are lost and exhausted and their hound has given up. Then you circle back to the waterfall by night. The wounded men cheer you, weakly. One of them dies before morning, but the rest live.
+[d:L | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+-- You find the Saxons in a clearing and ride across it shouting. But only half of them follow you. The other half go on with the hound, toward the waterfall. You hear the screaming from a mile away, and you cannot get back in time.
+[sk:Mounted | st:+Despairing]
+
+=== m313b
+You roll up your sleeves. "What do you need?" you ask. The young woman looks at you with desperate gratitude. "Moss," she says. "Clean water. And someone to stand at the waterfall with a sword."
+?? tend the wounded and keep the cave hidden | Nature Lore | 5
+++ You gather moss for the wounds and yarrow for the bleeding, and you cut bracken to hide the path to the waterfall. When the Saxons pass by that evening, following their hound, they walk within twenty yards of the cave, and the roar of the water hides every groan, and the bracken hides the path. They go on. In the morning, you help the woman move the wounded, one at a time, to a monastery in the hills. Her name is Tangwen. She says she will name her first son for you.
+[d:4 | sk:Wilderness | rn:Divinity+2]
+-- You gather moss and cut bracken to hide the path, but you cut it too green, and the Saxons' hound smells it. They come through the waterfall at dusk. You fight at the entrance with your back to the wounded, and hold them long enough for the woman to get half the men out through a back passage. The other half do not get out.
+[sk:Nature Lore | st:+Wounded | st:+Despairing]
+
+=== 2225
+You come to a cave high on a mountainside, where the rocks around the entrance are scorched black and the air smells of hot metal. A trail of gold coins leads into the dark. From inside, you hear something breathing: a long, slow sound like a blacksmith's bellows.
+
+A shepherd hiding behind a rock hisses at you. "The dragon of Dinas Emrys," he says. "Only a young one. Only the size of a church. It has taken twenty sheep this month. The last knight who went in came out without his eyebrows, and the one before him did not come out at all." He points at the coins. "It has a hoard. They always have a hoard."
+
+> You may enter the cave and fight the dragon. -> m125a
+> You may sneak into the cave and take some of the dragon's hoard. -> m125b
+
+=== m125a
+You draw your sword and walk into the dark. The breathing stops. Two eyes open in the blackness, as big as shields, and as yellow as the coins.
+?? slay the young dragon in its lair | Sword & Shield | 7
+++ It is the longest fight of your life. The dragon is young, but it is fast, and its breath scorches the cave walls. You keep behind the pillars of rock, and when it lunges, you strike at its soft throat. The third blow goes home. The dragon screams, and the whole mountain shakes, and then it is still. You come out of the cave blackened, singed and alive. The shepherd stares at you. The valley feasts you for a week, and the hoard is yours, though half of it turns out to be brass.
+[d:6 | sk:Martial | rn:Any+2 | tr:2 | st:+Wounded]
+-- It is the longest fight of your life, and you lose it. The dragon's breath catches you in the open, and you are thrown back out of the cave in a gout of flame. You roll in the snow. You have no eyebrows. The shepherd pats you on the back. "At least you came out," he says.
+[sk:Sword & Shield | st:+Wounded]
+
+=== m125b
+You wait until the breathing is slow and steady. Then you slip off your boots and creep into the cave on your stockinged feet.
+?? steal from the sleeping dragon's hoard | Cunning | 6
+++ The dragon is asleep on a heap of gold, with its tail curled round it like a cat. You fill your helmet with coins and cups and a jewelled collar that once belonged to a horse, and creep out again. At the entrance, you look back. One yellow eye is open, watching you. The dragon yawns, and closes it again. You have the strangest feeling that it does not mind. You find out why, later, when you learn that dragons count their gold every hundred years, and this one has ninety to go.
+[d:5 | tr:2 | rn:Villainy+2]
+-- The dragon is asleep on a heap of gold. You fill your helmet with coins, and one of them slips out and rings on the rock like a bell. The dragon wakes. You run. You get out of the cave with your life and without your helmet, and the shepherd has to lend you his hat.
+[sk:Cunning | st:+Pursued | rn:Villainy+1]
+
+=== 2325
+You come to a cave high on a mountainside, where the rocks around the entrance are carved with crosses and the air smells of beeswax. A path of white pebbles leads into the dark. From inside, you hear breathing, long and slow, like a sleeper.
+
+An old nun, climbing the path behind you with a basket, stops to catch her breath. "Saint Collen," she says. "He went into that cave to pray two hundred years ago and fell asleep. He has not woken. We bring him bread every day, and every day it is gone." She smiles. "They say he will wake when a knight of the Grail asks him the way. Many have tried. Would you like to?"
+
+> You may go into the cave and ask the sleeping saint the way to the Grail. -> m225a
+> You may ask the old nun to tell you the saint's story. -> m225b
+
+=== m225a
+You take off your helm and walk into the cave. At the far end, on a stone ledge, an old man lies sleeping, with a white beard that trails to the floor and his hands folded on his chest.
+?? kneel and speak to the sleeping saint | Divinity | 4
+++ You kneel and ask him the way. For a long moment, nothing happens. Then the old man opens his eyes. They are very blue. "You are asking the wrong question," he says, in a voice like dry leaves. "Not the way. The reason." He closes his eyes again. But he has spoken, for the first time in two hundred years, and when you come out and tell the nun, she drops her basket and runs down the mountain to tell everyone. Pilgrims come for a year after. You carry the words with you: *not the way, the reason.*
+[d:4 | rn:Divinity+1 | sk:Spiritual | st:+Blessed]
+~~2 You kneel and ask him the way. The old man sighs in his sleep and turns over, like a man who has been disturbed and does not mind. You feel, as you go out, that you have been given a little of his peace.
+[d:2 | sk:Piety]
+-- You kneel and ask him the way. He does not stir. The cave is cold. You come out feeling, for no reason you can name, that you have been found wanting.
+[st:+Despairing]
+
+=== m225b
+The old nun sits down on a rock and passes you a piece of bread. "Collen was a soldier once," she says. "He fought for the Romans. Then he became a monk, and then an abbot, and then he got tired of being an abbot and went up into the hills. One day the King of the Fair Folk invited him to a feast on top of Glastonbury Tor. He went, with a flask of holy water. When they offered him food, he said, *I do not eat the leaves of trees.* And he threw the holy water, and the whole feast vanished, and he was sitting on the bare hilltop in the rain." She laughs. "He came here after that. He said he wanted somewhere quiet." She shakes crumbs from her lap. "Sometimes, at night, you can hear music coming from the cave. I think the Fair Folk come to visit him. I think they have forgiven him."
+[d:1 | sk:Wisdom | rn:Divinity+1]
+
+=== 2425
+You come to a cave high on a mountainside, with a great iron door half-hidden by ferns and a bronze bell hanging from a chain beside it. The air is still and cold, and from behind the door comes a sound like many men breathing in their sleep.
+
+A shepherd boy is sitting on a rock nearby. "The Sleepers," he says. "My grandfather told me. There are a thousand knights asleep in there, with their horses and their swords, and they will wake when the bell is rung and Britain has most need." He looks east, where the smoke of the war hangs over the valleys. "Britain has need now, does it not? The Saxons are everywhere." He looks at the bell. "My grandfather said never ring it. He said if it is rung too soon, they will wake, and see it is not time, and go back to sleep forever."
+
+> You may ring the bell and wake the Sleepers. -> m325a
+> You may go in quietly and look at the sleeping knights without waking them. -> m325b
+
+=== m325a
+You take hold of the bell-chain. The boy covers his ears. You pull.
+?? call the Sleepers to Britain's aid | Divinity/Romance | 5
+++ The bell rings once, deep and slow, and the whole mountain hums. The iron door swings open. In the dark cave beyond, a thousand men in old armour stir, and one of them, an old knight with a white beard, sits up and looks at you. "Is it time?" he asks. You tell him about the Saxons, and Mordred, and the king across the sea. He listens gravely. Then he stands, and all the others with him. "It is not the time," he says, "but it is a time." Three hundred of them ride out with you, and for a month the Saxons in that valley know no peace. Then, one morning, they are gone.
+[d:5 | rn:Any+2 | st:+Esteemed]
+~~3 The bell rings, and the door opens, and one old knight sits up. "Is it time?" he asks. You tell him about the war. He shakes his head sadly. "Not yet," he says, and lies down again. But before he sleeps, he gives you his sword.
+[d:2 | tr:1]
+-- The bell rings, and the door opens, and a thousand men stir, and sit up, and look at you, and look out of the cave at the smoke. "Not yet," they say, all together, and lie down, and the door swings shut, and you know that you will never be able to open it again.
+[st:+Despairing]
+
+=== m325b
+You push the iron door very gently. It swings open without a sound. Inside, in rows as far as your lantern can reach, knights lie asleep beside their horses, in armour you have only seen in old carvings.
+?? walk among the Sleepers without waking them | Hunting | 5
+++ You walk softly down the rows. You see faces you know from tapestries, and faces you do not know at all. At the end of the cave, on a stone throne, sits an empty chair with a crown on it. There is dust on the crown. You do not touch it. You go out as quietly as you came, and close the door behind you. The boy looks at your face and asks nothing. You ride on toward the war with a strange lightness in your chest.
+[d:3 | sk:Wilderness | rn:Divinity+1 | st:+Determined]
+-- You walk softly down the rows, but at the end, your spur catches on a stirrup, and the stirrup rings. All along the rows, a thousand eyes open. "Is it time?" a voice asks. You cannot answer. They close their eyes again, one by one, and you flee.
+[sk:Hunting | st:+Mad]
+
+=== 2237
+You come upon a shepherd standing on a wide plain beside a hole in the turf, weeping. The hole is as wide as a cart and goes straight down into darkness. From the bottom, very faintly, you hear sheep bleating.
+
+"The ground opened last night," he says. "Swallowed the whole flock. Forty sheep. And my dog went down after them." He wipes his face. "I have been calling all morning. The dog barks back. The sheep bleat. There must be a cave down there." He looks at you. "I have a rope. It is not long enough. It is never long enough."
+
+> You may climb down into the sinkhole and bring up the flock. -> m137a
+> You may search the plain for another way into the cave below. -> m137b
+
+=== m137a
+You tie the shepherd's rope to your own, and to your horse's harness, and lower yourself into the dark.
+?? climb down and haul the flock out | Endure Hardship | 3+L
+++ The hole opens into a cavern with a sandy floor, where forty frightened sheep stand huddled round a very proud dog. You tie the sheep one by one to the rope, and the shepherd and your horse haul them up, bleating and kicking. It takes all day. Your arms are shaking by the end. The last to come up is the dog, and then you. The shepherd gives you the best of the lambs and the dog's undying devotion, which lasts about a day.
+[d:L | sk:Wilderness | rn:Divinity+1]
+-- The hole opens into a cavern. You tie the first sheep to the rope, and the shepherd hauls, and the rope snaps. You spend the night in the cavern with forty sheep and a dog, until the shepherd comes back at dawn with a longer rope and his three brothers.
+[sk:Endure Hardship]
+
+=== m137b
+You walk out across the plain, looking at the ground, listening. The plain is chalk, and chalk, you know, is full of holes.
+?? find the cave's other entrance | Nature Lore | 4
+++ Half a mile away, you find a clump of hawthorn where the ground dips and the grass is greener. Pushing through, you find a narrow crack in the chalk, with a breath of cool air coming out of it and, faintly, the sound of bleating. You squeeze in and follow the passage down to a cavern where forty sheep are milling round a dog. You lead them out through the crack, one at a time, all afternoon. The shepherd weeps and dances. He tells everyone in the village that you have the gift of finding.
+[d:3 | sk:Wilderness | rn:Any+1]
+-- You walk out across the plain looking for another way in, and walk until dark, and find nothing but a very large number of rabbit holes. When you come back, the shepherd and his brothers are lowering a ladder.
+[sk:Nature Lore]
+
+=== 2337
+You come upon a crowd of pilgrims on a wide plain, gathered round a well with a stone cross beside it. They are lowering a bucket, drawing it up and passing the water from hand to hand. The water is red.
+
+"Joseph's Well," a friar tells you. "They say Joseph of Arimathea rested here on his way to Glastonbury, and washed the holy vessel in it, and the water has run red ever since, like wine. It cures anything." He looks worried. "But since the Grail left Camelot, the water has been getting fainter. There is a cave at the bottom. Someone should go down and see."
+
+> You may climb down the well to the cave below. -> m237a
+> You may pray at the well for its healing to return. -> m237b
+
+=== m237a
+You tie a rope round your waist, and the pilgrims lower you down into the red dark.
+?? explore the holy cave beneath the well | Endure Hardship | 5
+++ At the bottom, the well opens into a cave, and the water runs through it from a crack in the chalk. You follow the stream on hands and knees until you find what has happened: a rockfall has half-blocked the spring. You shift the stones one by one, with your hands bleeding, and as the last one moves, the water gushes out red as rubies, and the whole cave fills with a scent of roses. When they haul you up, the pilgrims are shouting. The water in the bucket is as red as blood.
+[d:4 | sk:Wilderness | rn:Divinity+2]
+-- At the bottom, the well opens into a cave, and you follow the stream on hands and knees until the passage is too narrow to go on. You come up empty-handed, soaked red to the skin, and it does not wash off for a week.
+[sk:Endure Hardship]
+
+=== m237b
+You kneel at the edge of the well among the pilgrims and pray.
+?? pray for the holy well to run red again | Piety | 5
+++ You pray for the well, and for the pilgrims, and for the Grail, wherever it has gone. You pray for a long time. The pilgrims fall silent around you. Toward evening, an old woman with a crippled arm lowers the bucket and draws it up, and the water in it is red as wine, and when she drinks it, she lifts her arm above her head for the first time in ten years. The pilgrims fall on their knees. The friar looks at you strangely. "It was not me," you say. He does not believe you.
+[d:4 | sk:Spiritual | rn:Divinity+2 | st:+Esteemed]
+-- You pray for the well until dark, and the water that comes up is as pale as ever. The pilgrims drift away one by one. The friar sits beside you. "Sometimes," he says, "he is only waiting for someone else."
+[sk:Piety]
+
+=== 2437
+You come upon a family hiding in a hollow on a wide plain, crouched beside a hole in the chalk that drops away into darkness. There are a dozen of them: old people, women, children. Behind you, on the horizon, smoke rises from a burning village.
+
+"Saxons," says an old man. "They came at dawn. We ran. There are old caves under the plain, the dene-holes, where our grandfathers hid in the Pictish wars. We were going to go down. But the ladder is rotten." He looks up. "Riders."
+
+A troop of Saxon horsemen is coming over the rise.
+
+> You may hold off the Saxon riders while the family climbs down. -> m337a
+> You may help the family down into the caves and hide with them. -> m337b
+
+=== m337a
+You mount your horse and ride to the top of the rise, between the family and the Saxons.
+?? hold the rise against the Saxon horsemen | Warfare | 3+L
+++ There are eight of them, and one of you, but you have the high ground and the sun behind you, and you ride at them as though there were forty more knights behind the hill. They hesitate. You strike down the leader, and the rest wheel away, shouting, to find easier prey. When you ride back to the hollow, the family is gone, down into the dark. You hear a child's voice, very faint, calling thank you from under the ground.
+[d:L | sk:Martial | rn:Divinity+1 | rn:Romance+1]
+-- There are eight of them, and one of you. You hold them for a few minutes, long enough, you hope, and then a spear takes your horse, and you are running across the plain with Saxons behind you. You do not know if the family got down in time.
+[sk:Warfare | st:+Unhorsed | st:+Pursued]
+
+=== m337b
+You tie your own rope to a stone and lower the children down one at a time, then the women, then the old men. Then you send your horse galloping away across the plain, and climb down after them, pulling the rope in behind you.
+?? keep the family hidden and silent in the caves | Endure Hardship | 4
+++ The caves are cold and dark and full of old bones. You sit in the dark with twelve frightened people for a day and a night, with your hand over a baby's mouth when the Saxons ride past overhead. Nobody makes a sound. When you climb out the next evening, the Saxons are gone. The old man embraces you. Your horse, to your surprise, is grazing a mile away, waiting for you.
+[d:3 | sk:Wilderness | rn:Divinity+2]
+-- The caves are cold and dark. In the night, a child begins to cry, and will not stop, and you hear the Saxons stop overhead and laugh. They drop burning straw into the hole. You get the family out through a side passage, coughing, but you lose two of the old men to the smoke.
+[sk:Endure Hardship | st:+Despairing]
+
+=== 2249
+You come to an island of firm ground in a wide bog, where a cave opens under a hump of rock. Smoke curls out of it. Hanging round the entrance are strings of dried frogs, bundles of herbs and a great many small bones. A woman's voice calls out from inside. "Come in, knight. Mind the cauldron."
+
+Inside, by the fire, sits a crone with a face like a walnut, stirring a pot. "I am Mother Mallt," she says. "The village says I am a witch. They are right. They also say I stole the reeve's pig. They are wrong. They are coming tonight to burn me out." She taps her spoon on the rim of the pot. "I could turn them all into frogs. But I am old, and it is tiring, and there are so many frogs already."
+
+> You may defend Mother Mallt from the villagers. -> m149a
+> You may find the reeve's real pig-thief. -> m149b
+
+=== m149a
+You go out to the edge of the island as the torches come across the bog. There are twenty villagers, led by the reeve.
+?? turn the mob back without bloodshed | Diplomacy | 3+L
+++ You stand on the causeway and ask them what they will do if they are wrong. You ask the reeve's wife who cured her son's fever last winter, and she looks at her feet. You ask the blacksmith who set his broken arm. By the end, half the torches are going back across the bog. The reeve goes on shouting for a while, but nobody follows him. Mother Mallt watches from the cave mouth and gives you a charm on a string. "Against drowning," she says. "You never know."
+[d:L | sk:Courtly | rn:Divinity+1 | tr:1]
+-- You stand on the causeway and ask them what they will do if they are wrong. The reeve says they will say sorry. They push past you. By the time you have fought your way back to the cave, it is burning, and Mother Mallt is gone. Somewhere in the bog, a great many frogs are croaking.
+[sk:Diplomacy | st:+Accursed]
+
+=== m149b
+"Tell me about this pig," you say. The witch grins. "Fat, spotted, fond of apples," she says. "And it was stolen from a sty with a locked gate."
+?? track down the real pig-thief | Hunting | 4
+++ You go back to the village and look at the sty. The lock is not broken. It has been opened with a key. There is only one key, and it belongs to the reeve's nephew, who has a new spotted pig in his own sty two villages over. You bring the nephew and the pig to the reeve an hour before sunset. The torches are put out. Mother Mallt sends you a jar of salve that heals any cut overnight.
+[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You go to the village and look at the sty, and follow a trail of hoofprints out into the bog, and find a spotted pig, which is the wrong pig. By the time you get back, the torches are crossing the causeway.
+[sk:Hunting]
+
+=== 2349
+You come to an island of firm ground in a wide bog, where a cave opens under a hump of rock. Water has flooded the cave to the height of a man's waist. Standing in the water, up to his chest, is an old hermit, with his arms raised in prayer. His lips are blue with cold.
+
+"Do not come in," he says, through chattering teeth. "I am Brother Gwrgant. I have vowed to stand here until the waters go down or God takes me. The bog rose at Candlemas when the Grail left the land. The rivers are wrong everywhere now." He shivers violently. "I thought, if one man would stand in the flood and pray, God might send it back."
+
+The water in the cave is still rising.
+
+> You may pull the hermit out of the flooded cave. -> m249a
+> You may find the cause of the flood and drain the cave. -> m249b
+
+=== m249a
+You wade into the water and take the hermit by the arm. He struggles. "My vow," he says. "My vow!"
+?? convince the hermit that his vow is kept | Piety | 5
+++ "God took your vow," you say, "and sent me." The hermit stares at you. Then, slowly, his face crumples, and he lets you lead him out of the water. You build a fire and wrap him in your cloak. By morning, he is warm and weeping. "I think," he says, "I wanted to die, and called it prayer." Two days later, you hear, the bog begins to fall.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- "God sent me," you say. The hermit looks at you with contempt. "The devil also sends people," he says, and pulls away from you, and stands in the water with his arms raised. You cannot drag an old man from his prayers by force. You leave him there.
+[sk:Piety | st:+Despairing]
+
+=== m249b
+You leave the hermit praying and wade out into the bog, following the flow of the water. It is running into the island from somewhere.
+?? find the blocked outflow and drain the flood | Nature Lore | 3+L
+++ A mile across the bog, you find it: an old stone sluice, built by the monks who drained the bog a hundred years ago, blocked by a dead ox and a year of reeds. You spend the afternoon dragging the ox free. When it moves, the water rushes through with a roar. By the time you get back to the island, the water in the cave is down to the hermit's knees, and he is weeping and thanking God. You do not mention the ox. He would be disappointed.
+[d:L | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You wade out into the bog following the flow of the water, and lose your footing, and go under. You come up covered in weed and leeches, far from the island. By the time you find your way back, it is dark, and the hermit is up to his neck.
+[sk:Nature Lore | st:+Plague-Ridden]
+
+=== 2449
+You come to an island of firm ground in a wide bog, where a cave opens under a hump of rock. There are fresh hoofprints on the causeway, and the marks of something heavy being dragged. In the mouth of the cave, a man in the black and red of Mordred's household is sitting on an iron-bound chest, eating an apple.
+
+He jumps up when he sees you. "Stand off!" he says. "This is the king's business." His voice is shaking. "The king's treasure. King Mordred's. He sent me to hide it until the war is won." He looks at you uneasily. "You are not from the old king, are you? Everyone says the old king is dead."
+
+Through the cave mouth, you see three more chests, and a great deal of church plate.
+
+> You may seize Mordred's treasure. -> m349a
+> You may help the messenger hide the treasure for Mordred. -> m349b
+
+=== m349a
+"The old king," you say, "is not dead." The messenger's face goes white. He draws his sword.
+?? take the treasure from Mordred's man | Sword & Shield | 4
+++ He is no fighter. After three passes, his sword is in the bog and he is on his knees. You let him run. Then you look at the chests: coin, and plate, and a golden altar cross from Glastonbury. You take the cross to Glastonbury, where the monks weep. The coin you give to a village on the edge of the bog, which has had its cattle stolen by both sides. You keep one chest. It seems fair.
+[d:4 | sk:Martial | rn:Divinity+1 | tr:1]
+-- He is no fighter, but his friends are. They come out of the cave behind him, three of them, and you are driven back across the causeway into the bog. By the time you have struggled out, they have moved the treasure somewhere else.
+[sk:Sword & Shield | st:+Pursued]
+
+=== m349b
+"I am no friend of the old king," you say. The messenger sags with relief. "Then help me," he says. "There are more chests coming, and I am alone, and the bog is full of the old king's men."
+?? hide Mordred's treasure in the bog | Cunning | 3+L
+++ You help him sink the chests in a pool at the back of the cave, tied to stakes, where only someone who knew would find them. It takes all night. At dawn, the messenger gives you a purse of gold from the last chest and a letter with Mordred's seal. "The king will reward you," he says, "when he is king of all Britain." You look at the seal for a long time. It is a very good seal.
+[d:L | tr:2 | rn:Villainy+2]
+-- You help him sink the chests in a pool at the back of the cave. As you are tying the last one, a band of the old king's men comes across the causeway with torches. The messenger runs. You are caught with your hands full of Mordred's gold.
+[sk:Cunning | st:+Imprisoned | rn:Villainy+1]
+
+=== 2261
+As you ride along a cliff-top at low tide, you see a line of lanterns moving along the beach below, into a sea-cave at the foot of the cliff. Men are rolling barrels in from a boat. When you climb down to see, a grizzled woman with a cutlass steps out of the shadows. "Evening, sir knight," she says. "Grace Penhale. Honest trader." She jerks her head at the barrels. "French wine. The king's customs man wants a quarter of every barrel. We think that is too much."
+
+From further back in the cave, you hear another sound: a man crying out. Grace's face tightens. "That," she says, "is the customs man. He came poking about. We have not decided what to do with him."
+
+> You may free the customs man from the smugglers. -> m161a
+> You may help the smugglers and share their wine. -> m161b
+
+=== m161a
+"Let the man go," you say. Grace looks at you for a long moment. "And have him bring the sheriff?" she says. "I think not."
+?? rescue the customs man from the sea-cave | Hunting | 5
+++ You go back up the cliff as if you are leaving, and come down again by a goat-path at the far end of the beach, where the tide is still out. The back of the cave is dark. You find the customs man tied to a post and cut him free, and lead him out the back way, round the rocks, just as the tide turns. He is a small, frightened man called Master Colley. He is very grateful. You make him promise to take only a tenth next time. He promises. You think he might even mean it.
+[d:3 | sk:Wilderness | rn:Divinity+1 | rn:Any+1]
+-- You come down by a goat-path at the far end of the beach and creep into the back of the cave. But the tide comes in faster than you expected, and by the time you have cut the customs man loose, the only way out is through the smugglers. Grace grins at you. "Evening again, sir knight," she says.
+[sk:Hunting | st:+Imprisoned]
+
+=== m161b
+You look at the barrels. "What does the king want with a quarter of good French wine?" you ask. Grace laughs. "A man of sense," she says.
+?? help the smugglers land their cargo | Warfare | 3+L
+++ You take command of the landing as if it were a siege. You set a watch on the cliff, a boy on the headland with a lantern, and a line of men passing barrels, and by dawn the whole cargo is up the cliff and away on carts. Grace gives you two barrels and a French sword. As for the customs man, she lets him go, blindfolded, twenty miles inland. "No sense in murder," she says. "Bad for trade."
+[d:L | tr:1 | rn:Villainy+2]
+-- You take command of the landing. Unfortunately, the boy on the headland falls asleep, and the sheriff's men come along the cliff at dawn. You leave in a hurry, without the wine, down the beach and round the rocks, with your boots full of sea.
+[sk:Warfare | st:+Pursued | rn:Villainy+1]
+
+=== 2361
+As you ride along a cliff-top at dusk, you hear bells ringing from beneath the sea. The sound comes from a sea-cave at the foot of the cliff, deep and slow, like a church calling people to Mass. Kneeling on the rocks outside the cave, a fisherman is crossing himself over and over.
+
+"The drowned church of Llys Helig," he says. "The sea took it, and the town, a hundred years ago, for their sins. When the Grail was at Camelot, the bells were quiet. Since it left, they ring every night." He shivers. "And there is a voice. A woman singing in the cave. My son went in to see her a week ago. He has not come out."
+
+> You may go into the sea-cave to find the fisherman's son. -> m261a
+> You may pray for the drowned town so that its bells can rest. -> m261b
+
+=== m261a
+You climb down the rocks and wade into the cave. The water is cold and green, and the bells are very loud, and under them, you hear the singing.
+?? resist the sea-singer's enchantment | Magic | 5
+++ At the back of the cave, on a rock above the water, sits a woman with seaweed in her hair, singing, and at her feet sits a young fisherman, staring at her with empty eyes. The song pulls at you too. You stuff your ears with wax from a candle stub and walk straight to the boy, and lift him, and carry him out. The singer stops singing. As you go, she calls after you, very sadly, "They never stay." The boy wakes up on the beach in his father's arms and remembers nothing.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Any+1]
+-- At the back of the cave sits a woman with seaweed in her hair, singing, and you forget, for a while, why you came. When you come to your senses, the tide has turned, and you are sitting on the rock at her feet beside the boy. You have to swim for it, and you drag him out, but you are half-drowned by the time you reach the beach.
+[sk:Magic | st:+Ensorcelled]
+
+=== m261b
+You kneel on the rocks beside the fisherman. The bells ring out beneath the waves.
+?? pray for the souls of the drowned town | Piety | 4
+++ You pray for the people of Llys Helig, for their sins and their long drowning, and ask that they be allowed to rest. The fisherman prays with you. Near midnight, the bells ring one last time, very slowly, and stop. In the silence, you hear the singing in the cave stop too. A moment later, a young man comes stumbling out of the cave, soaking and confused, and his father runs to him across the rocks. Neither of them hears the bells again.
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- You pray for the drowned town until midnight. The bells go on ringing. The fisherman goes home alone. You ride on, and the bells ring in your dreams for a week.
+[sk:Piety]
+
+=== 2461
+As you ride along a cliff-top in the grey light of dawn, you see smoke rising from a sea-cave at the foot of the cliff, and the prow of a longship with a carved dragon's head just visible inside it. Saxons. You count their voices: twenty, perhaps more. They are singing and roasting sheep.
+
+A girl comes running along the cliff-path toward you. "They landed last night," she gasps. "They hide in the cave by day and raid by night. They burned Porthgwarra. Tonight it will be us." She points down the coast, to a little fishing village. "Our men are all gone to the war."
+
+> You may attack the Saxons in their sea-cave. -> m361a
+> You may prepare the village to defend itself tonight. -> m361b
+
+=== m361a
+You look down at the cave, and at the longship, and you have an idea.
+?? burn the Saxons' longship in the cave | Warfare | 6
+++ You wait until the tide is turning and the Saxons are asleep after their feast. Then you climb down the cliff with a torch and a bundle of oiled rags, and set fire to the dragon ship. It goes up like a haystack. The Saxons wake to find their only way home burning. They fight each other over the one small boat, and those who are left surrender to the village the next morning. You are given the dragon's head, which did not burn, and it is nailed over the door of the church for a hundred years.
+[d:5 | sk:Martial | rn:Romance+1 | rn:Any+1 | tr:1]
+-- You climb down the cliff with a torch, but a sentry sees you. The Saxons pour out of the cave, and you run for the cliff-path with arrows in the rock around you. That night, they raid the village anyway.
+[sk:Warfare | st:+Wounded | st:+Despairing]
+
+=== m361b
+You ride with the girl to the village and gather everyone left: old men, women, children, a priest. "They will come tonight," you say. "We will be ready."
+?? rally the village to hold against the Saxon raid | Martial | 5+A | total
+++ You spend the day teaching grandmothers to throw nets, boys to sling stones and the priest to ring the bell when he sees torches. You block the lane with upturned boats and pile seaweed on the thatch so it will not burn. When the Saxons come up from the beach at midnight, they walk into a village that fights back from every doorway. They lose five men in the lane and go back to their ship in disgust. At dawn, the village cheers you until your ears ring. The girl, whose name is Morwenna, ties a fishing charm to your bridle.
+[d:3+L | sk:Martial | rn:Any+1 | rn:Divinity+1]
+-- You spend the day teaching grandmothers to throw nets and boys to sling stones. When the Saxons come at midnight, the barricade of boats holds for a while, but then the thatch catches, and the villagers break and run for the church. You hold the church door until dawn, when the Saxons, laden with plunder, go back to the sea.
+[sk:Martial | st:+Wounded]

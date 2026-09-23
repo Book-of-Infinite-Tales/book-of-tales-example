@@ -1,0 +1,317 @@
+=== 1401
+You come upon a young woman walking along the road with a sword belted round her waist over a plain blue gown. The sword is far too big for her. Its scabbard drags in the dust behind her like a tail.
+
+"Do not trouble to ask," she says. "Everyone asks. My name is Morfudd. My lady, the Lady of Lisle, has sent me to find the best knight in Britain, and give him this sword. Only a knight without guile or treachery can draw it." She sighs. "I have been to Camelot. Twenty-six knights of the Round Table have tried. Nobody can draw it. Sir Kay pulled so hard he fell over." She holds out the hilt to you, a little wearily. "You may as well try. Everyone does."
+
+As you reach for it, she adds, more quietly, "They say it will bring great good to whoever draws it, and great grief. I do not know which comes first."
+
+> You may try to draw the damsel's sword. -> m01a
+> You may help Morfudd carry the sword on to the next town. -> m01b
+> You may ask Morfudd where the sword came from. -> m01c
+
+=== m01a
+You take hold of the hilt. It is cold, and it seems to shift slightly under your hand, as if it is deciding something.
+?? draw the sword from its scabbard | Honor | 6
+++ The sword slides out as easily as if it had been greased. It is a beautiful blade, grey as a winter river. Morfudd stares at you. "Oh," she says. "Oh, no. I mean, well done." She holds out her hands for it. "Now give it back, please. My lady only meant it to be drawn, not kept." But the sword does not want to go back in the scabbard, and you do not want to give it. "Then keep it," Morfudd says, very quietly, "and God help you." She walks away down the road without it.
+[d:4 | sk:Courtly | rn:Romance+1 | tr:1 | tok:19]
+-- You pull. Nothing happens. You pull harder, and the scabbard comes up off the ground and drags Morfudd forward with it, and she falls into a ditch. "Twenty-seven," she says, from the ditch.
+[sk:Honor]
+
+=== m01b
+"You should not be walking alone," you say. "Let me carry it." Morfudd hands it over gratefully. The sword is very heavy, much heavier than it should be. By the time you have gone a mile, you are sure it is getting heavier.
+?? carry the sword to the next town | Endure Hardship | 3+L
+++ You carry it the whole way, though your arms ache and your back aches and your horse will not let you put it across the saddle. At the town, Morfudd thanks you and asks every knight in the tavern to try the sword. None of them can. At the end of the evening, she comes to sit by you. "You did not try," she says. "Why not?" "I did not need to," you say. She smiles for the first time. "That," she says, "is a better answer than any of them."
+[d:L | sk:Wilderness | rn:Divinity+1]
+-- You carry it a mile, then two, then your arm gives out, and the sword falls in the road. When you try to pick it up again, you cannot lift it. Morfudd picks it up with one hand and walks on. "It does that," she says. "It does not like being carried by people who might want it."
+[sk:Endure Hardship]
+
+=== m01c
+Morfudd walks beside you for a while before she answers. "My lady had a brother," she says, "who was killed by a knight with two swords. My lady had a smith forge this sword from the dead brother's sword, and a witch put a charm on it. It will only come out of the scabbard for a knight with no guile in him, and when it does, it will look for the knight who killed her brother. It will not rest until it finds him." She looks at the ground. "My lady says that is justice. I think it is a trap. Whoever draws it will be drawn after it." She stops. "I do not want to give it to anyone, now. But my lady will beat me if I come home with it." You walk together to the next crossroads and she thanks you for listening.
+[d:1 | sk:Wisdom | rn:Divinity+1]
+
+=== 1402
+You come upon a small stone chapel on a hillside at dusk, where a young woman in a grey cloak is kneeling beside a new tomb. On the tomb lies a stone knight with his hands folded, and above it hangs a real shield and a gilded helm.
+
+"His name was Sir Brangor," she says, without getting up. "We were to be married at Lammastide. His own cousin killed him in a quarrel over a hawk." Her voice is very flat. "I am Ceinwen. I have kept vigil here for forty nights. Tonight, I have heard, men are coming from the village to take the gilded helm and the armour from his body. His cousin has told them there is gold in the coffin." She looks up at you with dry eyes. "I cannot stop them. I have a knife, but there will be six of them."
+
+> You may keep vigil beside Ceinwen and guard the tomb through the night. -> m02a
+> You may persuade Ceinwen to end her vigil and come away. -> m02b
+
+=== m02a
+"You will not keep vigil alone tonight," you say, and kneel down on the other side of the tomb. Ceinwen looks at you for a long moment. Then she bows her head. Around midnight, you hear footsteps on the hill.
+?? drive off the grave-robbers | Sword & Shield | 3+L
+++ There are six of them, with spades and a lantern, and they are expecting one grieving girl. They are not expecting you. You drive them back down the hill with the flat of your sword, and they run, and do not come back. At dawn, Ceinwen stands up for the first time in forty days. "I think he can rest now," she says. She takes the gilded helm from the wall and gives it to you. "He would want it used," she says, "by someone who would guard it."
+[d:L | sk:Martial | rn:Romance+2 | tr:1]
+-- There are six of them, with spades and a lantern, and they are more than you expected. You fight hard, but a spade catches you across the head, and when you come to, they are gone, and so are the helm and the shield. Ceinwen is sitting beside the broken tomb. She does not weep. That is somehow worse.
+[sk:Sword & Shield | st:+Wounded | st:+Despairing]
+?? shame the grave-robbers into leaving | Piety | 5
+++ When the six men come over the brow of the hill with their spades and their lantern, you stand up in the chapel door with a candle in your hand and speak to them in a loud, clear voice, about their mothers, and their priests, and the Day of Judgement, and the dead who will sit up in their graves to accuse them. They stop. One of them crosses himself. Then, one by one, they turn and go back down the hill. Ceinwen stares at you in wonder. "They will not come back," she says. "I think you have frightened them all to church."
+[d:3 | sk:Spiritual | rn:Divinity+2]
+-- When the six men come over the brow of the hill, you stand up in the chapel door and speak to them of the Day of Judgement. The biggest of them laughs and knocks the candle out of your hand. In the darkness, they pull down the helm and the shield and run, and one of them shouts over his shoulder that the Day of Judgement can come and find him.
+[sk:Piety | st:+Scorned]
+
+=== m02b
+"Forty nights is a long vigil," you say gently. "He would not want you to spend your life in this chapel." Ceinwen's hands tighten on her knife.
+?? persuade Ceinwen to leave the tomb | Diplomacy | 4
+++ You sit down beside her and talk about her Brangor, and she tells you about him: his laugh, his terrible singing, the hawk he was so proud of. After a while, she is almost smiling. You ask her if Brangor would want her to die for a gilded helm. "No," she says slowly. "He would say it was a very ugly helm, and I should let them have it." She comes away with you. The grave-robbers find the helm is painted wood. Brangor's cousin, you hear, is not pleased.
+[d:2 | sk:Courtly | rn:Romance+1]
+-- You sit down beside her and talk about her Brangor, but she does not want to talk. "You do not understand," she says. "If I leave, he will be alone." You leave her there. At dawn, you hear from a shepherd that there was fighting at the chapel in the night.
+[sk:Diplomacy | st:+Despairing]
+?? offer to bring the cousin to justice instead | Honor | 5
+++ "The helm does not matter," you say. "His cousin does. He killed Brangor and he sends robbers to his grave. Let me take him before the High King's justice." Ceinwen looks at you, and slowly, her face changes. She stands. "Yes," she says. "Yes. Take me with you." You ride together to Camelot, and before the whole court she tells her story. The cousin is sent on pilgrimage to Jerusalem, barefoot. Ceinwen enters the queen's household.
+[d:4 | sk:Courtly | rn:Divinity/Romance+2]
+-- "Let me take his cousin before the High King's justice," you say. Ceinwen laughs bitterly. "His cousin," she says, "is the High King's sheriff." She turns back to the tomb. You ride away feeling you have made a promise you had no means of keeping.
+[sk:Honor]
+
+=== 1403
+You come upon a young woman on the bank of a swollen river, holding a covered dish on a white cloth. The dish is very small, but she holds it with both hands, as though it were heavy. Her gown is white, and her feet are bare and cut from the stones.
+
+"Please," she says. "I must cross. I am Anfelise. I serve the maiden who carries the holy vessel at Corbenic. My lady sent me with this, to a hermit who is dying, and I must bring it to him before dawn." She looks at the brown water. "I must not set it down. I must not look under the cloth. And I cannot swim."
+
+The ford is deep and fast. On your side of the river, you notice, the grass is withered and brown. On hers, it is green.
+
+> You may carry Anfelise and the covered dish across the river. -> m03a
+> You may ask Anfelise to tell you about Corbenic and its king. -> m03b
+
+=== m03a
+"I will carry you both," you say. You lift her onto your horse's saddle, dish and all, and lead the horse into the water. The current is strong, and cold as death.
+?? bring the maiden across the flood without spilling the dish | Endure Hardship | 5
+++ Halfway across, your horse loses its footing and goes under. You catch the maiden by the arm and swim, one-handed, for the far bank, while she holds the dish above her head. When you crawl out onto the green grass, gasping, the cloth is still dry. Anfelise laughs through her tears. "You did not look," she says. "You could have. It was right in front of you." She lifts one corner of the cloth, and a light comes out of it like the sun on water, and you are warm, and dry, and not tired at all. "Now you know what he needs," she says. "Remember to ask."
+[d:4 | sk:Wilderness | rn:Divinity+2 | tok:15]
+-- Halfway across, your horse loses its footing and goes under. You grab for the maiden and the dish, and the cloth slips, and for an instant you see what is under it. You cannot say afterwards what it was. You wake on the far bank with the maiden gone and your eyes streaming, and for many days you cannot look at the sun.
+[sk:Endure Hardship | st:+Mad]
+
+=== m03b
+Anfelise sits down on a stone, holding the dish in her lap. "Corbenic is the castle of King Pellam," she says. "He was wounded long ago, through both thighs, with a spear that bleeds. He cannot die, and he cannot heal. The land is wounded with him. That is why the grass on your side is brown." She looks at the dish. "Every night the vessel passes through his hall, and every knight who has been brought there has sat and watched and eaten, and said nothing. They are too courteous. They think it would be rude to ask." She lowers her voice. "There is a question. If a knight asks it, the king will be healed. I am not supposed to tell anyone." She hesitates. Then she leans close and whispers it in your ear. It is so simple that you laugh. She smiles. "Yes," she says. "That is why nobody asks."
+[d:1 | sk:Wisdom | rn:Divinity+1 | tok:15]
+
+=== 1404
+You come upon a young woman sitting on a rock in a woodland pool, with her bare feet in the water and a large book open on her knees. She is reading very fast and muttering. An old man in a grey robe sits on the bank beside her, watching her with a look of great fondness.
+
+"Merlin," the young woman says, without looking up. "Go and fetch me some more of those mushrooms." The old man gets up obediently and shuffles into the trees. As soon as he is gone, she shuts the book and turns to you.
+
+"Quickly," she says. "I am Nimue, and I serve the Lady of the Lake. He has been following me for a year. He says he loves me. He teaches me everything I ask, because he hopes it will make me love him. I do not." Her eyes are very bright and hard. "I have nearly learned enough. There is a spell that will shut him in a cave of stone forever, where he cannot follow me any more. I need someone to hold him still while I say it." She looks at you. "Or you could run and tell him. I would understand. He is the High King's counsellor."
+
+> You may help Nimue cast her spell on Merlin. -> m04a
+> You may warn Merlin of what Nimue intends. -> m04b
+
+=== m04a
+"He should not follow a woman who does not want him," you say. Nimue smiles, a quick, fierce smile. "No," she says. "He should not."
+[tok:16]
+?? hold the old enchanter while Nimue speaks the spell | Magic | 6
+++ When Merlin comes back with the mushrooms, you take him by the arm and ask him a question about the stars. He is so pleased to be asked that he begins to answer, and while he is answering, Nimue begins to speak. The old man stops. He looks at her, and at you, and he understands. "Ah," he says. "Yes. I saw this, a long time ago." He does not struggle. The rock beside the pool opens like a door, and he walks into it, and it closes behind him. Nimue is shaking. "Thank you," she says. "The Lady of the Lake will remember you." She disappears into the pool.
+[d:4 | sk:Spiritual | rn:Villainy+1 | rn:Any+1]
+-- When Merlin comes back, you take him by the arm and ask him about the stars. He smiles and begins to answer, and while he is answering, Nimue begins to speak. Then Merlin looks at you, and says one word, and you find you cannot move. "You are not the first to try," he says kindly. "Nor the last." He leads Nimue away by the hand. You stand in the pool, frozen, until the sun goes down.
+[sk:Magic | st:+Ensorcelled]
+?? distract Merlin while Nimue prepares | Cunning | 5
+++ When Merlin comes back with the mushrooms, you ask him to tell you how he moved the great stones from Ireland to Salisbury Plain. His eyes light up, and he tells you, in enormous detail, for an hour. He does not notice Nimue drawing a circle round him on the grass with her toe. At the end of the story, the rock beside the pool opens, and Merlin turns, and sees, and sighs. "Oh, well done," he says to her, and walks into the stone. Nimue throws her arms round your neck. "The Lady of the Lake," she says, "owes you a great deal."
+[d:4 | sk:Courtly | rn:Villainy+1 | rn:Romance+1]
+-- When Merlin comes back with the mushrooms, you ask him to tell you how he moved the great stones to Salisbury Plain. He looks at you, and then at Nimue, and smiles. "Ah," he says. "Nimue, dear, your friend is a terrible liar." Nimue curses. Merlin takes her arm, and they walk off together into the trees, and you are left holding the mushrooms.
+[sk:Cunning | st:+Scorned]
+
+=== m04b
+You follow Merlin into the trees and find him on his knees among the mushrooms. "She means to shut you in a cave," you tell him. Merlin sighs and gets up. "I know," he says. "I have always known."
+?? persuade Merlin to save himself | Wisdom | 5
+++ "If you know," you say, "why stay?" Merlin is silent for a long time. "Because I am old," he says at last, "and I have seen everything that will happen, and she is the only thing I cannot see." But you talk to him of Arthur, and the realm, and all that is still to be done, and at last he takes off his grey cloak and gives it to you. "Give her this," he says, "and tell her I have gone north." He walks away into the forest. Nimue, when you give her the cloak, is furious. The High King, when he hears, is not.
+[d:4 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+-- "If you know," you say, "why stay?" Merlin smiles at you, very kindly. "Because it is going to happen," he says, "whatever you say." He goes back to Nimue. You watch them walk away together into the trees. Much later, you hear that the old man has vanished, and that no one in Britain will ever see him again.
+[sk:Wisdom | st:+Despairing]
+
+=== 1405
+You come upon a tournament field outside a small castle, with pavilions of every colour and a crowd of townsfolk on the banks. A young lady in green, with a wreath of daisies, is sitting on a painted stand, looking as though she would rather be anywhere else.
+
+She beckons you over. "I am Rhiannedd," she says. "My father has promised my hand to the winner of this tournament. There are three knights left. One is Sir Harry le Fitz Lake, who is rich and fat and sixty. One is Sir Brian of the Forest, who beats his squires. And one is Sir Ywain the Poor, who has one horse and one shield and has written me eleven songs." She blushes. "Sir Ywain will lose. He always loses. But if you enter," she lowers her voice, "and knock out the other two, and then let Sir Ywain knock you off your horse, nobody need ever know."
+
+> You may enter the tournament and throw the final joust to Sir Ywain. -> m05a
+> * You may enter the tournament and win Rhiannedd's hand for yourself. -> m05b
+
+=== m05a
+"For eleven songs," you say, "I will lose with pleasure." Rhiannedd claps her hands. The herald enters your name, and you ride out onto the field.
+?? unhorse the two rivals and fall convincingly to Ywain | Mounted | 5
+++ You unhorse Sir Harry on the first pass, which is not hard, and Sir Brian on the third, which is. Then you ride against Sir Ywain the Poor. He is so nervous that his lance is shaking. You angle your shield, just so, and his lance strikes it, and you throw yourself backwards off your horse with a tremendous clatter. The crowd roars. Ywain stares at you in astonishment. Rhiannedd runs out onto the field and kisses him. As you are being helped up, she winks at you over his shoulder.
+[d:4 | sk:Martial | rn:Romance+2]
+-- You unhorse Sir Harry on the first pass. But Sir Brian's lance takes you under the arm on the second, and you go over your horse's tail in earnest. Sir Brian goes on to beat Sir Ywain the Poor into the mud. Rhiannedd does not look at you as you are carried off.
+[sk:Mounted | st:+Unhorsed | st:+Despairing]
+?? persuade her father to let the poor knight have her | Diplomacy | 5
+++ Instead of entering, you take Rhiannedd's father aside, a plain, worried old lord, and tell him plainly what his daughter wants. He is surprised. "Nobody asked her," he says. "It never occurred to me." He watches Sir Ywain the Poor, who has just been thrown for the third time and is climbing back into the saddle for the fourth. "He does not give up, does he?" says the old lord. By sundown he has cancelled the final joust and announced the betrothal. Sir Harry is relieved. Sir Brian is not.
+[d:3 | sk:Courtly | rn:Romance+1 | rn:Divinity+1]
+-- Instead of entering, you take Rhiannedd's father aside and tell him what his daughter wants. He is furious. "My daughter," he says, "does not choose her husband. She chooses her gown." He has you escorted from the field. Sir Brian wins the tournament.
+[sk:Diplomacy | st:+Scorned]
+
+=== m05b
+You enter the lists in your own name. Rhiannedd watches you ride out onto the field with a look of dawning horror.
+??* win the tournament and claim the lady's hand | Romance | 4
+++ You beat Sir Harry, and Sir Brian, and Sir Ywain the Poor, whose lance shakes in his hand. The crowd cheers you to the echo. When you ride to the stand to claim your prize, Rhiannedd looks at you for a long, long moment. "You are famous," she says at last, slowly. "And you are not sixty. And you do not beat squires." She sighs. "Very well." Sir Ywain writes a twelfth song, which is very sad.
+[d:3 | rn:Romance+1 | st:+Betrothed | n:If you are Betrothed, gain 1 Rank of Villainy]
+~~2 You beat Sir Harry and Sir Brian, and then Sir Ywain the Poor, whose lance shakes. But when you ride to claim your prize, Rhiannedd has gone, and so has Sir Ywain, and so has his one horse. Her father is purple. You are given a silver cup instead.
+[d:2 | rn:Romance+1]
+-- You beat Sir Harry, but Sir Brian beats you, and goes on to win. Rhiannedd weeps. You do not feel that you have covered yourself in glory.
+[st:+Smitten]
+
+=== 1407
+You come upon a young woman sitting in a churchyard at noon, on a grave with no name on it, combing her long hair and singing to herself. She is barefoot and dressed in a shroud.
+
+"Oh!" she says, when she sees you. "Can you see me? Most people cannot. I am dead, you see. I am Tegwen. I died at Michaelmas, of a fever." She pats the grave. "This is mine. They were not sure what to write." She smiles. "I like it here. It is very quiet."
+
+The priest comes hurrying out of the church, wringing his hands. "She is not dead," he says. "She had the fever, and she lay three days like one dead, and her mother laid her out for burial. On the third night she woke up in her shroud, and now she says she died and came back wrong. She will not go home. She eats the bread from the altar. Her mother cannot look at her." He lowers his voice. "The village says she is a revenant. They say she should be burned."
+
+> You may try to convince Tegwen that she is alive. -> m07a
+> You may try to protect Tegwen from the frightened villagers. -> m07b
+
+=== m07a
+You sit down on the grass beside her. "Tegwen," you say, "the dead do not eat bread. Tell me what it was like, when you woke up."
+?? coax Tegwen back to the living | Wisdom | 5
+++ She tells you about the fever, and the dark, and waking in the shroud with the candles burning low and her mother asleep in the chair. She thought she was dead, because she could not believe anyone would have laid her out otherwise. As she talks, you ask her small things. Is she cold? Is she hungry? Does her foot hurt where she stubbed it on the gravestone? Yes, she says, and yes, and yes. Slowly, a new look comes into her face. "Oh," she says. That evening, her mother comes into the churchyard and holds her, and the two of them walk home together.
+[d:4 | sk:Spiritual | rn:Divinity+2]
+-- She tells you about the fever and the dark. You ask whether she is cold, and she says no. You ask whether she is hungry, and she says no. You ask whether her foot hurts, and she says she cannot feel it. You leave her singing in the churchyard, and you do not know, any longer, which of you is right.
+[sk:Wisdom | st:+Mad]
+
+=== m07b
+You stand up and look at the priest. "Who says she should be burned?" you ask. The priest glances toward the churchyard gate, where men are gathering with torches, though it is broad daylight.
+?? turn the mob away from the churchyard | Diplomacy | 3+L
+++ You go out to meet them. They are frightened men, not wicked ones, and you talk to them about the fever, which has killed half the valley, and about their own daughters. At last the blacksmith, who seems to lead them, puts down his torch. "If she is a revenant," he says, "she is a very quiet one." They go home. Before you leave, you persuade Tegwen's mother to come to the churchyard. That is a harder thing, but when she sees her daughter singing in the sun, she weeps, and goes to her.
+[d:L | sk:Courtly | rn:Divinity+1 | rn:Romance+1]
+-- You go out to meet them, but they are frightened men, and frightened men do not listen. They push past you into the churchyard. You fight them off, and in the struggle, a torch falls onto the dry grass. When the smoke clears, Tegwen is gone. You search for her for a day, and do not find her.
+[sk:Diplomacy | st:+Despairing]
+?? take her away from the valley before the mob comes | Mounted | 4
+++ You lift Tegwen onto your saddle, shroud and all, and ride out through the back of the churchyard just as the torches come in at the front. She laughs all the way. "I have never ridden a horse," she says. "Do the dead ride horses?" You take her to a convent three valleys away, where the nuns have seen fevers before and are not frightened. After a month, she writes you a letter. *I have decided I am alive after all*, it says. *It is more interesting.*
+[d:3 | sk:Martial | rn:Divinity+1]
+-- You lift Tegwen onto your saddle and ride out through the back of the churchyard, but your horse takes fright at her shroud and throws you both into a ditch. The mob catches up. They take Tegwen away, and you do not know where, and nobody will tell you.
+[sk:Mounted | st:+Unhorsed]
+
+=== 1410
+You come upon a young woman on a rock above a castle, looking down at the smoke of the kitchens with an expression of great concentration. In her lap is a small clay pot, stoppered with wax. She jumps when she sees you and covers it with her skirt.
+
+"You are a knight," she says. "Good. You can tell me whether knights will think this is honourable, or not." She is fair and freckled and very young. "My name is Eluned. My sister was taken last year by the giant Carnwen, who lives in the hills above this castle. The castle's steward, Sir Loholt, sold her to the giant for a hundred sheep and a promise that the giant would leave his lands alone." She uncovers the pot. "This is hemlock. Tonight is the steward's feast day. I am to serve the wine. I have thought it all through." She looks up at you. "Is it honourable?"
+
+> You may help Eluned carry out her poisoning. -> m10a
+> You may stop Eluned and challenge the steward yourself. -> m10b
+
+=== m10a
+You look at the pot, and at the castle, and at Eluned's face. "It is not honourable," you say. "But it is just." Eluned lets out a long breath. "Then will you help me?" she asks. "The steward's men will be watching."
+?? help Eluned slip the poison into the steward's cup | Cunning | 5
+++ At the feast, you sit at the steward's table as a guest and talk loudly and cheerfully about tournaments while Eluned moves behind the benches with the wine jug. The steward drinks, and laughs, and drinks. By the time the dancing begins, he is dead in his chair, and the castle is in uproar. You and Eluned slip out in the confusion. At the edge of the wood, she gives you her mother's ring. "It is done," she says. Her face is white and cold, and very old.
+[d:5 | sk:Courtly | rn:Villainy+2 | tr:1]
+-- At the feast, you sit at the steward's table and talk loudly while Eluned brings the wine. But the steward has a food-taster, and the food-taster is not a fool. He sniffs the cup and shouts, and in a moment Eluned is seized. You fight your way out of the hall and escape into the night. You hear, a week later, what was done to her.
+[sk:Cunning | st:+Pursued | st:+Despairing | rn:Villainy+1]
+
+=== m10b
+You take the pot from her gently and pour the hemlock out on the rock. Eluned cries out and tries to stop you. "It is not the way," you say. "Let me go to him."
+?? challenge Sir Loholt before his own household | Sword & Shield | 5
+++ You walk into the steward's feast and throw your gauntlet down among the dishes. "You sold a maiden to a giant for a hundred sheep," you say, loudly, so every guest can hear. The steward goes pale and calls for his sword. You fight him in the middle of his own hall, and when he falls, his household does not lift a hand for him. Then, with Eluned beside you, you go up into the hills. The giant Carnwen, it turns out, has married Eluned's sister, and is very sorry about the whole business. The sisters are reunited, weeping, in the giant's kitchen.
+[d:4 | sk:Martial | rn:Romance+2 | rn:Divinity+1]
+-- You walk into the steward's feast and throw your gauntlet down among the dishes. Sir Loholt does not fight you. He shouts for his guards, and six men pile on you at once. You spend the next week in his dungeon. Eluned, you hear later, found another pot of hemlock.
+[sk:Sword & Shield | st:+Imprisoned]
+?? climb to the giant's hall and rescue the sister yourself | Endure Hardship | 3+L
+++ The giant's hall is on a crag three hours' hard climb above the castle. You make it, with Eluned beside you, by dusk. The giant Carnwen opens the door. He is very large and very worried, and Eluned's sister, standing behind him with a ladle, is not a captive at all. "He has been ever so kind," she says. "I only wanted to send word." The two sisters fall on each other's necks. Eluned throws her pot of hemlock off the crag. The steward, when he learns he has lost his hundred sheep, is inconsolable.
+[d:L | sk:Wilderness | rn:Divinity+1 | rn:Romance+1]
+-- The giant's hall is on a crag three hours' hard climb above the castle. Halfway up, the rock gives way under your hands, and you fall twenty feet onto a ledge. By the time you have got your breath back, it is dark, and Eluned has gone back down the mountain with her pot.
+[sk:Endure Hardship | st:+Wounded]
+
+=== 1412
+You come upon a nunnery in a green valley, where a young nun with ink-stained fingers comes running out of the gate to meet you, clutching a scroll covered with circles and figures.
+
+"You are going to Camelot?" she asks breathlessly. "Please. I am Sister Branwen. I keep the library here. I have been reckoning the stars for three years, and I have found something." She unrolls the scroll. "There is a great conjunction coming. In a certain year, in May, the High King will fight a battle on a plain, against his own blood, and neither of them will live." She is shaking. "Nobody will believe me. The abbess says a nun has no business looking at the stars. But somebody must tell the king."
+
+> You may carry Sister Branwen's warning to the High King. -> m12a
+> You may stay and study the stars with Sister Branwen. -> m12b
+
+=== m12a
+You take the scroll. "I will see he hears it," you say. Branwen gives you a look of pure gratitude, and something else. "He will not listen," she says. "They never do. That is part of the reckoning too."
+?? bring the warning to the High King's attention | Diplomacy | 5
+++ At Camelot, you are shown into the High King's presence in the evening. He reads the scroll slowly, while Merlin looks over his shoulder. Then he rolls it up. "Merlin told me this," he says, "when I was a boy. Now a nun tells me." He is quiet for a long time. "I will remember it," he says. "Thank her. And tell her," he adds, "that she may look at all the stars she likes." Sister Branwen, when you tell her, laughs and weeps together.
+[d:3 | sk:Courtly | rn:Divinity+1 | rn:Any+1]
+-- At Camelot, you ask to see the High King and are passed from steward to chamberlain to Sir Kay, who reads the scroll and laughs. "A nun's stars," he says. "The king has a wizard for that." He throws it in the fire. You ride back to the nunnery and tell Sister Branwen. She only nods. "It is part of the reckoning," she says.
+[sk:Diplomacy | st:+Despairing]
+
+=== m12b
+"Show me how you reckoned it," you say, getting down from your horse. Branwen stares at you, and then she smiles for the first time. "Nobody has ever asked," she says.
+?? learn the reckoning of the stars | Wisdom | 5
+++ You spend three nights on the nunnery roof with her, lying on your backs under the sky while she names the stars and shows you how they move. By the end, you can reckon a little yourself. On the last night, she shows you the conjunction. It is there. You check her figures twice. When you ride away, you carry something that you will never be able to forget, and you know a great deal more about the sky than any knight at Camelot.
+[d:3 | sk:Spiritual | rn:Divinity+1]
+-- You spend three nights on the nunnery roof, lying on your back while she names the stars. On the second night it rains. On the third night you fall asleep. Branwen is very patient, but when you leave, you know no more than you did, and you have a cold.
+[sk:Wisdom | st:+Plague-Ridden]
+
+=== 1413
+You come upon a pavilion by a crossroads, hung with a painted board: *A Knight of Great Renown Challenges All Comers. Prize: One Hundred Marks.* Before it sits a pretty young woman on a stool, taking names on a wax tablet.
+
+"Good day," she says, beaming. "I am Lady Gwennol, the knight's herald. The fee to enter is five marks. My knight is resting now, but he will joust with you at noon." She holds out her hand for the fee.
+
+You glance into the pavilion. On a stand inside is a suit of fine armour, with nobody in it. Behind the pavilion, three burly men are playing dice beside a heap of saddles, harness and purses. When you look back, Gwennol is watching you, still smiling. "He is very shy," she says. "Five marks."
+
+> You may expose Lady Gwennol's false challenge. -> m13a
+> You may join Lady Gwennol's scheme for a share of the takings. -> m13b
+
+=== m13a
+"There is no knight," you say. "There are three thieves behind your tent, and a stack of other men's saddles." Gwennol's smile does not waver. "Prove it," she says.
+?? unmask the scheme before the gathered knights | Cunning | 4
+++ You pay your five marks with a smile and ask to see the knight's shield, for the heraldry. Gwennol brings it. You turn it over. It is painted on the front and blank on the back, and still smells of fresh paint. By then a crowd of waiting knights has gathered. They search the pavilion and find the three dice-players and a great deal of stolen harness. Gwennol and her friends are marched to the sheriff. On the way, she turns and blows you a kiss. "It was a good scheme," she says. "You were just better."
+[d:3 | sk:Courtly | rn:Any+1 | tr:1]
+-- You pay your five marks with a smile and ask to see the knight's shield. Gwennol goes into the pavilion to fetch it and does not come out. When you go in after her, the back of the tent is cut open, and she and her friends and your five marks are gone.
+[sk:Cunning]
+?? drive off the three thieves | Sword & Shield | 3+L
+++ You walk round the back of the pavilion. The three dice-players look up and reach for their cudgels. The fight is short, and at the end of it, the thieves are running across the field, and Gwennol is sitting on her stool looking resigned. You return the saddles and purses to the knights they were taken from. Gwennol, you let go, since she asks very prettily, and she promises to find honest work. You do not believe her.
+[d:L | sk:Martial | rn:Romance+1]
+-- You walk round the back of the pavilion. The three dice-players reach for their cudgels, and there are three of them, and they are better at this than you expected. When you wake up, your saddle is on the heap with the others.
+[sk:Sword & Shield | st:+Unhorsed]
+
+=== m13b
+You lean down and whisper. "What share for a knight who stands in the armour?" Gwennol's eyes light up. "Half," she says. "You can joust?"
+?? play the knight of great renown | Mounted | 4
+++ For a week, you are the Knight of Great Renown. You joust with every knight who pays the fee, and beat most of them, and those you do not beat, Gwennol's friends deal with behind the tent. The takings are enormous. At the end of the week, Gwennol splits the money fairly and packs up the pavilion. "You are wasted on chivalry," she tells you, and kisses you on the cheek, and is gone before the sheriff arrives.
+[d:4 | tr:2 | rn:Villainy+2]
+-- You put on the empty armour and ride out at noon against a young knight with a very determined look. He is Sir Gareth of Orkney, and he unhorses you on the first pass. When he lifts your visor and sees who you are, he is not angry. He is only disappointed, which is much worse. Gwennol has already fled.
+[sk:Mounted | st:+Scorned | rn:Villainy+1]
+
+=== 1415
+You come upon a young woman standing in the middle of a village street, turning slowly round and round, as though she has lost something. She is dressed in a gown of a fashion you have only seen in old tapestries, and there are flowers in her hair that have not yet wilted.
+
+"Where is my father's house?" she asks you. "It was here. There was a yew tree, and the smithy, and the church had a wooden spire." There is a stone church with a stone spire, and no yew tree. The villagers are gathering, staring. "My name is Angharad," she says. "I went to dance with the fair folk on the hill last night. I only stayed for one dance." An old woman in the crowd gasps and crosses herself. "Angharad," she says. "My great-grandmother's sister was called Angharad. She went up the hill one May Eve, and never came back."
+
+> You may help Angharad find what remains of her family. -> m15a
+> You may take Angharad back to the faerie hill to ask for her lost years. -> m15b
+
+=== m15a
+"Come," you say gently. "Let us find your kin." Angharad looks at you with bewildered eyes and takes your arm.
+?? trace Angharad's family through the parish | Wisdom | 4
+++ The priest has an old book of baptisms, and you sit with him for an afternoon, following names from father to son and mother to daughter. By evening, you have found her kin: the old woman in the crowd, and her grandchildren, and a great-great-niece who has Angharad's own red hair. They take her in. The old woman sits with her by the fire, and they talk about the yew tree that was cut down, and the smithy that burned. When you leave, Angharad is holding a baby and laughing.
+[d:3 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1]
+-- The priest has an old book of baptisms, but the old pages have been eaten by mice, and you cannot find the names. The villagers are frightened of Angharad and do not want her. In the end she walks out of the village toward the hill, and does not look back.
+[sk:Wisdom | st:+Despairing]
+?? persuade the frightened villagers to take her in | Diplomacy | 4
+++ The villagers are frightened of her. You talk to them about their own great-grandmothers, and about how any of them might dance too long on a May Eve. The old woman speaks up for her. At last a farmer's wife says she could use another pair of hands, and that is how Angharad stays. She marries, in the end, and her children are said to be very lucky, and to hear music in the hills that nobody else can hear.
+[d:3 | sk:Courtly | rn:Divinity+1]
+-- The villagers are frightened, and when you speak for her, they become more frightened of you. A stone is thrown. You ride away with Angharad on your saddle and leave her at the next convent. You never learn what became of her.
+[sk:Diplomacy]
+
+=== m15b
+"Let us go to the hill," you say. "If they took a hundred years from you, they can give them back." Angharad looks up at the green hill above the village and shivers.
+?? bargain with the fair folk for Angharad's years | Magic | 6
+++ At twilight, you go up the hill together and knock on the side of it three times with the pommel of your sword. A door opens where there was no door, and a lady in silver comes out. You bargain with her all night: courtesy for courtesy, riddle for riddle. At dawn, the lady laughs and gives in. When you come down the hill, there is a yew tree in the village, and a smithy, and a church with a wooden spire. Angharad runs down the street to her father's house. Nobody but you and she remembers any of it.
+[d:5 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1 | st:+Blessed]
+-- At twilight, you go up the hill and knock on the side of it three times. A door opens, and a lady in silver comes out, and looks at Angharad with delight. "You came back," she says. "Come and dance." Angharad goes. You try to follow, and the door closes on your hand. When you come down the hill, you do not know how long you were up there. Nobody in the village knows your name.
+[sk:Magic | st:+Lost]
+
+=== 1420
+You come upon a castle beside a sycamore wood, and you notice the trees before you notice the castle. From the branches of the sycamores hang forty knights in full armour, with their shields about their necks. A horn hangs from the tallest tree.
+
+A maiden leans out of a high window. "Go back!" she calls. "I am Lyonesse, and I am besieged by the Red Knight of the Red Lands. He has hanged every knight who came to save me. He sleeps in that red pavilion." She points. "At noon, his strength increases until he is as strong as seven men. At dawn, he is only as strong as one." She looks at the sky. It is an hour before noon. "Please," she says. "Go back, or wait until dawn."
+
+> You may blow the horn and challenge the Red Knight now. -> m20a
+> You may wait until dark and steal into the castle to bring the lady out. -> m20b
+
+=== m20a
+You put the horn to your lips and blow a long, hard blast. The red pavilion shakes. The Red Knight comes out, fastening his helm. He is enormous, and he is laughing.
+?? fight the Red Knight as his strength grows toward noon | Sword & Shield | 6
+++ You fight until the sun is overhead, and you feel every blow he strikes grow heavier. You fight on past noon, when the Red Knight is as strong as seven men, and you are sure you will die. But he has not fought a real opponent in a year, only boys who came to die, and he tires. At the second hour after noon, he stumbles, and you are on him. He yields. Lyonesse comes down from her tower and opens the gate with her own hands. The forty knights are cut down and buried, and the Red Knight is sent to Camelot in chains.
+[d:5 | sk:Martial | rn:Romance+2 | tr:1]
+-- You fight until the sun is overhead, and every blow he strikes is heavier than the last. At noon, he beats your shield down onto your helm and you fall. He does not hang you. He looks down at you, and at the lady in the window. "Go and tell them at Camelot," he says, "that the Red Knight still waits." You go, bleeding.
+[sk:Sword & Shield | st:+Wounded | st:+Scorned]
+
+=== m20b
+You nod to the lady and ride back into the wood, as though you are leaving. At dusk you come back on foot, keeping to the shadows under the hanged knights.
+?? creep past the Red Knight's watch into the castle | Hunting | 3+L
+++ You slip past the red pavilion, where the Red Knight lies snoring as loud as seven men, and climb the ivy on the castle's north wall. Lyonesse is waiting at her window. She comes down the ivy after you, in her shift, with her skirts tied up, and together you creep back through the wood. At dawn, when the Red Knight is as weak as one man, you come back with a dozen knights from the next town. He does not put up much of a fight.
+[d:L | sk:Wilderness | rn:Romance+2]
+-- You slip past the red pavilion and climb the ivy on the castle's north wall. Halfway up, the ivy tears away from the stones, and you fall into the moat with a tremendous splash. When you come up, the Red Knight is standing on the bank with a lantern. He is smiling.
+[sk:Hunting | st:+Imprisoned]

@@ -1,0 +1,413 @@
+=== 2505
+You come to Corbenic, the castle of King Pellam, on the night of a great feast. The hall is hung with gold, and the king sits at the high table, old and stately, with a bleeding spear hung on the wall behind him in a silver bracket. Beside you at the lower table sits a haggard knight with two swords at his belt. You know him: Sir Balin, whom they call the Knight of Two Swords.
+
+If you have Story Token #19, turn immediately to [[p2505x]].
+
+If you have Story Token #15, turn immediately to [[p2505y]].
+
+As the meat is served, a knight you cannot see strikes Balin across the face, and laughs. "Garlon," Balin hisses. "The king's brother. He rides invisible. He has killed two men I swore to protect." His hand is on his sword. "I will kill him here, at his own brother's table."
+
+> You may restrain Sir Balin before he draws. -> p2505a
+> You may challenge the invisible knight yourself, by the old law of hospitality. -> p2505b
+
+=== p2505x
+The sword at your side, the damsel's sword, begins to shake in its scabbard. Across the table, Balin looks at it and goes white. "It is looking for someone," he whispers. Then Garlon, invisible, strikes Balin, and Balin draws and kills him at the table, and King Pellam roars and seizes a sword and comes at Balin, and Balin's sword breaks, and he runs, unarmed, through the castle, looking for a weapon.
+
+Your own sword drags you after him. Through rooms full of treasure, up a stair, into a chamber where a bleeding spear hangs over a silver table. Balin reaches for it.
+?? stop Balin from striking the Dolorous Stroke | Sword & Shield | 7
+++ You throw yourself between Balin and the spear, and the damsel's sword leaps out of its scabbard of its own accord and strikes Balin's hand aside. The spear stays on the wall. King Pellam, bursting into the room behind you, stops dead. Balin falls to his knees, weeping. The damsel's sword goes quiet in your hand, as if it has done what it was made for. Pellam, very slowly, lowers his own blade. "You have saved my kingdom," he says, "and you do not know how much." It will be many years before you understand what he meant.
+[d:7 | sk:Martial | rn:Divinity+3 | st:+Blessed | tr:Holy Lance | n:Lose Story Token #19]
+-- You throw yourself between Balin and the spear, but the damsel's sword twists in your hand and drags you aside, and Balin seizes the spear and strikes. The castle shakes. Walls fall. When you crawl out of the rubble three days later, the land around Corbenic is dust, and you know that the sword wanted exactly this.
+[sk:Sword & Shield | st:+Doomed | st:+Wounded]
+
+=== p2505y
+You look at the bleeding spear on the wall, and at the old king beneath it, and you remember the question a maiden once whispered to you by a flooded river. It is not yet time for it. But you rise from the lower table, and cross the hall, and kneel before King Pellam, and ask him quietly whom his vessel serves.
+
+The old king looks at you for a long time. The hall has gone silent. "Not yet," he says at last, softly. "It is not yet wounded. But it will be. When it is, come back, and ask me again." He lifts you up. At that moment, across the hall, Balin draws on the invisible Garlon, and you run to stop him, and you are in time. Garlon lives. Balin is sent out of the castle with his two swords. But the old king has marked your face, and so has the spear.
+[d:5 | rn:Divinity+2 | sk:Spiritual | st:+Blessed]
+
+=== p2505a
+You put your hand on Balin's sword-arm. "Not here," you say. "Not at the king's table. It is death to draw at a feast."
+?? hold Balin back from his vengeance | Diplomacy | 6
+++ You talk to him quietly while the hall laughs and eats around you. You remind him of his brother, and of the curse he carries, and of what happens to knights who break the peace of a king's hall. At last, trembling, he lets go of his sword and gets up and walks out of the hall and into the night. Garlon's laughter follows him. You do not know what you have prevented. You feel, as you ride away from Corbenic the next day, as though the ground under you has sighed with relief.
+[d:6 | sk:Courtly | rn:Divinity+2]
+-- You talk to him quietly, but Garlon strikes him again, invisibly, and Balin tears his arm from your grip and draws. What follows, you will remember all your life: the invisible knight falling, the king's rage, Balin fleeing unarmed through the castle, and then a stroke that shakes the world. You escape Corbenic as the walls fall.
+[sk:Diplomacy | st:+Despairing | st:+Wounded]
+
+=== p2505b
+You rise from your place. "King Pellam," you call, "a knight at your table strikes your guests from behind. By the law of hospitality, I ask you to make him show himself."
+?? shame the invisible knight into the open | Honor | 6
+++ The hall goes silent. King Pellam frowns. Then he lifts his hand. "Garlon," he says. "Show yourself, brother." For a long moment, nothing happens. Then a knight in black appears beside Balin, red with anger. The king looks at him with disgust. "Go to your chamber," he says, "and do not come to my table again." Garlon goes. Balin sits down, shaking. King Pellam sends you a cup from his own table, and bids you visit again. You feel, under your feet, that something has been turned aside.
+[d:6 | sk:Courtly | rn:Divinity+1 | rn:Romance+2]
+-- The hall goes silent. King Pellam frowns. "My brother," he says, "does as he pleases in my hall." Garlon laughs, invisible, and strikes you across the face. You are put out of the castle. Behind you, you hear Balin draw his sword.
+[sk:Honor | st:+Scorned]
+
+=== 2517
+You come to Corbenic in the Grail year, across a land that has turned to dust. The castle stands on a rock above a dry river. Its gate is open. In the hall, an old king lies on a litter by the fire, with a wound in his thighs that bleeds and bleeds and never stops. He greets you with great courtesy and bids you sit.
+
+If you have Story Token #15, turn immediately to [[p2517x]].
+
+As you eat, a procession passes through the hall. A squire carrying a spear with a drop of blood running down its point. Two squires with golden candlesticks. And a maiden carrying something covered in white samite, so bright that the candles go pale. It passes you, and goes out of the far door, and nobody speaks. The old king watches you, waiting. Everyone is waiting.
+
+> You may keep a courteous silence as the procession passes. -> p2517a
+> You may ask the old king about the bleeding spear. -> p2517b
+> You may kneel and pray as the covered vessel passes. -> p2517c
+
+=== p2517x
+You remember the maiden by the flooded river, and what she whispered in your ear. It is so simple that you laugh aloud, and the whole hall turns to look at you.
+
+You rise, and go to the old king on his litter, and kneel, and ask him: "Whom does the Grail serve?"
+
+The old king looks at you. His eyes fill with tears. "Nobody has asked," he says. "In twenty years, nobody has asked." He tells you the answer, and it is the simplest thing in the world. As he speaks, the blood stops running down the spear. The wound in his thighs closes. Outside, you hear rain, for the first time in years, falling on the dust.
+
+The maiden comes back into the hall, and uncovers the vessel, and you see it, just for a moment, before the light is too bright. When you can see again, the old king is standing, for the first time in twenty years, and weeping, and embracing you.
+[d:8 | rn:Divinity+3 | sk:Spiritual*2 | st:+Blessed | st:+Monarch | n:Lose Story Token #15 | n:Every other Knight gains 1 Rank of Divinity, for the land is healed]
+
+=== p2517a
+You say nothing. The procession passes. You eat. It would be discourteous, you think, to ask a king about his troubles at his own table.
+?? keep a knight's perfect courtesy | Honor | 5
+++ You keep your silence, and the old king watches you all evening, and at the end of the feast, he thanks you for your courtesy with great sorrow. In the morning, you wake in a field of dust, and the castle is gone. You understand, too late, what you should have done. But the old king has left you a gift beside your pillow: a silver dish, very plain, with a drop of red wine in the bottom that never dries.
+[d:4 | sk:Courtly | rn:Divinity+1 | tr:1 | st:+Determined]
+-- You keep your silence. In the morning, you wake in a field of dust, and the castle is gone, and a hermit on the road tells you that you have failed the greatest test of your life, and that you will not be given it again.
+[sk:Honor | st:+Despairing]
+
+=== p2517b
+"My lord," you ask, "why does the spear bleed?" The old king closes his eyes. The hall goes quiet.
+?? ask about the spear and hear its story | Wisdom | 6
+++ "It is the spear of Longinus," the old king says, "which pierced the side of the Lord on the cross. A knight struck me with it long ago, in rage, and made this land a desert." He opens his eyes. "You asked about the spear. That is nearly the right question. Nearly." He smiles at you, sadly. "Someone will ask the right one. Perhaps he will have heard of you, and how close you came." In the morning, the castle is gone. But in the field of dust, where it stood, there is a single green shoot.
+[d:5 | sk:Spiritual | rn:Divinity+2]
+-- "My lord," you ask, "why does the spear bleed?" The old king looks at you with great weariness. "That is not the question," he says. In the morning, the castle is gone.
+[sk:Wisdom | st:+Despairing]
+
+=== p2517c
+You rise from the table and kneel on the stone floor as the covered vessel passes. The maiden carrying it pauses beside you.
+?? kneel in the presence of the Grail | Divinity | 5
+++ She pauses beside you, and the light from under the cloth falls on your face, and for a moment, you are warm, and fed, and forgiven, and everything you have ever lost is given back. Then she walks on. The old king is weeping. "You knelt," he says. "Almost nobody kneels." In the morning, the castle is gone. But you are not hungry for three days, and your wounds are healed.
+[rn:Divinity+2 | d:6 | st:+Blessed | n:You may remove 1 unwanted Status Card]
+~~3 She pauses beside you, and the light falls on your face, and you feel it for a moment, like sun through a closed eyelid. Then she walks on. In the morning, the castle is gone.
+[rn:Divinity+1 | d:3]
+-- She does not pause. She walks past you, and the light does not fall on you. In the morning, the castle is gone.
+[st:+Despairing]
+
+=== 2529
+You come to Corbenic in the last years, across a land that is green again. The castle stands above a river full of water. Its gate is open. There are no guards. In the hall, an old king lies in a bed by the fire, very old and very peaceful, with no wound. It is Pellam. His people are gathered round his bed.
+
+"The vessel has gone," he says, when he sees you. "It went over the sea to Sarras, with the knight who found it. My land is healed. My wound is healed. And now I may die, which I have wanted for a long time." He smiles at you. "But the spear is still here." He points at the wall, where a spear hangs, clean and bright, no longer bleeding. "The High King is going to his last battle. He will need it. Or perhaps he will not. I cannot decide."
+
+> You may keep the deathwatch with King Pellam. -> p2529a
+> You may ask King Pellam for the spear to carry to the High King. -> p2529b
+
+=== p2529a
+You sit down by the old king's bed. His people make room for you.
+?? keep the Fisher King's deathwatch | Piety | 5
+++ You sit with him all night. He tells you, in a whisper, what the vessel looked like, uncovered, the one time he saw it. You do not repeat it to anyone. Near dawn, he takes your hand. "Tell them," he says, "that the waiting was worth it." He dies smiling. The castle bell rings by itself. His people bury him in the chapel, and the next morning, the castle is empty, and the gate is shut, and it will not open for you again. But you carry his words with you.
+[d:6 | sk:Spiritual | rn:Divinity+3]
+-- You sit with him all night, but you fall asleep near dawn. When you wake, he is dead, and his people are weeping, and you did not hear what he said at the end.
+[sk:Piety]
+
+=== p2529b
+"My lord," you say, "the High King fights for Britain. The spear that healed it should be with him." The old king looks at you for a long time.
+?? persuade the Fisher King to part with the Holy Lance | Wisdom | 6
+++ "It did not heal Britain," he says. "It wounded it. The healing came after." But he looks at you, and sees something in your face. "Take it," he says at last. "Not to fight with. To remind him." You carry the spear to the High King's camp. He takes it, and weighs it in his hand, and does not use it. But on the last day, you see it in his hand as he goes out onto the plain.
+[d:6 | sk:Spiritual | rn:Divinity+1 | rn:Romance+2 | tr:Holy Lance]
+-- "It is not for war," says the old king. "Nor for you." He turns his face to the wall. You leave Corbenic empty-handed.
+[sk:Wisdom]
+
+=== 2506
+You come to Morgan's castle, a tower of white marble on an island in a lake, where the swans are black and the water is warm. The gate opens before you knock. In the hall, Morgan le Fay sits on a silver throne, with four knights kneeling in chains before her. She is laughing.
+
+"Little knight!" she cries. "Welcome. These are four of my brother's best. I have told them they may go free if one of them will be my lover. None of them will." She pouts. "They are very dull."
+
+If you have Story Token #13, turn immediately to [[p2506x]].
+
+The four knights look at you with desperate eyes.
+
+> You may challenge Morgan to free the four knights. -> p2506a
+> * You may offer Morgan your company in place of the captives. -> p2506b
+
+=== p2506x
+Morgan stops laughing. "Ah," she says. "You. You carried my mantle once. You owe me a favour." She holds out a sword in a jewelled scabbard. It looks exactly like Excalibur. "My brother's sword is at Camelot. Take this one there, and put it in its place, and bring the real one to a knight called Accolon, at the Fountain of the Two Sycamores. That is all. Then we are quits."
+
+She is still smiling. The four knights are watching you.
+?? decide how to pay Morgan's debt | Villainy/Divinity | 4
+++ You look at the false sword. Then you look at Morgan. "No," you say. "Ask me for anything else." Her face goes still. For a long moment you think she will kill you. Then she laughs, and throws the false sword into the lake. "Very well," she says. "I will ask you for something else. One day." She frees the four knights, because she is bored of them, and sends you away. You are not quits. But you are not a traitor either.
+[rn:Any+2 | d:5 | n:Lose Story Token #13]
+~~2 You take the false sword and ride away, and throw it in the first river you come to. Morgan will know. You will be paying for it for a long time.
+[d:2 | st:+Accursed | n:Lose Story Token #13]
+-- You take the false sword to Camelot, and make the exchange, and carry Excalibur to Accolon. You do not know, until the High King nearly dies fighting Accolon with a sword that breaks, what you have done.
+[rn:Villainy+2 | d:3 | st:+Pariah | n:Lose Story Token #13]
+
+=== p2506a
+"Let them go," you say. Morgan raises an eyebrow. "Or?"
+?? break the enchantress's hold over the captive knights | Magic | 6
+++ You do not fight her. You speak to the chains. You know the old words for iron, and for binding, and you speak them backwards, one after another, while Morgan watches with her head on one side, amused and then not amused. The chains fall. The four knights stand up. Morgan claps her hands, slowly. "Very good," she says. "Very, very good." She lets them go, and you with them, and as you go, she tosses you a stone from her throne, green and warm. "Something to remember me by," she says.
+[d:6 | sk:Spiritual | rn:Divinity+1 | rn:Romance+1 | tr:Stone of Giramphiel]
+-- You speak to the chains, and they do not listen. Morgan laughs until she cries. "Oh, little knight," she says. She adds you to the collection. You are there a month before she gets bored.
+[sk:Magic | st:+Imprisoned]
+
+=== p2506b
+You look at the chained knights, and at Morgan. "Let them go," you say, "and I will stay."
+??* win Morgan le Fay's favour | Romance | 5
+++ Morgan looks at you with delight. "Now that," she says, "is not dull." She frees the four knights with a wave of her hand. You stay with her for a week. It is a strange, wonderful, frightening week, and at the end of it, she lets you go, with a kiss and a ring. "Come back when you are bored of my brother," she says. You find that you think of her more often than you should.
+[rn:Romance+2 | d:5 | tr:1 | st:+Ensorcelled | n:If you are Betrothed, gain 1 Rank of Villainy]
+~~3 Morgan looks at you, and sighs. "Kind," she says, "but not interesting enough." She frees one of the four knights anyway, for your trouble.
+[rn:Romance+1 | d:2]
+-- Morgan laughs. "You?" she says, and looks you up and down as though you were a horse she had no intention of buying. She keeps the four knights, and sends you away across the warm lake in a boat rowed by a black swan, which bites you twice on the way.
+[st:+Scorned]
+
+=== 2518
+You come to Morgan's country in the Grail year, and find it has become a valley ringed with mist. At its entrance, a stone says: *The Valley of No Return. Whoever has been false in love shall not leave.* Inside the valley, through the mist, you see knights dancing in a meadow, round and round, with blank faces. Some of them have been dancing for years.
+
+Morgan sits on a rock at the valley's mouth, eating cherries. "My brother's knights," she says, "have been so busy with their holy quest that they have forgotten their ladies. So I made this for them." She spits out a stone. "You may go in, if you like. If you have always been true, you may walk out again. If not…" She shrugs.
+
+If you have Story Token #13, turn immediately to [[p2518x]].
+
+> You may walk into the Valley of No Return. -> p2518a
+> You may try to break Morgan's enchantment on the valley. -> p2518b
+
+=== p2518x
+Morgan stops eating cherries. "You," she says. "You owe me." She points into the valley with a cherry stem. "There is a knight in there who was false to me, a long time ago. Sir Accolon. He is not dancing. He is sitting by the stream, weeping. Bring him out to me."
+
+You walk into the valley. The mist closes round you. You find Accolon by the stream, and bring him out, and Morgan looks at him for a long time. Then she touches his face, very gently, and he wakes from his weeping and looks at her, and they walk away into the mist together without a word to you. On the rock, she has left the cherries, and a note: *Quits.*
+[d:5 | rn:Romance+2 | n:Lose Story Token #13]
+
+=== p2518a
+You walk past the stone into the valley. The mist closes round you. You hear music, faint and sweet.
+?? walk through the valley with a true heart | Romance | 5
+++ You walk through the meadow among the dancers, and the music pulls at you, and you do not dance. On the far side of the valley, you find the way out, and as you step through it, the mist behind you tears like cloth, and all the dancers stop, and blink, and look round, and begin to walk out after you. Two hundred knights come out of the Valley of No Return that day. Morgan, on her rock, stops eating cherries. "Well," she says. "Someone was true." She does not sound entirely displeased.
+[rn:Romance+2 | d:7 | st:+Esteemed | st:+Beloved]
+~~3 You walk through the meadow, and the music pulls at you, and you nearly dance, but you do not. You come out on the far side. The dancers do not follow.
+[rn:Romance+1 | d:3]
+-- You walk into the meadow, and the music takes you, and you dance. You dance for a month, until a stranger walks through and breaks the spell.
+[st:+Ensorcelled | st:+Lost]
+
+=== p2518b
+You look at the stone, and the mist, and at Morgan. "Your spell," you say, "is cruel." "Yes," she says. "Try to break it."
+?? unmake the Valley of No Return | Magic | 7
+++ You kneel at the stone and read its words, and read them again, and find the flaw: *whoever has been false in love*. You call out into the mist the name of every knight you know is dancing there, and remind each one of the lady he left, and why. One by one, they stop dancing, and weep, and walk out. The mist thins, and tears, and is gone. Morgan watches, with a cherry halfway to her mouth. "That," she says, "was not how it was meant to be broken." She gives you a green sash, woven with her own hands, and tells you to go away.
+[d:7 | sk:Spiritual | rn:Divinity+2 | tr:Green Sash]
+-- You kneel at the stone and try to read its spell, and the words crawl on the stone like ants, and you cannot. The mist reaches out and takes you. You dance for a week.
+[sk:Magic | st:+Ensorcelled]
+
+=== 2530
+You come to Morgan's castle in the last years, and find it hung with black. On the shore of the lake, a black barge is being made ready, with black sails and no oars. Morgan le Fay is standing on the shore, directing her women, and she is weeping.
+
+"He is going to die," she says, when she sees you. "My brother. On the plain, in a week. I have seen it in every water in this castle." She wipes her eyes, fiercely. "I have hated him all my life. I have tried to kill him four times. And now I am going to carry him to Avalon, and heal him if I can, and I do not know why." She looks at you. "You have come to ask what I am doing. Well. I am doing this."
+
+If you have Story Token #13, turn immediately to [[p2530x]].
+
+> You may help Morgan make the barge ready. -> p2530a
+> You may warn Morgan that you do not trust her with the king. -> p2530b
+
+=== p2530x
+Morgan looks at you across the black barge. "You still owe me," she says. "Here is what I want. When you see him fall, do not stay to fight. Come to the lake. Help me lift him into the barge. I cannot do it alone. I will not ask any of my women to see him like that."
+
+You nod. You do not trust yourself to speak. Morgan looks away. "Then we are quits," she says. "And more than quits." She presses something into your hand: a skein of grey thread. "For crossing," she says. "Water, or anything else. Use it once."
+[d:5 | rn:Divinity+1 | rn:Romance+1 | tr:Skein of Crossing | n:Lose Story Token #13]
+
+=== p2530a
+"What can I do?" you ask. Morgan looks at you, surprised. Then she hands you a coil of black rope.
+?? prepare the barge for the king's last voyage | Endure Hardship | 5
+++ You work with her women all night: rigging the black sails, laying the cushions, lighting the lamps. Morgan works beside you, silent. At dawn, the barge is ready, and she sits down on the shore and puts her face in her hands. You sit beside her. After a while, she says, "Thank you," without looking up. When you leave, she gives you a cup of Avalon water. "For when he falls," she says. "Give it to him. It will not save him. It will help."
+[d:5 | sk:Wilderness | rn:Divinity+1 | rn:Romance+1 | tr:1]
+-- You work with her women all night, but you tangle the black sails, and Morgan loses her temper and sends you away. From the far shore, you see her standing alone by the barge, weeping.
+[sk:Endure Hardship]
+
+=== p2530b
+"You have tried to kill him four times," you say. "Why should I trust you with him now?" Morgan's face goes very still.
+?? test the truth of Morgan's grief | Wisdom | 6
+++ You ask her questions, and she answers them. Why now? Because he is dying, and she does not want him to die. Why Avalon? Because it is the only place where he might live. What does she want? Nothing. She wants nothing. You look into her face for a long time, and you believe her. "Go, then," you say. "I will tell no one." She laughs, a little brokenly. "Nobody would believe you," she says.
+[d:5 | sk:Spiritual | rn:Divinity+2]
+-- You ask her questions, and she answers them, and you do not believe a word. She sees it. "Then go," she says, "and tell them all. And when he dies on the plain, and there is no barge, remember it was you."
+[sk:Wisdom | st:+Despairing]
+
+=== 2507
+You come across the cold sea to Orkney, to King Lot's hall of grey stone on a green island full of sheep and wind. The hall is loud with feasting. King Lot sits at the high table with his queen Morgause, laughing, and round them play their young sons, wild red-haired boys, wrestling on the rushes.
+
+If you have Story Token #1, turn immediately to [[p2507x]].
+
+King Lot looks at you with his grey wolf's eyes. "A knight of the beardless boy," he says. "Come to spy on me? Or to fight me?" Queen Morgause laughs and pats the bench beside her. "Or to dine," she says. "Sit, knight. My husband's bark is worse than his bite." Lot does not look as though his bite is very gentle either.
+
+> You may try to persuade King Lot to make peace with the young High King. -> p2507a
+> You may accept King Lot's challenge to wrestle his champion. -> p2507b
+> * You may sit with Queen Morgause and court her favour. -> p2507c
+
+=== p2507x
+King Lot rises from his seat when he sees you, and comes down the hall, and embraces you in front of everyone. "My friend!" he roars. "My knight! Who rode with me to Bedegraine!" He sits you at his right hand, and pours your wine himself, and tells the whole hall how you fought. Queen Morgause looks at you with new interest. The young red-haired boys stare at you in awe.
+
+Before you leave, Lot takes you aside. "I will rise again," he says. "Next spring. Will you ride with me?" You tell him you will think about it. He gives you a gold arm-ring, and a horse, and a promise that Orkney does not forget its friends.
+[d:6 | rn:Villainy+2 | tr:2 | n:Lose Story Token #1]
+
+=== p2507a
+You sit at the high table. "My lord," you say, "the young king does not want your crown. He wants your friendship."
+?? persuade King Lot to make peace | Diplomacy | 7
+++ You talk long into the night. You speak of the Saxons, and of his sons, who will have to choose sides one day. You tell him the young king has asked about them, by name, and would like to foster them at his court. At that, Lot goes quiet, and looks at his boys wrestling on the floor. Morgause puts her hand on his arm. At last he says, "One son. The youngest. Gareth. He is too gentle for Orkney. Let him go to Camelot." It is not peace. But it is the beginning of one.
+[d:6 | sk:Courtly | rn:Divinity+1 | rn:Romance+2]
+-- You talk long into the night, but Lot drinks more and more, and at last he throws a bone at you and roars that the beardless boy can come and fight him if he wants Orkney. You leave in the morning, with the wind in your face.
+[sk:Diplomacy | st:+Scorned]
+
+=== p2507b
+"I did not come to fight you, my lord," you say. "But if you want a fight, I will not refuse." Lot laughs and bangs the table. "Wrestle my champion," he says. "Sigurd! Come here!" A man the size of a small house stands up.
+?? wrestle King Lot's champion | Endure Hardship | 6
+++ Sigurd throws you twice. The third time, you do not let him lift you. You hang on, and hang on, and hang on, until he is gasping, and then you trip him, and he falls like a tree, and you sit on his chest. The hall roars. The young red-haired boys are cheering you. King Lot laughs so hard he has to hold the table. "A knight who does not give up!" he cries. "I like that. I like that very much." He sends you home with a gift of Orkney silver, and a message for the young king that is almost polite.
+[d:6 | sk:Wilderness | rn:Romance+1 | rn:Any+2 | tr:1]
+-- Sigurd throws you three times, and the third time, you do not get up. The boys are very disappointed. King Lot sends you home with a message for the young king that is not polite at all.
+[sk:Endure Hardship | st:+Wounded]
+
+=== p2507c
+You sit down beside Queen Morgause. She pours you wine, and looks at you over the rim of her cup with laughing eyes.
+??* court the Queen of Orkney | Romance | 5
+++ You talk with her all evening, and she laughs at your jokes, and tells you stories about the old Orkney kings that make you blush. King Lot does not seem to mind; he is busy with his wine and his sons. At the end of the evening, Morgause gives you a brooch from her gown. "Come back to Orkney," she says, "when my husband is away." You are not sure whether she means it. You are not sure you want to find out.
+[rn:Romance+2 | d:5 | tr:1 | st:+Beloved | n:If you are Betrothed, gain 1 Rank of Villainy]
+~~3 You talk with her all evening, and she is amused, but only just. "You are sweet," she says, and turns to talk to someone else.
+[rn:Romance+1 | d:2]
+-- You talk with her all evening, and King Lot notices. He does not seem to mind until the end, when he throws you out of his hall.
+[st:+Scorned]
+
+=== 2519
+You come across the cold sea to Orkney in the Grail year, and find the grey hall in uproar. Queen Morgause is dead. She was found in her bed at dawn with her throat cut, and Sir Lamorak, who was with her, fled naked through the window. Her son Sir Gaheris is sitting on the steps of the hall with a bloody sword across his knees, staring at nothing.
+
+If you have Story Token #17, turn immediately to [[p2519x]].
+
+"She shamed us," Gaheris says, when he sees you. "She shamed us all. I meant to kill him. I killed her." His voice is empty. "My brothers will come. They will kill Lamorak. And then, perhaps, they will kill me." He looks up at you. "What would you do?"
+
+> You may take Gaheris to answer for his mother's death before the High King. -> p2519a
+> You may help Sir Lamorak escape from Orkney before the brothers come. -> p2519b
+
+=== p2519x
+Gaheris looks up, and sees you, and something wild comes into his eyes. "You," he says. "You fought me once. For him. For Lamorak." He stands up, with the bloody sword. "My brothers are coming. They will want to know who helped him."
+
+You are on an island in the cold sea, in a hall full of Orkney men, with Orkney's blood-feud written against your name. You leave that hall very fast, and you do not stop until you are on a fishing boat halfway to Caithness, with the Orkney men watching from the shore.
+[sk:Endure Hardship | st:+Pursued | st:+Scorned]
+
+=== p2519a
+"You must answer for it," you say. "Before the High King. Not before your brothers." Gaheris looks at you for a long time.
+?? bring Gaheris to the High King's justice | Honor | 6
+++ He comes with you. He does not speak all the way across the sea, and all the way to Camelot. Before the High King, he tells everything. The High King, who was his mother's brother, listens with his face grey. At last, he banishes Gaheris from court for a year, and sends him on pilgrimage to Rome. It is a mercy, and a hard one. Gaheris kneels to you before he goes. "Thank you," he says, "for not letting me run." Lamorak is not killed, that year.
+[d:6 | sk:Courtly | rn:Divinity+2 | rn:Romance+1]
+-- He comes with you as far as the shore, and then he turns and walks away across the island, and you cannot stop him. When his brothers come, they find Lamorak three weeks later, on a road in the south, and kill him. The feud begins.
+[sk:Honor | st:+Despairing]
+
+=== p2519b
+You look at Gaheris, and at the sea, and at the ships that will bring his brothers. "Where is Lamorak?" you ask.
+?? get Sir Lamorak off the island | Hunting | 5
+++ You find him hiding in a sea-cave on the far side of the island, naked and freezing and weeping for Morgause. You give him your cloak, and find a fishing boat, and row him to Caithness through the night. At dawn, he stands on the shore and grips your hand. "I loved her," he says. "I truly did." He goes south, to hide in Benwick. Orkney's brothers hunt for him for a year, and do not find him, and the story is that you saved him.
+[d:5 | sk:Wilderness | rn:Romance+2 | st:+Pursued]
+-- You find him in a sea-cave on the far side of the island, but his pursuers find him too. You fight beside him on the rocks. He escapes. You are captured, and it takes a long time to get free.
+[sk:Hunting | st:+Imprisoned]
+
+=== 2531
+You come across the cold sea to Orkney in the last years, and find the grey hall hung with black. There is nobody at the high table. In the hall, an old woman is sitting by the fire, spinning, alone. She was the nurse of Queen Morgause's sons, when they were boys.
+
+If you have Story Token #17, turn immediately to [[p2531y]].
+
+If you have Story Token #7, turn immediately to [[p2531x]].
+
+"All gone," she says, when she sees you. "Agravain killed in the queen's chamber. Gaheris and Gareth killed at the burning, with no swords in their hands. My eldest boy at Benwick, fighting, and they say he will not come home." She stops spinning. "Four boys I raised. Wild red-haired things." She looks at you. "Tell me something about them. Anything. Nobody comes here any more to tell me anything."
+
+> You may tell the old nurse what you know of her boys. -> p2531a
+> You may carry the old nurse's words to her last son at Benwick. -> p2531b
+
+=== p2531x
+You sit down by the old nurse's fire. "I knew Gareth," you say. "On the road, when he was Beaumains, with Lynette. In his kitchen apron."
+
+The old woman puts down her spinning. "Tell me," she says.
+
+You tell her everything: the bridge, the pastry, the rusty sword, the slow smile. You tell her how he ate. She laughs until she weeps. When you finish, she gets up, slowly, and goes to a chest, and brings out a little wooden sword, very worn. "His," she says. "He made it when he was six. He always said he would be a knight without anyone knowing whose son he was." She puts it in your hands. "You knew him," she says. "Keep it."
+[d:6 | rn:Divinity+2 | rn:Romance+2 | tr:1 | n:Lose Story Token #7]
+
+=== p2531y
+The old woman looks at you, and her face hardens. "I know your name," she says. "My Gaheris wrote it on his list. You fought him once." She points at the door with her spindle. "Get out of this hall."
+
+You go. On the shore, the Orkney fishermen watch you as you wait for a boat, and none of them will speak to you, and the wind is very cold.
+[sk:Honor | st:+Scorned]
+
+=== p2531a
+You sit down by the fire. The old nurse waits.
+?? comfort the old nurse with memories of her boys | Honor | 4
+++ You tell her what you know: stories of the Orkney brothers at court, at tournaments, at feasts. You tell her the good things and leave out the bad. You tell her about Gareth's kindness, and Gaheris's courage, and even about Agravain's terrible handwriting. She listens, rocking, smiling through her tears. At the end, she takes your hand. "They were good boys," she says. "Whatever anyone says. They were good boys." She gives you a brooch that belonged to Queen Morgause. "She would want a knight to have it," she says.
+[d:5 | sk:Courtly | rn:Divinity+1 | rn:Romance+1 | tr:1]
+-- You try to tell her about them, but everything you know ends in blood. She hears it in your voice. "Go," she says gently. "It is all right. Go."
+[sk:Honor | st:+Despairing]
+
+=== p2531b
+"Your eldest is alive," you say. "Give me a message for him, and I will carry it across the sea."
+?? carry the nurse's message to Benwick | Endure Hardship | 5
+++ She thinks for a long time. Then she says, "Tell him to come home. Tell him his old nurse says the vengeance is not worth it. Tell him I am waiting." You carry it across the sea to the siege of Benwick, and find the great knight of Orkney in his tent, with his wounds, and tell him. He weeps like a child. He does not come home. He dies at Dover, landing with the king. But before he dies, he writes a letter to the queen's champion, asking forgiveness. You never know if the nurse's words were why.
+[d:6 | sk:Wilderness | rn:Divinity+2]
+-- You carry her message across the sea to Benwick, but the great knight of Orkney will not see you. "Tell her," he sends out, "that I will come home when they are all dead." You do not go back to Orkney to tell her.
+[sk:Endure Hardship | st:+Despairing]
+
+=== 2508
+You come to the great stones on Salisbury Plain at sunset in the Golden Age, and find Merlin sitting on the altar stone, eating an apple, with a harp across his knees. The stones glow faintly in the dusk, as though they had been warmed all day.
+
+"Ah," he says. "You. I thought you would come." He plays a single note on the harp. The stones answer it, humming. "I brought these from Ireland," he says, "for Uther's grave, and his brother Aurelius's, and every British lord the Saxons murdered at the peace-feast. The stones sing, if you know how to play them." He holds out the harp. "Would you like to try? Or would you rather I told you your future? I have been told I am quite good at that."
+
+> You may try to play the stones with Merlin's harp. -> p2508a
+> You may ask Merlin to tell you your future. -> p2508b
+
+=== p2508a
+You take the harp. It is lighter than you expected, and the strings are warm.
+?? play the singing stones of the Giant's Dance | Magic | 6
+++ You pluck a string, and the stone nearest you hums. You pluck another, and another, and slowly, clumsily, you begin to play. The stones answer, one after another, round the whole circle, until the air is thick with music and the ground is shaking under you. When you stop, Merlin is looking at you with real respect. "Nobody has played them but me," he says, "since Ireland." He does not take back the harp. He gives you his staff instead, to lean on, because your legs are trembling.
+[d:7 | sk:Spiritual*2 | rn:Any+2 | tr:Staff of Merlin]
+-- You pluck a string, and the stone nearest you shrieks, and every stone in the circle shrieks with it. You drop the harp and cover your ears. When the noise stops, Merlin is laughing, and your ears ring for a week.
+[sk:Magic | st:+Wounded]
+
+=== p2508b
+"Tell me my future," you say. Merlin puts down his apple and looks at you with his old, bright eyes.
+?? bear the hearing of Merlin's prophecy | Wisdom | 5
+++ He tells you. He tells you of battles and loves and a long road, and a plain at the end of it, in the rain. He tells it plainly, without riddles, which is somehow worse. At the end, he picks up his apple again. "Now you know," he says. "It will not help. It never helps. But you will be braver, I think, for knowing it. Most are." You ride away from the stones at midnight, and you are not afraid.
+[d:5 | sk:Spiritual | rn:Any+1 | st:+Determined]
+-- He tells you, and you cannot bear it. You stop him halfway. He shrugs. "Most do," he says. You ride away from the stones not knowing the end, and wishing you had heard it.
+[sk:Wisdom | st:+Despairing]
+
+=== 2520
+You come to the great stones on Salisbury Plain in the Grail year, and find a crowd of pilgrims camped among them. In the middle of the circle, the altar stone has cracked in two, and from the crack, a light is coming up, pale and steady.
+
+"It cracked on Pentecost," an old pilgrim tells you, "the moment the vessel passed through Camelot. The light has come up out of it ever since." She looks at you. "They say that under the altar stone is buried Aurelius, Uther's brother, the first king to fight the Saxons. They say the light is his soul, waiting for the vessel to pass this way." She lowers her voice. "Some of the young men want to lift the stone and see."
+
+> You may lift the altar stone and look beneath it. -> p2520a
+> You may keep the pilgrims from disturbing the king's grave. -> p2520b
+
+=== p2520a
+You take hold of one half of the cracked altar stone. Three young pilgrims take the other. You heave.
+?? lift the stone and look upon the buried king | Divinity | 5
+++ The stone lifts. Beneath it lies an old king in bronze armour, with his hands folded on a sword, and his face as fresh as if he had just died. The light comes from his chest. As you look, he opens his eyes, and looks at you, and smiles. "Not yet," he says, in a voice like wind in the grass. "But soon. Tell my nephew's son to be ready." He closes his eyes. You lower the stone very gently. The light goes on shining through the crack.
+[rn:Divinity+2 | d:6 | st:+Blessed | sk:Wisdom]
+~~3 The stone lifts. Beneath it lies an old king in bronze armour, sleeping. The light comes from his chest. You lower the stone, gently, without waking him.
+[rn:Divinity+1 | d:3]
+-- The stone lifts, and the light goes out, and beneath it there is only dust. The pilgrims groan. You have woken nothing, and put something out.
+[st:+Despairing | st:+Accursed]
+
+=== p2520b
+You step into the middle of the circle, between the young men and the cracked stone. "This is a king's grave," you say. "Leave it be."
+?? guard the king's grave through the night | Warfare | 5
+++ The young men argue, but you stand your ground, and at last they go back to their fires. You keep watch all night by the cracked stone. Near dawn, the light from the crack grows brighter, and brighter, until the whole circle is lit as if by the sun. Then it fades, and the crack is closed, and the stone is whole again. The pilgrims fall on their knees. The old pilgrim woman kisses your hands. "It has gone to meet the vessel," she says. "You let it go in peace."
+[d:5 | sk:Martial | rn:Divinity+2]
+-- The young men do not argue. They push past you, and you fight them, and in the struggle, somebody knocks over a torch, and the grass in the circle catches fire. When it is out, the light is gone, and the stone is black.
+[sk:Warfare | st:+Despairing]
+
+=== 2532
+You come to Salisbury Plain on the night before the last battle, and find the old king's army camped among the great stones. It is very quiet. In the old king's tent, in the middle of the circle, a single lamp is burning. You are on watch. Near midnight, the old king comes out of his tent, alone, in his nightshirt, and sits down on the altar stone.
+
+"I dreamed," he says, to you, as though you were an old friend. "I dreamed I sat on a great wheel, in fine clothes, high up, and below me was black water full of serpents. And the wheel turned, and I fell. And then my nephew of Orkney came to me, who died at Dover, with a crowd of ladies, and told me not to fight tomorrow. To make any treaty. Wait a month, he said, and the house of Benwick will come to help you." The old king looks at you. "It was only a dream. What do you think?"
+
+> You may counsel the old king to heed the dream and make a treaty. -> p2532a
+> You may counsel the old king to fight tomorrow and trust his sword. -> p2532b
+
+=== p2532a
+"My lord," you say, "the dead do not come back for nothing. Make the treaty."
+?? persuade the old king to seek terms with Mordred | Wisdom | 6
+++ The old king listens. He looks at the stones, and at the sky, and at you. At last, he nods. "A treaty," he says. "A parley. A month." He sends heralds at dawn. Mordred agrees to meet. You do not know, going to bed that night, whether it will save anything. But the old king sleeps, for the first time in a week, and in the morning, he gives you his spear. "Hold it for me," he says, "while I talk." You will hold it, later, on the plain, when everything goes wrong.
+[d:6 | sk:Spiritual | rn:Divinity+2 | tr:Rhongomyniad]
+-- The old king listens, and then shakes his head. "I have made too many treaties," he says. "Mordred breaks them all." He goes back to his tent. In the morning, he goes out to fight. You hold his stirrup as he mounts.
+[sk:Wisdom | st:+Despairing]
+
+=== p2532b
+"My lord," you say, "you are the king. Dreams are only dreams." The old king smiles, a tired smile.
+?? stand with the old king as he prepares for battle | Honor | 5
+++ He nods. "That is what Kay would have said," he says. "Kay is dead too." He sits with you on the altar stone until dawn, and talks about the old days. At first light, he stands and looks at the plain, where Mordred's host is gathering. "Well," he says. "Let us go and see how the wheel turns." He gives you his helm to carry. You will carry it all day, and at the end of it, you will carry it to the water.
+[d:5 | sk:Courtly | rn:Romance+2 | tr:Goswhit]
+-- He nods. "That is what Kay would have said," he says, and goes back to his tent. In the morning, you see him staring at the stones for a long time before he mounts.
+[sk:Honor]
